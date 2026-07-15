@@ -1,0 +1,10 @@
+[
+  { "id": "resistor", "name": "Resistor", "category": "passive", "tags": ["resistance", "ohm", "passive", "current limiting"] },
+  { "id": "capacitor", "name": "Capacitor", "category": "passive", "tags": ["capacitance", "farad", "passive", "energy storage"] },
+  { "id": "diode", "name": "Diode", "category": "semiconductor", "tags": ["rectifier", "semiconductor", "pn-junction"] },
+  { "id": "transistor", "name": "Transistor", "category": "semiconductor", "tags": ["amplifier", "switch", "BJT"] },
+  { "id": "mosfet", "name": "MOSFET", "category": "semiconductor", "tags": ["fet", "field-effect", "switch"] },
+  { "id": "relay", "name": "Relay", "category": "electromechanical", "tags": ["switch", "electromagnet"] },
+  { "id": "transformer", "name": "Transformer", "category": "passive", "tags": ["induction", "voltage", "power"] },
+  { "id": "battery", "name": "Battery", "category": "energy-storage", "tags": ["power", "dc", "energy storage"] }
+]

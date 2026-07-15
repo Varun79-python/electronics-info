@@ -1,0 +1,25 @@
+{
+  "references": [
+    {
+      "title": "The Art of Electronics",
+      "author": "Paul Horowitz, Winfield Hill",
+      "year": 2015,
+      "url": "",
+      "type": "book"
+    },
+    {
+      "title": "Resistor Applications Guide",
+      "author": "Vishay",
+      "year": 2020,
+      "url": "https://www.vishay.com/docs/28879/resistorapplications.pdf",
+      "type": "datasheet"
+    },
+    {
+      "title": "IEC 60063: Preferred Number Series for Resistors",
+      "author": "International Electrotechnical Commission",
+      "year": 2015,
+      "url": "",
+      "type": "standard"
+    }
+  ]
+}

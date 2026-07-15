@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Determine Required Resistance",
+      "description": "Calculate the resistance value needed using Ohm's Law. Consider the operating voltage and desired current."
+    },
+    {
+      "step": 2,
+      "title": "Calculate Power Dissipation",
+      "description": "Use P = I²R or P = V²/R to determine power. Select a resistor with at least 2× the calculated power rating."
+    },
+    {
+      "step": 3,
+      "title": "Select Tolerance",
+      "description": "Standard circuits: ±5% (carbon film). Precision circuits: ±1% or better (metal film)."
+    },
+    {
+      "step": 4,
+      "title": "Consider Temperature Requirements",
+      "description": "For precision or high-temperature environments, select resistors with low temperature coefficients (<±100 ppm/°C)."
+    },
+    {
+      "step": 5,
+      "title": "Choose Package Type",
+      "description": "Through-hole for prototyping and high power. SMD for production and space-constrained designs."
+    }
+  ],
+  "tips": [
+    "Always derate power to 50% or less for reliability",
+    "Use metal film resistors for audio and precision circuits",
+    "For high-voltage circuits, verify the maximum voltage rating",
+    "Consider using multiple resistors in series/parallel for high-voltage or high-power applications"
+  ]
+}

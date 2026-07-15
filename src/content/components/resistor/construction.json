@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Resistive Element",
+      "function": "Provides the specific resistance value",
+      "material": "Carbon film, metal film, wire-wound, or thick film"
+    },
+    {
+      "name": "Terminal Leads",
+      "function": "Connect the resistor to the circuit",
+      "material": "Tinned copper wire"
+    },
+    {
+      "name": "Insulating Body",
+      "function": "Protects the resistive element and provides mechanical strength",
+      "material": "Ceramic or molded plastic"
+    },
+    {
+      "name": "Color Bands",
+      "function": "Indicate the resistance value and tolerance",
+      "material": "Colored paint or enamel"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "formulas": [
+    {
+      "name": "Ohm's Law",
+      "formula": "V = I × R",
+      "description": "The voltage across a resistor equals the current through it multiplied by its resistance.",
+      "variables": [
+        { "symbol": "V", "name": "Voltage", "unit": "Volts (V)" },
+        { "symbol": "I", "name": "Current", "unit": "Amperes (A)" },
+        { "symbol": "R", "name": "Resistance", "unit": "Ohms (Ω)" }
+      ],
+      "example": "If R = 100Ω and I = 0.05A, then V = 0.05 × 100 = 5V"
+    },
+    {
+      "name": "Power Dissipation",
+      "formula": "P = I² × R",
+      "description": "The power dissipated by a resistor as heat.",
+      "variables": [
+        { "symbol": "P", "name": "Power", "unit": "Watts (W)" },
+        { "symbol": "I", "name": "Current", "unit": "Amperes (A)" },
+        { "symbol": "R", "name": "Resistance", "unit": "Ohms (Ω)" }
+      ],
+      "example": "If R = 100Ω and I = 0.1A, then P = 0.01 × 100 = 1W"
+    },
+    {
+      "name": "Series Resistance",
+      "formula": "R_total = R_1 + R_2 + ... + R_n",
+      "description": "Total resistance of resistors connected in series.",
+      "variables": [
+        { "symbol": "R_total", "name": "Total Resistance", "unit": "Ohms (Ω)" },
+        { "symbol": "R_n", "name": "Individual Resistance", "unit": "Ohms (Ω)" }
+      ],
+      "example": "R1 = 100Ω, R2 = 200Ω → R_total = 300Ω"
+    },
+    {
+      "name": "Parallel Resistance",
+      "formula": "1/R_total = 1/R_1 + 1/R_2 + ... + 1/R_n",
+      "description": "Total resistance of resistors connected in parallel.",
+      "variables": [
+        { "symbol": "R_total", "name": "Total Resistance", "unit": "Ohms (Ω)" },
+        { "symbol": "R_n", "name": "Individual Resistance", "unit": "Ohms (Ω)" }
+      ],
+      "example": "R1 = 100Ω, R2 = 100Ω → R_total = 50Ω"
+    }
+  ]
+}

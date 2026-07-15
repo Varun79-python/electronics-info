@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "resistor",
+    "name": "Resistor",
+    "category": "passive",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 1,
+    "status": "published"
+  }
+}

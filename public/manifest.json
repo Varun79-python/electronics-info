@@ -1,0 +1,20 @@
+{
+  "name": "Electronics Hub",
+  "short_name": "ElectronicsHub",
+  "description": "Interactive Electronics Learning Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0a0a1a",
+  "background_color": "#0a0a1a",
+  "categories": ["education", "science", "technology"],
+  "icons": [
+    { "src": "/icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Browse Components", "url": "/categories", "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }] },
+    { "name": "Bookmarks", "url": "/bookmarks", "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }] },
+    { "name": "Calculator", "url": "/calculator", "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }] }
+  ]
+}

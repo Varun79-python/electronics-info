@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Resistors with voltage ratings above 250V require special attention to prevent arcing. Ensure adequate spacing on PCBs for high-voltage applications.",
+  "currentSafety": "Never exceed the power rating. A resistor operating above its rated power can overheat, melt, or catch fire. Always derate by at least 50% for reliable operation.",
+  "thermalSafety": "High-power resistors can reach temperatures exceeding 200°C. Ensure adequate ventilation and keep away from flammable materials and heat-sensitive components.",
+  "handling": "Avoid bending leads too close to the resistor body to prevent internal damage. Use proper lead-forming tools for precision applications.",
+  "storage": "Store in dry, anti-static packaging. Moisture can cause value drift in certain resistor types, especially carbon composition.",
+  "disposal": "Dispose of according to local e-waste regulations. Some older resistors may contain hazardous materials."
+}

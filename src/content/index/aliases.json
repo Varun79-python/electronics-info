@@ -1,0 +1,9 @@
+[
+  { "id": "resistor", "aliases": ["r", "resistance", "rheostat", "potentiometer"] },
+  { "id": "capacitor", "aliases": ["cap", "capacitance", "condenser"] },
+  { "id": "diode", "aliases": ["rectifier", "pn-junction"] },
+  { "id": "transistor", "aliases": ["bjt", "bipolar", "tr"] },
+  { "id": "mosfet", "aliases": ["fet", "field-effect", "metal-oxide"] },
+  { "id": "transformer", "aliases": ["xfmr", "coil", "induction"] },
+  { "id": "battery", "aliases": ["cell", "power-source", "batt"] }
+]

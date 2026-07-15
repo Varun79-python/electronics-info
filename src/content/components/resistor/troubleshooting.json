@@ -1,0 +1,22 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open Circuit",
+      "symptoms": ["No current flow", "Infinite resistance reading"],
+      "causes": ["Excessive power dissipation", "Mechanical stress", "Manufacturing defect"],
+      "solution": "Replace with same value and higher power rating if needed"
+    },
+    {
+      "failure": "Value Drift",
+      "symptoms": ["Circuit operates incorrectly", "Measured resistance out of tolerance"],
+      "causes": ["Thermal stress over time", "Moisture absorption", "Aging"],
+      "solution": "Replace with precision resistor or use derating"
+    },
+    {
+      "failure": "Mechanical Damage",
+      "symptoms": ["Visible cracks", "Intermittent connection"],
+      "causes": ["Physical impact", "PCB flexing", "Excessive lead bending"],
+      "solution": "Replace and ensure proper mechanical strain relief"
+    }
+  ]
+}

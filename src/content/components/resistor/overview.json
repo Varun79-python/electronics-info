@@ -1,0 +1,11 @@
+{
+  "name": "Resistor",
+  "id": "resistor",
+  "category": "passive",
+  "shortDescription": "A passive two-terminal electrical component that implements electrical resistance as a circuit element.",
+  "whatIsIt": "A resistor is a passive two-terminal electrical component that limits or regulates the flow of electric current in electronic circuits. It provides a specific amount of resistance measured in ohms (Ω).",
+  "whyExists": "Resistors are essential for controlling current flow, dividing voltages, setting bias points in transistors, terminating transmission lines, and protecting sensitive components from excessive current.",
+  "whereUsed": "Resistors are found in virtually every electronic device — from simple LED circuits to complex computers, power supplies, audio equipment, and measurement instruments.",
+  "thumbnail": "/assets/images/components/resistor/thumbnail.webp",
+  "schematic": "/assets/components/resistor/schematic/symbol.svg"
+}

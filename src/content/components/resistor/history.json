@@ -1,0 +1,14 @@
+{
+  "invention": {
+    "year": 1827,
+    "inventor": "Georg Simon Ohm",
+    "discovery": "Published 'Die galvanische Kette, mathematisch bearbeitet' establishing the relationship between voltage, current, and resistance.",
+    "evolution": [
+      { "year": 1861, "event": "British Association defines the ohm as a practical unit of resistance" },
+      { "year": 1885, "event": "First commercial carbon composition resistors manufactured" },
+      { "year": 1920, "event": "Color band coding system introduced for resistor values" },
+      { "year": 1960, "event": "Metal film resistors introduced, offering improved precision" },
+      { "year": 1980, "event": "Surface mount (SMD) resistors revolutionize PCB assembly" }
+    ]
+  }
+}

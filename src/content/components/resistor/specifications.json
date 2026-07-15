@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Resistance Value",
+      "typicalValues": "1Ω to 10MΩ (standard E12/E24 series)",
+      "notes": "Standard values follow IEC 60063 preferred number series"
+    },
+    {
+      "name": "Tolerance",
+      "typicalValues": "±1%, ±5%, ±10%",
+      "notes": "Metal film resistors achieve ±1%; carbon film typically ±5%"
+    },
+    {
+      "name": "Power Rating",
+      "typicalValues": "1/8W, 1/4W, 1/2W, 1W, 2W",
+      "notes": "Higher power ratings require physically larger packages"
+    },
+    {
+      "name": "Temperature Coefficient",
+      "typicalValues": "±50 to ±500 ppm/°C",
+      "notes": "Lower values indicate better stability across temperature"
+    },
+    {
+      "name": "Maximum Voltage",
+      "typicalValues": "50V to 500V",
+      "notes": "Depends on body size and material composition"
+    },
+    {
+      "name": "Operating Temperature",
+      "typicalValues": "-55°C to +155°C",
+      "notes": "Industrial grade resistors have wider ranges"
+    }
+  ]
+}

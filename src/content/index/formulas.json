@@ -1,0 +1,7 @@
+[
+  { "id": "ohms-law", "name": "Ohm's Law", "category": "fundamental", "formula": "V = IR", "component": null },
+  { "id": "power-law", "name": "Power Law", "category": "fundamental", "formula": "P = VI", "component": null },
+  { "id": "resistivity", "name": "Resistivity", "category": "material", "formula": "R = ρL/A", "component": "resistor" },
+  { "id": "capacitance", "name": "Capacitance", "category": "fundamental", "formula": "C = Q/V", "component": "capacitor" },
+  { "id": "inductance", "name": "Inductance", "category": "fundamental", "formula": "V = L(di/dt)", "component": "inductor" }
+]

@@ -1,0 +1,19 @@
+{
+  "advantages": [
+    "Simple to use and widely available in standard values",
+    "Inexpensive — typically costs less than $0.01 per unit",
+    "Reliable with no moving parts and long operational life",
+    "Low noise (especially metal film types)",
+    "Wide range of values from milliohms to gigaohms",
+    "Available in multiple power ratings and package sizes",
+    "Temperature stable options available for precision applications"
+  ],
+  "disadvantages": [
+    "Dissipates power as heat, reducing energy efficiency",
+    "Generates thermal noise (Johnson-Nyquist noise)",
+    "Limited precision in standard types (±1% typical best)",
+    "Value can drift with temperature and age",
+    "Physically larger for high power ratings",
+    "Cannot provide voltage regulation or amplification"
+  ]
+}

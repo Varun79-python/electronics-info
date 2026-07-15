@@ -1,0 +1,14 @@
+[
+  { "id": "resistance", "name": "Resistance", "category": "passive" },
+  { "id": "capacitance", "name": "Capacitance", "category": "passive" },
+  { "id": "inductance", "name": "Inductance", "category": "passive" },
+  { "id": "impedance", "name": "Impedance", "category": "passive" },
+  { "id": "semiconductor", "name": "Semiconductor", "category": "semiconductor" },
+  { "id": "amplifier", "name": "Amplifier", "category": "semiconductor" },
+  { "id": "rectifier", "name": "Rectifier", "category": "semiconductor" },
+  { "id": "oscillator", "name": "Oscillator", "category": "signal" },
+  { "id": "filter", "name": "Filter", "category": "signal" },
+  { "id": "sensor", "name": "Sensor", "category": "sensors" },
+  { "id": "actuator", "name": "Actuator", "category": "electromechanical" },
+  { "id": "converter", "name": "Converter", "category": "power-electronics" }
+]

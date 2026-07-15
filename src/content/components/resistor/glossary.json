@@ -1,0 +1,28 @@
+{
+  "glossary": [
+    {
+      "term": "Ohm",
+      "definition": "The SI unit of electrical resistance. One ohm allows one ampere to flow when one volt is applied."
+    },
+    {
+      "term": "Conductance",
+      "definition": "The reciprocal of resistance, measured in siemens (S). G = 1/R."
+    },
+    {
+      "term": "Tolerance",
+      "definition": "The allowable deviation from the stated resistance value, expressed as a percentage."
+    },
+    {
+      "term": "Temperature Coefficient",
+      "definition": "The rate at which resistance changes with temperature, expressed in ppm/°C."
+    },
+    {
+      "term": "Derating",
+      "definition": "Operating a resistor below its maximum rated power to improve reliability and lifespan."
+    },
+    {
+      "term": "Ohm's Law",
+      "definition": "The fundamental law stating that voltage equals current times resistance (V = IR)."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Resistors work by converting electrical energy into heat through the collision of charge carriers (electrons) with atoms in the resistive material. This process is described by Ohm's Law: V = IR.",
+  "steps": [
+    "When voltage is applied across the resistor terminals, an electric field is established",
+    "Free electrons drift through the resistive material under the influence of this field",
+    "Electrons collide with atoms in the material, transferring kinetic energy as heat",
+    "The rate of electron flow (current) is determined by the resistance value",
+    "Higher resistance means fewer electrons flow per unit of applied voltage"
+  ],
+  "microscopicExplanation": "At the atomic level, resistive materials have a higher density of lattice defects and impurity atoms that scatter electrons. Each scattering event converts some of the electron's kinetic energy into lattice vibrations (phonons), which manifests as heat."
+}

@@ -1,0 +1,29 @@
+{
+  "applications": [
+    {
+      "category": "Current Limiting",
+      "description": "Limits current to protect LEDs and other sensitive components",
+      "examples": ["LED current limiting", "Transistor base biasing"]
+    },
+    {
+      "category": "Voltage Division",
+      "description": "Creates specific voltage levels from a higher voltage source",
+      "examples": ["Voltage dividers", "Reference voltage generation", "Level shifting"]
+    },
+    {
+      "category": "Pull-up/Pull-down",
+      "description": "Ensures logic inputs have defined states when not driven",
+      "examples": ["Digital logic inputs", "I2C bus pull-up", "Switch debouncing"]
+    },
+    {
+      "category": "Current Sensing",
+      "description": "Measures current by measuring voltage drop across a known resistance",
+      "examples": ["Power monitoring", "Battery management", "Overcurrent detection"]
+    },
+    {
+      "category": "Termination",
+      "description": "Matches impedance to prevent signal reflections",
+      "examples": ["Transmission line termination", "RF circuits", "High-speed digital"]
+    }
+  ]
+}

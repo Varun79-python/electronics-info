@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Wavelength Range",
+      "typicalValues": "400nm to 1100nm (Si)",
+      "notes": "InGaAs for IR"
+    },
+    {
+      "name": "Responsivity",
+      "typicalValues": "0.1 to 0.9 A/W",
+      "notes": "By wavelength"
+    },
+    {
+      "name": "Dark Current",
+      "typicalValues": "pA to nA",
+      "notes": "Lower is better"
+    },
+    {
+      "name": "Response Time",
+      "typicalValues": "ns to ps",
+      "notes": "PIN/APD fast"
+    },
+    {
+      "name": "Active Area",
+      "typicalValues": "0.1 to 100 mm²",
+      "notes": "Larger = more light"
+    }
+  ]
+}

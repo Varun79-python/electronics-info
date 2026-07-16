@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage",
+      "description": "Match supply."
+    },
+    {
+      "step": 2,
+      "title": "Torque/Speed",
+      "description": "Match mechanical load."
+    },
+    {
+      "step": 3,
+      "title": "Brushed vs BLDC",
+      "description": "BLDC for efficiency/life."
+    },
+    {
+      "step": 4,
+      "title": "Driver",
+      "description": "PWM for speed control."
+    }
+  ],
+  "tips": [
+    "Use PWM for speed",
+    "BLDC for long life",
+    "Gear down for torque",
+    "Protect against stall current"
+  ]
+}

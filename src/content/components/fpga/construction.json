@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "LUT",
+      "function": "Logic",
+      "material": "SRAM"
+    },
+    {
+      "name": "Flip-Flop",
+      "function": "State",
+      "material": "Silicon"
+    },
+    {
+      "name": "Routing",
+      "function": "Connect",
+      "material": "Switches"
+    },
+    {
+      "name": "IOB",
+      "function": "Pins",
+      "material": "Silicon"
+    }
+  ]
+}

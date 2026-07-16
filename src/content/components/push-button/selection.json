@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "NO/NC",
+      "description": "Match logic."
+    },
+    {
+      "step": 2,
+      "title": "Rating",
+      "description": "Match load."
+    },
+    {
+      "step": 3,
+      "title": "Mount",
+      "description": "Panel/PCB."
+    },
+    {
+      "step": 4,
+      "title": "Environment",
+      "description": "IP rating."
+    }
+  ],
+  "tips": [
+    "Debounce in firmware",
+    "Use illuminated for status",
+    "Sealed for harsh use"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "temperature-sensor",
+      "relationship": "Thermistor is a type of temperature sensor"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Temperature-dependent resistor"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads thermistor via ADC"
+    },
+    {
+      "id": "ldr",
+      "relationship": "Similar variable-resistance sensor"
+    }
+  ]
+}

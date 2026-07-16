@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "phototransistor",
+    "name": "Phototransistor",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 25,
+    "status": "published"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Encoder Datasheet",
+      "author": "TI",
+      "year": 2021,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "Digital Design",
+      "author": "Textbook",
+      "year": 2018,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

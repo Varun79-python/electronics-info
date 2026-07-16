@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Excess current heats the fusible element above its melting point; it melts and interrupts the circuit, requiring replacement.",
+  "steps": [
+    "Normal current flows through the element",
+    "Overcurrent raises temperature",
+    "Element melts at rated current",
+    "Circuit opens, stopping fault"
+  ],
+  "microscopicExplanation": "I²t heating: the element's thermal mass sets the melting integral; it clears before downstream damage."
+}

@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Computation",
+      "description": "Arithmetic",
+      "examples": [
+        "Adders"
+      ]
+    },
+    {
+      "category": "Control",
+      "description": "Decode",
+      "examples": [
+        "Logic"
+      ]
+    },
+    {
+      "category": "Interface",
+      "description": "Combine",
+      "examples": [
+        "Signals"
+      ]
+    }
+  ]
+}

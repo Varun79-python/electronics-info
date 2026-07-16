@@ -1,0 +1,73 @@
+{
+  "formulas": [
+    {
+      "name": "Shockley Diode Equation",
+      "formula": "I = I_S × (e^(V/(n×V_T)) - 1)",
+      "description": "Models the exponential I–V relationship of a diode.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Diode current",
+          "unit": "Amperes (A)"
+        },
+        {
+          "symbol": "I_S",
+          "name": "Saturation current",
+          "unit": "Amperes (A)"
+        },
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "Volts (V)"
+        },
+        {
+          "symbol": "n",
+          "name": "Ideality factor",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "V_T",
+          "name": "Thermal voltage",
+          "unit": "Volts (V)"
+        }
+      ],
+      "example": "At room temperature V_T ≈ 26mV"
+    },
+    {
+      "name": "Forward Voltage Drop",
+      "formula": "V_F ≈ 0.7V (Si), 0.3V (Ge)",
+      "description": "Typical forward threshold voltage for common diodes.",
+      "variables": [
+        {
+          "symbol": "V_F",
+          "name": "Forward voltage",
+          "unit": "Volts (V)"
+        }
+      ],
+      "example": "Silicon diode drops ~0.7V when conducting"
+    },
+    {
+      "name": "Power Dissipation",
+      "formula": "P = V_F × I",
+      "description": "Power dissipated as heat in the diode.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "Watts (W)"
+        },
+        {
+          "symbol": "V_F",
+          "name": "Forward voltage",
+          "unit": "Volts (V)"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "Amperes (A)"
+        }
+      ],
+      "example": "At 1A with 0.7V drop, P = 0.7W"
+    }
+  ]
+}

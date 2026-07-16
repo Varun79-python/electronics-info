@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Self-heating (current)",
+    "Nonlinear (NTC)",
+    "Calibration",
+    "Slow (mass)",
+    "Lead resistance (RTD)"
+  ]
+}

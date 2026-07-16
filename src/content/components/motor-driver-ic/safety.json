@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Motor voltage.",
+  "currentSafety": "High current risk.",
+  "thermalSafety": "Heatsink required.",
+  "handling": "ESD sensitive.",
+  "storage": "Antistatic.",
+  "disposal": "E-waste."
+}

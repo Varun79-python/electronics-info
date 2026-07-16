@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1900,
+    "inventor": "Early 20th century",
+    "discovery": "Electromagnetic buzzers preceded piezo types; piezo became common later.",
+    "evolution": [
+      {
+        "year": 1900,
+        "event": "Electromagnetic buzzers"
+      },
+      {
+        "year": 1970,
+        "event": "Piezo buzzers common"
+      },
+      {
+        "year": 2000,
+        "event": "SMD piezo types"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Light falling on the base-collector region generates carriers that act like base current; the transistor's gain amplifies it into a larger collector current.",
+  "steps": [
+    "Photons hit the exposed base region",
+    "Carriers generated act as base current",
+    "Transistor gain amplifies the current",
+    "Collector current rises with light",
+    "Output is read as current or voltage"
+  ],
+  "microscopicExplanation": "The optical generation in the collector-base depletion region supplies base drive; the transistor's β multiplies it, giving higher responsivity than a bare photodiode."
+}

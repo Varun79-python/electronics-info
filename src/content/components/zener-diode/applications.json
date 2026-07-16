@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Voltage Regulation",
+      "description": "Shunt regulator",
+      "examples": [
+        "Power supplies",
+        "Bias"
+      ]
+    },
+    {
+      "category": "Reference",
+      "description": "Stable voltage source",
+      "examples": [
+        "ADC ref",
+        "Meters"
+      ]
+    },
+    {
+      "category": "Protection",
+      "description": "Clamps overvoltage",
+      "examples": [
+        "Input protection"
+      ]
+    },
+    {
+      "category": "Wave Clipping",
+      "description": "Limits signal amplitude",
+      "examples": [
+        "Clippers"
+      ]
+    }
+  ]
+}

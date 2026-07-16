@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Limited current capability",
+    "Power dissipation",
+    "Temperature drift (except ~5V)",
+    "Not efficient for high power",
+    "Soft knee at low V_Z",
+    "Needs series resistor"
+  ]
+}

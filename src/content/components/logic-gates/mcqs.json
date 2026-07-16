@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "AND output 1 when:",
+      "options": [
+        "Both 1",
+        "Either 1",
+        "None",
+        "XOR"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conjunction.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Universal gate:",
+      "options": [
+        "NAND",
+        "OR",
+        "XOR",
+        "Buffer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Builds all.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "NOT is:",
+      "options": [
+        "Inverter",
+        "AND",
+        "OR",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inverts.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "XOR is 1 when:",
+      "options": [
+        "Inputs differ",
+        "Both 1",
+        "Both 0",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Difference.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "De Morgan relates:",
+      "options": [
+        "AND/OR+invert",
+        "XOR",
+        "Buffer",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Equivalence.",
+      "difficulty": "advanced"
+    }
+  ]
+}

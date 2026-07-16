@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "Evolved with transducers",
+    "discovery": "Piezoresistive effect enabled miniaturized silicon pressure sensors.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "Strain-gauge sensors"
+      },
+      {
+        "year": 1970,
+        "event": "Silicon piezoresistive"
+      },
+      {
+        "year": 2000,
+        "event": "MEMS pressure sensors"
+      }
+    ]
+  }
+}

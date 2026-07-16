@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1800,
+    "inventor": "Alessandro Volta (voltaic pile)",
+    "discovery": "Volta built the first battery, proving chemical-to-electrical energy.",
+    "evolution": [
+      {
+        "year": 1800,
+        "event": "Voltaic pile"
+      },
+      {
+        "year": 1991,
+        "event": "Li-ion (Sony)"
+      },
+      {
+        "year": 2010,
+        "event": "EV batteries"
+      }
+    ]
+  }
+}

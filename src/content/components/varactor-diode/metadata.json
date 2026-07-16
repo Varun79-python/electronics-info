@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "varactor-diode",
+    "name": "Varactor Diode",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 28,
+    "status": "published"
+  }
+}

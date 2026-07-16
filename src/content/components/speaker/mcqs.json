@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A speaker converts:",
+      "options": [
+        "Sound to electricity",
+        "Electricity to sound",
+        "Light to sound",
+        "Heat to sound"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electroacoustic transducer.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Typical impedance:",
+      "options": [
+        "4Ω or 8Ω",
+        "100Ω",
+        "1Ω",
+        "1000Ω"
+      ],
+      "correctAnswer": 0,
+      "explanation": "4/8 ohms common.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Force on coil is:",
+      "options": [
+        "B×I×L",
+        "V×I",
+        "R×I",
+        "C×V"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lorentz force.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Enclosure affects:",
+      "options": [
+        "Color",
+        "Frequency response",
+        "Impedance only",
+        "Weight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Resonance/cancellation.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Distortion source:",
+      "options": [
+        "Perfect coil",
+        "Cone non-linearity",
+        "Magnet",
+        "Wire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mechanical non-linearity.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

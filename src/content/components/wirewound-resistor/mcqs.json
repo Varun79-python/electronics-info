@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Wirewound resistors excel at:",
+      "options": [
+        "High frequency",
+        "High power",
+        "Low cost",
+        "Tiny size"
+      ],
+      "correctAnswer": 1,
+      "explanation": "They handle high wattage.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Main parasitic issue:",
+      "options": [
+        "Capacitance",
+        "Inductance",
+        "Noise",
+        "Leakage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The coil adds inductance.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Non-inductive winding uses:",
+      "options": [
+        "Air core",
+        "Bifilar",
+        "Ferrite",
+        "Shield"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bifilar cancels inductance.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Manganin is valued for:",
+      "options": [
+        "Low TCR",
+        "High power",
+        "Low cost",
+        "High R"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Very stable resistance vs temperature.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Typical material:",
+      "options": [
+        "Copper",
+        "Nichrome",
+        "Aluminum",
+        "Gold"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nichrome is common resistive wire.",
+      "difficulty": "beginner"
+    }
+  ]
+}

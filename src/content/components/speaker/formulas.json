@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "Force",
+      "formula": "F = B × I × L",
+      "description": "Coil force from current.",
+      "variables": [
+        {
+          "symbol": "F",
+          "name": "Force",
+          "unit": "N"
+        },
+        {
+          "symbol": "B",
+          "name": "Field",
+          "unit": "T"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        },
+        {
+          "symbol": "L",
+          "name": "Wire length",
+          "unit": "m"
+        }
+      ],
+      "example": "More current → more force"
+    },
+    {
+      "name": "Sensitivity",
+      "formula": "dB SPL at 1W/1m",
+      "description": "Loudness efficiency.",
+      "variables": [
+        {
+          "symbol": "dB",
+          "name": "SPL",
+          "unit": "dB"
+        }
+      ],
+      "example": "88dB typical"
+    }
+  ]
+}

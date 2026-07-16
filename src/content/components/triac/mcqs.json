@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "TRIAC conducts:",
+      "options": [
+        "One direction",
+        "Both directions",
+        "Only DC",
+        "Never"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bidirectional AC switch.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Used mainly for:",
+      "options": [
+        "DC motors",
+        "AC power control",
+        "RF",
+        "Audio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "AC dimming/motor control.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Turns off at:",
+      "options": [
+        "Gate low",
+        "Current zero",
+        "Voltage peak",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Commutates at zero-crossing.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Inductive loads need:",
+      "options": [
+        "No snubber",
+        "Snubber",
+        "Bigger gate",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Snubber for commutation.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Trigger is via:",
+      "options": [
+        "Anode",
+        "Gate pulse",
+        "Light",
+        "Base"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gate triggers conduction.",
+      "difficulty": "beginner"
+    }
+  ]
+}

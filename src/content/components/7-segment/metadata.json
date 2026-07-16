@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "7-segment",
+    "name": "Seven Segment Display",
+    "category": "displays",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 79,
+    "status": "published"
+  }
+}

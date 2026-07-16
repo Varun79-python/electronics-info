@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Small signal current",
+    "Needs amplification",
+    "Temperature affects dark current",
+    "Limited by noise",
+    "Wavelength dependent",
+    "Requires optical design"
+  ]
+}

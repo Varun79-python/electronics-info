@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Output Voltage",
+      "typicalValues": "0 to 250V",
+      "notes": "Adjustable"
+    },
+    {
+      "name": "Frequency",
+      "typicalValues": "50/60Hz or 10-400Hz",
+      "notes": "Synthesized"
+    },
+    {
+      "name": "Waveform",
+      "typicalValues": "Sine, sometimes THD spec",
+      "notes": "Low THD better"
+    },
+    {
+      "name": "Power Rating",
+      "typicalValues": "100VA to kVA",
+      "notes": "By unit"
+    },
+    {
+      "name": "Power Factor",
+      "typicalValues": "0.5 to 1",
+      "notes": "Load dependent"
+    }
+  ]
+}

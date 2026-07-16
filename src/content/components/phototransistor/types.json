@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "NPN Phototransistor",
+      "description": "Common type.",
+      "applications": [
+        "Sensors"
+      ]
+    },
+    {
+      "name": "Darlington Phototransistor",
+      "description": "Higher gain.",
+      "applications": [
+        "Low light"
+      ]
+    },
+    {
+      "name": "Photodarlington",
+      "description": "Very high sensitivity.",
+      "applications": [
+        "Ambient light"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Control",
+      "description": "Automation",
+      "examples": [
+        "Relays"
+      ]
+    },
+    {
+      "category": "IoT",
+      "description": "Connected",
+      "examples": [
+        "Sensors"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "description": "Smart devices",
+      "examples": [
+        "Toys"
+      ]
+    },
+    {
+      "category": "Auto",
+      "description": "ECU",
+      "examples": [
+        "Cars"
+      ]
+    }
+  ]
+}

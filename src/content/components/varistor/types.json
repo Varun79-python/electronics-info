@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "Metal Oxide Varistor (MOV)",
+      "description": "Zinc-oxide based; most common surge protector.",
+      "applications": [
+        "AC line protection",
+        "Power supplies"
+      ]
+    },
+    {
+      "name": "Silicon Carbide Varistor",
+      "description": "Older technology, higher leakage.",
+      "applications": [
+        "Legacy systems"
+      ]
+    },
+    {
+      "name": "Multilayer Varistor",
+      "description": "SMD, low capacitance.",
+      "applications": [
+        "Signal lines",
+        "RF"
+      ]
+    }
+  ]
+}

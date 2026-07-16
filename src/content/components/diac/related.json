@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "triac",
+      "relationship": "Triggered by DIAC"
+    },
+    {
+      "id": "thyristor",
+      "relationship": "Related trigger family"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Series current limit"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Timing with DIAC oscillator"
+    }
+  ]
+}

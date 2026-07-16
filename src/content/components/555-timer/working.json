@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Internal comparators and a flip-flop switch based on a capacitor charging/discharging through resistors between 1/3 and 2/3 Vcc.",
+  "steps": [
+    "Cap charges via R",
+    "Reaches 2/3 Vcc -> reset",
+    "Discharge pin empties cap",
+    "Falls to 1/3 Vcc -> set",
+    "Cycle repeats (astable)"
+  ],
+  "microscopicExplanation": "Two comparators trip at 1/3 and 2/3 Vcc; the flip-flop and discharge transistor form the timing loop."
+}

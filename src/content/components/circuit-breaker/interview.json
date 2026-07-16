@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Breaker vs fuse?",
+      "answer": "Breaker resets; fuse is replaced."
+    },
+    {
+      "question": "What trips on short?",
+      "answer": "The magnetic element acts fast."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Type C vs B?",
+      "answer": "C tolerates higher inrush (motors); B for resistive."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why RCCB?",
+      "answer": "Detects earth leakage to prevent shock."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Coordinate breakers?",
+      "answer": "Selective tripping by rating/curve for discrimination."
+    }
+  ]
+}

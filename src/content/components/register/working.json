@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "An array of D flip-flops captures a data word on a clock; shift registers move bits serially in/out.",
+  "steps": [
+    "Clock edge",
+    "Bits captured in parallel (or shifted)",
+    "Held until next operation",
+    "Output available"
+  ],
+  "microscopicExplanation": "Each flip-flop stores one bit; shared clock and enable coordinate the word."
+}

@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a Zener diode?",
+      "answer": "A diode that maintains a stable voltage when operated in reverse breakdown."
+    },
+    {
+      "question": "Why a series resistor?",
+      "answer": "To limit current so the Zener stays in its safe regulation range."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Zener vs avalanche effect?",
+      "answer": "Below ~5V tunneling (Zener) dominates; above ~5V avalanche dominates."
+    },
+    {
+      "question": "Why is a 5V Zener temperature-stable?",
+      "answer": "Its tempco crosses zero near 5V, minimizing drift."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "When use a Zener vs a regulator IC?",
+      "answer": "Zener for simple low-current refs; IC regulators for higher current and better regulation."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How improve Zener accuracy?",
+      "answer": "Use a buried Zener reference IC with curvature correction and buffering."
+    }
+  ]
+}

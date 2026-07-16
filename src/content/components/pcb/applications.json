@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "All Electronics",
+      "description": "Assemble",
+      "examples": [
+        "Devices"
+      ]
+    },
+    {
+      "category": "RF",
+      "description": "Controlled impedance",
+      "examples": [
+        "Antennas"
+      ]
+    },
+    {
+      "category": "Power",
+      "description": "Current planes",
+      "examples": [
+        "PSU"
+      ]
+    }
+  ]
+}

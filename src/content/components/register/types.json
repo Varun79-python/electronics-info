@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Parallel Load",
+      "description": "Word in/out.",
+      "applications": [
+        "CPU"
+      ]
+    },
+    {
+      "name": "Shift Register",
+      "description": "Serial in/out.",
+      "applications": [
+        "LEDs"
+      ]
+    },
+    {
+      "name": "Ring",
+      "description": "Circulate bits.",
+      "applications": [
+        "Sequencer"
+      ]
+    },
+    {
+      "name": "Stack",
+      "description": "LIFO.",
+      "applications": [
+        "Compute"
+      ]
+    }
+  ]
+}

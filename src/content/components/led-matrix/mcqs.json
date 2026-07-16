@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "LED matrix uses:",
+      "options": [
+        "Multiplex",
+        "Backlight",
+        "LCD",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Row/col scan.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Pixels =",
+      "options": [
+        "Rows×Cols",
+        "Rows+Cols",
+        "Rows",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Grid product.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Flicker if:",
+      "options": [
+        "Scan too slow",
+        "Bright",
+        "Color",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Below persistence.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "RGB means:",
+      "options": [
+        "3 colors/pixel",
+        "Resistor",
+        "Row",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Full color.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Driver like MAX7219:",
+      "options": [
+        "Scans/current",
+        "Amplifies",
+        "Regulates",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Manages matrix.",
+      "difficulty": "advanced"
+    }
+  ]
+}

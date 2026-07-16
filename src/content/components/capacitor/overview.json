@@ -1,0 +1,11 @@
+{
+  "name": "Capacitor",
+  "id": "capacitor",
+  "category": "passive",
+  "shortDescription": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other.",
+  "whatIsIt": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. It is a passive electronic component with two terminals.",
+  "whyExists": "Capacitors are used to block direct current while allowing alternating current to pass, smooth power supply output, tune circuits to specific frequencies, and store energy for later use.",
+  "whereUsed": "Capacitors are found in nearly every electronic device — power supplies, filters, radio tuners, timing circuits, and memory (DRAM).",
+  "thumbnail": "/assets/images/components/capacitor/thumbnail.svg",
+  "schematic": "/assets/components/capacitor/schematic/symbol.svg"
+}

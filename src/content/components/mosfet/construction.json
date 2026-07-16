@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Gate Oxide",
+      "function": "Insulates and couples field",
+      "material": "SiO2 or high-k"
+    },
+    {
+      "name": "Gate Electrode",
+      "function": "Applies field",
+      "material": "Polysilicon/metal"
+    },
+    {
+      "name": "Source/Drain",
+      "function": "Carrier terminals",
+      "material": "Doped silicon"
+    },
+    {
+      "name": "Body/Substrate",
+      "function": "Reference",
+      "material": "Silicon"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Pick η",
+      "description": "Sets firing threshold."
+    },
+    {
+      "step": 2,
+      "title": "Choose R, C",
+      "description": "Set frequency."
+    },
+    {
+      "step": 3,
+      "title": "Verify Trigger",
+      "description": "Ensure enough current."
+    }
+  ],
+  "tips": [
+    "Use PUT for programmability",
+    "555 replaces in many designs",
+    "Stable supply improves timing",
+    "Snub base2 resistor"
+  ]
+}

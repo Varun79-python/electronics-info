@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "More expensive than resonators",
+    "Sensitive to load capacitance",
+    "Can be damaged by over-drive",
+    "Mechanical (can fracture)",
+    "Slower start-up than RC",
+    "Limited frequency pulling"
+  ]
+}

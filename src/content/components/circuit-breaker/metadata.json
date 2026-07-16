@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "circuit-breaker",
+    "name": "Circuit Breaker",
+    "category": "protection",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 44,
+    "status": "published"
+  }
+}

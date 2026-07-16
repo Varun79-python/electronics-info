@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "DC Electromagnet",
+      "description": "Steady field with DC.",
+      "applications": [
+        "Relays"
+      ]
+    },
+    {
+      "name": "AC Electromagnet",
+      "description": "Pulsating field with AC.",
+      "applications": [
+        "Buzzers"
+      ]
+    },
+    {
+      "name": "Lifting Magnet",
+      "description": "Heavy ferrous lift.",
+      "applications": [
+        "Scrap yards"
+      ]
+    },
+    {
+      "name": "Solenoid",
+      "description": "Linear motion.",
+      "applications": [
+        "Valves"
+      ]
+    }
+  ]
+}

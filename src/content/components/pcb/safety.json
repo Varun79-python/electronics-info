@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Depends on circuit.",
+  "currentSafety": "Trace limits.",
+  "thermalSafety": "Solder heat.",
+  "handling": "Standard.",
+  "storage": "Dry, ESD for assemblies.",
+  "disposal": "Recycle (lead-free preferred)."
+}

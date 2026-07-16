@@ -1,0 +1,14 @@
+{
+  "internalParts": [
+    {
+      "name": "p-n Junction",
+      "function": "Voltage-dependent C",
+      "material": "Silicon or GaAs"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect (cathode/anode)",
+      "material": "Tinned leads"
+    }
+  ]
+}

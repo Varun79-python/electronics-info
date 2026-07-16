@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Different technologies: thermistors change resistance with temperature; thermocouples generate voltage from a junction; IC sensors output proportional voltage/digital.",
+  "steps": [
+    "Sensor exposed to temperature",
+    "Physical property changes (R or V)",
+    "Conditioning circuit reads it",
+    "Converts to temperature value"
+  ],
+  "microscopicExplanation": "Thermistors: semiconductor resistance drops with heat; thermocouples: Seebeck effect at dissimilar-metal junction."
+}

@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Signal",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Broken"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Weak",
+      "symptoms": [
+        "Short range"
+      ],
+      "causes": [
+        "Mismatch"
+      ],
+      "solution": "Tune"
+    },
+    {
+      "failure": "Interference",
+      "symptoms": [
+        "Noise"
+      ],
+      "causes": [
+        "Nearby"
+      ],
+      "solution": "Relocate"
+    }
+  ]
+}

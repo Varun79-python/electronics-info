@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "P-type Semiconductor",
+      "function": "Anode region with holes as majority carriers",
+      "material": "Silicon doped with acceptors (boron)"
+    },
+    {
+      "name": "N-type Semiconductor",
+      "function": "Cathode region with electrons as majority carriers",
+      "material": "Silicon doped with donors (phosphorus)"
+    },
+    {
+      "name": "P–N Junction",
+      "function": "The active region where rectification occurs",
+      "material": "Crystalline silicon interface"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect to circuit (anode and cathode)",
+      "material": "Tinned wire or leads"
+    }
+  ]
+}

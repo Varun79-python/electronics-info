@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "crystal-oscillator",
+      "relationship": "More precise timing alternative"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Provides its clock"
+    },
+    {
+      "id": "555-timer",
+      "relationship": "Alternative timing source"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Buffers the oscillator"
+    }
+  ]
+}

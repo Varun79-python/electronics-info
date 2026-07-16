@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Data",
+      "description": "Select source",
+      "examples": [
+        "ADC"
+      ]
+    },
+    {
+      "category": "Comms",
+      "description": "Time-share",
+      "examples": [
+        "Buses"
+      ]
+    },
+    {
+      "category": "Routing",
+      "description": "Signal path",
+      "examples": [
+        "Instruments"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Capacitive",
+      "description": "C changes with RH.",
+      "applications": [
+        "HVAC"
+      ]
+    },
+    {
+      "name": "Resistive",
+      "description": "R changes with RH.",
+      "applications": [
+        "Low-cost"
+      ]
+    },
+    {
+      "name": "Thermal (Chilled Mirror)",
+      "description": "Dew point.",
+      "applications": [
+        "Lab"
+      ]
+    }
+  ]
+}

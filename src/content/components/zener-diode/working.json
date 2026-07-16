@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Below about 5V the Zener effect (quantum tunneling) dominates; above it avalanche breakdown dominates. In both, reverse current rises sharply at the Zener voltage while voltage stays nearly constant.",
+  "steps": [
+    "Reverse bias is applied across the diode",
+    "At the Zener voltage, breakdown begins",
+    "Current increases sharply with little voltage change",
+    "The diode clamps the voltage to V_Z",
+    "A series resistor limits the current"
+  ],
+  "microscopicExplanation": "In the Zener effect, a strong electric field lets carriers tunnel through the depletion region; in avalanche, carriers gain enough energy to impact-ionize, multiplying current."
+}

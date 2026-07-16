@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Resistance at 25°C",
+      "typicalValues": "1kΩ to 1MΩ",
+      "notes": "Common 10kΩ NTC"
+    },
+    {
+      "name": "Beta Constant",
+      "typicalValues": "3000 to 4500K",
+      "notes": "Characterizes curve"
+    },
+    {
+      "name": "Tolerance",
+      "typicalValues": "±1% to ±10%",
+      "notes": "Affects accuracy"
+    },
+    {
+      "name": "Operating Range",
+      "typicalValues": "-50°C to +300°C",
+      "notes": "Glass types higher"
+    },
+    {
+      "name": "Thermal Time Constant",
+      "typicalValues": "ms to s",
+      "notes": "Response speed"
+    },
+    {
+      "name": "Dissipation Constant",
+      "typicalValues": "mW/°C",
+      "notes": "Self-heating effect"
+    }
+  ]
+}

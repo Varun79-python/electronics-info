@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Interconnect",
+      "description": "Board to cable",
+      "examples": [
+        "Wiring"
+      ]
+    },
+    {
+      "category": "Power",
+      "description": "DC in",
+      "examples": [
+        "Adapters"
+      ]
+    },
+    {
+      "category": "Data",
+      "description": "USB/etc",
+      "examples": [
+        "Comms"
+      ]
+    },
+    {
+      "category": "RF",
+      "description": "Coax",
+      "examples": [
+        "Antenna"
+      ]
+    }
+  ]
+}

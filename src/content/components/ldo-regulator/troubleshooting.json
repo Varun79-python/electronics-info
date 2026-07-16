@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Oscillation",
+      "symptoms": [
+        "Unstable"
+      ],
+      "causes": [
+        "Wrong cap ESR"
+      ],
+      "solution": "Fix caps"
+    },
+    {
+      "failure": "Dropout",
+      "symptoms": [
+        "Low Vout"
+      ],
+      "causes": [
+        "Vin too low"
+      ],
+      "solution": "Raise Vin"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Hot"
+      ],
+      "causes": [
+        "High drop×I"
+      ],
+      "solution": "Heatsink/switch"
+    }
+  ]
+}

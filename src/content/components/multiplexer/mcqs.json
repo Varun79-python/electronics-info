@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "MUX is:",
+      "options": [
+        "Many-to-one",
+        "One-to-many",
+        "Amplifier",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Selector.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8:1 select lines:",
+      "options": [
+        "3",
+        "4",
+        "8",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "2^3.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Inverse of MUX:",
+      "options": [
+        "Demux",
+        "Counter",
+        "Register",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One-to-many.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Analog MUX has:",
+      "options": [
+        "On-resistance",
+        "Gain",
+        "Invert",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pass element.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "ADC channel select",
+        "Power",
+        "Audio",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Routing.",
+      "difficulty": "beginner"
+    }
+  ]
+}

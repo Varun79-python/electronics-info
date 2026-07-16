@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Size",
+      "typicalValues": "1-30+ inch",
+      "notes": "Diagonal"
+    },
+    {
+      "name": "Resolution",
+      "typicalValues": "up to 4K",
+      "notes": "Pixels"
+    },
+    {
+      "name": "Interface",
+      "typicalValues": "RGB/SPI/HDMI",
+      "notes": "Signal"
+    },
+    {
+      "name": "Power",
+      "typicalValues": "Low-moderate",
+      "notes": "Backlight"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What reverses motor?",
+      "answer": "An H-bridge swaps the polarity across it."
+    },
+    {
+      "question": "PWM controls?",
+      "answer": "The average voltage, hence speed."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Shoot-through danger?",
+      "answer": "Both sides on creates a short; needs dead-time."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Flyback handling?",
+      "answer": "Diodes or synchronous FETs clamp inductive kick."
+    }
+  ],
+  "expert": [
+    {
+      "question": "BLDC driving?",
+      "answer": "Commutate three phases in sequence via PWM."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "formulas": [
+    {
+      "name": "Capacitance",
+      "formula": "C = Q / V",
+      "description": "Capacitance equals stored charge divided by applied voltage.",
+      "variables": [
+        {
+          "symbol": "C",
+          "name": "Capacitance",
+          "unit": "Farads (F)"
+        },
+        {
+          "symbol": "Q",
+          "name": "Charge",
+          "unit": "Coulombs (C)"
+        },
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "Volts (V)"
+        }
+      ],
+      "example": "If Q = 1µC and V = 10V, then C = 0.1µF"
+    },
+    {
+      "name": "Energy Stored",
+      "formula": "E = ½ × C × V²",
+      "description": "Energy stored in a capacitor's electric field.",
+      "variables": [
+        {
+          "symbol": "E",
+          "name": "Energy",
+          "unit": "Joules (J)"
+        },
+        {
+          "symbol": "C",
+          "name": "Capacitance",
+          "unit": "Farads (F)"
+        },
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "Volts (V)"
+        }
+      ],
+      "example": "If C = 100µF and V = 5V, then E = 0.5 × 100µF × 25 = 1.25mJ"
+    },
+    {
+      "name": "Capacitive Reactance",
+      "formula": "X_C = 1 / (2π × f × C)",
+      "description": "Opposition to AC current flow. Decreases with frequency.",
+      "variables": [
+        {
+          "symbol": "X_C",
+          "name": "Reactance",
+          "unit": "Ohms (Ω)"
+        },
+        {
+          "symbol": "f",
+          "name": "Frequency",
+          "unit": "Hertz (Hz)"
+        },
+        {
+          "symbol": "C",
+          "name": "Capacitance",
+          "unit": "Farads (F)"
+        }
+      ],
+      "example": "At 1kHz, C = 1µF → X_C ≈ 159Ω"
+    },
+    {
+      "name": "Series Capacitance",
+      "formula": "1/C_total = 1/C_1 + 1/C_2 + ... + 1/C_n",
+      "description": "Total capacitance of capacitors in series.",
+      "variables": [
+        {
+          "symbol": "C_total",
+          "name": "Total Capacitance",
+          "unit": "Farads (F)"
+        }
+      ],
+      "example": "Two 10µF in series → 5µF"
+    },
+    {
+      "name": "Parallel Capacitance",
+      "formula": "C_total = C_1 + C_2 + ... + C_n",
+      "description": "Total capacitance of capacitors in parallel.",
+      "variables": [
+        {
+          "symbol": "C_total",
+          "name": "Total Capacitance",
+          "unit": "Farads (F)"
+        }
+      ],
+      "example": "Two 10µF in parallel → 20µF"
+    }
+  ]
+}

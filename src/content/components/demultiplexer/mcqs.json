@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "DEMUX is:",
+      "options": [
+        "One-to-many",
+        "Many-to-one",
+        "Amplifier",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Distributor.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "1:8 select lines:",
+      "options": [
+        "3",
+        "8",
+        "4",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "2^3.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Inverse of DEMUX:",
+      "options": [
+        "MUX",
+        "Counter",
+        "Register",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Many-to-one.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Memory decode",
+        "Power",
+        "Audio",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Addressing.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Output active:",
+      "options": [
+        "One at a time",
+        "All",
+        "None",
+        "Pair"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One-hot.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

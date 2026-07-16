@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Proximity",
+      "description": "Short range detect.",
+      "applications": [
+        "Parking"
+      ]
+    },
+    {
+      "name": "Level",
+      "description": "Tank measurement.",
+      "applications": [
+        "Liquids"
+      ]
+    },
+    {
+      "name": "Through-beam",
+      "description": "Transmitter/receiver.",
+      "applications": [
+        "Counting"
+      ]
+    }
+  ]
+}

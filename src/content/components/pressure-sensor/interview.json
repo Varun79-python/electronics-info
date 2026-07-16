@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What deflects in a pressure sensor?",
+      "answer": "A diaphragm under pressure."
+    },
+    {
+      "question": "Common output?",
+      "answer": "Voltage, current loop, or digital."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why 4-20mA?",
+      "answer": "Noise-immune, detects broken wire at 0mA."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Temperature compensation?",
+      "answer": "ASIC corrects thermal drift of bridge."
+    }
+  ],
+  "expert": [
+    {
+      "question": "MEMS advantage?",
+      "answer": "Tiny, cheap, integrated signal conditioning."
+    }
+  ]
+}

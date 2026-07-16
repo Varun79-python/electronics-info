@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "ldo-regulator",
+    "name": "LDO Voltage Regulator",
+    "category": "integrated-circuits",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 63,
+    "status": "published"
+  }
+}

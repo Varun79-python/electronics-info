@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a thermistor?",
+      "answer": "A temperature-sensitive resistor whose resistance changes with temperature."
+    },
+    {
+      "question": "What is the difference between NTC and PTC?",
+      "answer": "NTC resistance falls with temperature; PTC resistance rises with temperature."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "How do you convert resistance to temperature?",
+      "answer": "Use the Steinhart-Hart or beta equation with the device's coefficients."
+    },
+    {
+      "question": "What causes self-heating error?",
+      "answer": "The measurement current heats the thermistor, raising its temperature above ambient."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why use an NTC for inrush limiting?",
+      "answer": "Cold NTC has high resistance limiting surge current, then warms and drops resistance for normal operation."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How do you achieve ±0.1°C accuracy?",
+      "answer": "Individual calibration with Steinhart-Hart coefficients, low self-heating, and stable excitation."
+    }
+  ]
+}

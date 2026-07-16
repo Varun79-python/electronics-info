@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "V_CE(sat)",
+      "definition": "Collector-emitter voltage when fully on."
+    },
+    {
+      "term": "Conductivity Modulation",
+      "definition": "Minority-carrier injection lowering drift resistance."
+    },
+    {
+      "term": "Tail Current",
+      "definition": "Current lingering at turn-off due to stored charge."
+    },
+    {
+      "term": "Desaturation",
+      "definition": "Fault detection when V_CE rises under overcurrent."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "SPDT",
+      "definition": "Single-pole double-throw contact."
+    },
+    {
+      "term": "Ampere-Turns",
+      "definition": "Coil current × turns; sets magnetic force."
+    },
+    {
+      "term": "Contact Bounce",
+      "definition": "Mechanical chatter when contacts close."
+    },
+    {
+      "term": "SSR",
+      "definition": "Solid-state relay; no moving parts."
+    }
+  ]
+}

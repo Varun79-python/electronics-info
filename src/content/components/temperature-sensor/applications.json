@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Climate",
+      "description": "HVAC control",
+      "examples": [
+        "Thermostats"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Process",
+      "examples": [
+        "Ovens"
+      ]
+    },
+    {
+      "category": "Medical",
+      "description": "Body temp",
+      "examples": [
+        "Probes"
+      ]
+    },
+    {
+      "category": "Electronics",
+      "description": "Thermal protect",
+      "examples": [
+        "CPU"
+      ]
+    }
+  ]
+}

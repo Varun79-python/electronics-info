@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "The long length of resistive wire provides a defined resistance (R = ρL/A). The core and former provide mechanical support and heat dissipation.",
+  "steps": [
+    "Resistive wire is wound around a core",
+    "Length and gauge set the resistance value",
+    "Current flows through the wire, dissipating heat",
+    "The core and coating spread the heat",
+    "Terminals connect to the circuit"
+  ],
+  "microscopicExplanation": "Resistance comes from electron scattering in the metal wire; the long thin path yields high, stable resistance with low parasitic inductance if bifilar-wound."
+}

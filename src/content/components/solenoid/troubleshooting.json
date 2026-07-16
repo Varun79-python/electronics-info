@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Move",
+      "symptoms": [
+        "Stuck"
+      ],
+      "causes": [
+        "No current",
+        "Jammed"
+      ],
+      "solution": "Check drive; free"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Burn"
+      ],
+      "causes": [
+        "100% duty"
+      ],
+      "solution": "Reduce duty/PWM"
+    },
+    {
+      "failure": "Weak",
+      "symptoms": [
+        "Low force"
+      ],
+      "causes": [
+        "Low V",
+        "Wear"
+      ],
+      "solution": "Raise V; replace"
+    }
+  ]
+}

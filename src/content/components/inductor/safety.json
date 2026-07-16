@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Inductors produce high voltage spikes when current is interrupted suddenly (V = L di/dt). Use snubber or flyback diodes.",
+  "currentSafety": "High current causes heating via DCR. Ensure adequate current rating and cooling.",
+  "thermalSafety": "Power inductors get hot; provide ventilation and keep away from heat-sensitive parts.",
+  "handling": "Avoid dropping; ferrite cores crack easily.",
+  "storage": "Store in dry conditions; moisture can affect ferrite properties.",
+  "disposal": "Dispose per e-waste regulations; copper is recyclable."
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "humidity-sensor",
+    "name": "Humidity Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 52,
+    "status": "published"
+  }
+}

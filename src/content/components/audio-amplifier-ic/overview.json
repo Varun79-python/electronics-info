@@ -1,0 +1,11 @@
+{
+  "name": "Audio Amplifier IC",
+  "id": "audio-amplifier-ic",
+  "category": "integrated-circuits",
+  "shortDescription": "An audio power amplifier IC boosts low-level audio signals to drive speakers or headphones.",
+  "whatIsIt": "An audio power amplifier IC boosts low-level audio signals to drive speakers or headphones.",
+  "whyExists": "Amplifiers provide the current/voltage gain needed to produce audible sound.",
+  "whereUsed": "Used in phones, TVs, radios, and musical equipment.",
+  "thumbnail": "/assets/images/components/audio-amplifier-ic/thumbnail.svg",
+  "schematic": "/assets/components/audio-amplifier-ic/schematic/symbol.svg"
+}

@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Taper",
+      "definition": "The relationship between wiper position and resistance (linear or logarithmic)."
+    },
+    {
+      "term": "Wiper",
+      "definition": "The moving contact that taps the resistive element."
+    },
+    {
+      "term": "Law Error",
+      "definition": "Deviation of actual resistance from the ideal taper curve."
+    },
+    {
+      "term": "Rheostat",
+      "definition": "A two-terminal variable resistor (related device)."
+    },
+    {
+      "term": "Digital Pot",
+      "definition": "An IC that mimics a potentiometer using switches and resistors."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "hall-sensor",
+    "name": "Hall Effect Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 55,
+    "status": "published"
+  }
+}

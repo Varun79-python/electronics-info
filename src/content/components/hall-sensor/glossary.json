@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Hall Voltage",
+      "definition": "Transverse voltage from B field."
+    },
+    {
+      "term": "Lorentz Force",
+      "definition": "Force on moving charge in field."
+    },
+    {
+      "term": "Latch",
+      "definition": "Stays on until opposite pole."
+    },
+    {
+      "term": "mT",
+      "definition": "Millitesla field unit."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "microcontroller",
+    "name": "Microcontroller",
+    "category": "integrated-circuits",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 64,
+    "status": "published"
+  }
+}

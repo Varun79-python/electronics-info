@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Bias Drift",
+      "symptoms": [
+        "Angle error"
+      ],
+      "causes": [
+        "Temp"
+      ],
+      "solution": "Recalibrate"
+    },
+    {
+      "failure": "Saturation",
+      "symptoms": [
+        "Clipped"
+      ],
+      "causes": [
+        "High ω"
+      ],
+      "solution": "Larger range"
+    },
+    {
+      "failure": "Noise",
+      "symptoms": [
+        "Jitter"
+      ],
+      "causes": [
+        "EMI"
+      ],
+      "solution": "Filter"
+    }
+  ]
+}

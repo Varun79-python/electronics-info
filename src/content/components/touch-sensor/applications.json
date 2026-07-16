@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Consumer",
+      "description": "Phones/tablets",
+      "examples": [
+        "Displays"
+      ]
+    },
+    {
+      "category": "Appliance",
+      "description": "Panels",
+      "examples": [
+        "Ovens"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Rugged input",
+      "examples": [
+        "HMI"
+      ]
+    }
+  ]
+}

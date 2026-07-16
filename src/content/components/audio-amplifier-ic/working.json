@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A small input signal modulates a larger current through output transistors, reproducing the waveform with gain and power.",
+  "steps": [
+    "Small signal input",
+    "Voltage gain stage",
+    "Driver and output stage",
+    "Current delivered to load"
+  ],
+  "microscopicExplanation": "Class AB uses biased complementary transistors to reduce crossover distortion while staying efficient."
+}

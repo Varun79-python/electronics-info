@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Force",
+      "formula": "F = m a",
+      "description": "Mass response.",
+      "variables": [
+        {
+          "symbol": "F",
+          "name": "Force",
+          "unit": "N"
+        },
+        {
+          "symbol": "a",
+          "name": "Accel",
+          "unit": "m/s²"
+        }
+      ],
+      "example": "1g = 9.81m/s²"
+    },
+    {
+      "name": "Displacement",
+      "formula": "x = F/k",
+      "description": "Spring deflection.",
+      "variables": [
+        {
+          "symbol": "x",
+          "name": "Displacement",
+          "unit": "m"
+        }
+      ],
+      "example": "Small µm"
+    }
+  ]
+}

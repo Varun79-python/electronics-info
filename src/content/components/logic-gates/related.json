@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "logic-gate-ic",
+      "relationship": "Physical IC"
+    },
+    {
+      "id": "flip-flop",
+      "relationship": "Sequential"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Contains gates"
+    }
+  ]
+}

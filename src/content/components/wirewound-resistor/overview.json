@@ -1,0 +1,11 @@
+{
+  "name": "Wirewound Resistor",
+  "id": "wirewound-resistor",
+  "category": "passive",
+  "shortDescription": "A wirewound resistor is made by winding a resistive wire (such as nichrome) around an insulating core, providing precise, high-power resistance.",
+  "whatIsIt": "A wirewound resistor is made by winding a resistive wire (such as nichrome) around an insulating core, providing precise, high-power resistance.",
+  "whyExists": "Wirewound construction handles high power and offers tight tolerance and low temperature coefficient where film resistors cannot.",
+  "whereUsed": "They are used in power supplies, audio amplifiers, test equipment, and current sensing.",
+  "thumbnail": "/assets/images/components/wirewound-resistor/thumbnail.svg",
+  "schematic": "/assets/components/wirewound-resistor/schematic/symbol.svg"
+}

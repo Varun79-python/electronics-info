@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "Multiple researchers (Bell Labs era)",
+    "discovery": "Photodiodes evolved from selenium cells into silicon p-n devices for communications and sensing.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "Silicon photodiodes developed"
+      },
+      {
+        "year": 1970,
+        "event": "PIN structures for speed"
+      },
+      {
+        "year": 1980,
+        "event": "APDs for long-haul fiber"
+      }
+    ]
+  }
+}

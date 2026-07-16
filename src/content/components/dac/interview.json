@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does DAC do?",
+      "answer": "Converts a digital code to an analog voltage."
+    },
+    {
+      "question": "Output at mid code?",
+      "answer": "About half the reference voltage."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "R-2R purpose?",
+      "answer": "Maps each bit to a precise weighted fraction."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Glitch cause?",
+      "answer": "Unequal switch timing creates transient spikes."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve accuracy?",
+      "answer": "Stable reference, deglitching, and calibration."
+    }
+  ]
+}

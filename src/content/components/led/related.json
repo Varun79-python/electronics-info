@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "diode",
+      "relationship": "LED is a light-emitting diode"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Current-limiting resistor required"
+    },
+    {
+      "id": "photodiode",
+      "relationship": "Inverse optoelectronic device"
+    },
+    {
+      "id": "7-segment",
+      "relationship": "Built from LEDs"
+    }
+  ]
+}

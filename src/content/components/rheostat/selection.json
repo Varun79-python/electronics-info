@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Determine Range",
+      "description": "Pick max resistance above load needs."
+    },
+    {
+      "step": 2,
+      "title": "Check Power",
+      "description": "Power rating must exceed I²R at max setting."
+    },
+    {
+      "step": 3,
+      "title": "Choose Type",
+      "description": "Wirewound for power, carbon for signal."
+    },
+    {
+      "step": 4,
+      "title": "Mounting",
+      "description": "Panel or bench style."
+    }
+  ],
+  "tips": [
+    "Derate power for reliability",
+    "Use heat sink for high power",
+    "Avoid for precision current",
+    "Consider PWM instead for efficiency"
+  ]
+}

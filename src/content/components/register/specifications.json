@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Width",
+      "typicalValues": "4-64 bits",
+      "notes": "Word"
+    },
+    {
+      "name": "Clock",
+      "typicalValues": "up to GHz",
+      "notes": "Speed"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Parallel/shift",
+      "notes": "Mode"
+    },
+    {
+      "name": "Interface",
+      "typicalValues": "SPI/parallel",
+      "notes": "Bus"
+    }
+  ]
+}

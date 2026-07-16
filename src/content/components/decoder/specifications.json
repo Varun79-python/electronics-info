@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Inputs",
+      "typicalValues": "2-4",
+      "notes": "Code bits"
+    },
+    {
+      "name": "Outputs",
+      "typicalValues": "4-16",
+      "notes": "Lines"
+    },
+    {
+      "name": "Active",
+      "typicalValues": "High/Low",
+      "notes": "Polarity"
+    },
+    {
+      "name": "Enable",
+      "typicalValues": "Yes",
+      "notes": "Gate"
+    }
+  ]
+}

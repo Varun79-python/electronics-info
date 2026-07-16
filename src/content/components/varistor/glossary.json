@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Varistor Voltage",
+      "definition": "The voltage at which the device begins to conduct significantly (typically at 1mA)."
+    },
+    {
+      "term": "Clamping Voltage",
+      "definition": "The peak voltage appearing across the varistor during a surge."
+    },
+    {
+      "term": "MOV",
+      "definition": "Metal Oxide Varistor, usually zinc-oxide based."
+    },
+    {
+      "term": "Non-linearity (α)",
+      "definition": "Coefficient describing how steeply current rises with voltage."
+    },
+    {
+      "term": "Surge Rating",
+      "definition": "Maximum transient current/energy the device can absorb."
+    }
+  ]
+}

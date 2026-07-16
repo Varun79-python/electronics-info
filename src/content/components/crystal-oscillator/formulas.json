@@ -1,0 +1,50 @@
+{
+  "formulas": [
+    {
+      "name": "Series Resonance",
+      "formula": "f_s = (1/2π) × √(1/(L×C))",
+      "description": "Crystal's mechanical resonance.",
+      "variables": [
+        {
+          "symbol": "f_s",
+          "name": "Frequency",
+          "unit": "Hz"
+        },
+        {
+          "symbol": "L",
+          "name": "Motional inductance",
+          "unit": "H"
+        },
+        {
+          "symbol": "C",
+          "name": "Motional capacitance",
+          "unit": "F"
+        }
+      ],
+      "example": "Set by crystal cut"
+    },
+    {
+      "name": "Pullability",
+      "formula": "Δf/f = C1 / (2×(C0+CL))",
+      "description": "Frequency shift from load capacitance.",
+      "variables": [
+        {
+          "symbol": "C1",
+          "name": "Motional C",
+          "unit": "F"
+        },
+        {
+          "symbol": "C0",
+          "name": "Shunt C",
+          "unit": "F"
+        },
+        {
+          "symbol": "CL",
+          "name": "Load C",
+          "unit": "F"
+        }
+      ],
+      "example": "Tune with CL"
+    }
+  ]
+}

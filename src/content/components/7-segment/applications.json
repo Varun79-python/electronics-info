@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Instruments",
+      "description": "Readouts",
+      "examples": [
+        "Meters"
+      ]
+    },
+    {
+      "category": "Clocks",
+      "description": "Time",
+      "examples": [
+        "Timers"
+      ]
+    },
+    {
+      "category": "Counters",
+      "description": "Counts",
+      "examples": [
+        "Tally"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "The metal-semiconductor (Schottky) barrier has no minority-carrier storage, so there is negligible reverse-recovery time and a low forward drop (~0.15-0.4V).",
+  "steps": [
+    "Forward bias lowers the Schottky barrier",
+    "Majority carriers cross without storage",
+    "Low V_F results (≈0.2V typical)",
+    "Reverse bias blocks like a normal diode",
+    "Switching is nearly instantaneous (no recovery)"
+  ],
+  "microscopicExplanation": "Because only majority carriers conduct, there is no charge to sweep out at turn-off, eliminating reverse-recovery charge that plagues p-n diodes."
+}

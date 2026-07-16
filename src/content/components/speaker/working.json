@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "An audio current in the voice coil produces a force (F = BIL) that moves the cone; the cone pushes air to create sound waves matching the signal.",
+  "steps": [
+    "Audio signal drives the voice coil",
+    "Coil sits in a permanent magnet field",
+    "Current creates force moving the coil/cone",
+    "Cone displaces air as sound",
+    "Cone returns via suspension, repeating"
+  ],
+  "microscopicExplanation": "Lorentz force on the coil current in the radial magnetic field moves the diaphragm; the suspension (surround/spider) provides restoring force for linear motion."
+}

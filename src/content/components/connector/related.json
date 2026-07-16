@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "jumper-wire",
+      "relationship": "Temporary link"
+    },
+    {
+      "id": "pcb",
+      "relationship": "Mounted on"
+    },
+    {
+      "id": "antenna",
+      "relationship": "RF connect"
+    }
+  ]
+}

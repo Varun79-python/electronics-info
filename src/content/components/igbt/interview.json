@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is an IGBT?",
+      "answer": "A device with a MOS gate and bipolar output for high-power switching."
+    },
+    {
+      "question": "IGBT vs MOSFET?",
+      "answer": "IGBT handles higher voltage with lower conduction loss but switches slower."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why low on-loss?",
+      "answer": "Conductivity modulation by injected carriers reduces drift-region resistance."
+    },
+    {
+      "question": "Why slower than MOSFET?",
+      "answer": "Stored minority charge must be removed, causing tail current."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What is latch-up risk?",
+      "answer": "High dV/dt can trigger the parasitic thyristor, causing destructive conduction."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When choose IGBT over MOSFET?",
+      "answer": "Above ~250V and moderate frequency (<20kHz) where conduction loss dominates."
+    }
+  ]
+}

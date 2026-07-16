@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Quartz Crystal",
+      "function": "Resonant element",
+      "material": "Cut quartz"
+    },
+    {
+      "name": "Electrodes",
+      "function": "Drive and sense",
+      "material": "Gold or silver"
+    },
+    {
+      "name": "Package",
+      "function": "Protects and sets load",
+      "material": "Metal can or ceramic"
+    },
+    {
+      "name": "Oscillator IC (XO)",
+      "function": "Drives the crystal",
+      "material": "Silicon"
+    }
+  ]
+}

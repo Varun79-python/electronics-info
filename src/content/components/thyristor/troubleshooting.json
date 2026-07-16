@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "Won't Turn On",
+      "symptoms": [
+        "No conduction"
+      ],
+      "causes": [
+        "No gate pulse",
+        "Low V"
+      ],
+      "solution": "Check gate drive"
+    },
+    {
+      "failure": "Won't Turn Off",
+      "symptoms": [
+        "Stays on"
+      ],
+      "causes": [
+        "Current > I_H",
+        "No commutation"
+      ],
+      "solution": "Ensure zero-crossing"
+    },
+    {
+      "failure": "dv/dt False Trigger",
+      "symptoms": [
+        "Random on"
+      ],
+      "causes": [
+        "Fast rise"
+      ],
+      "solution": "Add snubber"
+    }
+  ]
+}

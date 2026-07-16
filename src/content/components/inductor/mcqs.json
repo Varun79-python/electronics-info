@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "The unit of inductance is:",
+      "options": [
+        "Farad",
+        "Henry",
+        "Ohm",
+        "Tesla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inductance is measured in henries (H).",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inductive reactance increases with:",
+      "options": [
+        "Decreasing frequency",
+        "Increasing frequency",
+        "Constant resistance",
+        "Temperature only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "X_L = 2πfL, so it rises with frequency.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Energy stored in an inductor is:",
+      "options": [
+        "½CV²",
+        "½LI²",
+        "I²R",
+        "V²/R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "E = ½LI² is stored in the magnetic field.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "An ideal inductor at steady DC acts like:",
+      "options": [
+        "Open circuit",
+        "Short circuit",
+        "Resistor",
+        "Capacitor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "With constant current, no back-EMF, so it is a short.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Core saturation causes:",
+      "options": [
+        "Higher inductance",
+        "Inductance collapse and current spikes",
+        "Lower current",
+        "No effect"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Saturation reduces effective inductance dramatically.",
+      "difficulty": "advanced"
+    }
+  ]
+}

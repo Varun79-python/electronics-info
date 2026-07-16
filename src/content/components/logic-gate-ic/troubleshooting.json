@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Floating Input",
+      "symptoms": [
+        "Erratic"
+      ],
+      "causes": [
+        "Open pin"
+      ],
+      "solution": "Tie off"
+    },
+    {
+      "failure": "No Output",
+      "symptoms": [
+        "Stuck"
+      ],
+      "causes": [
+        "Bad IC"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Oscillation",
+      "symptoms": [
+        "Ringing"
+      ],
+      "causes": [
+        "No decoup"
+      ],
+      "solution": "Add cap"
+    }
+  ]
+}

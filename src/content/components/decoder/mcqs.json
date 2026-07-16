@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Decoder does:",
+      "options": [
+        "Code to line",
+        "Line to code",
+        "Amplify",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Expand.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3:8 outputs:",
+      "options": [
+        "8",
+        "3",
+        "6",
+        "16"
+      ],
+      "correctAnswer": 0,
+      "explanation": "2^3.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Memory select",
+        "Power",
+        "Audio",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Addressing.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Enable does:",
+      "options": [
+        "Gate all outputs",
+        "Invert",
+        "Amplify",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Master control.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Inverse of decoder:",
+      "options": [
+        "Encoder",
+        "MUX",
+        "Counter",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Line to code.",
+      "difficulty": "beginner"
+    }
+  ]
+}

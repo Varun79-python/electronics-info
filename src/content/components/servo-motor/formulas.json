@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "PID Output",
+      "formula": "u = Kp·e + Ki·∫e + Kd·de/dt",
+      "description": "Control law.",
+      "variables": [
+        {
+          "symbol": "u",
+          "name": "Control",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "e",
+          "name": "Error",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "Tunes response"
+    },
+    {
+      "name": "Position Error",
+      "formula": "e = θ_cmd - θ_actual",
+      "description": "Drives correction.",
+      "variables": [
+        {
+          "symbol": "θ",
+          "name": "Angle",
+          "unit": "°"
+        }
+      ],
+      "example": "Zero when on target"
+    }
+  ]
+}

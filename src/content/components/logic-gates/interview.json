@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a gate?",
+      "answer": "A circuit doing a Boolean function on digital inputs."
+    },
+    {
+      "question": "Universal gate?",
+      "answer": "NAND or NOR can build any logic."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "De Morgan's law?",
+      "answer": "Inversion swaps AND/OR with inverted inputs."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why CMOS?",
+      "answer": "Near-zero static power, simple fabrication."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Build XOR from NAND?",
+      "answer": "Yes, using four NAND gates."
+    }
+  ]
+}

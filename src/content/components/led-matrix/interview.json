@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Why matrix not one LED each?",
+      "answer": "Multiplexing saves many pins."
+    },
+    {
+      "question": "How see image?",
+      "answer": "Fast row scan integrates in the eye."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Flicker cause?",
+      "answer": "Refresh too slow for persistence."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Peak current?",
+      "answer": "Only one row lit at a time, so peak can be high."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Driver IC benefit?",
+      "answer": "Handles scan/current (e.g., MAX7219)."
+    }
+  ]
+}

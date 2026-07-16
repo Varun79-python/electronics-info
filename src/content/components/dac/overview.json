@@ -1,0 +1,11 @@
+{
+  "name": "Digital to Analog Converter",
+  "id": "dac",
+  "category": "integrated-circuits",
+  "shortDescription": "A Digital-to-Analog Converter (DAC) converts digital codes into proportional analog voltages or currents.",
+  "whatIsIt": "A Digital-to-Analog Converter (DAC) converts digital codes into proportional analog voltages or currents.",
+  "whyExists": "Digital systems must produce real analog signals (audio, control).",
+  "whereUsed": "Used in audio playback, waveform generation, and motor control.",
+  "thumbnail": "/assets/images/components/dac/thumbnail.svg",
+  "schematic": "/assets/components/dac/schematic/symbol.svg"
+}

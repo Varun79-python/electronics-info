@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Climate",
+      "description": "Comfort",
+      "examples": [
+        "Thermostats"
+      ]
+    },
+    {
+      "category": "Storage",
+      "description": "Preserve",
+      "examples": [
+        "Museums"
+      ]
+    },
+    {
+      "category": "Agriculture",
+      "description": "Irrigation",
+      "examples": [
+        "Greenhouses"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1900,
+    "inventor": "Industrial control evolution",
+    "discovery": "Push-buttons standardized human-machine control in machinery.",
+    "evolution": [
+      {
+        "year": 1900,
+        "event": "Industrial buttons"
+      },
+      {
+        "year": 1980,
+        "event": "Membrane keyboards"
+      },
+      {
+        "year": 2000,
+        "event": "Tactile SMD buttons"
+      }
+    ]
+  }
+}

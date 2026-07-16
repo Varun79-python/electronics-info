@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "buzzer",
+    "name": "Buzzer",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 37,
+    "status": "published"
+  }
+}

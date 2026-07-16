@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "temperature-sensor",
+    "name": "Temperature Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 45,
+    "status": "published"
+  }
+}

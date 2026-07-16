@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "Hygrometry evolution",
+    "discovery": "Capacitive polymer humidity sensors enabled low-cost digital RH sensing.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "Hair/film sensors"
+      },
+      {
+        "year": 1980,
+        "event": "Capacitive polymer"
+      },
+      {
+        "year": 2000,
+        "event": "Integrated RH+T sensors"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Steinhart-Hart",
+      "formula": "1/T = A + B×ln(R) + C×(ln(R))³",
+      "description": "Accurate temperature from resistance.",
+      "variables": [
+        {
+          "symbol": "T",
+          "name": "Temperature",
+          "unit": "Kelvin (K)"
+        },
+        {
+          "symbol": "R",
+          "name": "Resistance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "A,B,C",
+          "name": "Coefficients",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "Used for ±0.1°C accuracy"
+    },
+    {
+      "name": "Beta Equation",
+      "formula": "1/T = 1/T0 + (1/B)×ln(R/R0)",
+      "description": "Simplified two-point model.",
+      "variables": [
+        {
+          "symbol": "B",
+          "name": "Beta constant",
+          "unit": "K"
+        }
+      ],
+      "example": "Common for NTC"
+    }
+  ]
+}

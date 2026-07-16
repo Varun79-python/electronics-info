@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Loose",
+      "symptoms": [
+        "No conn"
+      ],
+      "causes": [
+        "Poor fit"
+      ],
+      "solution": "Reseat"
+    },
+    {
+      "failure": "Break",
+      "symptoms": [
+        "Open"
+      ],
+      "causes": [
+        "Flex"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Short",
+      "symptoms": [
+        "Wrong"
+      ],
+      "causes": [
+        "Bare touch"
+      ],
+      "solution": "Separate"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "DAC evolution",
+    "discovery": "Resistor-ladder DACs enabled practical digital-to-analog output.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "Ladder DACs"
+      },
+      {
+        "year": 1980,
+        "event": "Audio DACs"
+      },
+      {
+        "year": 2000,
+        "event": "High-res sigma-delta"
+      }
+    ]
+  }
+}

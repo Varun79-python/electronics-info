@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does it do?",
+      "answer": "Amplifies audio to drive a speaker."
+    },
+    {
+      "question": "Class D benefit?",
+      "answer": "High efficiency via PWM switching."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why heatsink?",
+      "answer": "Class AB dissipates power as heat."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "THD meaning?",
+      "answer": "Unwanted harmonics added to the signal."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Class D EMI?",
+      "answer": "Switching creates RF; needs output filter and layout care."
+    }
+  ]
+}

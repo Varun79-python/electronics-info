@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Capacitive touch senses the finger's capacitance changing a local field; resistive senses pressure closing two layers.",
+  "steps": [
+    "Finger approaches/contact",
+    "Local capacitance changes (cap)",
+    "Or layers short (resistive)",
+    "Controller detects threshold"
+  ],
+  "microscopicExplanation": "A finger (grounded conductor) draws field lines, raising capacitance at the pad; the chip measures ΔC."
+}

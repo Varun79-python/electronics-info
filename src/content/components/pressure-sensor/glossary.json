@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Piezoresistive",
+      "definition": "Resistance changes with stress."
+    },
+    {
+      "term": "Gauge Pressure",
+      "definition": "Relative to atmosphere."
+    },
+    {
+      "term": "Absolute Pressure",
+      "definition": "Relative to vacuum."
+    },
+    {
+      "term": "4-20mA",
+      "definition": "Current loop signal."
+    }
+  ]
+}

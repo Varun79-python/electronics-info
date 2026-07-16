@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "ceramic-resonator",
+      "relationship": "Lower-cost timing alternative"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Provides its clock"
+    },
+    {
+      "id": "555-timer",
+      "relationship": "Alternative timer"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Buffers the output"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "formulas": [
+    {
+      "name": "Breakover",
+      "formula": "V_BO ≈ 30V (typical)",
+      "description": "Voltage to trigger.",
+      "variables": [
+        {
+          "symbol": "V_BO",
+          "name": "Breakover voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "Used to fire TRIAC"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "AC is stepped (via transformer), rectified to pulsating DC, smoothed by capacitors, and regulated to a steady DC level.",
+  "steps": [
+    "Transformer sets the voltage level",
+    "Rectifier converts AC to pulsating DC",
+    "Filter capacitor smooths the ripple",
+    "Regulator stabilizes the output",
+    "Protection limits fault current"
+  ],
+  "microscopicExplanation": "Rectification uses diodes to pass only one polarity; the reservoir capacitor supplies current between peaks, and the regulator removes residual ripple."
+}

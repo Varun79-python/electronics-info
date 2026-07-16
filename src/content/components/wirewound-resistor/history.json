@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1890,
+    "inventor": "Early electrical engineers",
+    "discovery": "Wirewound resistors were among the first precision resistors, evolving with power electronics.",
+    "evolution": [
+      {
+        "year": 1890,
+        "event": "First wirewound power resistors"
+      },
+      {
+        "year": 1920,
+        "event": "Precision manganin types"
+      },
+      {
+        "year": 1980,
+        "event": "Non-inductive windings developed"
+      }
+    ]
+  }
+}

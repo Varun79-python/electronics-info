@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Back-EMF",
+      "definition": "Speed-proportional voltage opposing supply."
+    },
+    {
+      "term": "Commutator",
+      "definition": "Rotating switch reversing armature current."
+    },
+    {
+      "term": "Stall Torque",
+      "definition": "Torque at zero speed (max current)."
+    },
+    {
+      "term": "BLDC",
+      "definition": "Brushless DC motor with electronic commutation."
+    }
+  ]
+}

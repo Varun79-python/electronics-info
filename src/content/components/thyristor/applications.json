@@ -1,0 +1,35 @@
+{
+  "applications": [
+    {
+      "category": "Phase Control",
+      "description": "Adjusts AC power",
+      "examples": [
+        "Lamp dimmer",
+        "Heater"
+      ]
+    },
+    {
+      "category": "Rectification",
+      "description": "Controlled DC",
+      "examples": [
+        "Battery charger",
+        "Plating"
+      ]
+    },
+    {
+      "category": "Motor Control",
+      "description": "Speed of AC/DC motors",
+      "examples": [
+        "Fans",
+        "Pumps"
+      ]
+    },
+    {
+      "category": "HVDC",
+      "description": "High-voltage transmission",
+      "examples": [
+        "Grid"
+      ]
+    }
+  ]
+}

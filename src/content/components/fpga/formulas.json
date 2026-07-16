@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Throughput",
+      "formula": "Ops = f × parallelism",
+      "description": "Parallel gain.",
+      "variables": [
+        {
+          "symbol": "Ops",
+          "name": "Ops/s",
+          "unit": "1/s"
+        },
+        {
+          "symbol": "f",
+          "name": "Clock",
+          "unit": "Hz"
+        }
+      ],
+      "example": "Massive parallel"
+    },
+    {
+      "name": "LUT count",
+      "formula": "Logic = Σ LUTs",
+      "description": "Capacity.",
+      "variables": [
+        {
+          "symbol": "Logic",
+          "name": "Capacity",
+          "unit": ""
+        }
+      ],
+      "example": "100k LUTs"
+    }
+  ]
+}

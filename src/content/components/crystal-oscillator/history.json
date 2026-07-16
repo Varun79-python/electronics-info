@@ -1,0 +1,25 @@
+{
+  "invention": {
+    "year": 1921,
+    "inventor": "Walter Guyton Cady",
+    "discovery": "Cady demonstrated quartz piezoelectric resonance; the first crystal oscillators followed in the 1920s.",
+    "evolution": [
+      {
+        "year": 1921,
+        "event": "Cady shows quartz resonance"
+      },
+      {
+        "year": 1923,
+        "event": "First crystal-controlled oscillator"
+      },
+      {
+        "year": 1970,
+        "event": "Quartz watches mass-produced"
+      },
+      {
+        "year": 2000,
+        "event": "MEMS oscillators emerge as alternative"
+      }
+    ]
+  }
+}

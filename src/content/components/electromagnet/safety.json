@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage typical.",
+  "currentSafety": "Heating risk.",
+  "thermalSafety": "Burns from hot coil.",
+  "handling": "Pinch from strong pull.",
+  "storage": "Dry.",
+  "disposal": "Recycle copper/iron."
+}

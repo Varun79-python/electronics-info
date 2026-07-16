@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Bias drift",
+    "Temperature error",
+    "Noise",
+    "Saturation",
+    "Cross-coupling"
+  ]
+}

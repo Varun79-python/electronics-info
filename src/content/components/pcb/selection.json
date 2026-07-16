@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Layers",
+      "description": "Complexity."
+    },
+    {
+      "step": 2,
+      "title": "Stack-up",
+      "description": "Impedance needs."
+    },
+    {
+      "step": 3,
+      "title": "Finish",
+      "description": "Solderability."
+    },
+    {
+      "step": 4,
+      "title": "Fab",
+      "description": "Capabilities."
+    }
+  ],
+  "tips": [
+    "Use ground plane",
+    "Watch trace width",
+    "DFM rules"
+  ]
+}

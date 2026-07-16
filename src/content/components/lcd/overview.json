@@ -1,0 +1,11 @@
+{
+  "name": "Liquid Crystal Display",
+  "id": "lcd",
+  "category": "displays",
+  "shortDescription": "A Liquid Crystal Display (LCD) uses polarized light and liquid crystals to show images without emitting light itself.",
+  "whatIsIt": "A Liquid Crystal Display (LCD) uses polarized light and liquid crystals to show images without emitting light itself.",
+  "whyExists": "LCDs offer low-power, thin, high-resolution displays for devices.",
+  "whereUsed": "Used in phones, monitors, calculators, and instruments.",
+  "thumbnail": "/assets/images/components/lcd/thumbnail.svg",
+  "schematic": "/assets/components/lcd/schematic/symbol.svg"
+}

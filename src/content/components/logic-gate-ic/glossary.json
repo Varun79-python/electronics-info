@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Fan-out",
+      "definition": "Number of inputs one output drives."
+    },
+    {
+      "term": "Propagation Delay",
+      "definition": "Time from input to output change."
+    },
+    {
+      "term": "CMOS",
+      "definition": "Complementary MOS logic."
+    },
+    {
+      "term": "Truth Table",
+      "definition": "Input-output logic map."
+    }
+  ]
+}

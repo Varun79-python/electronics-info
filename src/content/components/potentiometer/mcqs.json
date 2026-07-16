@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A potentiometer has how many terminals?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Two ends plus a wiper = 3 terminals.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "At mid-position of a linear pot, V_out is:",
+      "options": [
+        "V_in/4",
+        "V_in/2",
+        "V_in",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mid-position taps half the resistance.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Log taper pots are commonly used for:",
+      "options": [
+        "Brightness",
+        "Volume",
+        "Timing",
+        "Current sense"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Log matches human hearing.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A pot used as a two-terminal variable resistor is called a:",
+      "options": [
+        "Rheostat",
+        "Trimmer",
+        "Encoder",
+        "Divider"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Two-terminal use is a rheostat.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Digital pots are controlled by:",
+      "options": [
+        "Shaft",
+        "Digital signals/MCU",
+        "Light",
+        "Temperature"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Digital pots respond to digital commands.",
+      "difficulty": "advanced"
+    }
+  ]
+}

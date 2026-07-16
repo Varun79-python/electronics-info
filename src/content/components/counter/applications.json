@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Timing",
+      "description": "Delay/clock",
+      "examples": [
+        "Timers"
+      ]
+    },
+    {
+      "category": "Frequency",
+      "description": "Divide",
+      "examples": [
+        "Oscillators"
+      ]
+    },
+    {
+      "category": "Addressing",
+      "description": "Sequence",
+      "examples": [
+        "Memory"
+      ]
+    }
+  ]
+}

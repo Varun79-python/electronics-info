@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "led",
+    "name": "Light Emitting Diode",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 14,
+    "status": "published"
+  }
+}

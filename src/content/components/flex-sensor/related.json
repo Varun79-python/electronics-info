@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "resistor",
+      "relationship": "Divider"
+    },
+    {
+      "id": "adc",
+      "relationship": "Reads"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Processes"
+    }
+  ]
+}

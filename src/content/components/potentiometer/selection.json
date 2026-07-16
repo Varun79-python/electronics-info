@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Choose Total Resistance",
+      "description": "Match circuit impedance (e.g., 10k for audio)."
+    },
+    {
+      "step": 2,
+      "title": "Select Taper",
+      "description": "Linear for general use, log for audio volume."
+    },
+    {
+      "step": 3,
+      "title": "Check Power Rating",
+      "description": "Ensure current stays within rating."
+    },
+    {
+      "step": 4,
+      "title": "Decide Mounting",
+      "description": "Panel, SMD, or through-hole."
+    },
+    {
+      "step": 5,
+      "title": "Consider Life",
+      "description": "High-cycle apps need long-life types."
+    }
+  ],
+  "tips": [
+    "Use log taper for volume controls",
+    "Avoid using as variable resistor if possible",
+    "Clean contacts in dusty environments",
+    "Digital pots for MCU control"
+  ]
+}

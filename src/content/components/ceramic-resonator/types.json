@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Two-terminal Resonator",
+      "description": "Used with external capacitors.",
+      "applications": [
+        "MCU clocks"
+      ]
+    },
+    {
+      "name": "Three-terminal Resonator",
+      "description": "Built-in load capacitors.",
+      "applications": [
+        "Simplified designs"
+      ]
+    },
+    {
+      "name": "SMD Resonator",
+      "description": "Surface-mount package.",
+      "applications": [
+        "Compact PCBs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Channel Type",
+      "description": "N for low noise typically."
+    },
+    {
+      "step": 2,
+      "title": "I_DSS / V_P",
+      "description": "Match bias point."
+    },
+    {
+      "step": 3,
+      "title": "Impedance",
+      "description": "Exploit high Z for buffers."
+    }
+  ],
+  "tips": [
+    "Use as constant-current source",
+    "Self-biasing with source resistor",
+    "Great for audio front-ends",
+    "Robust vs ESD compared to MOS"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Jumper Wire",
+  "id": "jumper-wire",
+  "category": "prototyping",
+  "shortDescription": "A jumper wire is a short pre-stripped wire used to make connections on breadboards or between headers.",
+  "whatIsIt": "A jumper wire is a short pre-stripped wire used to make connections on breadboards or between headers.",
+  "whyExists": "Jumper wires provide quick, reusable electrical connections in prototypes.",
+  "whereUsed": "Used on breadboards, Arduino, and test setups.",
+  "thumbnail": "/assets/images/components/jumper-wire/thumbnail.svg",
+  "schematic": "/assets/components/jumper-wire/schematic/symbol.svg"
+}

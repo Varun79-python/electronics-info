@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Piezoelectric Ceramic",
+      "function": "Provides resonance",
+      "material": "Lead zirconate titanate (PZT)"
+    },
+    {
+      "name": "Electrodes",
+      "function": "Drive and sense vibration",
+      "material": "Silver"
+    },
+    {
+      "name": "Package",
+      "function": "Protects and sets load",
+      "material": "Resin or metal can"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect to oscillator",
+      "material": "Tinned leads"
+    }
+  ]
+}

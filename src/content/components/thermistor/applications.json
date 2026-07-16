@@ -1,0 +1,36 @@
+{
+  "applications": [
+    {
+      "category": "Temperature Sensing",
+      "description": "Measures and monitors temperature",
+      "examples": [
+        "Thermostats",
+        "Battery management"
+      ]
+    },
+    {
+      "category": "Inrush Current Limiting",
+      "description": "NTC limits surge at power-on",
+      "examples": [
+        "Power supplies",
+        "Motor starters"
+      ]
+    },
+    {
+      "category": "Over-temperature Protection",
+      "description": "PTC cuts off on overheat",
+      "examples": [
+        "Battery packs",
+        "Motors"
+      ]
+    },
+    {
+      "category": "Compensation",
+      "description": "Compensates temperature drift",
+      "examples": [
+        "Crystal oscillators",
+        "Meters"
+      ]
+    }
+  ]
+}

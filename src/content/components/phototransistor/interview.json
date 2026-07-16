@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a phototransistor?",
+      "answer": "A transistor whose base current is produced by light, giving amplified output."
+    },
+    {
+      "question": "Phototransistor vs photodiode?",
+      "answer": "Phototransistor has built-in gain (slower); photodiode is faster and linear."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why higher sensitivity?",
+      "answer": "The transistor's β multiplies the small photocurrent."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "When prefer photodiode?",
+      "answer": "When speed, linearity, or low noise matter more than raw sensitivity."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How use in an optocoupler?",
+      "answer": "LED on the input side, phototransistor on the output side, with isolation between."
+    }
+  ]
+}

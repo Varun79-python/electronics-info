@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; not a shock hazard.",
+  "currentSafety": "Excess current causes self-heating and error.",
+  "thermalSafety": "Avoid exceeding maximum temperature.",
+  "handling": "Bead types are fragile; handle carefully.",
+  "storage": "Store dry to prevent moisture ingress.",
+  "disposal": "Dispose per e-waste regulations."
+}

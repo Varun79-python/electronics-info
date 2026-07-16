@@ -1,0 +1,27 @@
+{
+  "formulas": [
+    {
+      "name": "Resonant Frequency",
+      "formula": "f = (1/2π) × √(k/m)",
+      "description": "Mechanical resonance sets frequency.",
+      "variables": [
+        {
+          "symbol": "f",
+          "name": "Frequency",
+          "unit": "Hz"
+        },
+        {
+          "symbol": "k",
+          "name": "Stiffness",
+          "unit": "N/m"
+        },
+        {
+          "symbol": "m",
+          "name": "Mass",
+          "unit": "kg"
+        }
+      ],
+      "example": "Set by ceramic geometry"
+    }
+  ]
+}

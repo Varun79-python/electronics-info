@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Battery University",
+      "author": "Cadex",
+      "year": 2021,
+      "url": "",
+      "type": "book"
+    },
+    {
+      "title": "Electrochemistry",
+      "author": "Textbook",
+      "year": 2019,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

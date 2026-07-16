@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Size/Res",
+      "description": "Match need."
+    },
+    {
+      "step": 2,
+      "title": "Interface",
+      "description": "SPI/RGB."
+    },
+    {
+      "step": 3,
+      "title": "Backlight",
+      "description": "Brightness."
+    },
+    {
+      "step": 4,
+      "title": "Controller",
+      "description": "Driver IC."
+    }
+  ],
+  "tips": [
+    "Use SPI for small",
+    "Contrast adjust",
+    "Handle gently"
+  ]
+}

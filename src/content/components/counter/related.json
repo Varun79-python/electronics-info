@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "flip-flop",
+      "relationship": "Built from"
+    },
+    {
+      "id": "decoder",
+      "relationship": "Decodes count"
+    },
+    {
+      "id": "555-timer",
+      "relationship": "Clock source"
+    }
+  ]
+}

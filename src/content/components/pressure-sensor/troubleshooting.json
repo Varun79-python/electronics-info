@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Wrong value"
+      ],
+      "causes": [
+        "Aging"
+      ],
+      "solution": "Recalibrate"
+    },
+    {
+      "failure": "Clogged",
+      "symptoms": [
+        "No change"
+      ],
+      "causes": [
+        "Media"
+      ],
+      "solution": "Clean"
+    },
+    {
+      "failure": "Burst",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Overpressure"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

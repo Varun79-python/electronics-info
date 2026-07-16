@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "PMOS Network",
+      "function": "Pull-up",
+      "material": "Silicon"
+    },
+    {
+      "name": "NMOS Network",
+      "function": "Pull-down",
+      "material": "Silicon"
+    },
+    {
+      "name": "Output",
+      "function": "Drive",
+      "material": "Silicon"
+    },
+    {
+      "name": "Package",
+      "function": "Pins",
+      "material": "Plastic"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Current",
+      "description": "Match load."
+    },
+    {
+      "step": 2,
+      "title": "Curve",
+      "description": "B/C/D by load."
+    },
+    {
+      "step": 3,
+      "title": "Breaking",
+      "description": "Above fault."
+    },
+    {
+      "step": 4,
+      "title": "Type",
+      "description": "Add RCCB if needed."
+    }
+  ],
+  "tips": [
+    "Type C for motors",
+    "Use RCCB for shock protection",
+    "Derate for heat"
+  ]
+}

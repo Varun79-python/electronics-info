@@ -1,0 +1,11 @@
+{
+  "name": "Schottky Diode",
+  "id": "schottky-diode",
+  "category": "semiconductor",
+  "shortDescription": "A Schottky diode is formed by a metal-semiconductor junction, giving a low forward voltage drop and very fast switching.",
+  "whatIsIt": "A Schottky diode is formed by a metal-semiconductor junction, giving a low forward voltage drop and very fast switching.",
+  "whyExists": "Its low V_F reduces power loss and its speed suits high-frequency and switching-power applications.",
+  "whereUsed": "They are used in switch-mode power supplies, RF detectors, and as rectifiers in low-voltage circuits.",
+  "thumbnail": "/assets/images/components/schottky-diode/thumbnail.svg",
+  "schematic": "/assets/components/schottky-diode/schematic/symbol.svg"
+}

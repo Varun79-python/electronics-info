@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Zener Voltage",
+      "typicalValues": "2.4V to 200V",
+      "notes": "Common 3.3, 5.1, 12V"
+    },
+    {
+      "name": "Tolerance",
+      "typicalValues": "±2% to ±10%",
+      "notes": "Precision types ±1%"
+    },
+    {
+      "name": "Power Rating",
+      "typicalValues": "0.25W to 5W",
+      "notes": "Must not exceed"
+    },
+    {
+      "name": "Temperature Coefficient",
+      "typicalValues": "±2 to ±100 ppm/°C",
+      "notes": "Near 5V is near zero"
+    },
+    {
+      "name": "Dynamic Resistance",
+      "typicalValues": "1Ω to 100Ω",
+      "notes": "Lower is better"
+    }
+  ]
+}

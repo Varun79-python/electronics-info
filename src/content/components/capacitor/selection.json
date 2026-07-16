@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Determine Capacitance Needed",
+      "description": "Calculate from circuit requirements (timing, filtering, or energy storage)."
+    },
+    {
+      "step": 2,
+      "title": "Select Voltage Rating",
+      "description": "Choose at least 2× the maximum circuit voltage for reliability."
+    },
+    {
+      "step": 3,
+      "title": "Choose Dielectric Type",
+      "description": "Ceramic for general/high-freq, film for stability, electrolytic for bulk capacitance."
+    },
+    {
+      "step": 4,
+      "title": "Consider Tolerance",
+      "description": "Precision circuits need ±1% to ±5%; general purpose can use ±20%."
+    },
+    {
+      "step": 5,
+      "title": "Check ESR and Temperature",
+      "description": "Low ESR for switching power supplies; stable temp coefficient for precision."
+    }
+  ],
+  "tips": [
+    "Never exceed voltage rating — failure can be explosive",
+    "Use polarized capacitors with correct orientation",
+    "Derating voltage by 50% extends life",
+    "For audio, use film capacitors for best sound quality"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Resistance Range",
+      "typicalValues": "1Ω to 10kΩ",
+      "notes": "Depends on element"
+    },
+    {
+      "name": "Power Rating",
+      "typicalValues": "5W to 100W+",
+      "notes": "Wirewound handles more"
+    },
+    {
+      "name": "Current Rating",
+      "typicalValues": "Up to tens of A",
+      "notes": "Limited by element"
+    },
+    {
+      "name": "Tolerance",
+      "typicalValues": "±10%",
+      "notes": "Absolute value less critical"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Step Angle",
+      "typicalValues": "0.9° to 1.8°",
+      "notes": "Common 1.8°"
+    },
+    {
+      "name": "Holding Torque",
+      "typicalValues": "mN·m to N·m",
+      "notes": "At standstill"
+    },
+    {
+      "name": "Phases",
+      "typicalValues": "2, 4, 5",
+      "notes": "Bipolar/uniplar"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "0.5A to 5A",
+      "notes": "Per phase"
+    },
+    {
+      "name": "Resolution",
+      "typicalValues": "200 to 51200 steps/rev",
+      "notes": "With microstep"
+    }
+  ]
+}

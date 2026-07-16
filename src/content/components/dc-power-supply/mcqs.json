@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A DC supply outputs:",
+      "options": [
+        "AC",
+        "Stable DC",
+        "RF",
+        "Pulse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stable DC.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ripple is reduced by:",
+      "options": [
+        "Smaller cap",
+        "Larger cap",
+        "No rectifier",
+        "Higher freq only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bigger filter cap.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "SMPS is:",
+      "options": [
+        "Inefficient",
+        "Efficient",
+        "Heavy",
+        "Noisy always"
+      ],
+      "correctAnswer": 1,
+      "explanation": "High efficiency.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Bridge rectifier output ≈:",
+      "options": [
+        "V_rms",
+        "1.414×V_rms",
+        "2×V_rms",
+        "0.5×V_rms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peak ≈ √2 × V_rms.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Linear supply downside:",
+      "options": [
+        "Noise",
+        "Inefficiency/heat",
+        "Size small",
+        "No isolation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wastes power as heat.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

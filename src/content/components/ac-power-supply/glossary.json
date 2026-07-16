@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Variac",
+      "definition": "Adjustable autotransformer for AC voltage."
+    },
+    {
+      "term": "THD",
+      "definition": "Total Harmonic Distortion of the waveform."
+    },
+    {
+      "term": "Inverter",
+      "definition": "Converts DC to AC."
+    },
+    {
+      "term": "Power Factor",
+      "definition": "Ratio of real to apparent power."
+    }
+  ]
+}

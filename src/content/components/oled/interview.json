@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "OLED emits its own light?",
+      "answer": "Yes, each pixel is self-emissive."
+    },
+    {
+      "question": "No backlight?",
+      "answer": "Correct; black pixels are simply off."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Burn-in cause?",
+      "answer": "Static bright images degrade organic material unevenly."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Power vs content?",
+      "answer": "Bright/white content draws more current."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Lifetime issue?",
+      "answer": "Blue subpixel degrades fastest."
+    }
+  ]
+}

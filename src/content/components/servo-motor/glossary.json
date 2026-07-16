@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Servo",
+      "definition": "Closed-loop motion system with feedback."
+    },
+    {
+      "term": "PID",
+      "definition": "Proportional-Integral-Derivative control."
+    },
+    {
+      "term": "Encoder",
+      "definition": "Sensor reporting position/speed."
+    },
+    {
+      "term": "Bandwidth",
+      "definition": "Loop frequency response limit."
+    }
+  ]
+}

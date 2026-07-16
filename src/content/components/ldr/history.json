@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1873,
+    "inventor": "Willoughby Smith (photoconductivity)",
+    "discovery": "Smith found selenium's resistance changed with light, founding photodetection.",
+    "evolution": [
+      {
+        "year": 1873,
+        "event": "Photoconductivity"
+      },
+      {
+        "year": 1930,
+        "event": "CdS cells"
+      },
+      {
+        "year": 2000,
+        "event": "Replaced by photodiodes"
+      }
+    ]
+  }
+}

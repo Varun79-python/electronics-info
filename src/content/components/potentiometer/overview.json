@@ -1,0 +1,11 @@
+{
+  "name": "Potentiometer",
+  "id": "potentiometer",
+  "category": "passive",
+  "shortDescription": "A potentiometer is a three-terminal variable resistor with a sliding or rotating contact that taps a portion of a resistive element, acting as an adjustable...",
+  "whatIsIt": "A potentiometer is a three-terminal variable resistor with a sliding or rotating contact that taps a portion of a resistive element, acting as an adjustable voltage divider.",
+  "whyExists": "Potentiometers let users adjust voltage, gain, or position interactively in analog circuits.",
+  "whereUsed": "They are used for volume controls, tuning, brightness adjustment, and as user input in countless devices.",
+  "thumbnail": "/assets/images/components/potentiometer/thumbnail.svg",
+  "schematic": "/assets/components/potentiometer/schematic/symbol.svg"
+}

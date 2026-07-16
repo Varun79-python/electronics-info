@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "NO",
+      "definition": "Normally open contact."
+    },
+    {
+      "term": "NC",
+      "definition": "Normally closed contact."
+    },
+    {
+      "term": "Latching",
+      "definition": "Stays in toggled state."
+    },
+    {
+      "term": "Debounce",
+      "definition": "Filtering bounce signals."
+    }
+  ]
+}

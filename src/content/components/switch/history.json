@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1880,
+    "inventor": "Evolved with electrification",
+    "discovery": "Manual switches developed alongside early electrical wiring for control.",
+    "evolution": [
+      {
+        "year": 1880,
+        "event": "Knife switches"
+      },
+      {
+        "year": 1920,
+        "event": "Tumbler switches"
+      },
+      {
+        "year": 2000,
+        "event": "Sealed/membrane switches"
+      }
+    ]
+  }
+}

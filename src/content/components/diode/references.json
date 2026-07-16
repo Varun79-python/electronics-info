@@ -1,0 +1,25 @@
+{
+  "references": [
+    {
+      "title": "Diode Characteristics and Applications",
+      "author": "ON Semiconductor",
+      "year": 2020,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "The Art of Electronics",
+      "author": "Paul Horowitz, Winfield Hill",
+      "year": 2015,
+      "url": "",
+      "type": "book"
+    },
+    {
+      "title": "Physics of Semiconductor Devices",
+      "author": "S. M. Sze",
+      "year": 2006,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

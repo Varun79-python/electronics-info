@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Stuck High",
+      "symptoms": [
+        "Always dark"
+      ],
+      "causes": [
+        "Dead"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Slow",
+      "symptoms": [
+        "Lag"
+      ],
+      "causes": [
+        "Inherent"
+      ],
+      "solution": "Accept/tolerance"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Wrong"
+      ],
+      "causes": [
+        "Temp"
+      ],
+      "solution": "Compensate"
+    }
+  ]
+}

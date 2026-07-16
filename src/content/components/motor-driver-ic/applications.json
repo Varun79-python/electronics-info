@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Robotics",
+      "description": "Wheel drive",
+      "examples": [
+        "Cars"
+      ]
+    },
+    {
+      "category": "Drones",
+      "description": "Brushless",
+      "examples": [
+        "Props"
+      ]
+    },
+    {
+      "category": "CNC",
+      "description": "Steppers",
+      "examples": [
+        "3D print"
+      ]
+    }
+  ]
+}

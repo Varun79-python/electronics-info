@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "electromagnet",
+      "relationship": "Voice coil principle"
+    },
+    {
+      "id": "audio-amplifier-ic",
+      "relationship": "Drives the speaker"
+    },
+    {
+      "id": "buzzer",
+      "relationship": "Simple alerting transducer"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Crossover element"
+    }
+  ]
+}

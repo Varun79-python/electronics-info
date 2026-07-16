@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "Audio amp evolution",
+    "discovery": "Transistor audio amplifiers replaced tubes, enabling compact sound systems.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "Transistor amps"
+      },
+      {
+        "year": 1980,
+        "event": "Class D research"
+      },
+      {
+        "year": 2000,
+        "event": "Efficient Class D ICs"
+      }
+    ]
+  }
+}

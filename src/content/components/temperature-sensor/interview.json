@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "NTC means?",
+      "answer": "Resistance decreases as temperature rises."
+    },
+    {
+      "question": "Thermocouple output?",
+      "answer": "A small voltage from the junction."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why self-heating matters?",
+      "answer": "Measurement current warms NTC, adding error."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "RTD vs thermistor accuracy?",
+      "answer": "RTD more stable/linear; thermistor cheaper but nonlinear."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Compensate lead resistance?",
+      "answer": "Use 3/4-wire RTD configuration."
+    }
+  ]
+}

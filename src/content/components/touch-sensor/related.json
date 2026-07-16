@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "microcontroller",
+      "relationship": "Reads"
+    },
+    {
+      "id": "lcd",
+      "relationship": "Overlay display"
+    },
+    {
+      "id": "push-button",
+      "relationship": "Alternative input"
+    }
+  ]
+}

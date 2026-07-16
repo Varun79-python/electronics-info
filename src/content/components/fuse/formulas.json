@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Melting Integral",
+      "formula": "I²t",
+      "description": "Energy to melt.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        },
+        {
+          "symbol": "t",
+          "name": "Time",
+          "unit": "s"
+        }
+      ],
+      "example": "Must exceed rating to blow"
+    },
+    {
+      "name": "Power Dissipation",
+      "formula": "P = I² R",
+      "description": "Self-heating.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "Small at rated I"
+    }
+  ]
+}

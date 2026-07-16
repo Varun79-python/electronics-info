@@ -1,0 +1,28 @@
+{
+  "applications": [
+    {
+      "category": "Low-Noise Amplifier",
+      "description": "First stage of sensors",
+      "examples": [
+        "Mic preamp",
+        "Phono"
+      ]
+    },
+    {
+      "category": "Buffer",
+      "description": "High-impedance isolation",
+      "examples": [
+        "Oscilloscopes",
+        "Probes"
+      ]
+    },
+    {
+      "category": "Analog Switch",
+      "description": "Signal routing",
+      "examples": [
+        "Mux",
+        "Sample-hold"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "applications": [
+    {
+      "category": "Bench Power",
+      "description": "Lab testing",
+      "examples": [
+        "Prototyping"
+      ]
+    },
+    {
+      "category": "Embedded",
+      "description": "Board rails",
+      "examples": [
+        "5V, 3.3V"
+      ]
+    },
+    {
+      "category": "Charging",
+      "description": "Battery chargers",
+      "examples": [
+        "Phones",
+        "Laptops"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Control power",
+      "examples": [
+        "PLC"
+      ]
+    }
+  ]
+}

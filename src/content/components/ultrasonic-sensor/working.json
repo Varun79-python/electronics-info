@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A transducer emits a sound pulse (>20kHz); the echo reflects off an object and returns; time-of-flight gives distance.",
+  "steps": [
+    "Emit ultrasonic pulse",
+    "Pulse travels to object",
+    "Echo reflects back",
+    "Measure round-trip time",
+    "Compute distance = c·t/2"
+  ],
+  "microscopicExplanation": "Piezoelectric crystal vibrates to emit and receive sound; electronics time the echo."
+}

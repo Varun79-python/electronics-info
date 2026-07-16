@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Signage",
+      "description": "Scroll text",
+      "examples": [
+        "Boards"
+      ]
+    },
+    {
+      "category": "Wearable",
+      "description": "Indicators",
+      "examples": [
+        "Badges"
+      ]
+    },
+    {
+      "category": "Art",
+      "description": "Light shows",
+      "examples": [
+        "Installations"
+      ]
+    }
+  ]
+}

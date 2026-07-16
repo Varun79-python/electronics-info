@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Photons excite electrons in a semiconductor (e.g., cadmium sulfide), increasing carriers and lowering resistance as light rises.",
+  "steps": [
+    "Light hits the semiconductor",
+    "Photons free electrons",
+    "Conductivity increases",
+    "Resistance drops"
+  ],
+  "microscopicExplanation": "Intrinsic photoconductivity: photon energy bridges the band gap, creating electron-hole pairs."
+}

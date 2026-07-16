@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a diode?",
+      "answer": "A diode is a two-terminal component that conducts current primarily in one direction, acting like an electrical check valve."
+    },
+    {
+      "question": "What is the forward voltage of a silicon diode?",
+      "answer": "Approximately 0.6 to 0.7 volts when conducting."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Explain the difference between a Zener diode and a regular diode.",
+      "answer": "A Zener diode is designed to operate in reverse breakdown to maintain a stable voltage, while a regular diode is used for rectification and should avoid breakdown."
+    },
+    {
+      "question": "Why are Schottky diodes faster than p–n diodes?",
+      "answer": "Schottky diodes are majority-carrier devices with no minority carrier storage, so they have negligible reverse recovery time."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What is the Shockley diode equation?",
+      "answer": "I = I_S × (e^(V/(nV_T)) - 1), modeling the exponential current-voltage relationship of a diode."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How does reverse recovery time affect switching power supplies?",
+      "answer": "During reverse recovery, the diode conducts reverse current briefly, causing switching losses and EMI. Fast-recovery or Schottky diodes minimize this."
+    }
+  ]
+}

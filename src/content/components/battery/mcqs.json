@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Battery stores:",
+      "options": [
+        "Chemical energy",
+        "Heat",
+        "Light",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Electrochemical.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Energy E =",
+      "options": [
+        "V×Q",
+        "V/I",
+        "I×R",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Volt-amp-hour.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "1C means:",
+      "options": [
+        "1h drain",
+        "1V",
+        "1A",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Full in 1h.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Li-ion needs:",
+      "options": [
+        "BMS",
+        "No care",
+        "Heat",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Protection.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Volta invented:",
+      "options": [
+        "Battery",
+        "Motor",
+        "Bulb",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1800 pile.",
+      "difficulty": "beginner"
+    }
+  ]
+}

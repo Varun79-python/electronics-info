@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "push-button",
+    "name": "Push Button",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 41,
+    "status": "published"
+  }
+}

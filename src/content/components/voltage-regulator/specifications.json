@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Output Voltage",
+      "typicalValues": "1.2V to 24V",
+      "notes": "Fixed or adjustable"
+    },
+    {
+      "name": "Output Current",
+      "typicalValues": "100mA to 10A",
+      "notes": "By type"
+    },
+    {
+      "name": "Dropout Voltage",
+      "typicalValues": "0.1V to 2V",
+      "notes": "LDO very low"
+    },
+    {
+      "name": "Line/Load Regulation",
+      "typicalValues": "mV",
+      "notes": "Stability"
+    },
+    {
+      "name": "Ripple Rejection",
+      "typicalValues": "40 to 80 dB",
+      "notes": "PSRR"
+    },
+    {
+      "name": "Efficiency",
+      "typicalValues": "40% (linear) to 95% (switcher)",
+      "notes": "Key tradeoff"
+    }
+  ]
+}

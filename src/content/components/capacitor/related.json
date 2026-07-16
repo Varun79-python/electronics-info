@@ -1,0 +1,24 @@
+{
+  "relatedComponents": [
+    {
+      "id": "resistor",
+      "relationship": "Forms RC circuits for timing and filtering"
+    },
+    {
+      "id": "inductor",
+      "relationship": "Forms LC resonant circuits"
+    },
+    {
+      "id": "transformer",
+      "relationship": "Both store energy in fields"
+    },
+    {
+      "id": "diode",
+      "relationship": "Rectification followed by capacitor filtering"
+    },
+    {
+      "id": "voltage-regulator",
+      "relationship": "Output capacitors stabilize regulation"
+    }
+  ]
+}

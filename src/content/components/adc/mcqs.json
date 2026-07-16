@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "ADC converts:",
+      "options": [
+        "Analog to digital",
+        "Digital to analog",
+        "AC to DC",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A->D.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "LSB =",
+      "options": [
+        "Vref/2^N",
+        "Vref×N",
+        "Vref/N",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Step size.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Nyquist needs:",
+      "options": [
+        "2× freq",
+        "Equal",
+        "Half",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Avoid aliasing.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Sigma-delta is:",
+      "options": [
+        "High-res slow",
+        "Fast low-res",
+        "Analog",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oversampling.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "SAR stands for:",
+      "options": [
+        "Successive approximation",
+        "Sample and read",
+        "None",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Binary search.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "1:2 / 1:4",
+      "description": "Few outputs.",
+      "applications": [
+        "Simple"
+      ]
+    },
+    {
+      "name": "1:8 / 1:16",
+      "description": "Many outputs.",
+      "applications": [
+        "Address"
+      ]
+    },
+    {
+      "name": "Analog DEMUX",
+      "description": "Route analog.",
+      "applications": [
+        "Sampling"
+      ]
+    },
+    {
+      "name": "Bus DEMUX",
+      "description": "Distribute.",
+      "applications": [
+        "CPU"
+      ]
+    }
+  ]
+}

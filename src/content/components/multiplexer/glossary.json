@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "MUX",
+      "definition": "Many-to-one selector."
+    },
+    {
+      "term": "Select",
+      "definition": "Code choosing input."
+    },
+    {
+      "term": "On-Resistance",
+      "definition": "Pass element resistance."
+    },
+    {
+      "term": "Demux",
+      "definition": "One-to-many (inverse)."
+    }
+  ]
+}

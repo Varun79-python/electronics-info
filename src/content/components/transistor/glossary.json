@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "β (hFE)",
+      "definition": "DC current gain; I_C / I_B."
+    },
+    {
+      "term": "Saturation",
+      "definition": "Fully on; V_CE minimal."
+    },
+    {
+      "term": "Active Region",
+      "definition": "Linear amplification region."
+    },
+    {
+      "term": "Cutoff",
+      "definition": "Fully off; no collector current."
+    },
+    {
+      "term": "Thermal Runaway",
+      "definition": "Rising temp raises current, which raises temp."
+    }
+  ]
+}

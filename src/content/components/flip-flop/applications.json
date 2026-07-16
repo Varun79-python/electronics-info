@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Memory",
+      "description": "Store bits",
+      "examples": [
+        "RAM"
+      ]
+    },
+    {
+      "category": "Counters",
+      "description": "Sequence",
+      "examples": [
+        "Timers"
+      ]
+    },
+    {
+      "category": "Sync",
+      "description": "Pipeline",
+      "examples": [
+        "CPU"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Higher voltage for industrial; isolate.",
+  "currentSafety": "High torque; guard.",
+  "thermalSafety": "Heats; ventilate.",
+  "handling": "Pinch hazard from moving parts.",
+  "storage": "Dry.",
+  "disposal": "E-waste rules."
+}

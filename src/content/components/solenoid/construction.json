@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Coil",
+      "function": "Creates field",
+      "material": "Copper"
+    },
+    {
+      "name": "Plunger/Armature",
+      "function": "Moves linearly",
+      "material": "Ferromagnetic steel"
+    },
+    {
+      "name": "Return Spring",
+      "function": "Restores position",
+      "material": "Spring steel"
+    },
+    {
+      "name": "Frame",
+      "function": "Guides flux",
+      "material": "Steel"
+    }
+  ]
+}

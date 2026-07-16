@@ -3,27 +3,46 @@
     {
       "name": "Carbon Film Resistor",
       "description": "Made by depositing a carbon film on a ceramic substrate. Most common general-purpose resistor.",
-      "applications": ["General purpose circuits", "Low-cost electronics"]
+      "applications": [
+        "General purpose circuits",
+        "Low-cost electronics"
+      ]
     },
     {
       "name": "Metal Film Resistor",
       "description": "Uses a thin metal film for the resistive element. Better tolerance and lower noise.",
-      "applications": ["Precision circuits", "Audio equipment", "Measurement devices"]
+      "applications": [
+        "Precision circuits",
+        "Audio equipment",
+        "Measurement devices"
+      ]
     },
     {
       "name": "Wire-Wound Resistor",
       "description": "A wire made of resistive alloy is wound around a ceramic core. Handles high power.",
-      "applications": ["Power supplies", "High-current circuits", "Load resistors"]
+      "applications": [
+        "Power supplies",
+        "High-current circuits",
+        "Load resistors"
+      ]
     },
     {
       "name": "Surface Mount (SMD) Resistor",
       "description": "Designed for surface-mount technology. Compact and suitable for automated assembly.",
-      "applications": ["PCB assemblies", "Mobile devices", "Compact electronics"]
+      "applications": [
+        "PCB assemblies",
+        "Mobile devices",
+        "Compact electronics"
+      ]
     },
     {
       "name": "Variable Resistor (Potentiometer)",
       "description": "Adjustable resistance with three terminals. Used for volume controls and tuning.",
-      "applications": ["Volume controls", "Tuning circuits", "Adjustable voltage dividers"]
+      "applications": [
+        "Volume controls",
+        "Tuning circuits",
+        "Adjustable voltage dividers"
+      ]
     }
   ]
 }

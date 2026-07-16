@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "solenoid",
+    "name": "Solenoid",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 38,
+    "status": "published"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "types": [
+    {
+      "name": "Step-Up Transformer",
+      "description": "More secondary turns; raises voltage.",
+      "applications": [
+        "Power transmission",
+        "CRT displays"
+      ]
+    },
+    {
+      "name": "Step-Down Transformer",
+      "description": "Fewer secondary turns; lowers voltage.",
+      "applications": [
+        "Chargers",
+        "Distribution"
+      ]
+    },
+    {
+      "name": "Isolation Transformer",
+      "description": "Equal turns; galvanically isolates circuits.",
+      "applications": [
+        "Medical",
+        "Lab safety"
+      ]
+    },
+    {
+      "name": "Toroidal Transformer",
+      "description": "Ring core; low leakage and hum.",
+      "applications": [
+        "Audio",
+        "Precision"
+      ]
+    }
+  ]
+}

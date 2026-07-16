@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Word",
+      "definition": "Group of bits."
+    },
+    {
+      "term": "Shift Register",
+      "definition": "Serial bit mover."
+    },
+    {
+      "term": "Enable",
+      "definition": "Clock gate control."
+    },
+    {
+      "term": "LIFO",
+      "definition": "Last-in-first-out."
+    }
+  ]
+}

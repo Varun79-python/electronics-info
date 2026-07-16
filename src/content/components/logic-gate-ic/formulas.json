@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Fan-out",
+      "formula": "N = I_out / I_in",
+      "description": "Loads driven.",
+      "variables": [
+        {
+          "symbol": "N",
+          "name": "Fan-out",
+          "unit": ""
+        }
+      ],
+      "example": "10 typical"
+    },
+    {
+      "name": "Propagation",
+      "formula": "t_pd",
+      "description": "Delay per gate.",
+      "variables": [
+        {
+          "symbol": "t_pd",
+          "name": "Delay",
+          "unit": "ns"
+        }
+      ],
+      "example": "Few ns"
+    }
+  ]
+}

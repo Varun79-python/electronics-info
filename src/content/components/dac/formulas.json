@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Output",
+      "formula": "V_out = V_ref · (D / 2^N)",
+      "description": "Proportional code.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Output",
+          "unit": "V"
+        },
+        {
+          "symbol": "D",
+          "name": "Code",
+          "unit": ""
+        },
+        {
+          "symbol": "N",
+          "name": "Bits",
+          "unit": ""
+        }
+      ],
+      "example": "Mid code = Vref/2"
+    },
+    {
+      "name": "Step",
+      "formula": "LSB = V_ref / 2^N",
+      "description": "Resolution.",
+      "variables": [
+        {
+          "symbol": "LSB",
+          "name": "Step",
+          "unit": "V"
+        }
+      ],
+      "example": "12-bit fine"
+    }
+  ]
+}

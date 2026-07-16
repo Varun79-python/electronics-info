@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "MEMS gyros use the Coriolis effect: a vibrating mass deflected by rotation induces a measurable signal.",
+  "steps": [
+    "Drive mass to vibrate",
+    "Apply rotation",
+    "Coriolis force deflects mass",
+    "Sense deflection as signal"
+  ],
+  "microscopicExplanation": "Coriolis acceleration on the oscillating mass produces capacitive change proportional to angular rate."
+}

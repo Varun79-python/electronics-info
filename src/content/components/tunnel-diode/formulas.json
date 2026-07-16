@@ -1,0 +1,17 @@
+{
+  "formulas": [
+    {
+      "name": "Negative Resistance",
+      "formula": "R_d = dV/dI < 0 (in valley)",
+      "description": "Region of negative differential resistance.",
+      "variables": [
+        {
+          "symbol": "R_d",
+          "name": "Differential resistance",
+          "unit": "Ω"
+        }
+      ],
+      "example": "Used for oscillation"
+    }
+  ]
+}

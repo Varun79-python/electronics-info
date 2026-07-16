@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "SCR",
+      "definition": "Silicon Controlled Rectifier; a thyristor."
+    },
+    {
+      "term": "Holding Current",
+      "definition": "Minimum current to stay on."
+    },
+    {
+      "term": "Latching",
+      "definition": "Stays on after gate pulse removed."
+    },
+    {
+      "term": "Commutation",
+      "definition": "Process of turning the device off."
+    },
+    {
+      "term": "Firing Angle",
+      "definition": "Delay before triggering in AC control."
+    }
+  ]
+}

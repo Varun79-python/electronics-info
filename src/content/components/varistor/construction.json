@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "ZnO Ceramic Disc",
+      "function": "Provides non-linear resistance",
+      "material": "Zinc oxide with dopants"
+    },
+    {
+      "name": "Metal Electrodes",
+      "function": "Connect to circuit",
+      "material": "Silver or aluminum"
+    },
+    {
+      "name": "Encapsulation",
+      "function": "Protects the disc",
+      "material": "Epoxy or resin"
+    },
+    {
+      "name": "Leads",
+      "function": "External connection",
+      "material": "Tinned wire"
+    }
+  ]
+}

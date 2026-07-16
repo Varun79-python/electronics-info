@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Match Wavelength",
+      "description": "Pick material for your light (Si, InGaAs)."
+    },
+    {
+      "step": 2,
+      "title": "Speed Need",
+      "description": "PIN/APD for fast; PN for slow."
+    },
+    {
+      "step": 3,
+      "title": "Amplifier",
+      "description": "Use transimpedance amp."
+    },
+    {
+      "step": 4,
+      "title": "Noise",
+      "description": "Minimize dark current and stray light."
+    }
+  ],
+  "tips": [
+    "Use TIA for current-to-voltage",
+    "Shield from ambient light",
+    "Cool for low noise",
+    "APD for long range"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Power",
+      "description": "Clean rail",
+      "examples": [
+        "MCU"
+      ]
+    },
+    {
+      "category": "Audio",
+      "description": "Low noise",
+      "examples": [
+        "Codecs"
+      ]
+    },
+    {
+      "category": "RF",
+      "description": "Stable V",
+      "examples": [
+        "Radios"
+      ]
+    },
+    {
+      "category": "Battery",
+      "description": "Near-Vin",
+      "examples": [
+        "Wearables"
+      ]
+    }
+  ]
+}

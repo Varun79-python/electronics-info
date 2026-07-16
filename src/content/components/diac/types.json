@@ -1,0 +1,19 @@
+{
+  "types": [
+    {
+      "name": "Standard DIAC",
+      "description": "≈30-40V breakover.",
+      "applications": [
+        "Dimmers"
+      ]
+    },
+    {
+      "name": "SIDAC",
+      "description": "Higher voltage, latch.",
+      "applications": [
+        "Ignition",
+        "Strobes"
+      ]
+    }
+  ]
+}

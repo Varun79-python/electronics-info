@@ -1,0 +1,26 @@
+{
+  "applications": [
+    {
+      "category": "Relaxation Oscillator",
+      "description": "Generates sawtooth/pulse",
+      "examples": [
+        "Timers",
+        "Beepers"
+      ]
+    },
+    {
+      "category": "SCR Trigger",
+      "description": "Fires thyristors",
+      "examples": [
+        "Phase control"
+      ]
+    },
+    {
+      "category": "Timing",
+      "description": "Simple delays",
+      "examples": [
+        "Flashers"
+      ]
+    }
+  ]
+}

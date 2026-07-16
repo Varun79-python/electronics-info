@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "relay",
+      "relationship": "Small-signal cousin"
+    },
+    {
+      "id": "electromagnet",
+      "relationship": "Coil actuation"
+    },
+    {
+      "id": "dc-motor",
+      "relationship": "Switches motor power"
+    },
+    {
+      "id": "diode",
+      "relationship": "Coil flyback"
+    }
+  ]
+}

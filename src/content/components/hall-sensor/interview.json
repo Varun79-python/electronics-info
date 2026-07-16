@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Hall sensor detects?",
+      "answer": "Magnetic field strength/direction."
+    },
+    {
+      "question": "Common use?",
+      "answer": "Speed, position, and current sensing."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why for current sense?",
+      "answer": "A conductor's field is proportional to its current."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Offset issue?",
+      "answer": "Temperature and process cause a zero-field offset."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve accuracy?",
+      "answer": "Chop/auto-zero and temperature compensation."
+    }
+  ]
+}

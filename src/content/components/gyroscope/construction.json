@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Vibrating Mass",
+      "function": "Senses rotation",
+      "material": "Silicon"
+    },
+    {
+      "name": "Drive Combs",
+      "function": "Oscillate",
+      "material": "Silicon"
+    },
+    {
+      "name": "Sense Combs",
+      "function": "Detect",
+      "material": "Silicon"
+    },
+    {
+      "name": "ASIC",
+      "function": "Condition",
+      "material": "Silicon"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A sliding or rotating contact moves along a resistive element, changing the length (and thus resistance) in the current path, which sets the current by Ohm's law.",
+  "steps": [
+    "Current enters one end terminal of the resistive element",
+    "The wiper picks off a variable-length segment",
+    "Longer segment = more resistance = less current",
+    "Moving the wiper adjusts current continuously",
+    "The load receives the reduced current"
+  ],
+  "microscopicExplanation": "Resistance is proportional to the length of the conducting path; the wiper effectively shortens or lengthens that path, scaling total resistance linearly."
+}

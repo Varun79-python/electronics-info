@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage/Current",
+      "description": "Match motor."
+    },
+    {
+      "step": 2,
+      "title": "Type",
+      "description": "DC/stepper/BLDC."
+    },
+    {
+      "step": 3,
+      "title": "Interface",
+      "description": "PWM/step-dir."
+    },
+    {
+      "step": 4,
+      "title": "Protection",
+      "description": "OCP needed."
+    }
+  ],
+  "tips": [
+    "Avoid shoot-through",
+    "Heatsink",
+    "Flyback diodes"
+  ]
+}

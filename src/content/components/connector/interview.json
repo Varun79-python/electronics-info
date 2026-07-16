@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does a connector do?",
+      "answer": "Provides a detachable electrical/mechanical link."
+    },
+    {
+      "question": "Pitch means?",
+      "answer": "Spacing between contacts."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Gold plating why?",
+      "answer": "Low, stable contact resistance and corrosion resistance."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Contact resistance matter?",
+      "answer": "Adds voltage drop and heating at current."
+    }
+  ],
+  "expert": [
+    {
+      "question": "RF connector concern?",
+      "answer": "Impedance and shielding to avoid reflections."
+    }
+  ]
+}

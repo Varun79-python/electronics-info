@@ -1,0 +1,35 @@
+{
+  "types": [
+    {
+      "name": "Rotary Potentiometer",
+      "description": "Wiper moves via a rotating shaft.",
+      "applications": [
+        "Volume controls",
+        "Tuning"
+      ]
+    },
+    {
+      "name": "Linear (Slide) Pot",
+      "description": "Wiper slides along a straight track.",
+      "applications": [
+        "Faders",
+        "Mixing consoles"
+      ]
+    },
+    {
+      "name": "Logarithmic Taper",
+      "description": "Resistance changes logarithmically; matches human hearing.",
+      "applications": [
+        "Audio volume"
+      ]
+    },
+    {
+      "name": "Digital Potentiometer",
+      "description": "IC that emulates a pot via switches.",
+      "applications": [
+        "Auto-calibration",
+        "MCU control"
+      ]
+    }
+  ]
+}

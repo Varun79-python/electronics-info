@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Determine Inductance",
+      "description": "Calculate L from filtering or energy-storage requirements."
+    },
+    {
+      "step": 2,
+      "title": "Check Rated Current",
+      "description": "Keep current below saturation rating with margin."
+    },
+    {
+      "step": 3,
+      "title": "Evaluate DCR",
+      "description": "Lower DCR reduces power loss and heating."
+    },
+    {
+      "step": 4,
+      "title": "Consider SRF",
+      "description": "Operating frequency must be below self-resonant frequency."
+    },
+    {
+      "step": 5,
+      "title": "Choose Core",
+      "description": "Ferrite for size, iron powder for high current, air for RF."
+    }
+  ],
+  "tips": [
+    "Derate current by 20-30% for reliability",
+    "Use shielded types to reduce EMI",
+    "Toroids minimize radiated noise",
+    "Verify temperature rise under load"
+  ]
+}

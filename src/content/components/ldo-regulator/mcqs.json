@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "LDO dropout is:",
+      "options": [
+        "Vin-Vout min",
+        "Vout-Vin",
+        "Vref",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Headroom.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "LDO is:",
+      "options": [
+        "Linear",
+        "Switching",
+        "Transformer",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pass transistor.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PSRR means:",
+      "options": [
+        "Ripple rejection",
+        "Gain",
+        "Current",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Supply rejection.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Heat =",
+      "options": [
+        "(Vin-Vout)I",
+        "Vin×I",
+        "Vout×I",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Linear loss.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Adj output uses:",
+      "options": [
+        "External divider",
+        "Fixed pin",
+        "Coil",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sets ratio.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

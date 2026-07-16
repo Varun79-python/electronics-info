@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Resolution",
+      "typicalValues": "8 to 24 bits",
+      "notes": "Precision"
+    },
+    {
+      "name": "Sample Rate",
+      "typicalValues": "ksps to MSps",
+      "notes": "Speed"
+    },
+    {
+      "name": "Input Range",
+      "typicalValues": "0-Vref",
+      "notes": "Span"
+    },
+    {
+      "name": "INL/DNL",
+      "typicalValues": "±LSB",
+      "notes": "Linearity"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "inductor",
+    "name": "Inductor",
+    "category": "passive",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 3,
+    "status": "published"
+  }
+}

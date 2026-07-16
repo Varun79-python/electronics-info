@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Power Contacts",
+      "function": "Switch load current",
+      "material": "Silver-cadmium/silver-tin"
+    },
+    {
+      "name": "Coil",
+      "function": "Actuates",
+      "material": "Copper"
+    },
+    {
+      "name": "Arc Chute",
+      "function": "Quenches arc",
+      "material": "Ceramic/metal"
+    },
+    {
+      "name": "Auxiliary Contacts",
+      "function": "Feedback",
+      "material": "Silver"
+    }
+  ]
+}

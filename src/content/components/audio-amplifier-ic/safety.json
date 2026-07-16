@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage.",
+  "currentSafety": "Output current.",
+  "thermalSafety": "Heatsink needed.",
+  "handling": "ESD sensitive.",
+  "storage": "Antistatic.",
+  "disposal": "E-waste."
+}

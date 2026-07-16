@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "NTC",
+      "definition": "Negative Temperature Coefficient: resistance falls as temperature rises."
+    },
+    {
+      "term": "PTC",
+      "definition": "Positive Temperature Coefficient: resistance rises with temperature."
+    },
+    {
+      "term": "Beta Constant",
+      "definition": "Parameter characterizing an NTC's resistance-temperature curve."
+    },
+    {
+      "term": "Self-heating",
+      "definition": "Measurement current warming the thermistor, causing error."
+    },
+    {
+      "term": "Steinhart-Hart",
+      "definition": "Equation relating thermistor resistance to temperature with high accuracy."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage (3.3/5V).",
+  "currentSafety": "IO current limit.",
+  "thermalSafety": "None typical.",
+  "handling": "ESD sensitive.",
+  "storage": "Antistatic.",
+  "disposal": "E-waste."
+}

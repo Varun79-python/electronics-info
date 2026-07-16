@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "DAC converts:",
+      "options": [
+        "Digital to analog",
+        "Analog to digital",
+        "AC to DC",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "D->A.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "V_out =",
+      "options": [
+        "Vref·D/2^N",
+        "Vref·N",
+        "Vref+D",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proportional.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "R-2R is:",
+      "options": [
+        "Resistor ladder",
+        "Amplifier",
+        "Filter",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Weighted bits.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Glitch is:",
+      "options": [
+        "Transient spike",
+        "DC error",
+        "Noise only",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Code-change spike.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Audio playback",
+        "Sensing",
+        "Relay",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "D->A output.",
+      "difficulty": "beginner"
+    }
+  ]
+}

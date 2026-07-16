@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Coil Winding",
+      "function": "Conducts current and creates the magnetic field",
+      "material": "Enamel-insulated copper wire"
+    },
+    {
+      "name": "Core",
+      "function": "Concentrates and guides magnetic flux",
+      "material": "Air, ferrite, iron powder, or laminated steel"
+    },
+    {
+      "name": "Bobbin/Former",
+      "function": "Holds the winding in shape",
+      "material": "Plastic or phenolic"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect to the circuit",
+      "material": "Tinned leads"
+    }
+  ]
+}

@@ -2,35 +2,60 @@
   "questions": [
     {
       "question": "What is the SI unit of electrical resistance?",
-      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
       "correctAnswer": 2,
       "explanation": "The SI unit of resistance is the ohm (Ω), named after Georg Ohm.",
       "difficulty": "beginner"
     },
     {
       "question": "According to Ohm's Law, V = I × R. What does V represent?",
-      "options": ["Current", "Resistance", "Power", "Voltage"],
+      "options": [
+        "Current",
+        "Resistance",
+        "Power",
+        "Voltage"
+      ],
       "correctAnswer": 3,
       "explanation": "V represents voltage (potential difference) measured in volts.",
       "difficulty": "beginner"
     },
     {
       "question": "Three 100Ω resistors are connected in parallel. What is the total resistance?",
-      "options": ["300Ω", "100Ω", "33.3Ω", "50Ω"],
+      "options": [
+        "300Ω",
+        "100Ω",
+        "33.3Ω",
+        "50Ω"
+      ],
       "correctAnswer": 2,
       "explanation": "1/R_total = 1/100 + 1/100 + 1/100 = 3/100, so R_total = 33.3Ω",
       "difficulty": "intermediate"
     },
     {
       "question": "Which type of resistor has the lowest noise?",
-      "options": ["Carbon film", "Wire-wound", "Metal film", "Thick film"],
+      "options": [
+        "Carbon film",
+        "Wire-wound",
+        "Metal film",
+        "Thick film"
+      ],
       "correctAnswer": 2,
       "explanation": "Metal film resistors have the lowest noise characteristics.",
       "difficulty": "intermediate"
     },
     {
       "question": "What does the temperature coefficient of a resistor indicate?",
-      "options": ["How much power it can dissipate", "How much its resistance changes with temperature", "Its physical size", "Its maximum voltage rating"],
+      "options": [
+        "How much power it can dissipate",
+        "How much its resistance changes with temperature",
+        "Its physical size",
+        "Its maximum voltage rating"
+      ],
       "correctAnswer": 1,
       "explanation": "The temperature coefficient (ppm/°C) indicates how much the resistance changes per degree Celsius.",
       "difficulty": "advanced"

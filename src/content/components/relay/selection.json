@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Coil Voltage",
+      "description": "Match control supply."
+    },
+    {
+      "step": 2,
+      "title": "Contact Rating",
+      "description": "Exceed load current/voltage."
+    },
+    {
+      "step": 3,
+      "title": "Form",
+      "description": "SPST/SPDT as needed."
+    },
+    {
+      "step": 4,
+      "title": "Flyback Diode",
+      "description": "Protect coil driver."
+    }
+  ],
+  "tips": [
+    "Use flyback diode on coil",
+    "Snubber for inductive loads",
+    "SSR for silent/fast",
+    "Derating extends life"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Pressure =",
+      "options": [
+        "F/A",
+        "V/I",
+        "R×I",
+        "P×V"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Force per area.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Diaphragm does:",
+      "options": [
+        "Deflects",
+        "Heats",
+        "Emits",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mechanical response.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4-20mA detects:",
+      "options": [
+        "Broken wire",
+        "Overpressure",
+        "Heat",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "0mA = fault.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Piezoresistive uses:",
+      "options": [
+        "Silicon strain",
+        "Capacitor",
+        "Coil",
+        "Diode"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resistive change.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Gauge pressure refs:",
+      "options": [
+        "Atmosphere",
+        "Vacuum",
+        "Earth",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "vs ambient.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

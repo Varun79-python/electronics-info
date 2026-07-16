@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What stores a flip-flop?",
+      "answer": "One bit of state (Q)."
+    },
+    {
+      "question": "D vs T?",
+      "answer": "D copies input; T toggles on clock."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Metastability?",
+      "answer": "When async input violates timing, output may be undefined."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why two FFs for sync?",
+      "answer": "Reduces metastability probability."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Setup/hold?",
+      "answer": "Input must be stable around the clock edge."
+    }
+  ]
+}

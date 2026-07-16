@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "SPST",
+      "definition": "Single-pole single-throw switch."
+    },
+    {
+      "term": "DPDT",
+      "definition": "Double-pole double-throw switch."
+    },
+    {
+      "term": "Momentary",
+      "definition": "Returns to rest when released."
+    },
+    {
+      "term": "Contact Bounce",
+      "definition": "Brief multiple makes when closing."
+    }
+  ]
+}

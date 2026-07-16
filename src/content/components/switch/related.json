@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "relay",
+      "relationship": "Electrically operated switch"
+    },
+    {
+      "id": "push-button",
+      "relationship": "Momentary switch"
+    },
+    {
+      "id": "contactor",
+      "relationship": "Heavy switch"
+    }
+  ]
+}

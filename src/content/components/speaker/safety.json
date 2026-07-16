@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Amplifier current; don't short.",
+  "thermalSafety": "Overpower heats voice coil.",
+  "handling": "Avoid puncturing cone.",
+  "storage": "Dry, avoid magnet debris.",
+  "disposal": "E-waste rules."
+}

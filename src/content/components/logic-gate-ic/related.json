@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "logic-gates",
+      "relationship": "Concept"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Alternative"
+    },
+    {
+      "id": "fpga",
+      "relationship": "Reconfigurable logic"
+    }
+  ]
+}

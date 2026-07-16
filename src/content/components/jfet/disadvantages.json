@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Lower gain than MOSFET",
+    "Normally on (needs negative bias for N)",
+    "Modest voltage range",
+    "Less dense than MOS",
+    "Limited power",
+    "Fewer types than MOSFET"
+  ]
+}

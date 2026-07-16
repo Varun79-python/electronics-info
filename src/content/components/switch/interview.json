@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does a switch do?",
+      "answer": "It opens or closes a circuit to stop or allow current flow."
+    },
+    {
+      "question": "SPST vs SPDT?",
+      "answer": "SPST is simple on/off; SPDT selects between two outputs."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why derate for inductive loads?",
+      "answer": "Inductive loads cause arcing that degrades contacts."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How handle contact bounce?",
+      "answer": "Use RC snubber or software debounce."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When choose solid-state over mechanical?",
+      "answer": "For silent, fast, frequent, no-bounce switching."
+    }
+  ]
+}

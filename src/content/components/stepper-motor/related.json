@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "dc-motor",
+      "relationship": "Continuous-motion cousin"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Generates step sequence"
+    },
+    {
+      "id": "transistor",
+      "relationship": "Driver stage"
+    },
+    {
+      "id": "encoder",
+      "relationship": "Closed-loop feedback"
+    }
+  ]
+}

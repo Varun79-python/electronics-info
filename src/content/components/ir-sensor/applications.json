@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Consumer",
+      "description": "Remote control",
+      "examples": [
+        "TV"
+      ]
+    },
+    {
+      "category": "Security",
+      "description": "Motion",
+      "examples": [
+        "PIR"
+      ]
+    },
+    {
+      "category": "Robotics",
+      "description": "Line/edge",
+      "examples": [
+        "Bots"
+      ]
+    }
+  ]
+}

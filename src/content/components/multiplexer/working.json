@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Select lines choose which input passes to the output through internal gates (like a digital selector switch).",
+  "steps": [
+    "Select code applied",
+    "Decoder enables one path",
+    "Chosen input reaches output",
+    "Others blocked"
+  ],
+  "microscopicExplanation": "A binary decoder turns the select bits into one enable; transmission gates pass that input."
+}

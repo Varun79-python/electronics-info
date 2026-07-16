@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "triac",
+      "relationship": "Bidirectional thyristor"
+    },
+    {
+      "id": "igbt",
+      "relationship": "Faster turn-off alternative"
+    },
+    {
+      "id": "diode",
+      "relationship": "Rectifier companion"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Gate and snubber resistors"
+    }
+  ]
+}

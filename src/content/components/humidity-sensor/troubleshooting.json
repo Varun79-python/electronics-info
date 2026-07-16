@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Stuck",
+      "symptoms": [
+        "No change"
+      ],
+      "causes": [
+        "Condensation"
+      ],
+      "solution": "Dry out"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Wrong"
+      ],
+      "causes": [
+        "Aging"
+      ],
+      "solution": "Recalibrate"
+    },
+    {
+      "failure": "Slow",
+      "symptoms": [
+        "Lag"
+      ],
+      "causes": [
+        "Film"
+      ],
+      "solution": "Accept"
+    }
+  ]
+}

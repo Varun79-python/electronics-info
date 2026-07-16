@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "demultiplexer",
+    "name": "Demultiplexer",
+    "category": "digital",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 74,
+    "status": "published"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "potentiometer",
+      "relationship": "User-adjustable cousin"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Fixed alternative"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Trims offset and gain"
+    },
+    {
+      "id": "comparator",
+      "relationship": "Sets threshold"
+    }
+  ]
+}

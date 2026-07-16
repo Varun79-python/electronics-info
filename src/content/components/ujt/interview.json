@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a UJT?",
+      "answer": "A three-terminal device used mainly as a relaxation oscillator and trigger."
+    },
+    {
+      "question": "What does η represent?",
+      "answer": "The intrinsic standoff ratio setting the firing threshold."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "How does it oscillate?",
+      "answer": "A capacitor charges until the emitter fires the UJT, discharging it, then recharges."
+    },
+    {
+      "question": "Why largely obsolete?",
+      "answer": "IC timers like the 555 are more flexible and precise."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How trigger an SCR with UJT?",
+      "answer": "The UJT pulse at base1 drives the SCR gate through a pulse transformer or resistor."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When still use a UJT?",
+      "answer": "In simple, robust, low-cost trigger circuits where an IC is unnecessary."
+    }
+  ]
+}

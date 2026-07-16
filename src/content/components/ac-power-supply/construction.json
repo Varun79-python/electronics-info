@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Transformer/Variac",
+      "function": "Adjusts AC voltage",
+      "material": "Copper/steel"
+    },
+    {
+      "name": "Inverter Bridge",
+      "function": "DC to AC (synthesized)",
+      "material": "MOSFET/IGBT"
+    },
+    {
+      "name": "Output Filter",
+      "function": "Smooths sine",
+      "material": "Inductor/cap"
+    },
+    {
+      "name": "Control",
+      "function": "Sets V/f",
+      "material": "MCU"
+    }
+  ]
+}

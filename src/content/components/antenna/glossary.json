@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Wavelength",
+      "definition": "λ = c/f."
+    },
+    {
+      "term": "Gain (dBi)",
+      "definition": "Directivity vs isotropic."
+    },
+    {
+      "term": "Impedance",
+      "definition": "50Ω typical match."
+    },
+    {
+      "term": "Polarization",
+      "definition": "Field orientation."
+    }
+  ]
+}

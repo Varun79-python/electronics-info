@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Power Rating",
+      "typicalValues": "1VA to MVA",
+      "notes": "Must exceed load demand"
+    },
+    {
+      "name": "Turns Ratio",
+      "typicalValues": "Custom",
+      "notes": "Sets voltage transformation"
+    },
+    {
+      "name": "Frequency",
+      "typicalValues": "50/60Hz, or kHz for ferrite",
+      "notes": "Core material limits frequency"
+    },
+    {
+      "name": "Efficiency",
+      "typicalValues": "90% to 99%",
+      "notes": "Losses from copper and core"
+    },
+    {
+      "name": "Isolation Voltage",
+      "typicalValues": "1kV to 10kV+",
+      "notes": "Critical for safety"
+    },
+    {
+      "name": "Regulation",
+      "typicalValues": "2% to 10%",
+      "notes": "Voltage drop from no-load to full-load"
+    }
+  ]
+}

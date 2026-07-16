@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Breadboard is:",
+      "options": [
+        "Solderless",
+        "Soldered",
+        "PCB",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reusable.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Pitch is:",
+      "options": [
+        "2.54mm",
+        "1mm",
+        "5mm",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "0.1in.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Center gap for:",
+      "options": [
+        "IC rows",
+        "Power",
+        "Ground",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DIP split.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Current limit ~",
+      "options": [
+        "1A",
+        "10A",
+        "100A",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clips weak.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Used for:",
+      "options": [
+        "Prototyping",
+        "Production",
+        "Power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Temp builds.",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Size",
+      "description": "In/out count."
+    },
+    {
+      "step": 2,
+      "title": "Polarity",
+      "description": "Active high/low."
+    },
+    {
+      "step": 3,
+      "title": "Enable",
+      "description": "Needed?"
+    },
+    {
+      "step": 4,
+      "title": "Speed",
+      "description": "Prop delay."
+    }
+  ],
+  "tips": [
+    "Use enable to gate",
+    "Watch glitches",
+    "Match polarity"
+  ]
+}

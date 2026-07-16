@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Saturation Voltage",
+      "formula": "V_CE(sat) ≈ 1.5V to 3V",
+      "description": "Nearly constant loss vs current.",
+      "variables": [
+        {
+          "symbol": "V_CE(sat)",
+          "name": "Saturation voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "At 100A still ~2V"
+    },
+    {
+      "name": "Conduction Loss",
+      "formula": "P = V_CE(sat) × I",
+      "description": "Loss independent of I².",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "2V × 50A = 100W"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "counter",
+    "name": "Counter",
+    "category": "digital",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 71,
+    "status": "published"
+  }
+}

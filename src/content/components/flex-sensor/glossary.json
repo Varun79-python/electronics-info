@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Hysteresis",
+      "definition": "Different R bending vs straightening."
+    },
+    {
+      "term": "Conductive Ink",
+      "definition": "Carbon composite path."
+    },
+    {
+      "term": "Creep",
+      "definition": "Slow resistance change under strain."
+    },
+    {
+      "term": "Divider",
+      "definition": "Resistive voltage divider."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Drift",
+    "Noise",
+    "Temperature error",
+    "Saturation",
+    "Cross-axis"
+  ]
+}

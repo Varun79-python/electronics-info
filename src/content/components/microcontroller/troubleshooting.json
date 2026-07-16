@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Boot",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Bad flash"
+      ],
+      "solution": "Reflash"
+    },
+    {
+      "failure": "Reset Loop",
+      "symptoms": [
+        "Reboots"
+      ],
+      "causes": [
+        "Watchdog"
+      ],
+      "solution": "Fix code"
+    },
+    {
+      "failure": "Peripheral Fail",
+      "symptoms": [
+        "No I/O"
+      ],
+      "causes": [
+        "Config"
+      ],
+      "solution": "Check init"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Crystal oscillators are valued for:",
+      "options": [
+        "Low cost",
+        "Frequency stability",
+        "High power",
+        "Large size"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stability is their key feature.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Stability is measured in:",
+      "options": [
+        "%",
+        "ppm",
+        "dB",
+        "Hz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parts per million.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "32.768kHz crystals are used for:",
+      "options": [
+        "CPU",
+        "RTC",
+        "Radio",
+        "Audio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Real-time clocks (2^15 per second).",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "TCXO improves:",
+      "options": [
+        "Cost",
+        "Temp stability",
+        "Size",
+        "Power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Temperature compensation.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Over-driving a crystal can:",
+      "options": [
+        "Improve stability",
+        "Damage/fracture it",
+        "Lower frequency",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Excess drive can crack quartz.",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Voltage",
+      "typicalValues": "1.2-3.7V/cell",
+      "notes": "Cell"
+    },
+    {
+      "name": "Capacity",
+      "typicalValues": "mAh-Ah",
+      "notes": "Charge"
+    },
+    {
+      "name": "Chemistry",
+      "typicalValues": "Li-ion/NiMH",
+      "notes": "Type"
+    },
+    {
+      "name": "Cycles",
+      "typicalValues": "300-2000",
+      "notes": "Life"
+    }
+  ]
+}

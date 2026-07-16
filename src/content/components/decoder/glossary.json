@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Decoder",
+      "definition": "Code-to-line converter."
+    },
+    {
+      "term": "One-hot",
+      "definition": "Single line active."
+    },
+    {
+      "term": "Enable",
+      "definition": "Master gate."
+    },
+    {
+      "term": "Encoder",
+      "definition": "Inverse function."
+    }
+  ]
+}

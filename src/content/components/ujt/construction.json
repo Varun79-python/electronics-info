@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "N-type Bar",
+      "function": "Base resistance",
+      "material": "Silicon"
+    },
+    {
+      "name": "Emitter p-n Junction",
+      "function": "Trigger point",
+      "material": "P silicon"
+    },
+    {
+      "name": "Base1/Base2 Contacts",
+      "function": "Terminals",
+      "material": "Tinned leads"
+    }
+  ]
+}

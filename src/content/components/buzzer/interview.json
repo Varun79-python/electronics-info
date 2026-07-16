@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Active vs passive buzzer?",
+      "answer": "Active has a built-in oscillator (apply DC); passive needs an external AC tone."
+    },
+    {
+      "question": "How does a piezo buzzer work?",
+      "answer": "A piezoelectric disc flexes with applied voltage, vibrating to make sound."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why 2-4kHz tone?",
+      "answer": "That range is most audible to humans at low power."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Drive a passive buzzer?",
+      "answer": "Use a square wave from a timer/MCU through a transistor."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How vary pitch?",
+      "answer": "For passive types, change the drive frequency; active types are fixed."
+    }
+  ]
+}

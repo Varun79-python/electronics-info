@@ -1,0 +1,28 @@
+{
+  "applications": [
+    {
+      "category": "Surge Protection",
+      "description": "Clamps lightning and switching transients",
+      "examples": [
+        "AC mains",
+        "Power strips"
+      ]
+    },
+    {
+      "category": "Overvoltage Protection",
+      "description": "Protects ICs and modules",
+      "examples": [
+        "Motor drives",
+        "Telecom"
+      ]
+    },
+    {
+      "category": "Noise Suppression",
+      "description": "Absorbs transient spikes",
+      "examples": [
+        "Relay coils",
+        "Inductive loads"
+      ]
+    }
+  ]
+}

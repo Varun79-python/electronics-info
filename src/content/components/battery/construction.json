@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Anode",
+      "function": "Oxidize",
+      "material": "Graphite/Li"
+    },
+    {
+      "name": "Cathode",
+      "function": "Reduce",
+      "material": "Metal oxide"
+    },
+    {
+      "name": "Electrolyte",
+      "function": "Ion path",
+      "material": "Salt/liquid"
+    },
+    {
+      "name": "Separator",
+      "function": "Block short",
+      "material": "Polymer"
+    }
+  ]
+}

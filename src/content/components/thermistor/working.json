@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A negative-temperature-coefficient (NTC) thermistor's resistance falls as temperature rises (more carriers become available). A positive-temperature-coefficient (PTC) type rises with temperature.",
+  "steps": [
+    "Temperature changes the semiconductor carrier density",
+    "For NTC, higher temperature lowers resistance",
+    "For PTC, higher temperature raises resistance sharply",
+    "The resistance is measured with a simple circuit",
+    "The value is converted to temperature via a curve"
+  ],
+  "microscopicExplanation": "In NTC ceramics, thermal energy excites more charge carriers, increasing conductivity. In PTC types, a phase transition near the Curie point causes a sudden resistivity jump."
+}

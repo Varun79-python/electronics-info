@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Total Resistance",
+      "typicalValues": "100Ω to 10MΩ",
+      "notes": "Common: 1k, 10k, 100k"
+    },
+    {
+      "name": "Taper",
+      "typicalValues": "Linear (B), Log (A)",
+      "notes": "Audio uses log taper"
+    },
+    {
+      "name": "Power Rating",
+      "typicalValues": "0.1W to 2W",
+      "notes": "Lower than fixed resistors"
+    },
+    {
+      "name": "Tolerance",
+      "typicalValues": "±10%, ±20%",
+      "notes": "Absolute value less critical"
+    },
+    {
+      "name": "Rotational Life",
+      "typicalValues": "1k to 100k cycles",
+      "notes": "Wear affects reliability"
+    },
+    {
+      "name": "Law Error",
+      "typicalValues": "±3% to ±10%",
+      "notes": "Deviation from ideal taper"
+    }
+  ]
+}

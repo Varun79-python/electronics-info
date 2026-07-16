@@ -1,0 +1,34 @@
+{
+  "types": [
+    {
+      "name": "DC Servo",
+      "description": "Brushed with encoder.",
+      "applications": [
+        "Hobby",
+        "Small"
+      ]
+    },
+    {
+      "name": "BLDC Servo",
+      "description": "Efficient, precise.",
+      "applications": [
+        "Robotics"
+      ]
+    },
+    {
+      "name": "AC Servo",
+      "description": "High power.",
+      "applications": [
+        "Industrial"
+      ]
+    },
+    {
+      "name": "Hobby Servo",
+      "description": "Position by PWM pulse.",
+      "applications": [
+        "RC",
+        "Small bots"
+      ]
+    }
+  ]
+}

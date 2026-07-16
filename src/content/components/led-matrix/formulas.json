@@ -1,0 +1,43 @@
+{
+  "formulas": [
+    {
+      "name": "Pixels",
+      "formula": "N = R × C",
+      "description": "Grid size.",
+      "variables": [
+        {
+          "symbol": "N",
+          "name": "Pixels",
+          "unit": ""
+        }
+      ],
+      "example": "8x8=64"
+    },
+    {
+      "name": "Scan Duty",
+      "formula": "Duty = 1/R_rows",
+      "description": "Per-row on time.",
+      "variables": [
+        {
+          "symbol": "Duty",
+          "name": "Duty",
+          "unit": ""
+        }
+      ],
+      "example": "8 rows 12.5%"
+    },
+    {
+      "name": "Current",
+      "formula": "I_total = I_led × lit_per_row",
+      "description": "Peak current.",
+      "variables": [
+        {
+          "symbol": "I_total",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "Peak high"
+    }
+  ]
+}

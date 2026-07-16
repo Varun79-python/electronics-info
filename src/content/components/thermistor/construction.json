@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Semiconductor Bead/Disc",
+      "function": "Senses temperature",
+      "material": "Metal oxide ceramic"
+    },
+    {
+      "name": "Leads",
+      "function": "Connect to circuit",
+      "material": "Platinum or nickel"
+    },
+    {
+      "name": "Encapsulation",
+      "function": "Protects and sets thermal response",
+      "material": "Epoxy, glass, or metal can"
+    }
+  ]
+}

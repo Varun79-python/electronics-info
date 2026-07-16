@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Power hungry",
+    "Cost (vs MCU)",
+    "Hard to design",
+    "Tool cost",
+    "Bitstream volatile"
+  ]
+}

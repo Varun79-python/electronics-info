@@ -1,0 +1,11 @@
+{
+  "name": "Logic Gates",
+  "id": "logic-gates",
+  "category": "digital",
+  "shortDescription": "Logic gates are the fundamental building blocks of digital circuits that implement Boolean functions.",
+  "whatIsIt": "Logic gates are the fundamental building blocks of digital circuits that implement Boolean functions.",
+  "whyExists": "All digital computation is built from combinations of basic gates.",
+  "whereUsed": "Used in every digital system from simple controllers to CPUs.",
+  "thumbnail": "/assets/images/components/logic-gates/thumbnail.svg",
+  "schematic": "/assets/components/logic-gates/schematic/symbol.svg"
+}

@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Robotics",
+      "description": "Obstacle detect",
+      "examples": [
+        "Drones"
+      ]
+    },
+    {
+      "category": "Automotive",
+      "description": "Parking",
+      "examples": [
+        "Cars"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Level",
+      "examples": [
+        "Tanks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "DSP",
+      "description": "Filtering",
+      "examples": [
+        "Radio"
+      ]
+    },
+    {
+      "category": "Prototyping",
+      "description": "ASIC emulation",
+      "examples": [
+        "Chips"
+      ]
+    },
+    {
+      "category": "Vision",
+      "description": "Image pipe",
+      "examples": [
+        "Cameras"
+      ]
+    },
+    {
+      "category": "Networking",
+      "description": "Packet",
+      "examples": [
+        "Switches"
+      ]
+    }
+  ]
+}

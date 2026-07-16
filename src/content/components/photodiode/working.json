@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "In photoconductive or photovoltaic mode, incident photons with energy above the bandgap create carriers that are swept across the depletion region, producing a current proportional to light intensity.",
+  "steps": [
+    "Photons strike the depletion region",
+    "Carriers are generated if hν > Eg",
+    "The field sweeps carriers across the junction",
+    "A photocurrent flows proportional to light",
+    "The current is measured or converted to voltage"
+  ],
+  "microscopicExplanation": "Each absorbed photon above the bandgap yields roughly one electron-hole pair; the built-in field separates them before recombination, giving a measurable current."
+}

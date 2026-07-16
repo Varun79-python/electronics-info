@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Slower than MOSFET",
+    "Tail current at turn-off",
+    "Cannot switch as fast",
+    "Parasitic thyristor latch risk",
+    "More complex gate drive",
+    "Higher cost at low power"
+  ]
+}

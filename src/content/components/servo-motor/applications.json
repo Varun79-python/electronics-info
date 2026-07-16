@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Robotics",
+      "description": "Joint control",
+      "examples": [
+        "Arms",
+        "Legs"
+      ]
+    },
+    {
+      "category": "CNC",
+      "description": "Axis positioning",
+      "examples": [
+        "Mills",
+        "Lathes"
+      ]
+    },
+    {
+      "category": "Cameras",
+      "description": "Gimbal/optics",
+      "examples": [
+        "Stabilization"
+      ]
+    },
+    {
+      "category": "Drones",
+      "description": "Attitude control",
+      "examples": [
+        "Flight"
+      ]
+    }
+  ]
+}

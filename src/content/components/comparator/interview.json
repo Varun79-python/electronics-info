@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Comparator vs op-amp?",
+      "answer": "Comparator snaps digital; op-amp used with feedback for linear."
+    },
+    {
+      "question": "Why hysteresis?",
+      "answer": "Prevents chatter near the threshold."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Open-collector needs?",
+      "answer": "An external pull-up resistor."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Chatter cause?",
+      "answer": "Noise around threshold without hysteresis."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Fast comparator design?",
+      "answer": "Minimize input capacitance, use proper layout and hysteresis."
+    }
+  ]
+}

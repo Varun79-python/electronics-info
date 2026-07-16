@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Motor Control",
+      "description": "Start/stop motors",
+      "examples": [
+        "Pumps",
+        "Conveyors"
+      ]
+    },
+    {
+      "category": "Power Switching",
+      "description": "Large loads",
+      "examples": [
+        "HVAC",
+        "Lighting"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Machine control",
+      "examples": [
+        "Panels"
+      ]
+    },
+    {
+      "category": "EV/Storage",
+      "description": "High-current DC",
+      "examples": [
+        "Battery isolation"
+      ]
+    }
+  ]
+}

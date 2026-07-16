@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Sense Distance",
+      "formula": "Sn (rated)",
+      "description": "Nominal range.",
+      "variables": [
+        {
+          "symbol": "Sn",
+          "name": "Distance",
+          "unit": "mm"
+        }
+      ],
+      "example": "4mm, 8mm common"
+    },
+    {
+      "name": "Eddy Damping",
+      "formula": "Δf ∝ proximity",
+      "description": "Frequency shift.",
+      "variables": [
+        {
+          "symbol": "Δf",
+          "name": "Freq shift",
+          "unit": "Hz"
+        }
+      ],
+      "example": "Oscillator drop"
+    }
+  ]
+}

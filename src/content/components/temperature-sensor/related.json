@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "thermistor",
+      "relationship": "NTC type"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads sensor"
+    },
+    {
+      "id": "adc",
+      "relationship": "Converts analog"
+    }
+  ]
+}

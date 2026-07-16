@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "tunnel-diode",
+    "name": "Tunnel Diode",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 27,
+    "status": "published"
+  }
+}

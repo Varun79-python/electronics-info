@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Dim",
+      "symptoms": [
+        "Faint"
+      ],
+      "causes": [
+        "No resistor"
+      ],
+      "solution": "Add R"
+    },
+    {
+      "failure": "Wrong Digit",
+      "symptoms": [
+        "Garbage"
+      ],
+      "causes": [
+        "Bad code"
+      ],
+      "solution": "Fix map"
+    },
+    {
+      "failure": "Flicker",
+      "symptoms": [
+        "Blink"
+      ],
+      "causes": [
+        "Slow mux"
+      ],
+      "solution": "Faster"
+    }
+  ]
+}

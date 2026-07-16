@@ -1,0 +1,37 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Start",
+      "symptoms": [
+        "No clock",
+        "MCU dead"
+      ],
+      "causes": [
+        "Wrong load C",
+        "Damage"
+      ],
+      "solution": "Fix caps; replace"
+    },
+    {
+      "failure": "Frequency Off",
+      "symptoms": [
+        "Timing errors"
+      ],
+      "causes": [
+        "Wrong CL",
+        "Aging"
+      ],
+      "solution": "Recalibrate"
+    },
+    {
+      "failure": "Cracked Crystal",
+      "symptoms": [
+        "No oscillation"
+      ],
+      "causes": [
+        "Mechanical shock"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

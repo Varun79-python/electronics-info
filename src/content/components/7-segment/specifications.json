@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Digits",
+      "typicalValues": "1-8",
+      "notes": "Count"
+    },
+    {
+      "name": "Color",
+      "typicalValues": "Red/green/blue",
+      "notes": "LED"
+    },
+    {
+      "name": "Forward V",
+      "typicalValues": "1.8-3.3V",
+      "notes": "Per segment"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "CA/CC",
+      "notes": "Common"
+    }
+  ]
+}

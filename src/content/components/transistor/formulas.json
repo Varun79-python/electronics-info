@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "Current Gain",
+      "formula": "I_C = β × I_B",
+      "description": "Collector current from base current.",
+      "variables": [
+        {
+          "symbol": "I_C",
+          "name": "Collector current",
+          "unit": "A"
+        },
+        {
+          "symbol": "β",
+          "name": "Gain",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "I_B",
+          "name": "Base current",
+          "unit": "A"
+        }
+      ],
+      "example": "β=100, I_B=1mA → I_C=100mA"
+    },
+    {
+      "name": "Transconductance",
+      "formula": "g_m = I_C / V_T",
+      "description": "Small-signal gain parameter.",
+      "variables": [
+        {
+          "symbol": "g_m",
+          "name": "Transconductance",
+          "unit": "S"
+        },
+        {
+          "symbol": "V_T",
+          "name": "Thermal voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "At 1mA, g_m≈38mS"
+    }
+  ]
+}

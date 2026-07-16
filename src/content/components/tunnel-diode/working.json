@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Heavy doping makes the depletion region extremely thin, so carriers tunnel through it. The I-V curve has a region where current decreases as voltage increases (negative differential resistance).",
+  "steps": [
+    "Low forward bias: carriers tunnel (current rises)",
+    "Peak current reached at V_p",
+    "Further bias: tunneling reduces (current falls)",
+    "Negative-resistance region between V_p and V_v",
+    "Beyond valley, normal diode conduction resumes"
+  ],
+  "microscopicExplanation": "Quantum mechanical tunneling through the thin barrier dominates at low bias; as bias increases the alignment of states shifts, reducing the tunnel current and creating the negative-resistance valley."
+}

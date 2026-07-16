@@ -1,0 +1,14 @@
+{
+  "internalParts": [
+    {
+      "name": "Symmetric p-n-p-n",
+      "function": "Bidirectional breakover",
+      "material": "Silicon"
+    },
+    {
+      "name": "Terminals",
+      "function": "Two equal ends",
+      "material": "Tinned leads"
+    }
+  ]
+}

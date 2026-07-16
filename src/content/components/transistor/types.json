@@ -1,0 +1,28 @@
+{
+  "types": [
+    {
+      "name": "NPN",
+      "description": "Electron-majority current flow.",
+      "applications": [
+        "General amplification",
+        "Switching"
+      ]
+    },
+    {
+      "name": "PNP",
+      "description": "Hole-majority; complementary.",
+      "applications": [
+        "High-side switch",
+        "Complementary pairs"
+      ]
+    },
+    {
+      "name": "Power BJT",
+      "description": "High current/voltage.",
+      "applications": [
+        "Motor drives",
+        "Audio"
+      ]
+    }
+  ]
+}

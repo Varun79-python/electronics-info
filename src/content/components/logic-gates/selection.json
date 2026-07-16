@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Function",
+      "description": "Needed gate."
+    },
+    {
+      "step": 2,
+      "title": "Family",
+      "description": "Match voltage."
+    },
+    {
+      "step": 3,
+      "title": "Package",
+      "description": "Footprint."
+    },
+    {
+      "step": 4,
+      "title": "Unused",
+      "description": "Tie inputs."
+    }
+  ],
+  "tips": [
+    "Use NAND universal",
+    "Decouple",
+    "Avoid float"
+  ]
+}

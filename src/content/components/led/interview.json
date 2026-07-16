@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is an LED?",
+      "answer": "A diode that emits light when forward biased, via electroluminescence."
+    },
+    {
+      "question": "Why does an LED need a resistor?",
+      "answer": "Its forward voltage is fixed; a resistor limits current to a safe value."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What determines LED color?",
+      "answer": "The semiconductor bandgap energy; larger gap gives shorter (bluer) wavelength."
+    },
+    {
+      "question": "Why did blue LEDs matter?",
+      "answer": "Combining blue with phosphors enables white light and full-color displays."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How does temperature affect LEDs?",
+      "answer": "Forward voltage drops and wavelength shifts with temperature; junction heat reduces life."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Best way to drive high-power LEDs?",
+      "answer": "Use a constant-current switching driver with thermal management and dimming control."
+    }
+  ]
+}

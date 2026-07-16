@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Jumper wire is for:",
+      "options": [
+        "Connections",
+        "Solder",
+        "Regulate",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Patch link.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "M/F means:",
+      "options": [
+        "Male+female",
+        "Metal",
+        "Meter",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mixed ends.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Current ~",
+      "options": [
+        "1A",
+        "10A",
+        "100A",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thin wire.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Use solid for:",
+      "options": [
+        "Breadboard",
+        "High power",
+        "Antenna",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fits sockets.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Color used to:",
+      "options": [
+        "Identify signal",
+        "Carry more",
+        "Insulate",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coding.",
+      "difficulty": "beginner"
+    }
+  ]
+}

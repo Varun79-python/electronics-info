@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Underneath, metal clips connect rows and columns; inserting leads makes temporary electrical contacts in a standard layout.",
+  "steps": [
+    "Place IC across center gap",
+    "Power rails along edges",
+    "Insert components/wires",
+    "Clips connect them"
+  ],
+  "microscopicExplanation": "Spring-metal terminals grip leads; rows are common, with a center gap splitting the two halves."
+}

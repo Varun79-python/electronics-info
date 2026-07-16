@@ -1,0 +1,18 @@
+{
+  "types": [
+    {
+      "name": "Germanium Tunnel Diode",
+      "description": "Classic type.",
+      "applications": [
+        "Oscillators"
+      ]
+    },
+    {
+      "name": "GaAs Tunnel Diode",
+      "description": "Higher frequency.",
+      "applications": [
+        "Microwave"
+      ]
+    }
+  ]
+}

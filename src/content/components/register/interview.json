@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a register?",
+      "answer": "A set of flip-flops storing a data word."
+    },
+    {
+      "question": "Shift register use?",
+      "answer": "Converts serial to parallel and vice versa."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Parallel vs shift?",
+      "answer": "Parallel loads a word at once; shift moves bit by bit."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Timing concern?",
+      "answer": "Setup/hold on the shared clock."
+    }
+  ],
+  "expert": [
+    {
+      "question": "CPU register role?",
+      "answer": "Fastest operand storage for the ALU."
+    }
+  ]
+}

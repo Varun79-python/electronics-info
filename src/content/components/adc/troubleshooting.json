@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Noisy",
+      "symptoms": [
+        "Jitter"
+      ],
+      "causes": [
+        "Noise"
+      ],
+      "solution": "Filter/ref"
+    },
+    {
+      "failure": "Aliasing",
+      "symptoms": [
+        "Wrong"
+      ],
+      "causes": [
+        "Under-sample"
+      ],
+      "solution": "Filter"
+    },
+    {
+      "failure": "Clipping",
+      "symptoms": [
+        "Max code"
+      ],
+      "causes": [
+        "Over range"
+      ],
+      "solution": "Attenuate"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Each segment is an LED; a decoder or MCU lights the right combination to form digits 0-9 (and some letters).",
+  "steps": [
+    "Digit value computed",
+    "Decoder/MCU picks segments",
+    "Current drives those LEDs",
+    "Number appears"
+  ],
+  "microscopicExplanation": "Seven independent LEDs (plus dp) are switched by segment drivers; current limited by resistors."
+}

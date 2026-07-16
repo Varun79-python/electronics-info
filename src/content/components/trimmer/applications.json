@@ -1,0 +1,28 @@
+{
+  "applications": [
+    {
+      "category": "Calibration",
+      "description": "Trims offsets and gains",
+      "examples": [
+        "Op-amp offset",
+        "Sensor zero"
+      ]
+    },
+    {
+      "category": "Tuning",
+      "description": "Sets frequency or threshold",
+      "examples": [
+        "Oscillators",
+        "Comparators"
+      ]
+    },
+    {
+      "category": "Setup",
+      "description": "Factory adjustment",
+      "examples": [
+        "Displays",
+        "Radios"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "IR detector evolution",
+    "discovery": "Pyroelectric and photodiode IR sensing enabled remote and motion detection.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "IR photodiodes"
+      },
+      {
+        "year": 1970,
+        "event": "PIR motion"
+      },
+      {
+        "year": 1990,
+        "event": "IR remote ubiquitous"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Capacitive touch needs?",
+      "answer": "A change in local capacitance from the finger."
+    },
+    {
+      "question": "Gloves issue?",
+      "answer": "Non-conductive gloves don't affect the field."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Water false touch?",
+      "answer": "Water also changes capacitance like a finger."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Multi-touch how?",
+      "answer": "Mutual-capacitance grid locates multiple points."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Robust design?",
+      "answer": "Guard rings, ground shielding, and adaptive thresholds."
+    }
+  ]
+}

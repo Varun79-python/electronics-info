@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Torque Need",
+      "description": "Match holding/running torque."
+    },
+    {
+      "step": 2,
+      "title": "Step Resolution",
+      "description": "Microstepping for smoothness."
+    },
+    {
+      "step": 3,
+      "title": "Driver",
+      "description": "Bipolar chopper driver."
+    },
+    {
+      "step": 4,
+      "title": "Supply",
+      "description": "Voltage for speed."
+    }
+  ],
+  "tips": [
+    "Use microstepping",
+    "Bipolar drivers stronger",
+    "Avoid resonance bands",
+    "Current limit to avoid heat"
+  ]
+}

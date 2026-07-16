@@ -1,0 +1,17 @@
+{
+  "formulas": [
+    {
+      "name": "Rating",
+      "formula": "I_max, V_max",
+      "description": "Max switched load.",
+      "variables": [
+        {
+          "symbol": "I_max",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "2A 24V"
+    }
+  ]
+}

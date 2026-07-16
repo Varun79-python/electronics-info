@@ -1,0 +1,36 @@
+{
+  "types": [
+    {
+      "name": "Air-Core Inductor",
+      "description": "No magnetic core; used at RF to avoid core losses.",
+      "applications": [
+        "RF circuits",
+        "Filters"
+      ]
+    },
+    {
+      "name": "Ferrite-Core Inductor",
+      "description": "Ferrite core gives high inductance in small size.",
+      "applications": [
+        "Power supplies",
+        "EMI filters"
+      ]
+    },
+    {
+      "name": "Toroidal Inductor",
+      "description": "Ring-shaped core with low magnetic leakage.",
+      "applications": [
+        "Switch-mode power",
+        "Audio"
+      ]
+    },
+    {
+      "name": "Variable Inductor",
+      "description": "Adjustable inductance via movable core or tap.",
+      "applications": [
+        "Tuning",
+        "Laboratory"
+      ]
+    }
+  ]
+}

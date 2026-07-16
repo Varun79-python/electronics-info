@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Shift Rate",
+      "formula": "bits/s = f_clk",
+      "description": "Serial speed.",
+      "variables": [
+        {
+          "symbol": "bits/s",
+          "name": "Rate",
+          "unit": "bps"
+        },
+        {
+          "symbol": "f_clk",
+          "name": "Clock",
+          "unit": "Hz"
+        }
+      ],
+      "example": "1 bit/cycle"
+    },
+    {
+      "name": "Capacity",
+      "formula": "N bits",
+      "description": "Word size.",
+      "variables": [
+        {
+          "symbol": "N",
+          "name": "Bits",
+          "unit": ""
+        }
+      ],
+      "example": "8/16/32"
+    }
+  ]
+}

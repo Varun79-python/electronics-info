@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1960,
+    "inventor": "Texas Instruments (7400)",
+    "discovery": "The 7400 TTL series standardized logic families for digital design.",
+    "evolution": [
+      {
+        "year": 1960,
+        "event": "7400 TTL"
+      },
+      {
+        "year": 1980,
+        "event": "74HC CMOS"
+      },
+      {
+        "year": 2000,
+        "event": "Low-voltage families"
+      }
+    ]
+  }
+}

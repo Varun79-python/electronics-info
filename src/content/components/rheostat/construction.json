@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Resistive Element",
+      "function": "Sets variable resistance",
+      "material": "Wire or carbon"
+    },
+    {
+      "name": "Wiper",
+      "function": "Adjustable contact",
+      "material": "Spring metal"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect in series",
+      "material": "Tinned leads"
+    },
+    {
+      "name": "Housing",
+      "function": "Mechanical support",
+      "material": "Ceramic or metal"
+    }
+  ]
+}

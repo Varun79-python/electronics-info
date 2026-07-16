@@ -1,0 +1,11 @@
+{
+  "name": "Ultrasonic Sensor",
+  "id": "ultrasonic-sensor",
+  "category": "sensors",
+  "shortDescription": "An ultrasonic sensor measures distance by emitting ultrasound and timing the echo return.",
+  "whatIsIt": "An ultrasonic sensor measures distance by emitting ultrasound and timing the echo return.",
+  "whyExists": "Non-contact distance/level measurement is useful where optical or tactile sensing fails.",
+  "whereUsed": "Used in robotics, parking aids, and liquid level sensing.",
+  "thumbnail": "/assets/images/components/ultrasonic-sensor/thumbnail.svg",
+  "schematic": "/assets/components/ultrasonic-sensor/schematic/symbol.svg"
+}

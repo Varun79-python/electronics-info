@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1910,
+    "inventor": "Segment display evolution",
+    "discovery": "Seven-segment arrangement became standard for numeric readouts.",
+    "evolution": [
+      {
+        "year": 1910,
+        "event": "Early numeric"
+      },
+      {
+        "year": 1970,
+        "event": "LED 7-seg"
+      },
+      {
+        "year": 2000,
+        "event": "RGB/low-power"
+      }
+    ]
+  }
+}

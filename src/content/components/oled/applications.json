@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Consumer",
+      "description": "Screens",
+      "examples": [
+        "Phones"
+      ]
+    },
+    {
+      "category": "Wearable",
+      "description": "Flexible",
+      "examples": [
+        "Watches"
+      ]
+    },
+    {
+      "category": "TV",
+      "description": "Premium",
+      "examples": [
+        "Home"
+      ]
+    }
+  ]
+}

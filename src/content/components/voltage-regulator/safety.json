@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Observe max input; overvoltage damages.",
+  "currentSafety": "Limit load; protect with fuse.",
+  "thermalSafety": "Heatsinks for linear regulators.",
+  "handling": "ESD care.",
+  "storage": "Dry, anti-static.",
+  "disposal": "E-waste rules."
+}

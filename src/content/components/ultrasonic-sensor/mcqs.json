@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Distance formula:",
+      "options": [
+        "c·t/2",
+        "c·t",
+        "2·c·t",
+        "c/t"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Half trip.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ultrasonic freq ~",
+      "options": [
+        "40kHz",
+        "40Hz",
+        "4kHz",
+        "400kHz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Common module.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Blind zone is:",
+      "options": [
+        "Min distance",
+        "Max range",
+        "Beam",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Near limit.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Soft target causes:",
+      "options": [
+        "No echo",
+        "Loud echo",
+        "None",
+        "Heat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Absorbs sound.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "c depends on:",
+      "options": [
+        "Temperature",
+        "Light",
+        "Pressure only",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sound speed vs T.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

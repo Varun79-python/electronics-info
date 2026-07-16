@@ -1,0 +1,24 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Trigger",
+      "symptoms": [
+        "TRIAC won't fire"
+      ],
+      "causes": [
+        "Open DIAC"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Asymmetric",
+      "symptoms": [
+        "Uneven dimming"
+      ],
+      "causes": [
+        "Drift"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

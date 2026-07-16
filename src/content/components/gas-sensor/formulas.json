@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Resistance Ratio",
+      "formula": "Rs/R0 ∝ gas",
+      "description": "Concentration relation.",
+      "variables": [
+        {
+          "symbol": "Rs",
+          "name": "Sensor R",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "R0",
+          "name": "Clean R",
+          "unit": "Ω"
+        }
+      ],
+      "example": "Calibrate curve"
+    },
+    {
+      "name": "PPM",
+      "formula": "C = f(Rs/R0)",
+      "description": "Concentration.",
+      "variables": [
+        {
+          "symbol": "C",
+          "name": "Concentration",
+          "unit": "ppm"
+        }
+      ],
+      "example": "From datasheet"
+    }
+  ]
+}

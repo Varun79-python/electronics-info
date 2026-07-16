@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "dc-power-supply",
+    "name": "DC Power Supply",
+    "category": "power-electronics",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 30,
+    "status": "published"
+  }
+}

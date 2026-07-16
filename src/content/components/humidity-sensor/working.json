@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Capacitive types use a hygroscopic dielectric whose capacitance changes with moisture; resistive types change resistance.",
+  "steps": [
+    "Air moisture reaches sensor",
+    "Hygroscopic layer absorbs water",
+    "Dielectric constant changes",
+    "Capacitance/resistance shifts"
+  ],
+  "microscopicExplanation": "Water molecules alter the polymer/ceramic permittivity, changing the capacitor's value linearly with RH."
+}

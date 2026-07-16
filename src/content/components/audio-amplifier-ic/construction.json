@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Input Stage",
+      "function": "Gain",
+      "material": "Silicon"
+    },
+    {
+      "name": "Driver",
+      "function": "Buffer",
+      "material": "Silicon"
+    },
+    {
+      "name": "Output Transistors",
+      "function": "Power",
+      "material": "Silicon"
+    },
+    {
+      "name": "Feedback",
+      "function": "Stability",
+      "material": "Resistors"
+    }
+  ]
+}

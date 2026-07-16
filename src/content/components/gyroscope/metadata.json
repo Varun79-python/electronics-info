@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "gyroscope",
+    "name": "Gyroscope",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 49,
+    "status": "published"
+  }
+}

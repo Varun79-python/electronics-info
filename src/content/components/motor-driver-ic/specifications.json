@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Voltage",
+      "typicalValues": "2-46V",
+      "notes": "Motor supply"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "1-50A",
+      "notes": "Continuous"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "H-bridge/stepper",
+      "notes": "Topology"
+    },
+    {
+      "name": "Protection",
+      "typicalValues": "OCP/OTP",
+      "notes": "Safety"
+    }
+  ]
+}

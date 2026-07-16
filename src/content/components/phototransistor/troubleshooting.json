@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Response",
+      "symptoms": [
+        "No output"
+      ],
+      "causes": [
+        "No light",
+        "Wiring"
+      ],
+      "solution": "Check optics"
+    },
+    {
+      "failure": "Saturation",
+      "symptoms": [
+        "Flat output"
+      ],
+      "causes": [
+        "Too bright"
+      ],
+      "solution": "Attenuate"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Unstable"
+      ],
+      "causes": [
+        "Temp",
+        "Ambient"
+      ],
+      "solution": "Shield; compensate"
+    }
+  ]
+}

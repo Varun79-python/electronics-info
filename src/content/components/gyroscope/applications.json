@@ -1,0 +1,26 @@
+{
+  "applications": [
+    {
+      "category": "Stabilization",
+      "description": "Keep level",
+      "examples": [
+        "Drones",
+        "Gimbals"
+      ]
+    },
+    {
+      "category": "Navigation",
+      "description": "IMU",
+      "examples": [
+        "Robots"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "description": "Gesture",
+      "examples": [
+        "Phones"
+      ]
+    }
+  ]
+}

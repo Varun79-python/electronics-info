@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Ends",
+      "description": "M/M/F types."
+    },
+    {
+      "step": 2,
+      "title": "Gauge",
+      "description": "Current need."
+    },
+    {
+      "step": 3,
+      "title": "Length",
+      "description": "Fit layout."
+    },
+    {
+      "step": 4,
+      "title": "Color",
+      "description": "Signal coding."
+    }
+  ],
+  "tips": [
+    "Color by function",
+    "Don't overload",
+    "Use solid for breadboard"
+  ]
+}

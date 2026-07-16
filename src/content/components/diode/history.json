@@ -1,0 +1,29 @@
+{
+  "invention": {
+    "year": 1874,
+    "inventor": "Ferdinand Braun",
+    "discovery": "Discovered asymmetric electrical conduction across the contact between a crystalline mineral and a metal — the first semiconductor device.",
+    "evolution": [
+      {
+        "year": 1874,
+        "event": "Braun discovers crystal rectification"
+      },
+      {
+        "year": 1904,
+        "event": "Cat's-whisker detectors used in radio"
+      },
+      {
+        "year": 1940,
+        "event": "Silicon and germanium diodes developed"
+      },
+      {
+        "year": 1962,
+        "event": "First visible-spectrum LED (red)"
+      },
+      {
+        "year": 1990,
+        "event": "Blue LED enables white light"
+      }
+    ]
+  }
+}

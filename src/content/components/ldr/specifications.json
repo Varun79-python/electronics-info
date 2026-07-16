@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Dark Resistance",
+      "typicalValues": "1MΩ+",
+      "notes": "No light"
+    },
+    {
+      "name": "Light Resistance",
+      "typicalValues": "100Ω to 1kΩ",
+      "notes": "Bright"
+    },
+    {
+      "name": "Response",
+      "typicalValues": "10-100ms",
+      "notes": "Slow"
+    },
+    {
+      "name": "Spectral",
+      "typicalValues": "Visible/IR",
+      "notes": "Peak"
+    }
+  ]
+}

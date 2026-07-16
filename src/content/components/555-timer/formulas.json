@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Astable Frequency",
+      "formula": "f = 1.44 / ((R1+2R2) C)",
+      "description": "Oscillation rate.",
+      "variables": [
+        {
+          "symbol": "f",
+          "name": "Frequency",
+          "unit": "Hz"
+        },
+        {
+          "symbol": "C",
+          "name": "Cap",
+          "unit": "F"
+        }
+      ],
+      "example": "1kHz typical"
+    },
+    {
+      "name": "Monostable Pulse",
+      "formula": "T = 1.1 R C",
+      "description": "Pulse width.",
+      "variables": [
+        {
+          "symbol": "T",
+          "name": "Time",
+          "unit": "s"
+        }
+      ],
+      "example": "1s with 1MΩ,1µF"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low per cell.",
+  "currentSafety": "Short = high current/spark.",
+  "thermalSafety": "Li-ion can thermal-runaway; never puncture.",
+  "handling": "Avoid puncture/heat.",
+  "storage": "Cool, partial charge.",
+  "disposal": "Recycle; never landfill."
+}

@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Decoder",
+      "function": "Select path",
+      "material": "Silicon"
+    },
+    {
+      "name": "Transmission Gates",
+      "function": "Pass signal",
+      "material": "Silicon"
+    },
+    {
+      "name": "Select Inputs",
+      "function": "Choose",
+      "material": "Signal"
+    },
+    {
+      "name": "Output",
+      "function": "Drive",
+      "material": "Silicon"
+    }
+  ]
+}

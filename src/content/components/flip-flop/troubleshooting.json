@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Metastable",
+      "symptoms": [
+        "Wrong"
+      ],
+      "causes": [
+        "Async input"
+      ],
+      "solution": "Synchronize"
+    },
+    {
+      "failure": "No Clock",
+      "symptoms": [
+        "Frozen"
+      ],
+      "causes": [
+        "No edge"
+      ],
+      "solution": "Check clock"
+    },
+    {
+      "failure": "Wrong State",
+      "symptoms": [
+        "Error"
+      ],
+      "causes": [
+        "Setup viol"
+      ],
+      "solution": "Fix timing"
+    }
+  ]
+}

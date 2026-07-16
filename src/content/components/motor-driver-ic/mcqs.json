@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "H-bridge does:",
+      "options": [
+        "Reverse polarity",
+        "Amplify",
+        "Regulate",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Direction.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Speed by:",
+      "options": [
+        "PWM duty",
+        "Voltage only",
+        "Frequency",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Avg voltage.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Shoot-through is:",
+      "options": [
+        "Short circuit",
+        "Stall",
+        "Heat",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Both sides on.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Flyback needs:",
+      "options": [
+        "Clamp diodes",
+        "Cap",
+        "Resistor",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inductive kick.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Drives:",
+      "options": [
+        "Motor",
+        "LED",
+        "Sensor",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Power interface.",
+      "difficulty": "beginner"
+    }
+  ]
+}

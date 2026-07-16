@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does an antenna do?",
+      "answer": "Converts electrical RF to/from radio waves."
+    },
+    {
+      "question": "Length relation?",
+      "answer": "Resonant length is a fraction of wavelength."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why 50Ω?",
+      "answer": "Standard coax/RF system impedance for match."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Gain meaning?",
+      "answer": "Directivity; focuses energy in a pattern."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Matching importance?",
+      "answer": "Mismatch causes reflections (SWR) and loss."
+    }
+  ]
+}

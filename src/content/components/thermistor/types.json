@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "NTC Thermistor",
+      "description": "Resistance decreases with temperature.",
+      "applications": [
+        "Temperature sensing",
+        "Inrush limiting"
+      ]
+    },
+    {
+      "name": "PTC Thermistor",
+      "description": "Resistance increases with temperature.",
+      "applications": [
+        "Overcurrent protection",
+        "Heaters"
+      ]
+    },
+    {
+      "name": "Silistor",
+      "description": "Linear PTC with silicon.",
+      "applications": [
+        "Over-temperature cutoff"
+      ]
+    }
+  ]
+}

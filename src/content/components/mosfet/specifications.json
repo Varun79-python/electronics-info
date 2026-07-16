@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "V_DS Max",
+      "typicalValues": "20V to 1000V",
+      "notes": "Drain-source rating"
+    },
+    {
+      "name": "R_DS(on)",
+      "typicalValues": "1mΩ to several Ω",
+      "notes": "Lower is better"
+    },
+    {
+      "name": "I_D Max",
+      "typicalValues": "mA to 100s A",
+      "notes": "Continuous"
+    },
+    {
+      "name": "V_GS(th)",
+      "typicalValues": "1V to 4V",
+      "notes": "Threshold"
+    },
+    {
+      "name": "Q_g",
+      "typicalValues": "nC to µC",
+      "notes": "Gate charge"
+    },
+    {
+      "name": "P_D",
+      "typicalValues": "0.5W to 500W",
+      "notes": "With heatsink"
+    }
+  ]
+}

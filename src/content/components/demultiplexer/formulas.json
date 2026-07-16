@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Outputs",
+      "formula": "M = 2^S",
+      "description": "S select lines.",
+      "variables": [
+        {
+          "symbol": "M",
+          "name": "Outputs",
+          "unit": ""
+        },
+        {
+          "symbol": "S",
+          "name": "Select",
+          "unit": ""
+        }
+      ],
+      "example": "3 sel -> 8 out"
+    },
+    {
+      "name": "Select",
+      "formula": "Y[code] = In",
+      "description": "Routed output.",
+      "variables": [
+        {
+          "symbol": "Y",
+          "name": "Output",
+          "unit": ""
+        }
+      ],
+      "example": "code picks"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "applications": [
+    {
+      "category": "Motor Testing",
+      "description": "Variable V/f",
+      "examples": [
+        "Drives",
+        "Pumps"
+      ]
+    },
+    {
+      "category": "Compliance",
+      "description": "Simulate mains",
+      "examples": [
+        "IEC tests"
+      ]
+    },
+    {
+      "category": "Lamp/Heater",
+      "description": "Variable AC",
+      "examples": [
+        "Dimming"
+      ]
+    },
+    {
+      "category": "Lab",
+      "description": "Adjustable AC source",
+      "examples": [
+        "Education"
+      ]
+    }
+  ]
+}

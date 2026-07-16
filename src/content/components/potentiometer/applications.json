@@ -1,0 +1,37 @@
+{
+  "applications": [
+    {
+      "category": "User Input",
+      "description": "Manual adjustment of parameters",
+      "examples": [
+        "Volume",
+        "Brightness",
+        "Gain"
+      ]
+    },
+    {
+      "category": "Voltage Division",
+      "description": "Sets bias and reference voltages",
+      "examples": [
+        "Comparator threshold",
+        "DAC trim"
+      ]
+    },
+    {
+      "category": "Position Sensing",
+      "description": "Converts mechanical position to voltage",
+      "examples": [
+        "Joysticks",
+        "Throttle sensors"
+      ]
+    },
+    {
+      "category": "Calibration",
+      "description": "Trims circuit offsets",
+      "examples": [
+        "Offset null",
+        "Gain set"
+      ]
+    }
+  ]
+}

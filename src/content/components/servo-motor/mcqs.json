@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A servo uses:",
+      "options": [
+        "Open loop",
+        "Feedback/closed loop",
+        "No motor",
+        "Only gears"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Closed-loop with feedback.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Feedback comes from:",
+      "options": [
+        "Resistor",
+        "Encoder",
+        "Capacitor",
+        "Diode"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Encoder/resolver.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PID stands for:",
+      "options": [
+        "Power in drive",
+        "Proportional-Integral-Derivative",
+        "Pulse input data",
+        "Position index device"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Control law.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Hobby servo angle set by:",
+      "options": [
+        "Voltage",
+        "PWM pulse width",
+        "Current",
+        "Frequency only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pulse width = angle.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Oscillation means:",
+      "options": [
+        "Good tuning",
+        "Bad tuning",
+        "Low torque",
+        "High speed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unstable PID.",
+      "difficulty": "advanced"
+    }
+  ]
+}

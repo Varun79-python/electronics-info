@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open Trace",
+      "symptoms": [
+        "No conn"
+      ],
+      "causes": [
+        "Etch/break"
+      ],
+      "solution": "Jumper"
+    },
+    {
+      "failure": "Short",
+      "symptoms": [
+        "Power drain"
+      ],
+      "causes": [
+        "Bridge"
+      ],
+      "solution": "Inspect"
+    },
+    {
+      "failure": "Lifted Pad",
+      "symptoms": [
+        "No joint"
+      ],
+      "causes": [
+        "Rework"
+      ],
+      "solution": "Repair"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a JFET?",
+      "answer": "A voltage-controlled FET using a reverse-biased gate junction to modulate a channel."
+    },
+    {
+      "question": "Why high input impedance?",
+      "answer": "The gate junction is reverse biased, so almost no gate current flows."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "JFET vs MOSFET?",
+      "answer": "JFET has no oxide (robust) and is normally on; MOSFET has insulated gate and is normally off."
+    },
+    {
+      "question": "What is pinch-off?",
+      "answer": "The gate voltage at which the channel is fully depleted and current saturates."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why use JFET in low-noise amps?",
+      "answer": "Its conduction mechanism has very low 1/f noise, ideal for the first amplifier stage."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How bias a JFET stage?",
+      "answer": "Self-bias with a source resistor sets a stable Q-point; I_D = I_DSS(1-V_GS/V_P)²."
+    }
+  ]
+}

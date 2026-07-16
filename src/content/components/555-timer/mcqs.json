@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "555 astable is:",
+      "options": [
+        "Oscillator",
+        "Amplifier",
+        "Regulator",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Free-running.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Monostable pulse T =",
+      "options": [
+        "1.1RC",
+        "0.7RC",
+        "2RC",
+        "RC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One-shot width.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Thresholds at:",
+      "options": [
+        "1/3, 2/3 Vcc",
+        "1/2, 1/4",
+        "0, Vcc",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Internal divider.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Invented by:",
+      "options": [
+        "Camenzind",
+        "Shockley",
+        "Bardeen",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Signetics 1971.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "CMOS 7555 for:",
+      "options": [
+        "Low power",
+        "High freq",
+        "High V",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Battery use.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

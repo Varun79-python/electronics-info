@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Li-ion",
+      "description": "Rechargeable, dense.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "LiPo",
+      "description": "Polymer, thin.",
+      "applications": [
+        "Drones"
+      ]
+    },
+    {
+      "name": "NiMH",
+      "description": "Rechargeable.",
+      "applications": [
+        "Toys"
+      ]
+    },
+    {
+      "name": "Alkaline",
+      "description": "Primary.",
+      "applications": [
+        "Remotes"
+      ]
+    }
+  ]
+}

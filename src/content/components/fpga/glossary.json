@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "LUT",
+      "definition": "Look-up table for logic."
+    },
+    {
+      "term": "Bitstream",
+      "definition": "Configuration data."
+    },
+    {
+      "term": "HDL",
+      "definition": "Hardware description language."
+    },
+    {
+      "term": "Place & Route",
+      "definition": "Physical mapping step."
+    }
+  ]
+}

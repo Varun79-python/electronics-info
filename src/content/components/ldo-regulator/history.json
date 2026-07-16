@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "Linear regulator evolution",
+    "discovery": "LDO topologies reduced the required input-output headroom vs older regulators.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "Linear regs"
+      },
+      {
+        "year": 1980,
+        "event": "LDO topologies"
+      },
+      {
+        "year": 2000,
+        "event": "Ultra-low-Iq LDO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does a counter do?",
+      "answer": "Counts clock pulses as a binary number."
+    },
+    {
+      "question": "4 bits count to?",
+      "answer": "16 states (0-15)."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Ripple vs sync?",
+      "answer": "Ripple has carry delay; sync updates together."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Glitch on decode?",
+      "answer": "Ripple transitions cause spurious codes; use sync."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Frequency divider?",
+      "answer": "Modulo-N counter outputs f/N."
+    }
+  ]
+}

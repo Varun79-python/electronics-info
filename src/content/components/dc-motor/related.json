@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "battery",
+      "relationship": "DC source"
+    },
+    {
+      "id": "transistor",
+      "relationship": "PWM driver"
+    },
+    {
+      "id": "electromagnet",
+      "relationship": "Field principle"
+    },
+    {
+      "id": "diode",
+      "relationship": "Flyback on driver"
+    }
+  ]
+}

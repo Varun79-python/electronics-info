@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What does a transformer do?",
+      "answer": "It transfers AC energy between circuits, changing voltage and current by the turns ratio while providing isolation."
+    },
+    {
+      "question": "Why doesn't a transformer work with DC?",
+      "answer": "DC produces constant flux, so no induced voltage in the secondary; only a brief spike occurs at switch-on/off."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Explain the turns ratio relationship.",
+      "answer": "V_s/V_p = N_s/N_p and I_s/I_p = N_p/N_s; power is conserved in an ideal transformer."
+    },
+    {
+      "question": "What are core losses?",
+      "answer": "Hysteresis and eddy-current losses in the core that dissipate energy as heat even at no load."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why laminate transformer cores?",
+      "answer": "Lamination breaks eddy-current paths, drastically reducing resistive losses in the core."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How do you minimize transformer inrush current?",
+      "answer": "Use soft-start, NTC inrush limiters, or controlled switching at voltage zero-crossing."
+    }
+  ]
+}

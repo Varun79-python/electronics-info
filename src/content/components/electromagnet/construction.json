@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Coil",
+      "function": "Carries current",
+      "material": "Copper wire"
+    },
+    {
+      "name": "Core",
+      "function": "Concentrates flux",
+      "material": "Soft iron"
+    },
+    {
+      "name": "Frame",
+      "function": "Supports",
+      "material": "Steel"
+    },
+    {
+      "name": "Insulation",
+      "function": "Isolate turns",
+      "material": "Enamel/varnish"
+    }
+  ]
+}

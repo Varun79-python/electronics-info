@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "fpga",
+    "name": "FPGA",
+    "category": "integrated-circuits",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 65,
+    "status": "published"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "adc",
+      "relationship": "Inverse"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Buffer"
+    },
+    {
+      "id": "audio-amplifier-ic",
+      "relationship": "Drives output"
+    }
+  ]
+}

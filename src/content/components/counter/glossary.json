@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Modulus",
+      "definition": "Number of states before wrap."
+    },
+    {
+      "term": "Ripple",
+      "definition": "Cascaded, delayed carry."
+    },
+    {
+      "term": "Synchronous",
+      "definition": "All bits update together."
+    },
+    {
+      "term": "Divide",
+      "definition": "Output frequency reduction."
+    }
+  ]
+}

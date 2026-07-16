@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Output",
+      "symptoms": [
+        "0V"
+      ],
+      "causes": [
+        "Fuse",
+        "Fault"
+      ],
+      "solution": "Check fuse"
+    },
+    {
+      "failure": "Distorted Sine",
+      "symptoms": [
+        "THD high"
+      ],
+      "causes": [
+        "Load",
+        "Filter"
+      ],
+      "solution": "Reduce load; check filter"
+    },
+    {
+      "failure": "Overload",
+      "symptoms": [
+        "Trip"
+      ],
+      "causes": [
+        "Excess VA"
+      ],
+      "solution": "Reduce load"
+    }
+  ]
+}

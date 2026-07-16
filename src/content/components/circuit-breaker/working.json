@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Overcurrent trips a mechanism (thermal for moderate, magnetic for short) that opens contacts; it can be manually reset.",
+  "steps": [
+    "Current flows normally",
+    "Overload heats bimetal (thermal trip)",
+    "Short causes magnetic trip",
+    "Contacts open, breaking circuit",
+    "Reset after fault cleared"
+  ],
+  "microscopicExplanation": "Thermal: bimetallic strip bends with heat; magnetic: solenoid pulls trip bar on high current."
+}

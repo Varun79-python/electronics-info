@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Frequency",
+      "typicalValues": "100kHz to 30MHz",
+      "notes": "Common 4/8/16MHz"
+    },
+    {
+      "name": "Frequency Tolerance",
+      "typicalValues": "±0.5%",
+      "notes": "Looser than crystal"
+    },
+    {
+      "name": "Temperature Stability",
+      "typicalValues": "±10 to ±50 ppm/°C",
+      "notes": "Worse than crystal"
+    },
+    {
+      "name": "Load Capacitance",
+      "typicalValues": "Built-in or external",
+      "notes": "3-terminal simplifies"
+    }
+  ]
+}

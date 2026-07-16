@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "NTC",
+      "definition": "Negative temperature coefficient (R falls with T)."
+    },
+    {
+      "term": "RTD",
+      "definition": "Resistance temperature detector."
+    },
+    {
+      "term": "Seebeck",
+      "definition": "Voltage from temperature gradient."
+    },
+    {
+      "term": "Self-heating",
+      "definition": "Current warms the sensor."
+    }
+  ]
+}

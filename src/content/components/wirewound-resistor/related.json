@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "resistor",
+      "relationship": "A specific high-power construction of resistor"
+    },
+    {
+      "id": "rheostat",
+      "relationship": "Often wirewound for power"
+    },
+    {
+      "id": "potentiometer",
+      "relationship": "Wirewound versions exist"
+    },
+    {
+      "id": "current-sense",
+      "relationship": "Precision shunt application"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "electromagnet",
+      "relationship": "Same coil principle"
+    },
+    {
+      "id": "relay",
+      "relationship": "Solenoid actuates contacts"
+    },
+    {
+      "id": "transistor",
+      "relationship": "Drives the coil"
+    },
+    {
+      "id": "diode",
+      "relationship": "Flyback protection"
+    }
+  ]
+}

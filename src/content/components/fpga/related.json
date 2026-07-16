@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "microcontroller",
+      "relationship": "Alternative"
+    },
+    {
+      "id": "adc",
+      "relationship": "Feeds data"
+    },
+    {
+      "id": "logic-gate-ic",
+      "relationship": "Fixed logic"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "references": [
+    {
+      "title": "Capacitor Types and Applications",
+      "author": "KEMET",
+      "year": 2021,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "The Art of Electronics",
+      "author": "Paul Horowitz, Winfield Hill",
+      "year": 2015,
+      "url": "",
+      "type": "book"
+    },
+    {
+      "title": "IEC 60384: Fixed Capacitors for Use in Electronic Equipment",
+      "author": "International Electrotechnical Commission",
+      "year": 2018,
+      "url": "",
+      "type": "standard"
+    }
+  ]
+}

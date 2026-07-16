@@ -1,0 +1,22 @@
+{
+  "formulas": [
+    {
+      "name": "Voltage Divider",
+      "formula": "V_out = V_in × (R_set / R_total)",
+      "description": "Same divider math as a potentiometer.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Output",
+          "unit": "V"
+        },
+        {
+          "symbol": "R_set",
+          "name": "Set resistance",
+          "unit": "Ω"
+        }
+      ],
+      "example": "Set to trim bias"
+    }
+  ]
+}

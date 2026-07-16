@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Male-Male",
+      "description": "Both pins.",
+      "applications": [
+        "Breadboard"
+      ]
+    },
+    {
+      "name": "Male-Female",
+      "description": "Pin to socket.",
+      "applications": [
+        "Headers"
+      ]
+    },
+    {
+      "name": "Female-Female",
+      "description": "Socket both.",
+      "applications": [
+        "Modules"
+      ]
+    },
+    {
+      "name": "Solid/Stranded",
+      "description": "Stiff/flex.",
+      "applications": [
+        "Bread/proto"
+      ]
+    }
+  ]
+}

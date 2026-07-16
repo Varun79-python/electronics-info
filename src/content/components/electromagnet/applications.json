@@ -1,0 +1,33 @@
+{
+  "applications": [
+    {
+      "category": "Actuation",
+      "description": "Motion",
+      "examples": [
+        "Relays",
+        "Valves"
+      ]
+    },
+    {
+      "category": "Lifting",
+      "description": "Move steel",
+      "examples": [
+        "Scrap"
+      ]
+    },
+    {
+      "category": "Medical",
+      "description": "Imaging",
+      "examples": [
+        "MRI"
+      ]
+    },
+    {
+      "category": "Audio",
+      "description": "Drive cone",
+      "examples": [
+        "Speakers"
+      ]
+    }
+  ]
+}

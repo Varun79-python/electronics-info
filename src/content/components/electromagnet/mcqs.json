@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Electromagnet field needs:",
+      "options": [
+        "Current",
+        "Permanent magnet",
+        "Heat",
+        "Light"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Current makes field.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Core material:",
+      "options": [
+        "Soft iron",
+        "Copper",
+        "Plastic",
+        "Wood"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Concentrates flux.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "B = μ₀ n I is for:",
+      "options": [
+        "Solenoid field",
+        "Resistance",
+        "Power",
+        "Force"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coil field.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Flyback diode protects:",
+      "options": [
+        "Coil switch-off",
+        "Core",
+        "Frame",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clamps kick.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Force decreases with:",
+      "options": [
+        "Larger gap",
+        "More turns",
+        "More current",
+        "Iron core"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gap weakens pull.",
+      "difficulty": "advanced"
+    }
+  ]
+}

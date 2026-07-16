@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Impedance",
+      "description": "Match amplifier."
+    },
+    {
+      "step": 2,
+      "title": "Power",
+      "description": "Exceed amp RMS."
+    },
+    {
+      "step": 3,
+      "title": "Frequency",
+      "description": "Cover needed band."
+    },
+    {
+      "step": 4,
+      "title": "Enclosure",
+      "description": "Box tunes response."
+    }
+  ],
+  "tips": [
+    "Match impedance to amp",
+    "Use crossover for ranges",
+    "Seal enclosure",
+    "Avoid clipping"
+  ]
+}

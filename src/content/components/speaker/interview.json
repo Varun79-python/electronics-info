@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "How does a speaker make sound?",
+      "answer": "Current in the voice coil moves a cone that pushes air, creating sound waves."
+    },
+    {
+      "question": "What is impedance?",
+      "answer": "The AC resistance the amplifier must drive, typically 4 or 8 ohms."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why enclosure matters?",
+      "answer": "It controls resonance and prevents front/back wave cancellation."
+    },
+    {
+      "question": "What is sensitivity?",
+      "answer": "How loud the speaker is per watt at a distance; higher needs less power."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What causes distortion?",
+      "answer": "Cone excursion limits, suspension non-linearity, and voice-coil heating."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How design a 2-way system?",
+      "answer": "Use a crossover to send lows to a woofer and highs to a tweeter, matching sensitivities."
+    }
+  ]
+}

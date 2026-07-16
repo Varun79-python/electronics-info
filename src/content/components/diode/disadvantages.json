@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Fixed forward voltage drop causes power loss",
+    "Temperature dependent characteristics",
+    "Reverse recovery limits high-frequency use",
+    "Limited reverse voltage before breakdown",
+    "Cannot amplify signals",
+    "Leakage current in reverse direction"
+  ]
+}

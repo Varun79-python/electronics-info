@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Multiplex",
+      "definition": "Row/column time scan."
+    },
+    {
+      "term": "Persistence",
+      "definition": "Eye integrates fast scan."
+    },
+    {
+      "term": "Duty Cycle",
+      "definition": "On-time fraction."
+    },
+    {
+      "term": "RGB",
+      "definition": "Red-green-blue pixel."
+    }
+  ]
+}

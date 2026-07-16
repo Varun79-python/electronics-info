@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Current Gain (hFE)",
+      "typicalValues": "20 to 500",
+      "notes": "Varies with current"
+    },
+    {
+      "name": "V_CEO",
+      "typicalValues": "20V to 1200V",
+      "notes": "Max collector-emitter"
+    },
+    {
+      "name": "I_C Max",
+      "typicalValues": "100mA to 100A",
+      "notes": "Continuous"
+    },
+    {
+      "name": "P_D Max",
+      "typicalValues": "0.1W to 300W",
+      "notes": "Power dissipation"
+    },
+    {
+      "name": "f_T",
+      "typicalValues": "MHz to GHz",
+      "notes": "Gain-bandwidth"
+    },
+    {
+      "name": "V_BE",
+      "typicalValues": "0.6 to 0.7V",
+      "notes": "Base-emitter drop"
+    }
+  ]
+}

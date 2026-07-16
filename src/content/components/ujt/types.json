@@ -1,0 +1,19 @@
+{
+  "types": [
+    {
+      "name": "Standard UJT",
+      "description": "Relaxation oscillator.",
+      "applications": [
+        "Timers",
+        "Triggers"
+      ]
+    },
+    {
+      "name": "Programmable UJT (PUT)",
+      "description": "Adjustable parameters.",
+      "applications": [
+        "Flexible timers"
+      ]
+    }
+  ]
+}

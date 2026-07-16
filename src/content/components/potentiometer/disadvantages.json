@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Wear and wiper noise over time",
+    "Lower precision than fixed resistors",
+    "Can introduce noise and drift",
+    "Power rating is limited",
+    "Mechanical size larger than SMD",
+    "Not suitable for frequent digital control"
+  ]
+}

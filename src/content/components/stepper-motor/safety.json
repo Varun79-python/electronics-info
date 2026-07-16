@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Driver current limit.",
+  "thermalSafety": "Holding current heats; ventilate.",
+  "handling": "Avoid forcing shaft.",
+  "storage": "Dry.",
+  "disposal": "E-waste rules."
+}

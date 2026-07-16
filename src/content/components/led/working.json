@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "When forward biased, electrons and holes recombine in the depletion region; in direct-bandgap semiconductors the recombination energy is released as photons (light).",
+  "steps": [
+    "Forward bias injects carriers into the junction",
+    "Electrons fall from conduction to valence band",
+    "Recombination releases energy as a photon",
+    "Photon energy sets the emitted color",
+    "Light exits through the transparent package"
+  ],
+  "microscopicExplanation": "In direct-bandgap materials like GaAs or InGaN, the bandgap energy Eg determines photon energy (E = hc/λ); higher Eg gives shorter (bluer) wavelengths."
+}

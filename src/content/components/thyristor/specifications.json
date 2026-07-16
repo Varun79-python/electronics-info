@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "V_DRMM",
+      "typicalValues": "600V to 6000V",
+      "notes": "Peak repetitive"
+    },
+    {
+      "name": "I_T(AV)",
+      "typicalValues": "1A to 3000A",
+      "notes": "Average on-state"
+    },
+    {
+      "name": "I_H (Holding)",
+      "typicalValues": "mA to A",
+      "notes": "Turn-off threshold"
+    },
+    {
+      "name": "di/dt, dv/dt",
+      "typicalValues": "Rated limits",
+      "notes": "Snubber needed"
+    },
+    {
+      "name": "Gate Trigger",
+      "typicalValues": "0.5-2V, mA",
+      "notes": "Trigger pulse"
+    }
+  ]
+}

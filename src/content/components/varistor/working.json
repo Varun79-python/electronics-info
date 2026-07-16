@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Made of a polycrystalline semiconductor (typically zinc oxide), a varistor has a non-linear V-I characteristic: it is nearly insulating below its clamping voltage and highly conductive above it.",
+  "steps": [
+    "Under normal voltage the varistor has very high resistance",
+    "A transient spike raises voltage above the varistor voltage",
+    "Conductance increases dramatically, shunting the surge",
+    "The surge current is diverted away from the load",
+    "After the transient, resistance returns to a high value"
+  ],
+  "microscopicExplanation": "Grain boundaries between zinc-oxide grains act as back-to-back Schottky-like barriers. Low voltage keeps barriers intact; high voltage lowers them, allowing current to flow."
+}

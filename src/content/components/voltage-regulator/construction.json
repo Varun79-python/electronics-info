@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Reference",
+      "function": "Stable voltage",
+      "material": "Bandgap circuit"
+    },
+    {
+      "name": "Error Amplifier",
+      "function": "Compares and drives",
+      "material": "Silicon"
+    },
+    {
+      "name": "Pass Element",
+      "function": "Drops/regulates",
+      "material": "Transistor"
+    },
+    {
+      "name": "Feedback Divider",
+      "function": "Sets ratio",
+      "material": "Resistors"
+    }
+  ]
+}

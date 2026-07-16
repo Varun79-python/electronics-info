@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Family",
+      "description": "Match voltage."
+    },
+    {
+      "step": 2,
+      "title": "Function",
+      "description": "Gate type."
+    },
+    {
+      "step": 3,
+      "title": "Speed",
+      "description": "Prop delay."
+    },
+    {
+      "step": 4,
+      "title": "Package",
+      "description": "Footprint."
+    }
+  ],
+  "tips": [
+    "Unused inputs to Vcc/GND",
+    "Decouple Vcc",
+    "Check fan-out"
+  ]
+}

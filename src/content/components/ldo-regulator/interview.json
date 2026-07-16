@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is dropout?",
+      "answer": "Minimum input-output voltage difference to stay regulated."
+    },
+    {
+      "question": "LDO vs switching?",
+      "answer": "LDO is simpler/quiet but less efficient."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why heatsink?",
+      "answer": "Power lost as heat = (Vin-Vout)×I."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "PSRR importance?",
+      "answer": "Rejects input ripple for clean analog power."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Stability concern?",
+      "answer": "Output capacitor ESR must be in the stable range."
+    }
+  ]
+}

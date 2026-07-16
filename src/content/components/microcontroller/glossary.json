@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "GPIO",
+      "definition": "General-purpose input/output pin."
+    },
+    {
+      "term": "Flash",
+      "definition": "Non-volatile program memory."
+    },
+    {
+      "term": "ISR",
+      "definition": "Interrupt service routine."
+    },
+    {
+      "term": "Peripheral",
+      "definition": "On-chip hardware block."
+    }
+  ]
+}

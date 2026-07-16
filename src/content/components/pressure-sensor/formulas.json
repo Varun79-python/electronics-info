@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Pressure",
+      "formula": "P = F / A",
+      "description": "Force per area.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "F",
+          "name": "Force",
+          "unit": "N"
+        },
+        {
+          "symbol": "A",
+          "name": "Area",
+          "unit": "m²"
+        }
+      ],
+      "example": "1 bar ~100kPa"
+    },
+    {
+      "name": "Bridge Output",
+      "formula": "V_out = V_ex (ΔR/R)",
+      "description": "Strain signal.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "mV range"
+    }
+  ]
+}

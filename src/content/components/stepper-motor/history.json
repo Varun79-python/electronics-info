@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "Developed mid-20th century",
+    "discovery": "Stepper motors evolved for precise incremental motion in instrumentation.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "Early steppers"
+      },
+      {
+        "year": 1970,
+        "event": "Widely used in automation"
+      },
+      {
+        "year": 2000,
+        "event": "Microstepping ubiquitous"
+      }
+    ]
+  }
+}

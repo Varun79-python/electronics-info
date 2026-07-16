@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "High-voltage capacitors can retain dangerous charge after power removal. Always discharge through a resistor before handling.",
+  "currentSafety": "Large capacitors can deliver high surge currents. Use current-limiting resistors when charging.",
+  "thermalSafety": "Electrolytic capacitors fail violently (venting) at high temperatures. Ensure adequate cooling.",
+  "handling": "Avoid mechanical stress on leads. Observe polarity for electrolytic and tantalum types.",
+  "storage": "Store in cool, dry conditions. Electrolytic capacitors self-degrade if unused for over a year.",
+  "disposal": "Some capacitors contain hazardous electrolytes. Dispose according to e-waste regulations."
+}

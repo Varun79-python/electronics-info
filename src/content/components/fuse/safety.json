@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Mains; isolate.",
+  "currentSafety": "Arc on clear.",
+  "thermalSafety": "Hot element.",
+  "handling": "Replace with correct rating only.",
+  "storage": "Dry.",
+  "disposal": "E-waste."
+}

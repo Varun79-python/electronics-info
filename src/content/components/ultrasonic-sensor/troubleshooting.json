@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Echo",
+      "symptoms": [
+        "Max read"
+      ],
+      "causes": [
+        "Soft/absorb"
+      ],
+      "solution": "Change target"
+    },
+    {
+      "failure": "Jitter",
+      "symptoms": [
+        "Unstable"
+      ],
+      "causes": [
+        "Noise"
+      ],
+      "solution": "Average"
+    },
+    {
+      "failure": "Blind",
+      "symptoms": [
+        "Near error"
+      ],
+      "causes": [
+        "Min range"
+      ],
+      "solution": "Offset"
+    }
+  ]
+}

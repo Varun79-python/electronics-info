@@ -1,0 +1,48 @@
+{
+  "formulas": [
+    {
+      "name": "Output (adj)",
+      "formula": "V_out = V_ref (1 + R1/R2)",
+      "description": "Divider sets.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Output",
+          "unit": "V"
+        },
+        {
+          "symbol": "V_ref",
+          "name": "Ref",
+          "unit": "V"
+        }
+      ],
+      "example": "1.25V ref"
+    },
+    {
+      "name": "Dropout",
+      "formula": "V_do = V_in(min) - V_out",
+      "description": "Min headroom.",
+      "variables": [
+        {
+          "symbol": "V_do",
+          "name": "Dropout",
+          "unit": "V"
+        }
+      ],
+      "example": "0.2V"
+    },
+    {
+      "name": "Power Dissipation",
+      "formula": "P = (V_in - V_out) I",
+      "description": "Lost as heat.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "Linear loss"
+    }
+  ]
+}

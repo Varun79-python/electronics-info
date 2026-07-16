@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A binary code selects weighted currents (or a resistor ladder) summed to produce a proportional analog output.",
+  "steps": [
+    "Digital code applied",
+    "Weighted currents switched",
+    "Summed at output",
+    "Smoothed (if needed)"
+  ],
+  "microscopicExplanation": "An R-2R ladder or string of resistors maps each bit to a precise fraction of the reference voltage."
+}

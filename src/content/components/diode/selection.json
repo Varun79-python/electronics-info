@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Determine Application",
+      "description": "Rectification, regulation, protection, or signaling?"
+    },
+    {
+      "step": 2,
+      "title": "Select Voltage Ratings",
+      "description": "V_BR must exceed peak reverse voltage with margin."
+    },
+    {
+      "step": 3,
+      "title": "Check Current Rating",
+      "description": "I_F must exceed maximum forward current with derating."
+    },
+    {
+      "step": 4,
+      "title": "Consider Switching Speed",
+      "description": "Use Schottky for high-frequency; standard for line frequency."
+    },
+    {
+      "step": 5,
+      "title": "Verify Package",
+      "description": "Through-hole or SMD based on assembly method."
+    }
+  ],
+  "tips": [
+    "Always derate voltage by 50% for reliability",
+    "Use Schottky for fast switching applications",
+    "Add heatsink for high-current rectifiers",
+    "Zener voltage tolerance typically 5%"
+  ]
+}

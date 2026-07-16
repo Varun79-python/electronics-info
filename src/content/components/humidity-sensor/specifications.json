@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Range",
+      "typicalValues": "0-100% RH",
+      "notes": "Full"
+    },
+    {
+      "name": "Accuracy",
+      "typicalValues": "±2% to ±5%",
+      "notes": "RH"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "I²C/analog",
+      "notes": "Digital common"
+    },
+    {
+      "name": "Response",
+      "typicalValues": "seconds",
+      "notes": "Recovery"
+    }
+  ]
+}

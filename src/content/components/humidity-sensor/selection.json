@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "0-100% RH."
+    },
+    {
+      "step": 2,
+      "title": "Accuracy",
+      "description": "Needed %."
+    },
+    {
+      "step": 3,
+      "title": "Output",
+      "description": "I²C/analog."
+    },
+    {
+      "step": 4,
+      "title": "Environment",
+      "description": "Avoid condensation."
+    }
+  ],
+  "tips": [
+    "Pair with temp sensor",
+    "Allow recovery time",
+    "Calibrate periodically"
+  ]
+}

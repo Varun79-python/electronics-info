@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Low current.",
+  "thermalSafety": "Minimal heating.",
+  "handling": "Less ESD sensitive than MOS, still careful.",
+  "storage": "Anti-static, dry.",
+  "disposal": "E-waste rules."
+}

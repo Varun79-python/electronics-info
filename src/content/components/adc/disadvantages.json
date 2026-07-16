@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Quantization error",
+    "Sampling aliasing",
+    "Speed limited",
+    "Noise",
+    "Reference needed"
+  ]
+}

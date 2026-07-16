@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "The binary input is decoded by logic so exactly one (or a defined set) of the output lines is asserted.",
+  "steps": [
+    "Binary code applied",
+    "Logic decodes it",
+    "One output asserted",
+    "Others inactive"
+  ],
+  "microscopicExplanation": "A binary-to-one-hot decoder uses AND gates combining true/inverted input bits."
+}

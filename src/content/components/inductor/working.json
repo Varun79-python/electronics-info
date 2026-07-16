@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Current through a coil creates a magnetic field. A changing current induces a back-EMF that opposes the change, described by V = L × di/dt.",
+  "steps": [
+    "Current enters the coil and produces a magnetic field around the windings",
+    "The field stores energy equal to ½ × L × I²",
+    "When current changes, the field induces a counter-voltage (back-EMF)",
+    "This voltage resists rapid changes in current",
+    "At steady DC the ideal inductor behaves like a short circuit"
+  ],
+  "microscopicExplanation": "Magnetic flux linkage through the coil is proportional to current; inductance L quantifies this ratio. Energy resides in the field around the conductor, not in the wire itself."
+}

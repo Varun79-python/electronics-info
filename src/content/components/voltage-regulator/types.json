@@ -1,0 +1,33 @@
+{
+  "types": [
+    {
+      "name": "Linear (LDO)",
+      "description": "Simple, low noise, low efficiency.",
+      "applications": [
+        "Sensors",
+        "Analog"
+      ]
+    },
+    {
+      "name": "Switching Buck",
+      "description": "Step-down, efficient.",
+      "applications": [
+        "Power supplies"
+      ]
+    },
+    {
+      "name": "Switching Boost",
+      "description": "Step-up.",
+      "applications": [
+        "Battery"
+      ]
+    },
+    {
+      "name": "Shunt Regulator",
+      "description": "Zener-like active.",
+      "applications": [
+        "References"
+      ]
+    }
+  ]
+}

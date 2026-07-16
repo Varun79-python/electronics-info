@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "NTC resistance:",
+      "options": [
+        "Falls with heat",
+        "Rises with heat",
+        "Constant",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Negative coefficient.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermocouple uses:",
+      "options": [
+        "Seebeck",
+        "Peltier",
+        "Hall",
+        "Piezo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thermoelectric.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "RTD element often:",
+      "options": [
+        "Platinum",
+        "Copper",
+        "Iron",
+        "Gold"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pt100 common.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Self-heating caused by:",
+      "options": [
+        "Measurement current",
+        "Ambient",
+        "Light",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "I²R heating.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Digital temp IC outputs:",
+      "options": [
+        "I²C/1-Wire",
+        "Only analog",
+        "Relay",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bus digital.",
+      "difficulty": "beginner"
+    }
+  ]
+}

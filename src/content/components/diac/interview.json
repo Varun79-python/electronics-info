@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a DIAC?",
+      "answer": "A bidirectional trigger diode that fires at a symmetric breakover voltage."
+    },
+    {
+      "question": "DIAC vs TRIAC?",
+      "answer": "DIAC only triggers; TRIAC switches the load."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why use a DIAC with a TRIAC?",
+      "answer": "It gives symmetric breakover firing in both AC half-cycles for even control."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What is negative resistance here?",
+      "answer": "After breakover, voltage falls while current rises, snapping the device into conduction."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Modern replacement?",
+      "answer": "Microcontroller phase-control with opto-triac often replaces analog DIAC-TRIAC dimmers."
+    }
+  ]
+}

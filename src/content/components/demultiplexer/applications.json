@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Memory",
+      "description": "Address decode",
+      "examples": [
+        "RAM"
+      ]
+    },
+    {
+      "category": "Display",
+      "description": "Drive digits",
+      "examples": [
+        "7-seg"
+      ]
+    },
+    {
+      "category": "Distribution",
+      "description": "Bus fan-out",
+      "examples": [
+        "Systems"
+      ]
+    }
+  ]
+}

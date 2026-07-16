@@ -1,0 +1,40 @@
+{
+  "failureModes": [
+    {
+      "failure": "Short Circuit",
+      "symptoms": [
+        "Both directions conduct",
+        "No rectification"
+      ],
+      "causes": [
+        "Overvoltage",
+        "Overcurrent",
+        "Thermal runaway"
+      ],
+      "solution": "Replace with higher rating"
+    },
+    {
+      "failure": "Open Circuit",
+      "symptoms": [
+        "No conduction either direction"
+      ],
+      "causes": [
+        "Overcurrent",
+        "Mechanical damage"
+      ],
+      "solution": "Replace diode"
+    },
+    {
+      "failure": "Leaky Reverse",
+      "symptoms": [
+        "Excess reverse current",
+        "Heating"
+      ],
+      "causes": [
+        "Ageing",
+        "Overvoltage stress"
+      ],
+      "solution": "Replace with fresh component"
+    }
+  ]
+}

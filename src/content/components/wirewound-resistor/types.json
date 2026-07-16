@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "Power Wirewound",
+      "description": "High wattage, ceramic core.",
+      "applications": [
+        "Power supplies",
+        "Loads"
+      ]
+    },
+    {
+      "name": "Precision Wirewound",
+      "description": "Low TCR, tight tolerance.",
+      "applications": [
+        "Meters",
+        "Calibration"
+      ]
+    },
+    {
+      "name": "Audio Wirewound",
+      "description": "Low noise for audio.",
+      "applications": [
+        "Amplifiers"
+      ]
+    }
+  ]
+}

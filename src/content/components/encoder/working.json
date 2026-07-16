@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "When one of N inputs is active, combinational logic produces the corresponding binary code on the output lines.",
+  "steps": [
+    "One input asserted",
+    "Logic detects which",
+    "Produces binary code",
+    "Outputs the code"
+  ],
+  "microscopicExplanation": "Priority encoders resolve multiple active inputs by selecting the highest priority."
+}

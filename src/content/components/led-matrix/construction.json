@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "LED Grid",
+      "function": "Pixels",
+      "material": "LED"
+    },
+    {
+      "name": "Row Drivers",
+      "function": "Select row",
+      "material": "Silicon"
+    },
+    {
+      "name": "Column Drivers",
+      "function": "Data",
+      "material": "Silicon"
+    },
+    {
+      "name": "Controller",
+      "function": "Scan",
+      "material": "Silicon"
+    }
+  ]
+}

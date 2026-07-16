@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "Ripple Voltage",
+      "formula": "V_ripple ≈ I_load / (f × C)",
+      "description": "Capacitor ripple approximation.",
+      "variables": [
+        {
+          "symbol": "V_ripple",
+          "name": "Ripple",
+          "unit": "V"
+        },
+        {
+          "symbol": "I_load",
+          "name": "Load current",
+          "unit": "A"
+        },
+        {
+          "symbol": "f",
+          "name": "Frequency",
+          "unit": "Hz"
+        },
+        {
+          "symbol": "C",
+          "name": "Capacitance",
+          "unit": "F"
+        }
+      ],
+      "example": "Bigger C → less ripple"
+    },
+    {
+      "name": "DC Output (Bridge)",
+      "formula": "V_dc ≈ 1.414 × V_rms - 2V_F",
+      "description": "Peak minus diode drops.",
+      "variables": [
+        {
+          "symbol": "V_dc",
+          "name": "DC output",
+          "unit": "V"
+        }
+      ],
+      "example": "12Vrms → ~15.6V"
+    }
+  ]
+}

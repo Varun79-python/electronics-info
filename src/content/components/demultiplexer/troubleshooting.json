@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Wrong Out",
+      "symptoms": [
+        "Misroute"
+      ],
+      "causes": [
+        "Select error"
+      ],
+      "solution": "Fix code"
+    },
+    {
+      "failure": "No Out",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Bad input"
+      ],
+      "solution": "Check"
+    },
+    {
+      "failure": "Crosstalk",
+      "symptoms": [
+        "Leak"
+      ],
+      "causes": [
+        "Adjacent"
+      ],
+      "solution": "Shield"
+    }
+  ]
+}

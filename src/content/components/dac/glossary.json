@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "R-2R",
+      "definition": "Resistor ladder topology."
+    },
+    {
+      "term": "Settling Time",
+      "definition": "Time to reach final value."
+    },
+    {
+      "term": "Glitch",
+      "definition": "Transient during code change."
+    },
+    {
+      "term": "INL",
+      "definition": "Integral nonlinearity."
+    }
+  ]
+}

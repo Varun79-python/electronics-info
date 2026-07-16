@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Astable",
+      "definition": "Free-running oscillator mode."
+    },
+    {
+      "term": "Monostable",
+      "definition": "One-shot pulse mode."
+    },
+    {
+      "term": "Discharge",
+      "definition": "Pin that empties the timing cap."
+    },
+    {
+      "term": "Threshold",
+      "definition": "2/3 Vcc comparator input."
+    }
+  ]
+}

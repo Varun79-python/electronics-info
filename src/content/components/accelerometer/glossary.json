@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "g",
+      "definition": "Acceleration of gravity (9.81m/s²)."
+    },
+    {
+      "term": "Proof Mass",
+      "definition": "Moving inertial element."
+    },
+    {
+      "term": "MEMS",
+      "definition": "Micro-electromechanical system."
+    },
+    {
+      "term": "Cross-axis",
+      "definition": "Sensitivity to other axes."
+    }
+  ]
+}

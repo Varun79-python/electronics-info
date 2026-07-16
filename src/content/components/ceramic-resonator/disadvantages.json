@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Lower frequency accuracy",
+    "Worse temperature stability",
+    "Higher aging",
+    "Limited frequency range",
+    "Less stable than crystal",
+    "Sensitive to drive level"
+  ]
+}

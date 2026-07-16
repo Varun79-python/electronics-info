@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "hall-sensor",
+      "relationship": "Magnetic detect"
+    },
+    {
+      "id": "ir-sensor",
+      "relationship": "Optical detect"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads"
+    }
+  ]
+}

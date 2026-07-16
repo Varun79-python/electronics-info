@@ -1,0 +1,34 @@
+{
+  "types": [
+    {
+      "name": "N-Channel Enhancement",
+      "description": "Normally off; positive gate turns on.",
+      "applications": [
+        "Low-side switch",
+        "Buck"
+      ]
+    },
+    {
+      "name": "P-Channel Enhancement",
+      "description": "Normally off; negative gate.",
+      "applications": [
+        "High-side switch"
+      ]
+    },
+    {
+      "name": "Power MOSFET",
+      "description": "Low R_DS(on), fast.",
+      "applications": [
+        "SMPS",
+        "Motor"
+      ]
+    },
+    {
+      "name": "Logic-Level MOSFET",
+      "description": "Fully on at 5V/3.3V.",
+      "applications": [
+        "MCU drive"
+      ]
+    }
+  ]
+}

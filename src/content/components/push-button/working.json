@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Pressing the button moves internal contacts together (normally-open) or apart (normally-closed); release lets a spring return them.",
+  "steps": [
+    "Press the actuator",
+    "Contacts change state",
+    "Circuit completes or breaks",
+    "Spring returns on release (momentary)"
+  ],
+  "microscopicExplanation": "A dome or leaf contact bridges the gap; gold plating reduces contact resistance for low-signal use."
+}

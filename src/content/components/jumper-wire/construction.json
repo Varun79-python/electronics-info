@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Conductor",
+      "function": "Carry current",
+      "material": "Copper"
+    },
+    {
+      "name": "Insulation",
+      "function": "Isolate",
+      "material": "PVC"
+    },
+    {
+      "name": "Tip",
+      "function": "Plug in",
+      "material": "Bare copper"
+    },
+    {
+      "name": "Color",
+      "function": "Identify",
+      "material": "Dye"
+    }
+  ]
+}

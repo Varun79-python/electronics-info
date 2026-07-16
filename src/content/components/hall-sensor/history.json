@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1879,
+    "inventor": "Edwin Hall",
+    "discovery": "Hall discovered the transverse voltage in a current-carrying conductor in a magnetic field.",
+    "evolution": [
+      {
+        "year": 1879,
+        "event": "Hall effect"
+      },
+      {
+        "year": 1960,
+        "event": "Integrated Hall IC"
+      },
+      {
+        "year": 2000,
+        "event": "High-sensitivity MEMS"
+      }
+    ]
+  }
+}

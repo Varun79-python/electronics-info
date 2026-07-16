@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "connector",
+      "relationship": "RF feed"
+    },
+    {
+      "id": "pcb",
+      "relationship": "Patch antenna"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Radio SoC"
+    }
+  ]
+}

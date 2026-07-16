@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a thyristor?",
+      "answer": "A latching four-layer switch triggered by a gate pulse, conducting until current stops."
+    },
+    {
+      "question": "Can you turn off an SCR with the gate?",
+      "answer": "No; the gate only turns it on. It turns off when current falls below holding (e.g., AC zero-crossing)."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is phase control?",
+      "answer": "Delaying the firing angle in each AC half-cycle to vary average power."
+    },
+    {
+      "question": "Why snubbers?",
+      "answer": "To limit di/dt and dv/dt that could damage or falsely trigger the device."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How force-commutate an SCR?",
+      "answer": "Use a commutating circuit (capacitor/inverse thyristor) to momentarily reverse voltage and bring current to zero."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When choose thyristor over IGBT?",
+      "answer": "At very high power and where line-commutated control suffices; thyristors remain cheaper at multi-MW."
+    }
+  ]
+}

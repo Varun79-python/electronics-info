@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Current Rating",
+      "typicalValues": "1A to 30A",
+      "notes": "Depends type"
+    },
+    {
+      "name": "Voltage Rating",
+      "typicalValues": "12V to 600V",
+      "notes": "AC/DC differ"
+    },
+    {
+      "name": "Poles/Throws",
+      "typicalValues": "SPST to DPDT",
+      "notes": "Configuration"
+    },
+    {
+      "name": "Mechanical Life",
+      "typicalValues": "10^4 to 10^6 cycles",
+      "notes": "Actuations"
+    }
+  ]
+}

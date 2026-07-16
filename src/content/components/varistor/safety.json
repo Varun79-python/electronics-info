@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Failed varistors can short mains. Always use a fuse in series.",
+  "currentSafety": "Surge currents are huge; ensure rating matches.",
+  "thermalSafety": "Absorbed energy becomes heat; overheating can ignite.",
+  "handling": "Avoid cracking the ceramic body.",
+  "storage": "Store dry; moisture affects leakage.",
+  "disposal": "Contains metal oxides; dispose per e-waste rules."
+}

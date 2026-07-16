@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Speed",
+      "description": "Response time."
+    },
+    {
+      "step": 2,
+      "title": "Output",
+      "description": "Open/PP."
+    },
+    {
+      "step": 3,
+      "title": "Hysteresis",
+      "description": "Add for noise."
+    },
+    {
+      "step": 4,
+      "title": "Supply",
+      "description": "Match."
+    }
+  ],
+  "tips": [
+    "Add hysteresis for noisy",
+    "Decouple supply",
+    "Pull-up if open-collector"
+  ]
+}

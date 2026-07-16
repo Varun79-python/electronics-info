@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Motor",
+      "function": "Produces motion",
+      "material": "BLDC/AC"
+    },
+    {
+      "name": "Encoder/Resolver",
+      "function": "Feedback",
+      "material": "Optical/magnetic"
+    },
+    {
+      "name": "Gearbox",
+      "function": "Torque/speed",
+      "material": "Steel"
+    },
+    {
+      "name": "Controller",
+      "function": "Closed-loop",
+      "material": "Silicon"
+    }
+  ]
+}

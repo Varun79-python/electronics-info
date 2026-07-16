@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Oscillation",
+      "symptoms": [
+        "Flat"
+      ],
+      "causes": [
+        "Bad cap"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Wrong Freq",
+      "symptoms": [
+        "Off"
+      ],
+      "causes": [
+        "Tolerance"
+      ],
+      "solution": "Recalc"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Hot"
+      ],
+      "causes": [
+        "Short"
+      ],
+      "solution": "Check load"
+    }
+  ]
+}

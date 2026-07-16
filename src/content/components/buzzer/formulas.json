@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Sound Pressure",
+      "formula": "SPL in dB at rated V",
+      "description": "Loudness spec.",
+      "variables": [
+        {
+          "symbol": "SPL",
+          "name": "Sound level",
+          "unit": "dB"
+        }
+      ],
+      "example": "85dB at 10cm"
+    },
+    {
+      "name": "Resonant Frequency",
+      "formula": "f = mechanical resonance",
+      "description": "Tone frequency.",
+      "variables": [
+        {
+          "symbol": "f",
+          "name": "Frequency",
+          "unit": "Hz"
+        }
+      ],
+      "example": "2.7kHz typical"
+    }
+  ]
+}

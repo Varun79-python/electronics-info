@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Points",
+      "typicalValues": "170-830+",
+      "notes": "Capacity"
+    },
+    {
+      "name": "Pitch",
+      "typicalValues": "2.54mm",
+      "notes": "Standard"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "1A typical",
+      "notes": "Limit"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Solderless",
+      "notes": "Reusable"
+    }
+  ]
+}

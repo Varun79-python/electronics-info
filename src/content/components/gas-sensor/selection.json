@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Target Gas",
+      "description": "Pick specific sensor."
+    },
+    {
+      "step": 2,
+      "title": "Range",
+      "description": "Match concentration."
+    },
+    {
+      "step": 3,
+      "title": "Power",
+      "description": "Heater budget."
+    },
+    {
+      "step": 4,
+      "title": "Calibration",
+      "description": "Baseline R0."
+    }
+  ],
+  "tips": [
+    "Allow warm-up",
+    "Ventilate for baseline",
+    "Cross-sensitivity aware"
+  ]
+}

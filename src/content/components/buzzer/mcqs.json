@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A buzzer produces:",
+      "options": [
+        "Light",
+        "Sound",
+        "Heat",
+        "Motion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Audible alert.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Active buzzer needs:",
+      "options": [
+        "AC tone",
+        "Just DC",
+        "High voltage",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Internal oscillator.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Piezo works by:",
+      "options": [
+        "Magnetism",
+        "Crystal flexing",
+        "Heat",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Piezoelectric flex.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Typical frequency:",
+      "options": [
+        "10Hz",
+        "2.7kHz",
+        "20kHz+",
+        "1MHz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Audible range.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Passive buzzer requires:",
+      "options": [
+        "DC only",
+        "External AC drive",
+        "No power",
+        "Magnet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "External tone.",
+      "difficulty": "advanced"
+    }
+  ]
+}

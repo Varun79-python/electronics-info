@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Register stores:",
+      "options": [
+        "Multiple bits",
+        "1 bit",
+        "Analog",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Word.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Shift register:",
+      "options": [
+        "Serial in/out",
+        "Parallel only",
+        "Analog",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bit stream.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Built from:",
+      "options": [
+        "Flip-flops",
+        "Gates only",
+        "Relay",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Array of FFs.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "CPU",
+        "Amplifier",
+        "Regulator",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Data hold.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Shift rate =",
+      "options": [
+        "f_clk",
+        "f_clk/2",
+        "2f",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1 bit/cycle.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

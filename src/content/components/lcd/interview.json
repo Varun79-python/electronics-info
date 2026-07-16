@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Does LCD emit light?",
+      "answer": "No, it uses a backlight and modulates it."
+    },
+    {
+      "question": "TFT role?",
+      "answer": "Switches individual pixels."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why backlight?",
+      "answer": "Liquid crystals only modulate, not emit, light."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "IPS vs TN?",
+      "answer": "IPS has better color/angles; TN is faster/cheaper."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Reduce power?",
+      "answer": "Lower backlight and use efficient driver."
+    }
+  ]
+}

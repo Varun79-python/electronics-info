@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Automation",
+      "description": "Part detect",
+      "examples": [
+        "Conveyors"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "description": "Approach",
+      "examples": [
+        "Phones"
+      ]
+    },
+    {
+      "category": "Safety",
+      "description": "Guard",
+      "examples": [
+        "Doors"
+      ]
+    }
+  ]
+}

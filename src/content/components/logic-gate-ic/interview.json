@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a logic gate?",
+      "answer": "A circuit performing a Boolean function on digital inputs."
+    },
+    {
+      "question": "Unused inputs?",
+      "answer": "Tie them to Vcc or GND, never float."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "HC vs LS?",
+      "answer": "HC is CMOS (low power); LS is older TTL."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Fan-out limit?",
+      "answer": "Set by output current vs input current."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Why decouple?",
+      "answer": "Supply spikes from switching cause instability."
+    }
+  ]
+}

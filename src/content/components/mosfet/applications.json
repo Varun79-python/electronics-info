@@ -1,0 +1,35 @@
+{
+  "applications": [
+    {
+      "category": "Power Switching",
+      "description": "Efficient switches",
+      "examples": [
+        "SMPS",
+        "Inverters"
+      ]
+    },
+    {
+      "category": "Motor Drive",
+      "description": "H-bridge control",
+      "examples": [
+        "Robotics",
+        "EV"
+      ]
+    },
+    {
+      "category": "Digital Logic",
+      "description": "CMOS gates",
+      "examples": [
+        "Microprocessors"
+      ]
+    },
+    {
+      "category": "Load Switch",
+      "description": "Power path control",
+      "examples": [
+        "Battery",
+        "Hot-swap"
+      ]
+    }
+  ]
+}

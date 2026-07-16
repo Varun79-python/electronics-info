@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Varistor Voltage",
+      "typicalValues": "10V to 1000V+",
+      "notes": "Measured at 1mA"
+    },
+    {
+      "name": "Maximum Continuous Voltage",
+      "typicalValues": "AC/DC ratings",
+      "notes": "Must exceed line voltage"
+    },
+    {
+      "name": "Surge Current Rating",
+      "typicalValues": "100A to 70kA",
+      "notes": "8/20µs pulse"
+    },
+    {
+      "name": "Energy Rating",
+      "typicalValues": "Joules",
+      "notes": "Total absorbable energy"
+    },
+    {
+      "name": "Response Time",
+      "typicalValues": "<1ns",
+      "notes": "Very fast"
+    },
+    {
+      "name": "Capacitance",
+      "typicalValues": "pF to nF",
+      "notes": "Affects high-speed lines"
+    }
+  ]
+}

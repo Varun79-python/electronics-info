@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Resistive Element",
+      "function": "Provides adjustable R",
+      "material": "Cermet or carbon"
+    },
+    {
+      "name": "Adjuster",
+      "function": "Moves wiper via screw/slot",
+      "material": "Plastic or metal"
+    },
+    {
+      "name": "Terminals",
+      "function": "SMD or through-hole pads",
+      "material": "Tinned"
+    }
+  ]
+}

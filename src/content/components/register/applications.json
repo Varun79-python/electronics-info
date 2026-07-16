@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Computing",
+      "description": "Hold data",
+      "examples": [
+        "CPU"
+      ]
+    },
+    {
+      "category": "Display",
+      "description": "Drive LEDs",
+      "examples": [
+        "Matrix"
+      ]
+    },
+    {
+      "category": "Comms",
+      "description": "Serialize",
+      "examples": [
+        "SPI"
+      ]
+    }
+  ]
+}

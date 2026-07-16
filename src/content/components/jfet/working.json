@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A reverse-biased gate junction creates a depletion region that narrows the conductive channel; more reverse bias pinches it off, reducing drain current.",
+  "steps": [
+    "Drain-source voltage drives channel current",
+    "Reverse-biased gate widens depletion region",
+    "Channel narrows, raising resistance",
+    "At pinch-off, current saturates",
+    "Gate voltage controls current with no gate current"
+  ],
+  "microscopicExplanation": "The gate p-n junction is always reverse biased, so input impedance is extremely high; the depletion width modulates the conducting cross-section of the channel."
+}

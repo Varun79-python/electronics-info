@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "diode",
+    "name": "Diode",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 13,
+    "status": "published"
+  }
+}

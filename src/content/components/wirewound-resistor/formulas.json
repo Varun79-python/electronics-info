@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Resistance of Wire",
+      "formula": "R = ρ × L / A",
+      "description": "Resistance from resistivity, length, area.",
+      "variables": [
+        {
+          "symbol": "ρ",
+          "name": "Resistivity",
+          "unit": "Ω·m"
+        },
+        {
+          "symbol": "L",
+          "name": "Length",
+          "unit": "m"
+        },
+        {
+          "symbol": "A",
+          "name": "Area",
+          "unit": "m²"
+        }
+      ],
+      "example": "Longer/thinner wire → more R"
+    },
+    {
+      "name": "Power",
+      "formula": "P = I² × R",
+      "description": "Heat dissipated.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "10Ω at 1A → 10W"
+    }
+  ]
+}

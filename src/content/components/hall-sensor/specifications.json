@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Sensitivity",
+      "typicalValues": "mV/mT",
+      "notes": "Linear"
+    },
+    {
+      "name": "Range",
+      "typicalValues": "±几十 to ±1000mT",
+      "notes": "By type"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "Analog/digital",
+      "notes": "Varied"
+    },
+    {
+      "name": "Supply",
+      "typicalValues": "3-24V",
+      "notes": "DC"
+    }
+  ]
+}

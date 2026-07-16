@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Electromechanical (EMR)",
+      "description": "Classic coil-actuated.",
+      "applications": [
+        "General switching"
+      ]
+    },
+    {
+      "name": "Reed Relay",
+      "description": "Fast, small sealed.",
+      "applications": [
+        "Test equipment"
+      ]
+    },
+    {
+      "name": "Solid-State Relay",
+      "description": "No moving parts.",
+      "applications": [
+        "Fast/quiet"
+      ]
+    }
+  ]
+}

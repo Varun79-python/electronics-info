@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Size",
+      "typicalValues": "0.5-80 inch",
+      "notes": "Range"
+    },
+    {
+      "name": "Contrast",
+      "typicalValues": "Infinite (true black)",
+      "notes": "Per pixel off"
+    },
+    {
+      "name": "Interface",
+      "typicalValues": "SPI/I²C/MIPI",
+      "notes": "Signal"
+    },
+    {
+      "name": "Lifetime",
+      "typicalValues": "10k-100k h",
+      "notes": "Blue fades"
+    }
+  ]
+}

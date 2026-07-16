@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Type",
+      "description": "D/JK/T."
+    },
+    {
+      "step": 2,
+      "title": "Speed",
+      "description": "Clock rate."
+    },
+    {
+      "step": 3,
+      "title": "Timing",
+      "description": "Setup/hold."
+    },
+    {
+      "step": 4,
+      "title": "Package",
+      "description": "Bits needed."
+    }
+  ],
+  "tips": [
+    "Mind metastability",
+    "Meet timing",
+    "Use async clear"
+  ]
+}

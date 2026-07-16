@@ -1,0 +1,11 @@
+{
+  "name": "Motor Driver IC",
+  "id": "motor-driver-ic",
+  "category": "integrated-circuits",
+  "shortDescription": "A motor driver IC controls the direction and speed of a motor, typically using an H-bridge.",
+  "whatIsIt": "A motor driver IC controls the direction and speed of a motor, typically using an H-bridge.",
+  "whyExists": "MCUs can't directly drive motor currents; drivers provide the power interface.",
+  "whereUsed": "Used in robots, drones, and toys with DC/stepper motors.",
+  "thumbnail": "/assets/images/components/motor-driver-ic/thumbnail.svg",
+  "schematic": "/assets/components/motor-driver-ic/schematic/symbol.svg"
+}

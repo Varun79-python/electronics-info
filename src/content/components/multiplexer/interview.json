@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a MUX?",
+      "answer": "A selector that routes one of many inputs to one output."
+    },
+    {
+      "question": "8:1 needs how many select?",
+      "answer": "3 lines (2^3=8)."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Analog MUX concern?",
+      "answer": "On-resistance and signal loss."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Crosstalk fix?",
+      "answer": "Guard traces and proper decoding."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Use in ADC?",
+      "answer": "To sequence multiple sensor channels."
+    }
+  ]
+}

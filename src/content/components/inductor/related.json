@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "capacitor",
+      "relationship": "Forms LC resonant and filter circuits"
+    },
+    {
+      "id": "transformer",
+      "relationship": "Two coupled inductors"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Together form RL circuits"
+    },
+    {
+      "id": "diode",
+      "relationship": "Flyback diode protects inductive loads"
+    }
+  ]
+}

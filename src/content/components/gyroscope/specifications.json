@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Range",
+      "typicalValues": "±250 to ±2000 °/s",
+      "notes": "Full scale"
+    },
+    {
+      "name": "Sensitivity",
+      "typicalValues": "mdps/LSB",
+      "notes": "Resolution"
+    },
+    {
+      "name": "Drift",
+      "typicalValues": "°/s bias",
+      "notes": "Stability"
+    },
+    {
+      "name": "Axes",
+      "typicalValues": "1/3",
+      "notes": "Count"
+    }
+  ]
+}

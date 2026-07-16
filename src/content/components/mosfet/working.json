@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A voltage on the insulated gate builds an electric field that attracts carriers, forming a channel. Above the threshold voltage, current flows; the gate draws almost no DC current.",
+  "steps": [
+    "Gate voltage is applied relative to source",
+    "Electric field forms a conductive channel",
+    "Above threshold, source-drain conducts",
+    "Higher V_GS lowers on-resistance",
+    "Gate draws negligible DC current"
+  ],
+  "microscopicExplanation": "The oxide-insulated gate capacitively induces a charge layer at the semiconductor surface; no DC gate current flows, giving near-infinite input impedance."
+}

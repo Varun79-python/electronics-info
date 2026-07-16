@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Resistive Wire",
+      "function": "Provides resistance",
+      "material": "Nichrome or manganin"
+    },
+    {
+      "name": "Core",
+      "function": "Mechanical support and heat path",
+      "material": "Ceramic or vitreous"
+    },
+    {
+      "name": "Coating",
+      "function": "Insulation and protection",
+      "material": "Vitreous enamel or silicone"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connection",
+      "material": "Tinned leads or tabs"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "Match distance."
+    },
+    {
+      "step": 2,
+      "title": "Output",
+      "description": "Analog/digital."
+    },
+    {
+      "step": 3,
+      "title": "Environment",
+      "description": "Foam/soft absorb."
+    },
+    {
+      "step": 4,
+      "title": "Beam",
+      "description": "Cone fits target."
+    }
+  ],
+  "tips": [
+    "Temperature-compensate c",
+    "Avoid soft targets",
+    "Add blind-zone margin"
+  ]
+}

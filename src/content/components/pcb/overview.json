@@ -1,0 +1,11 @@
+{
+  "name": "Printed Circuit Board",
+  "id": "pcb",
+  "category": "prototyping",
+  "shortDescription": "A Printed Circuit Board (PCB) mechanically supports and electrically connects components via copper traces.",
+  "whatIsIt": "A Printed Circuit Board (PCB) mechanically supports and electrically connects components via copper traces.",
+  "whyExists": "PCBs make reliable, compact, repeatable electronic assemblies.",
+  "whereUsed": "Used in every modern electronic device.",
+  "thumbnail": "/assets/images/components/pcb/thumbnail.svg",
+  "schematic": "/assets/components/pcb/schematic/symbol.svg"
+}

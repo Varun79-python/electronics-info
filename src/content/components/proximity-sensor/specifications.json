@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Range",
+      "typicalValues": "1mm to 50mm",
+      "notes": "By type"
+    },
+    {
+      "name": "Target",
+      "typicalValues": "Metal/any",
+      "notes": "Type dependent"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "NPN/PNP, analog",
+      "notes": "Logic"
+    },
+    {
+      "name": "Supply",
+      "typicalValues": "10-30V",
+      "notes": "DC"
+    }
+  ]
+}

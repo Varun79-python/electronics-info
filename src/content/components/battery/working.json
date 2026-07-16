@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Electrochemical cells drive ions through electrolyte; electrons flow through the external circuit, doing work.",
+  "steps": [
+    "Chemical reaction at electrodes",
+    "Ions move through electrolyte",
+    "Electrons flow externally",
+    "Recharge reverses (secondary)"
+  ],
+  "microscopicExplanation": "Oxidation at anode releases electrons; reduction at cathode consumes them; EMF equals cell potential."
+}

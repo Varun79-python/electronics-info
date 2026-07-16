@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Pressure Sensor Guide",
+      "author": "Bosch/Honeywell",
+      "year": 2021,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "MEMS Sensors",
+      "author": "Textbook",
+      "year": 2019,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

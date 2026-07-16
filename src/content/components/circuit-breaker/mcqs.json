@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Breaker is:",
+      "options": [
+        "Resettable",
+        "One-time",
+        "Fuse",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reusable.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermal trip uses:",
+      "options": [
+        "Bimetal",
+        "Solenoid",
+        "Fuse",
+        "Relay"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bends with heat.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "RCCB detects:",
+      "options": [
+        "Earth leakage",
+        "Overvoltage",
+        "Heat",
+        "Current"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Leakage to ground.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Type C for:",
+      "options": [
+        "Motor inrush",
+        "Resistive",
+        "Lighting",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Higher inrush.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Magnetic trip on:",
+      "options": [
+        "Short circuit",
+        "Overload",
+        "Heat",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fast on fault.",
+      "difficulty": "advanced"
+    }
+  ]
+}

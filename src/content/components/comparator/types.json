@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Open-Collector",
+      "description": "Needs pull-up.",
+      "applications": [
+        "Wired-OR"
+      ]
+    },
+    {
+      "name": "Push-Pull",
+      "description": "Active both ways.",
+      "applications": [
+        "Fast"
+      ]
+    },
+    {
+      "name": "Window",
+      "description": "Two comparators.",
+      "applications": [
+        "Bounds"
+      ]
+    },
+    {
+      "name": "With Hysteresis",
+      "description": "Schmitt trigger.",
+      "applications": [
+        "Noisy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "An LED emits light due to:",
+      "options": [
+        "Incandescence",
+        "Electroluminescence",
+        "Fluorescence",
+        "Phosphorescence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carrier recombination emits photons.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Blue LEDs have ___ forward voltage than red.",
+      "options": [
+        "Lower",
+        "Higher",
+        "Same",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Larger bandgap → higher V_F.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "LEDs must be:",
+      "options": [
+        "Voltage driven",
+        "Current limited",
+        "Reverse biased",
+        "Unpowered"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Current must be limited.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Color is set by:",
+      "options": [
+        "Package",
+        "Bandgap",
+        "Current",
+        "Voltage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bandgap energy sets wavelength.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Blue LED inventors won a Nobel Prize in:",
+      "options": [
+        "2000",
+        "2014",
+        "1994",
+        "1980"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2014 Nobel Prize in Physics.",
+      "difficulty": "advanced"
+    }
+  ]
+}

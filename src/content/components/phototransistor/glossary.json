@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Photocurrent",
+      "definition": "Light-generated current acting as base drive."
+    },
+    {
+      "term": "Photodarlington",
+      "definition": "Two-stage phototransistor for high gain."
+    },
+    {
+      "term": "Optocoupler",
+      "definition": "LED-phototransistor pair for isolation."
+    },
+    {
+      "term": "Response Time",
+      "definition": "Speed of light-to-current conversion."
+    }
+  ]
+}

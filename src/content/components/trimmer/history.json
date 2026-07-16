@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "Various (post-WWII electronics)",
+    "discovery": "Miniaturized presets emerged with printed-circuit manufacturing for mass calibration.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "Carbon trimmers for radios"
+      },
+      {
+        "year": 1980,
+        "event": "SMD trimmers for compact PCBs"
+      },
+      {
+        "year": 2000,
+        "event": "Cermet multiturn dominate precision"
+      }
+    ]
+  }
+}

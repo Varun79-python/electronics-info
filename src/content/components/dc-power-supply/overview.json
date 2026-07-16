@@ -1,0 +1,11 @@
+{
+  "name": "DC Power Supply",
+  "id": "dc-power-supply",
+  "category": "power-electronics",
+  "shortDescription": "A DC power supply converts AC (or another DC) into a stable direct-current output, typically via rectification, filtering, and regulation.",
+  "whatIsIt": "A DC power supply converts AC (or another DC) into a stable direct-current output, typically via rectification, filtering, and regulation.",
+  "whyExists": "Electronic circuits need clean, stable DC at specific voltages to operate reliably.",
+  "whereUsed": "They power everything from bench equipment to embedded systems and chargers.",
+  "thumbnail": "/assets/images/components/dc-power-supply/thumbnail.svg",
+  "schematic": "/assets/components/dc-power-supply/schematic/symbol.svg"
+}

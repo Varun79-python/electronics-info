@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "multiplexer",
+      "relationship": "Inverse"
+    },
+    {
+      "id": "decoder",
+      "relationship": "Select logic"
+    },
+    {
+      "id": "7-segment",
+      "relationship": "Drives digits"
+    }
+  ]
+}

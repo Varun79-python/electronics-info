@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Monochrome",
+      "description": "One color.",
+      "applications": [
+        "Signs"
+      ]
+    },
+    {
+      "name": "RGB",
+      "description": "Full color.",
+      "applications": [
+        "Video"
+      ]
+    },
+    {
+      "name": "Dot Matrix",
+      "description": "8x8 blocks.",
+      "applications": [
+        "Scrolling"
+      ]
+    },
+    {
+      "name": "Flexible",
+      "description": "Bendable strip.",
+      "applications": [
+        "Decor"
+      ]
+    }
+  ]
+}

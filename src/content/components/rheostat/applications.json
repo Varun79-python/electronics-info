@@ -1,0 +1,28 @@
+{
+  "applications": [
+    {
+      "category": "Current Control",
+      "description": "Manually sets load current",
+      "examples": [
+        "Lamp dimmers",
+        "Motor speed"
+      ]
+    },
+    {
+      "category": "Load Simulation",
+      "description": "Acts as adjustable load",
+      "examples": [
+        "Test benches",
+        "Calibration"
+      ]
+    },
+    {
+      "category": "Heater Control",
+      "description": "Adjusts heating power",
+      "examples": [
+        "Ovens",
+        "Soldering"
+      ]
+    }
+  ]
+}

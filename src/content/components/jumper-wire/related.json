@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "breadboard",
+      "relationship": "Used on"
+    },
+    {
+      "id": "connector",
+      "relationship": "Similar link"
+    },
+    {
+      "id": "pcb",
+      "relationship": "Permanent alt"
+    }
+  ]
+}

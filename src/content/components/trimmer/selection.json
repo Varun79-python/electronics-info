@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Choose Range",
+      "description": "Cover the needed trim span."
+    },
+    {
+      "step": 2,
+      "title": "Single vs Multiturn",
+      "description": "Multiturn for fine calibration."
+    },
+    {
+      "step": 3,
+      "title": "Mounting",
+      "description": "SMD or through-hole."
+    },
+    {
+      "step": 4,
+      "title": "Sealing",
+      "description": "Sealed for harsh environments."
+    }
+  ],
+  "tips": [
+    "Use multiturn for precision",
+    "Lock with lacquer after setting",
+    "Avoid touching after calibration",
+    "Sealed types resist drift"
+  ]
+}

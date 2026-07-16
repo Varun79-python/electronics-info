@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Sample/Hold",
+      "function": "Freeze input",
+      "material": "Silicon"
+    },
+    {
+      "name": "Comparator",
+      "function": "Decide bit",
+      "material": "Silicon"
+    },
+    {
+      "name": "DAC",
+      "function": "Reference",
+      "material": "Silicon"
+    },
+    {
+      "name": "Logic",
+      "function": "Encode",
+      "material": "Silicon"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Active IR uses an LED and photodiode with reflected light; PIR detects body heat via pyroelectric elements.",
+  "steps": [
+    "IR LED emits (active)",
+    "Object reflects IR",
+    "Photodiode receives",
+    "Or PIR senses heat change",
+    "Output toggles"
+  ],
+  "microscopicExplanation": "Pyroelectric crystal generates charge when temperature (IR flux) changes; active uses reflectance."
+}

@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Sensing",
+      "description": "Read sensors",
+      "examples": [
+        "Temp"
+      ]
+    },
+    {
+      "category": "Audio",
+      "description": "Digitize sound",
+      "examples": [
+        "Mics"
+      ]
+    },
+    {
+      "category": "Instrumentation",
+      "description": "Measure",
+      "examples": [
+        "Meters"
+      ]
+    }
+  ]
+}

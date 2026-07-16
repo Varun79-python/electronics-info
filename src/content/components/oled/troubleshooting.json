@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Burn-in",
+      "symptoms": [
+        "Ghost"
+      ],
+      "causes": [
+        "Static"
+      ],
+      "solution": "Avoid"
+    },
+    {
+      "failure": "Dead Pixels",
+      "symptoms": [
+        "Spots"
+      ],
+      "causes": [
+        "Defect"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Dim",
+      "symptoms": [
+        "Fade"
+      ],
+      "causes": [
+        "Age"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Coil/Antenna",
+      "function": "Field",
+      "material": "Copper"
+    },
+    {
+      "name": "Oscillator",
+      "function": "Drive",
+      "material": "Silicon"
+    },
+    {
+      "name": "Detector",
+      "function": "Sense change",
+      "material": "Silicon"
+    },
+    {
+      "name": "Output",
+      "function": "Signal",
+      "material": "Transistor"
+    }
+  ]
+}

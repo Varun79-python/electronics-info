@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Abrupt Varactor",
+      "description": "Steep C-V curve.",
+      "applications": [
+        "Wide tuning"
+      ]
+    },
+    {
+      "name": "Hyperabrupt Varactor",
+      "description": "Very steep; linear tuning.",
+      "applications": [
+        "VCOs"
+      ]
+    },
+    {
+      "name": "GaAs Varactor",
+      "description": "Low loss at RF.",
+      "applications": [
+        "Microwave"
+      ]
+    }
+  ]
+}

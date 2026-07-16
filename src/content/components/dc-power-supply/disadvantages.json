@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Linear supplies heavy/inefficient",
+    "SMPS has EMI",
+    "Cost",
+    "Heat",
+    "Ripple (if poor)",
+    "Size"
+  ]
+}

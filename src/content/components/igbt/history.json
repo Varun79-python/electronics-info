@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1982,
+    "inventor": "B. Jayant Baliga (key developer)",
+    "discovery": "Baliga and others developed the IGBT, combining MOS and bipolar advantages for power electronics.",
+    "evolution": [
+      {
+        "year": 1982,
+        "event": "First IGBT"
+      },
+      {
+        "year": 1990,
+        "event": "Trench gates improve performance"
+      },
+      {
+        "year": 2010,
+        "event": "Widespread in EVs and renewables"
+      }
+    ]
+  }
+}

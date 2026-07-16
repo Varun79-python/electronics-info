@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "SRAM-based",
+      "description": "Reprogrammable.",
+      "applications": [
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Flash-based",
+      "description": "Non-volatile.",
+      "applications": [
+        "Embedded"
+      ]
+    },
+    {
+      "name": "SoC FPGA",
+      "description": "With ARM core.",
+      "applications": [
+        "Complex"
+      ]
+    },
+    {
+      "name": "Low-power",
+      "description": "Small.",
+      "applications": [
+        "Edge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "thyristor",
+    "name": "Thyristor (SCR)",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 22,
+    "status": "published"
+  }
+}

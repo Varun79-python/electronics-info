@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Type",
+      "typicalValues": "D/JK/T/SR",
+      "notes": "Function"
+    },
+    {
+      "name": "Clock",
+      "typicalValues": "up to GHz",
+      "notes": "Speed"
+    },
+    {
+      "name": "Setup/Hold",
+      "typicalValues": "ns",
+      "notes": "Timing"
+    },
+    {
+      "name": "Package",
+      "typicalValues": "IC",
+      "notes": "Multi-bit"
+    }
+  ]
+}

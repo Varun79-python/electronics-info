@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A capacitor consists of two conductors separated by a non-conductive region (dielectric). From Coulomb's law, a charge on one conductor attracts opposite polarity charge on the other, creating an electric field. The capacitance C = Q/V quantifies charge storage per unit voltage.",
+  "steps": [
+    "When voltage is applied, electrons accumulate on one plate (negative)",
+    "An equal number of electrons are repelled from the other plate (positive)",
+    "An electric field forms across the dielectric between the plates",
+    "Energy is stored in the electric field as long as the voltage is maintained",
+    "When the circuit is closed, the stored charge flows back as current"
+  ],
+  "microscopicExplanation": "The dual of the capacitor is the inductor, which stores energy in a magnetic field. The dielectric material's permittivity and breakdown voltage strongly influence capacitor performance. Parasitic capacitance occurs wherever the conductor-insulator-conductor structure forms unintentionally."
+}

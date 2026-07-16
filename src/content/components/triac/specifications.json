@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "V_DRMM",
+      "typicalValues": "400V to 800V",
+      "notes": "Peak off-state"
+    },
+    {
+      "name": "I_T(RMS)",
+      "typicalValues": "1A to 40A",
+      "notes": "Load current"
+    },
+    {
+      "name": "I_GT",
+      "typicalValues": "5mA to 50mA",
+      "notes": "Gate trigger"
+    },
+    {
+      "name": "Commutating dv/dt",
+      "typicalValues": "Rated",
+      "notes": "Inductive loads need margin"
+    }
+  ]
+}

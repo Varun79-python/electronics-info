@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Linear Efficiency",
+      "formula": "η = V_out / V_in",
+      "description": "Efficiency of a linear regulator.",
+      "variables": [
+        {
+          "symbol": "η",
+          "name": "Efficiency",
+          "unit": "%"
+        },
+        {
+          "symbol": "V_out",
+          "name": "Output",
+          "unit": "V"
+        },
+        {
+          "symbol": "V_in",
+          "name": "Input",
+          "unit": "V"
+        }
+      ],
+      "example": "5V from 12V → 42%"
+    },
+    {
+      "name": "Dropout",
+      "formula": "V_dropout = V_in(min) - V_out",
+      "description": "Minimum headroom needed.",
+      "variables": [
+        {
+          "symbol": "V_dropout",
+          "name": "Dropout",
+          "unit": "V"
+        }
+      ],
+      "example": "LDO ~0.2V"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Farad",
+      "definition": "The SI unit of capacitance. One farad stores one coulomb per volt."
+    },
+    {
+      "term": "Dielectric",
+      "definition": "Insulating material between capacitor plates that stores the electric field."
+    },
+    {
+      "term": "ESR",
+      "definition": "Equivalent Series Resistance — internal resistance causing power loss."
+    },
+    {
+      "term": "Polarized",
+      "definition": "Capacitor with defined positive and negative terminals (electrolytic, tantalum)."
+    },
+    {
+      "term": "Reactance",
+      "definition": "Opposition to AC current, inversely proportional to frequency and capacitance."
+    }
+  ]
+}

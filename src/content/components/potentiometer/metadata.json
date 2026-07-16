@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "potentiometer",
+    "name": "Potentiometer",
+    "category": "passive",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 5,
+    "status": "published"
+  }
+}

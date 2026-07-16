@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "At rest accelerometer reads ~",
+      "options": [
+        "1g",
+        "0g",
+        "9.81m",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gravity.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "MEMS uses:",
+      "options": [
+        "Capacitive mass",
+        "Coil",
+        "Diode",
+        "Resistor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Variable capacitor.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "F = m a gives:",
+      "options": [
+        "Force on mass",
+        "Voltage",
+        "Current",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inertial force.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3-axis measures:",
+      "options": [
+        "X/Y/Z",
+        "Only X",
+        "Speed",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Three directions.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Drift from:",
+      "options": [
+        "Temperature",
+        "Light",
+        "Sound",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thermal offset.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

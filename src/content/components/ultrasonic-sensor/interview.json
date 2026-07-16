@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "How measures distance?",
+      "answer": "Times the echo round-trip and uses d=c·t/2."
+    },
+    {
+      "question": "Typical frequency?",
+      "answer": "Around 40kHz."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why temperature compensation?",
+      "answer": "Speed of sound varies with temperature."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Soft targets problem?",
+      "answer": "Foam/cloth absorb ultrasound, no echo."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve accuracy?",
+      "answer": "Calibrate c with temperature, average readings."
+    }
+  ]
+}

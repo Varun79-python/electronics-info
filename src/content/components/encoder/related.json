@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "decoder",
+      "relationship": "Inverse"
+    },
+    {
+      "id": "multiplexer",
+      "relationship": "Related select"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads code"
+    }
+  ]
+}

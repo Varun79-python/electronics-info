@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "NO vs NC?",
+      "answer": "NO is open until pressed; NC is closed until pressed."
+    },
+    {
+      "question": "Why debounce?",
+      "answer": "Mechanical bounce causes multiple transitions."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "When use latching?",
+      "answer": "For power on/off without holding."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Gold vs silver contacts?",
+      "answer": "Gold for low-signal; silver for power."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Design for high cycle life?",
+      "answer": "Use sealed contacts and rated current."
+    }
+  ]
+}

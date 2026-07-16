@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "Wirewound Rheostat",
+      "description": "High power, wire element.",
+      "applications": [
+        "Motor control",
+        "Heaters"
+      ]
+    },
+    {
+      "name": "Carbon Rheostat",
+      "description": "Carbon track, lower power.",
+      "applications": [
+        "Lamps",
+        "Audio"
+      ]
+    },
+    {
+      "name": "Slider Rheostat",
+      "description": "Linear motion control.",
+      "applications": [
+        "Lab benches"
+      ]
+    }
+  ]
+}

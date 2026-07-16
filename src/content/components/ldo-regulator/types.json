@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Fixed Output",
+      "description": "Set voltage.",
+      "applications": [
+        "3.3V rails"
+      ]
+    },
+    {
+      "name": "Adjustable",
+      "description": "External divider.",
+      "applications": [
+        "Custom"
+      ]
+    },
+    {
+      "name": "Low-Noise",
+      "description": "For RF/ADC.",
+      "applications": [
+        "Sensitive"
+      ]
+    },
+    {
+      "name": "High-PSRR",
+      "description": "Rejects ripple.",
+      "applications": [
+        "Audio"
+      ]
+    }
+  ]
+}

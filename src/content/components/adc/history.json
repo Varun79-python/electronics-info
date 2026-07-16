@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "ADC evolution",
+    "discovery": "Successive-approximation and sigma-delta techniques enabled practical digitization.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "SAR ADCs"
+      },
+      {
+        "year": 1980,
+        "event": "Sigma-delta"
+      },
+      {
+        "year": 2000,
+        "event": "High-res audio ADC"
+      }
+    ]
+  }
+}

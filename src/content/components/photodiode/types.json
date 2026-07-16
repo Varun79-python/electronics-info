@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "PN Photodiode",
+      "description": "General purpose.",
+      "applications": [
+        "Sensors"
+      ]
+    },
+    {
+      "name": "PIN Photodiode",
+      "description": "Wide depletion for speed.",
+      "applications": [
+        "Fiber optics"
+      ]
+    },
+    {
+      "name": "Avalanche Photodiode",
+      "description": "Internal gain.",
+      "applications": [
+        "Long-range comms"
+      ]
+    }
+  ]
+}

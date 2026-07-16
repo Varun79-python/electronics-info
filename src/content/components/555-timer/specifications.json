@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Supply",
+      "typicalValues": "4.5-18V",
+      "notes": "Wide"
+    },
+    {
+      "name": "Max Frequency",
+      "typicalValues": "up to 1MHz",
+      "notes": "CMOS higher"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "200mA sink/source",
+      "notes": "Drive"
+    },
+    {
+      "name": "Modes",
+      "typicalValues": "3",
+      "notes": "Astable/mono/bi"
+    }
+  ]
+}

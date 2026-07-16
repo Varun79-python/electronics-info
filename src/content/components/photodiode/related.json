@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "led",
+      "relationship": "Inverse optoelectronic device"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Transimpedance amplifier"
+    },
+    {
+      "id": "ir-sensor",
+      "relationship": "Built around photodiodes"
+    },
+    {
+      "id": "diode",
+      "relationship": "Same p-n junction physics"
+    }
+  ]
+}

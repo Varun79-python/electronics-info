@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "PPM",
+      "definition": "Parts per million concentration."
+    },
+    {
+      "term": "R0",
+      "definition": "Sensor resistance in clean air."
+    },
+    {
+      "term": "Cross-sensitivity",
+      "definition": "Responds to other gases."
+    },
+    {
+      "term": "LEL",
+      "definition": "Lower explosive limit."
+    }
+  ]
+}

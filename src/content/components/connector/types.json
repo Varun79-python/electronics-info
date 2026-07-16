@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Header (2.54mm)",
+      "description": "Pin rows.",
+      "applications": [
+        "Boards"
+      ]
+    },
+    {
+      "name": "USB",
+      "description": "Data/power.",
+      "applications": [
+        "Devices"
+      ]
+    },
+    {
+      "name": "Barrel Jack",
+      "description": "DC power.",
+      "applications": [
+        "Adapters"
+      ]
+    },
+    {
+      "name": "RF (SMA)",
+      "description": "Coax.",
+      "applications": [
+        "Antenna"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Forward Voltage",
+      "typicalValues": "0.15V to 0.5V",
+      "notes": "Much lower than Si p-n"
+    },
+    {
+      "name": "Reverse Voltage",
+      "typicalValues": "20V to 100V",
+      "notes": "Lower than p-n"
+    },
+    {
+      "name": "Reverse Recovery",
+      "typicalValues": "ps to ns",
+      "notes": "Near zero"
+    },
+    {
+      "name": "Leakage",
+      "typicalValues": "Higher than p-n",
+      "notes": "Worse at high temp"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "mA to 100A",
+      "notes": "Power Schottkys large"
+    }
+  ]
+}

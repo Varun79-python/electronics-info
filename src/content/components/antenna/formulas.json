@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Wavelength",
+      "formula": "λ = c / f",
+      "description": "Wave length.",
+      "variables": [
+        {
+          "symbol": "λ",
+          "name": "Wavelength",
+          "unit": "m"
+        },
+        {
+          "symbol": "c",
+          "name": "Speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "f",
+          "name": "Freq",
+          "unit": "Hz"
+        }
+      ],
+      "example": "2.4GHz -> 12.5cm"
+    },
+    {
+      "name": "Dipole Length",
+      "formula": "L ≈ λ/2",
+      "description": "Resonant length.",
+      "variables": [
+        {
+          "symbol": "L",
+          "name": "Length",
+          "unit": "m"
+        }
+      ],
+      "example": "Quarter wave common"
+    }
+  ]
+}

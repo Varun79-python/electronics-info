@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Pitch",
+      "definition": "Contact spacing."
+    },
+    {
+      "term": "Contact R",
+      "definition": "Joint resistance."
+    },
+    {
+      "term": "Keyed",
+      "definition": "Prevents wrong mate."
+    },
+    {
+      "term": "Strain Relief",
+      "definition": "Cable support."
+    }
+  ]
+}

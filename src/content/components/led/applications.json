@@ -1,0 +1,36 @@
+{
+  "applications": [
+    {
+      "category": "Indicators",
+      "description": "Status and signal lights",
+      "examples": [
+        "Power LED",
+        "Keypad"
+      ]
+    },
+    {
+      "category": "Lighting",
+      "description": "Efficient illumination",
+      "examples": [
+        "Bulbs",
+        "Street lights"
+      ]
+    },
+    {
+      "category": "Displays",
+      "description": "Pixels and backlights",
+      "examples": [
+        "Screens",
+        "Signage"
+      ]
+    },
+    {
+      "category": "Communication",
+      "description": "Optical signaling",
+      "examples": [
+        "IR remote",
+        "Fiber"
+      ]
+    }
+  ]
+}

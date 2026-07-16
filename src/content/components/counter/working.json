@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Flip-flops chained with logic increment a count on each clock; modulo-N counters wrap at N.",
+  "steps": [
+    "Clock pulse arrives",
+    "Count increments",
+    "Outputs reflect binary",
+    "Wrap at modulus"
+  ],
+  "microscopicExplanation": "Ripple counters chain T-FFs (each divides by 2); synchronous counters update all bits on one edge."
+}

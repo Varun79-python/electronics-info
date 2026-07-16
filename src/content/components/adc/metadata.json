@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "adc",
+    "name": "Analog to Digital Converter",
+    "category": "integrated-circuits",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 60,
+    "status": "published"
+  }
+}

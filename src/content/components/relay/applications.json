@@ -1,0 +1,33 @@
+{
+  "applications": [
+    {
+      "category": "Load Switching",
+      "description": "Control high-power from logic",
+      "examples": [
+        "Lamps",
+        "Motors"
+      ]
+    },
+    {
+      "category": "Isolation",
+      "description": "Separate control/load",
+      "examples": [
+        "MCU to mains"
+      ]
+    },
+    {
+      "category": "Protection",
+      "description": "Trip on fault",
+      "examples": [
+        "Safety"
+      ]
+    },
+    {
+      "category": "Automotive",
+      "description": "Control subsystems",
+      "examples": [
+        "ECU"
+      ]
+    }
+  ]
+}

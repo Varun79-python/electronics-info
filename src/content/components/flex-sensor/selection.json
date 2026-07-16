@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "Match bend."
+    },
+    {
+      "step": 2,
+      "title": "Divider",
+      "description": "Pick fixed R."
+    },
+    {
+      "step": 3,
+      "title": "Mount",
+      "description": "Secure ends."
+    },
+    {
+      "step": 4,
+      "title": "Calibrate",
+      "description": "Map R to angle."
+    }
+  ],
+  "tips": [
+    "Don't crease",
+    "Average readings",
+    "Replace if cracked"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "Lost Steps",
+      "symptoms": [
+        "Position drift"
+      ],
+      "causes": [
+        "Overload",
+        "Resonance"
+      ],
+      "solution": "Reduce speed/load"
+    },
+    {
+      "failure": "No Move",
+      "symptoms": [
+        "Vibrate"
+      ],
+      "causes": [
+        "Wrong sequence"
+      ],
+      "solution": "Fix phase wiring"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Hot"
+      ],
+      "causes": [
+        "High current"
+      ],
+      "solution": "Lower current limit"
+    }
+  ]
+}

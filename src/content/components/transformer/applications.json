@@ -1,0 +1,36 @@
+{
+  "applications": [
+    {
+      "category": "Power Distribution",
+      "description": "Steps voltage up for transmission, down for use",
+      "examples": [
+        "Grid transformers",
+        "Wall adapters"
+      ]
+    },
+    {
+      "category": "Isolation",
+      "description": "Galvanic separation for safety",
+      "examples": [
+        "Medical devices",
+        "Lab equipment"
+      ]
+    },
+    {
+      "category": "Impedance Matching",
+      "description": "Maximizes power transfer",
+      "examples": [
+        "Audio amplifiers",
+        "RF"
+      ]
+    },
+    {
+      "category": "Signal Coupling",
+      "description": "Transfers AC while blocking DC",
+      "examples": [
+        "Microphone transformers",
+        "Modems"
+      ]
+    }
+  ]
+}

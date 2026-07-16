@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Type",
+      "description": "Cap vs resistive."
+    },
+    {
+      "step": 2,
+      "title": "Multi-touch",
+      "description": "Need grid?"
+    },
+    {
+      "step": 3,
+      "title": "Overlay",
+      "description": "Glass thickness."
+    },
+    {
+      "step": 4,
+      "title": "Interface",
+      "description": "I²C/GPIO."
+    }
+  ],
+  "tips": [
+    "Guard against water",
+    "Use ground shield",
+    "Tune threshold"
+  ]
+}

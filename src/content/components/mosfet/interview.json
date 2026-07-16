@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a MOSFET?",
+      "answer": "A voltage-controlled transistor where gate voltage creates a conductive channel."
+    },
+    {
+      "question": "Why is gate current near zero?",
+      "answer": "The gate is insulated by oxide, so only capacitive charging current flows."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "MOSFET vs BJT key difference?",
+      "answer": "MOSFET is voltage-controlled with high input impedance; BJT is current-controlled."
+    },
+    {
+      "question": "What is R_DS(on)?",
+      "answer": "The resistance when fully on; lower means less conduction loss."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What limits switching speed?",
+      "answer": "Gate charge and driver current; you must charge/discharge C_iss quickly."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How minimize MOSFET switching loss?",
+      "answer": "Use a strong gate driver, minimize loop inductance, and select low-Q_g devices; balance against EMI."
+    }
+  ]
+}

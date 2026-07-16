@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Input",
+      "description": "Key scan",
+      "examples": [
+        "Keyboards"
+      ]
+    },
+    {
+      "category": "Interrupts",
+      "description": "Priority",
+      "examples": [
+        "CPU"
+      ]
+    },
+    {
+      "category": "Position",
+      "description": "Encode",
+      "examples": [
+        "Encoders"
+      ]
+    }
+  ]
+}

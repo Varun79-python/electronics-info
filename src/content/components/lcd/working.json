@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A backlight passes through liquid crystals whose orientation (controlled by voltage) modulates light passing polarizers; TFT arrays switch pixels.",
+  "steps": [
+    "Backlight emits light",
+    "Polarizer aligns it",
+    "Crystals rotate polarization by voltage",
+    "Color filters form pixels"
+  ],
+  "microscopicExplanation": "Twisted nematic crystals rotate polarized light; voltage untwists them, blocking light at the second polarizer."
+}

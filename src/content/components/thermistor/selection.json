@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Choose Type",
+      "description": "NTC for sensing, PTC for protection."
+    },
+    {
+      "step": 2,
+      "title": "Pick Nominal R",
+      "description": "Match measurement range (e.g., 10kΩ at 25°C)."
+    },
+    {
+      "step": 3,
+      "title": "Check Tolerance",
+      "description": "Tighter tolerance for accuracy."
+    },
+    {
+      "step": 4,
+      "title": "Consider Time Constant",
+      "description": "Faster for control loops."
+    },
+    {
+      "step": 5,
+      "title": "Limit Self-heating",
+      "description": "Use low excitation current."
+    }
+  ],
+  "tips": [
+    "Use Steinhart-Hart for accuracy",
+    "Minimize current to avoid self-heating",
+    "Glass types for high temp",
+    "Calibrate each unit if critical"
+  ]
+}

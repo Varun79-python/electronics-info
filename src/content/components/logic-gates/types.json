@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "AND/OR",
+      "description": "Basic combine.",
+      "applications": [
+        "Enable"
+      ]
+    },
+    {
+      "name": "NOT",
+      "description": "Invert.",
+      "applications": [
+        "Buffer"
+      ]
+    },
+    {
+      "name": "NAND/NOR",
+      "description": "Universal.",
+      "applications": [
+        "All logic"
+      ]
+    },
+    {
+      "name": "XOR",
+      "description": "Difference.",
+      "applications": [
+        "Adders"
+      ]
+    }
+  ]
+}

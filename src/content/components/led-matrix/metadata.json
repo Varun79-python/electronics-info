@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "led-matrix",
+    "name": "LED Matrix",
+    "category": "displays",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 80,
+    "status": "published"
+  }
+}

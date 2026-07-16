@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Hygroscopic Film",
+      "function": "Absorbs moisture",
+      "material": "Polymer/ceramic"
+    },
+    {
+      "name": "Electrodes",
+      "function": "Form capacitor",
+      "material": "Gold"
+    },
+    {
+      "name": "Substrate",
+      "function": "Support",
+      "material": "Silicon"
+    },
+    {
+      "name": "ASIC",
+      "function": "Condition",
+      "material": "Silicon"
+    }
+  ]
+}

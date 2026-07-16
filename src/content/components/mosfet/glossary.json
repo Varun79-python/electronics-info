@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "R_DS(on)",
+      "definition": "Drain-source resistance when fully on."
+    },
+    {
+      "term": "V_GS(th)",
+      "definition": "Gate threshold voltage to start conduction."
+    },
+    {
+      "term": "Gate Charge (Q_g)",
+      "definition": "Charge needed to switch the gate; sets switching speed."
+    },
+    {
+      "term": "Body Diode",
+      "definition": "Parasitic diode between source and drain."
+    },
+    {
+      "term": "CMOS",
+      "definition": "Complementary MOS; low-power logic family."
+    }
+  ]
+}

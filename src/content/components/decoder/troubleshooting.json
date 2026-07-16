@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Wrong Out",
+      "symptoms": [
+        "Misselect"
+      ],
+      "causes": [
+        "Code error"
+      ],
+      "solution": "Fix input"
+    },
+    {
+      "failure": "Glitch",
+      "symptoms": [
+        "Transient"
+      ],
+      "causes": [
+        "Transition"
+      ],
+      "solution": "Latch"
+    },
+    {
+      "failure": "All Off",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Enable low"
+      ],
+      "solution": "Assert enable"
+    }
+  ]
+}

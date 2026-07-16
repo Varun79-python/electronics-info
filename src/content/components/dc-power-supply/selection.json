@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage/Current",
+      "description": "Match load requirements."
+    },
+    {
+      "step": 2,
+      "title": "Type",
+      "description": "Linear for low noise, SMPS for efficiency."
+    },
+    {
+      "step": 3,
+      "title": "Ripple Need",
+      "description": "Low ripple for analog."
+    },
+    {
+      "step": 4,
+      "title": "Protection",
+      "description": "OVP/OCP/OTP features."
+    }
+  ],
+  "tips": [
+    "SMPS for efficiency",
+    "Linear for sensitive analog",
+    "Check ripple spec",
+    "Use bench for prototyping"
+  ]
+}

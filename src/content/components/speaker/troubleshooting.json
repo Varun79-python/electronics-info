@@ -1,0 +1,37 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Sound",
+      "symptoms": [
+        "Silent"
+      ],
+      "causes": [
+        "Open coil",
+        "Wiring"
+      ],
+      "solution": "Check; replace"
+    },
+    {
+      "failure": "Distortion",
+      "symptoms": [
+        "Rattling"
+      ],
+      "causes": [
+        "Cone damage",
+        "Overdrive"
+      ],
+      "solution": "Replace; lower level"
+    },
+    {
+      "failure": "Weak",
+      "symptoms": [
+        "Low output"
+      ],
+      "causes": [
+        "Magnet",
+        "Amp"
+      ],
+      "solution": "Check amp"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "Degradation",
+      "symptoms": [
+        "Lower clamp voltage",
+        "Higher leakage"
+      ],
+      "causes": [
+        "Repeated surges"
+      ],
+      "solution": "Replace proactively"
+    },
+    {
+      "failure": "Short Circuit",
+      "symptoms": [
+        "Blown fuse",
+        "No power"
+      ],
+      "causes": [
+        "Catastrophic surge"
+      ],
+      "solution": "Replace varistor and fuse"
+    },
+    {
+      "failure": "Cracked Body",
+      "symptoms": [
+        "Visible damage"
+      ],
+      "causes": [
+        "Over-energy"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

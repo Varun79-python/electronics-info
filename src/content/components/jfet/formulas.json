@@ -1,0 +1,27 @@
+{
+  "formulas": [
+    {
+      "name": "Shockley Equation",
+      "formula": "I_D = I_DSS × (1 - V_GS/V_P)²",
+      "description": "Drain current vs gate voltage.",
+      "variables": [
+        {
+          "symbol": "I_D",
+          "name": "Drain current",
+          "unit": "A"
+        },
+        {
+          "symbol": "I_DSS",
+          "name": "Saturation current",
+          "unit": "A"
+        },
+        {
+          "symbol": "V_P",
+          "name": "Pinch-off voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "At V_GS=0, I_D=I_DSS"
+    }
+  ]
+}

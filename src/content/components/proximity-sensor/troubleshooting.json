@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Detect",
+      "symptoms": [
+        "No trigger"
+      ],
+      "causes": [
+        "Wrong target"
+      ],
+      "solution": "Match type"
+    },
+    {
+      "failure": "False",
+      "symptoms": [
+        "Stuck on"
+      ],
+      "causes": [
+        "Stray metal"
+      ],
+      "solution": "Relocate"
+    },
+    {
+      "failure": "Short Range",
+      "symptoms": [
+        "Late"
+      ],
+      "causes": [
+        "Misalign"
+      ],
+      "solution": "Align"
+    }
+  ]
+}

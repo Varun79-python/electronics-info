@@ -1,0 +1,27 @@
+{
+  "formulas": [
+    {
+      "name": "Junction Capacitance",
+      "formula": "C_j = C_0 / (1 + V_R/V0)^n",
+      "description": "Capacitance vs reverse voltage.",
+      "variables": [
+        {
+          "symbol": "C_j",
+          "name": "Junction capacitance",
+          "unit": "pF"
+        },
+        {
+          "symbol": "V_R",
+          "name": "Reverse voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "n",
+          "name": "Grading coefficient",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "Higher V_R → lower C"
+    }
+  ]
+}

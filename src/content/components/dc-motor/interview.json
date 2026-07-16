@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "How does a DC motor spin?",
+      "answer": "Current in a magnetic field produces torque; the commutator keeps it unidirectional."
+    },
+    {
+      "question": "What is back-EMF?",
+      "answer": "A speed-dependent voltage that opposes the supply and limits current as speed rises."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "How control speed?",
+      "answer": "Vary voltage or use PWM; speed roughly tracks applied voltage minus losses."
+    },
+    {
+      "question": "Brushed vs BLDC?",
+      "answer": "Brushed simple/cheap with wear; BLDC efficient, long-lived, needs electronics."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why limit stall current?",
+      "answer": "At stall back-EMF is zero, so current is V/R and can be many times rated, overheating the motor."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How maximize efficiency?",
+      "answer": "Use BLDC with field-oriented control and proper commutation timing."
+    }
+  ]
+}

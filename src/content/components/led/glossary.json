@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Electroluminescence",
+      "definition": "Light emission from recombination of carriers in a semiconductor."
+    },
+    {
+      "term": "Bandgap",
+      "definition": "Energy difference between valence and conduction bands; sets color."
+    },
+    {
+      "term": "Forward Voltage",
+      "definition": "Voltage drop when the LED conducts."
+    },
+    {
+      "term": "Luminous Intensity",
+      "definition": "Perceived brightness, in candela/millicandela."
+    }
+  ]
+}

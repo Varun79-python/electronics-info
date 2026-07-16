@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Transformer",
+      "function": "Voltage scaling/isolation",
+      "material": "Laminated steel"
+    },
+    {
+      "name": "Rectifier",
+      "function": "AC to DC",
+      "material": "Diodes"
+    },
+    {
+      "name": "Filter Capacitor",
+      "function": "Smooths ripple",
+      "material": "Electrolytic"
+    },
+    {
+      "name": "Regulator",
+      "function": "Stabilizes output",
+      "material": "IC"
+    }
+  ]
+}

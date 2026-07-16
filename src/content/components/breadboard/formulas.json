@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Pitch",
+      "formula": "2.54mm (0.1in)",
+      "description": "Standard spacing.",
+      "variables": [
+        {
+          "symbol": "Pitch",
+          "name": "Spacing",
+          "unit": "mm"
+        }
+      ],
+      "example": "Fits DIP"
+    },
+    {
+      "name": "Capacity",
+      "formula": "Points count",
+      "description": "Size.",
+      "variables": [
+        {
+          "symbol": "Points",
+          "name": "Count",
+          "unit": ""
+        }
+      ],
+      "example": "400/830"
+    }
+  ]
+}

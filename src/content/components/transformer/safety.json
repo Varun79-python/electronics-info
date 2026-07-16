@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "High-voltage secondaries are lethal. De-energize and discharge before servicing.",
+  "currentSafety": "Short circuits cause massive current. Use fuses and current limits.",
+  "thermalSafety": "Overload causes overheating and fire risk. Provide ventilation.",
+  "handling": "Heavy units need secure mounting to avoid injury.",
+  "storage": "Store dry; moisture degrades insulation.",
+  "disposal": "Contains copper and steel; recycle per regulations."
+}

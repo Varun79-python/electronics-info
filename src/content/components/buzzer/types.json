@@ -1,0 +1,26 @@
+{
+  "types": [
+    {
+      "name": "Piezo Buzzer",
+      "description": "Efficient, crisp tone.",
+      "applications": [
+        "Alarms",
+        "UI"
+      ]
+    },
+    {
+      "name": "Electromagnetic Buzzer",
+      "description": "Classic mechanical.",
+      "applications": [
+        "Timers"
+      ]
+    },
+    {
+      "name": "Active vs Passive",
+      "description": "Active has oscillator; passive needs drive.",
+      "applications": [
+        "Flexible"
+      ]
+    }
+  ]
+}

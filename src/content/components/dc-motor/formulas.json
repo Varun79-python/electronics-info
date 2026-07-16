@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "Back-EMF",
+      "formula": "E = k_e × ω",
+      "description": "Speed-proportional voltage.",
+      "variables": [
+        {
+          "symbol": "E",
+          "name": "Back-EMF",
+          "unit": "V"
+        },
+        {
+          "symbol": "ω",
+          "name": "Angular speed",
+          "unit": "rad/s"
+        },
+        {
+          "symbol": "k_e",
+          "name": "Constant",
+          "unit": "V·s/rad"
+        }
+      ],
+      "example": "Faster → higher E"
+    },
+    {
+      "name": "Torque",
+      "formula": "τ = k_t × I",
+      "description": "Torque proportional to current.",
+      "variables": [
+        {
+          "symbol": "τ",
+          "name": "Torque",
+          "unit": "N·m"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "More current → more torque"
+    }
+  ]
+}

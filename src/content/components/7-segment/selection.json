@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Common",
+      "description": "CA or CC."
+    },
+    {
+      "step": 2,
+      "title": "Digits",
+      "description": "How many."
+    },
+    {
+      "step": 3,
+      "title": "Current",
+      "description": "Limit resistors."
+    },
+    {
+      "step": 4,
+      "title": "Drive",
+      "description": "Direct/mux."
+    }
+  ],
+  "tips": [
+    "Use decoder (7447)",
+    "Limit current",
+    "Multiplex for many"
+  ]
+}

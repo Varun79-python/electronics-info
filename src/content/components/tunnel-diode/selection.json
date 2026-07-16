@@ -1,0 +1,25 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Frequency Need",
+      "description": "GHz oscillators."
+    },
+    {
+      "step": 2,
+      "title": "Bias Point",
+      "description": "Set in negative-resistance region."
+    },
+    {
+      "step": 3,
+      "title": "Matching",
+      "description": "RF matching network."
+    }
+  ],
+  "tips": [
+    "Use for microwave sources",
+    "Careful bias stability",
+    "Pair with resonant tank",
+    "Largely legacy"
+  ]
+}

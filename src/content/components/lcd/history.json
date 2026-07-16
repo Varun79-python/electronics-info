@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1964,
+    "inventor": "George Heilmeier (LCD)",
+    "discovery": "Heilmeier developed the first working liquid crystal displays.",
+    "evolution": [
+      {
+        "year": 1964,
+        "event": "First LCD"
+      },
+      {
+        "year": 1980,
+        "event": "TN panels"
+      },
+      {
+        "year": 2000,
+        "event": "TFT/IPS"
+      }
+    ]
+  }
+}

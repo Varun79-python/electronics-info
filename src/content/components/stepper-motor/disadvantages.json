@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Low speed high torque only",
+    "Can lose steps under load",
+    "Resonances",
+    "Inefficient at high speed",
+    "Needs driver",
+    "Heats when holding"
+  ]
+}

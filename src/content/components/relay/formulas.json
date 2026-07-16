@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Coil Power",
+      "formula": "P = V² / R_coil",
+      "description": "Power to energize.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        },
+        {
+          "symbol": "V",
+          "name": "Coil voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "R_coil",
+          "name": "Coil resistance",
+          "unit": "Ω"
+        }
+      ],
+      "example": "12V, 400Ω → 0.36W"
+    },
+    {
+      "name": "Pull-in Current",
+      "formula": "I = N×I (ampere-turns)",
+      "description": "Force to actuate.",
+      "variables": [
+        {
+          "symbol": "N",
+          "name": "Turns",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "More turns → less current"
+    }
+  ]
+}

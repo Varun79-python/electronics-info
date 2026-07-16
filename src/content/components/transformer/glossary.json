@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Turns Ratio",
+      "definition": "Ratio of secondary to primary winding turns; sets voltage transformation."
+    },
+    {
+      "term": "Mutual Inductance",
+      "definition": "Coupling between two coils via shared magnetic flux."
+    },
+    {
+      "term": "Isolation",
+      "definition": "Galvanic separation between input and output circuits."
+    },
+    {
+      "term": "Regulation",
+      "definition": "Change in output voltage from no-load to full-load."
+    },
+    {
+      "term": "Eddy Current",
+      "definition": "Circulating currents in the core that cause loss; reduced by lamination."
+    }
+  ]
+}

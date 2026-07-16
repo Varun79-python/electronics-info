@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage Rating",
+      "description": "Exceed peak with margin."
+    },
+    {
+      "step": 2,
+      "title": "Current Rating",
+      "description": "Use average and surge ratings."
+    },
+    {
+      "step": 3,
+      "title": "Snubber",
+      "description": "Limit di/dt and dv/dt."
+    },
+    {
+      "step": 4,
+      "title": "Gate Drive",
+      "description": "Pulse transformer or opto."
+    }
+  ],
+  "tips": [
+    "Use snubber networks",
+    "Mind surge current",
+    "Natural commutation at AC zero",
+    "GTO for forced turn-off"
+  ]
+}

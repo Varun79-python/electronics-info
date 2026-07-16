@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Metal-oxide (MQ) sensors change resistance when target gas reacts on a heated sensing element; electrochemical cells generate current.",
+  "steps": [
+    "Gas reaches heated element",
+    "Chemical reaction occurs",
+    "Resistance/current changes",
+    "Circuit outputs concentration"
+  ],
+  "microscopicExplanation": "Heated SnO₂ surface adsorbs oxygen; target gas changes carrier density, altering resistance."
+}

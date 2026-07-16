@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Type",
+      "description": "Active/PIR/receiver."
+    },
+    {
+      "step": 2,
+      "title": "Range",
+      "description": "Match distance."
+    },
+    {
+      "step": 3,
+      "title": "Output",
+      "description": "Digital/analog."
+    },
+    {
+      "step": 4,
+      "title": "Environment",
+      "description": "Avoid sunlight."
+    }
+  ],
+  "tips": [
+    "Modulate to reject ambient",
+    "Use IR filter",
+    "Shield from sun"
+  ]
+}

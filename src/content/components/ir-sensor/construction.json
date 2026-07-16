@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "IR LED",
+      "function": "Emit",
+      "material": "GaAs"
+    },
+    {
+      "name": "Photodiode",
+      "function": "Receive",
+      "material": "Si"
+    },
+    {
+      "name": "Pyro Element",
+      "function": "Heat sense",
+      "material": "Lithium tantalate"
+    },
+    {
+      "name": "Lens",
+      "function": "Focus",
+      "material": "Plastic"
+    }
+  ]
+}

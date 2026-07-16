@@ -1,0 +1,11 @@
+{
+  "name": "Inductor",
+  "id": "inductor",
+  "category": "passive",
+  "shortDescription": "An inductor is a passive two-terminal component that stores energy in a magnetic field when current flows through it.",
+  "whatIsIt": "An inductor is a passive two-terminal component that stores energy in a magnetic field when current flows through it. It is typically a coil of wire wound around a core.",
+  "whyExists": "Inductors oppose changes in current, making them essential for filtering, energy storage in power supplies, tuning, and blocking high-frequency noise.",
+  "whereUsed": "Inductors appear in power supplies, radios, transformers, motors, filters, and nearly every switching-mode power converter.",
+  "thumbnail": "/assets/images/components/inductor/thumbnail.svg",
+  "schematic": "/assets/components/inductor/schematic/symbol.svg"
+}

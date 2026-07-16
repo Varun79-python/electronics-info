@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Lighting",
+      "description": "Auto on/off",
+      "examples": [
+        "Street lights"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "description": "Exposure",
+      "examples": [
+        "Cameras"
+      ]
+    },
+    {
+      "category": "Toys",
+      "description": "Light react",
+      "examples": [
+        "Gadgets"
+      ]
+    }
+  ]
+}

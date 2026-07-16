@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Encoder does:",
+      "options": [
+        "Input to code",
+        "Code to output",
+        "Amplify",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Compress.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8 inputs -> bits:",
+      "options": [
+        "3",
+        "8",
+        "4",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "log2 8.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Priority means:",
+      "options": [
+        "Highest wins",
+        "All out",
+        "None",
+        "Lowest"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resolve multi.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Keyboards",
+        "Power",
+        "Audio",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Input coding.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inverse of encoder:",
+      "options": [
+        "Decoder",
+        "MUX",
+        "Counter",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Code to lines.",
+      "difficulty": "beginner"
+    }
+  ]
+}

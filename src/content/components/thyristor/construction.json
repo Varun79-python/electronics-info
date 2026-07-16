@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "p-n-p-n Stack",
+      "function": "Latching switch",
+      "material": "Silicon"
+    },
+    {
+      "name": "Gate Terminal",
+      "function": "Triggers turn-on",
+      "material": "Tinned lead"
+    },
+    {
+      "name": "Anode/Cathode",
+      "function": "Power terminals",
+      "material": "Doped silicon"
+    }
+  ]
+}

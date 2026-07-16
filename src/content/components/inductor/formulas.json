@@ -1,0 +1,78 @@
+{
+  "formulas": [
+    {
+      "name": "Inductance of a Solenoid",
+      "formula": "L = μ × N² × A / l",
+      "description": "Inductance of a coil with N turns, area A, length l.",
+      "variables": [
+        {
+          "symbol": "L",
+          "name": "Inductance",
+          "unit": "Henries (H)"
+        },
+        {
+          "symbol": "N",
+          "name": "Turns",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "A",
+          "name": "Area",
+          "unit": "m²"
+        },
+        {
+          "symbol": "l",
+          "name": "Length",
+          "unit": "m"
+        }
+      ],
+      "example": "More turns or larger area increases L"
+    },
+    {
+      "name": "Inductive Reactance",
+      "formula": "X_L = 2π × f × L",
+      "description": "Opposition to AC current; rises with frequency.",
+      "variables": [
+        {
+          "symbol": "X_L",
+          "name": "Reactance",
+          "unit": "Ohms (Ω)"
+        },
+        {
+          "symbol": "f",
+          "name": "Frequency",
+          "unit": "Hz"
+        },
+        {
+          "symbol": "L",
+          "name": "Inductance",
+          "unit": "H"
+        }
+      ],
+      "example": "At 1kHz, L=1mH → X_L ≈ 6.28Ω"
+    },
+    {
+      "name": "Energy Stored",
+      "formula": "E = ½ × L × I²",
+      "description": "Energy stored in the magnetic field.",
+      "variables": [
+        {
+          "symbol": "E",
+          "name": "Energy",
+          "unit": "Joules (J)"
+        },
+        {
+          "symbol": "L",
+          "name": "Inductance",
+          "unit": "H"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "L=10mH, I=2A → E=0.02J"
+    }
+  ]
+}

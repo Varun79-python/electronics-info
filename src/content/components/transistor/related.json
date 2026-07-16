@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "mosfet",
+      "relationship": "Voltage-controlled alternative"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Base/gain-setting resistors"
+    },
+    {
+      "id": "diode",
+      "relationship": "Base-emitter is a diode"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Built from transistor stages"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Register",
+  "id": "register",
+  "category": "digital",
+  "shortDescription": "A register is a group of flip-flops that stores multiple bits, often with parallel load/shift capability.",
+  "whatIsIt": "A register is a group of flip-flops that stores multiple bits, often with parallel load/shift capability.",
+  "whyExists": "Registers hold data temporarily in digital systems for processing and transfer.",
+  "whereUsed": "Used in CPUs, shift registers, and data buses.",
+  "thumbnail": "/assets/images/components/register/thumbnail.svg",
+  "schematic": "/assets/components/register/schematic/symbol.svg"
+}

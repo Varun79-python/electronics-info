@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Chatter",
+      "symptoms": [
+        "Oscillate"
+      ],
+      "causes": [
+        "No hysteresis"
+      ],
+      "solution": "Add feedback"
+    },
+    {
+      "failure": "Wrong Level",
+      "symptoms": [
+        "Offset"
+      ],
+      "causes": [
+        "Input offset"
+      ],
+      "solution": "Trim"
+    },
+    {
+      "failure": "No Output",
+      "symptoms": [
+        "Flat"
+      ],
+      "causes": [
+        "No pull-up"
+      ],
+      "solution": "Add resistor"
+    }
+  ]
+}

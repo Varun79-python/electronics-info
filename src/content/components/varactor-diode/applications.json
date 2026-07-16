@@ -1,0 +1,27 @@
+{
+  "applications": [
+    {
+      "category": "VCO",
+      "description": "Voltage-controlled oscillator",
+      "examples": [
+        "PLL",
+        "Synthesizers"
+      ]
+    },
+    {
+      "category": "Tuning",
+      "description": "Electronic tuners",
+      "examples": [
+        "Radios",
+        "TV"
+      ]
+    },
+    {
+      "category": "Frequency Modulation",
+      "description": "FM via bias",
+      "examples": [
+        "Comms"
+      ]
+    }
+  ]
+}

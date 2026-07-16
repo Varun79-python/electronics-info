@@ -1,0 +1,27 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open Element",
+      "symptoms": [
+        "No current",
+        "Load off"
+      ],
+      "causes": [
+        "Overload",
+        "Wear"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Intermittent",
+      "symptoms": [
+        "Flickering",
+        "Jumpy"
+      ],
+      "causes": [
+        "Dirty wiper"
+      ],
+      "solution": "Clean contacts"
+    }
+  ]
+}

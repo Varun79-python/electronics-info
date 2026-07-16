@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "H-Bridge",
+      "function": "Reverse polarity",
+      "material": "MOSFET"
+    },
+    {
+      "name": "Gate Drive",
+      "function": "Switch FETs",
+      "material": "Silicon"
+    },
+    {
+      "name": "Current Sense",
+      "function": "Limit",
+      "material": "Resistor"
+    },
+    {
+      "name": "Protection",
+      "function": "OCP/OTP",
+      "material": "Silicon"
+    }
+  ]
+}

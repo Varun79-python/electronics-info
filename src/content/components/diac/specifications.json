@@ -1,0 +1,19 @@
+{
+  "specifications": [
+    {
+      "name": "Breakover Voltage",
+      "typicalValues": "28V to 40V",
+      "notes": "Symmetric"
+    },
+    {
+      "name": "Breakover Current",
+      "typicalValues": "µA to tens µA",
+      "notes": "Low"
+    },
+    {
+      "name": "Holding Current",
+      "typicalValues": "mA",
+      "notes": "Reset threshold"
+    }
+  ]
+}

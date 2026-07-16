@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "MCB",
+      "description": "Miniature, thermal-magnetic.",
+      "applications": [
+        "Homes"
+      ]
+    },
+    {
+      "name": "MCCB",
+      "description": "Molded case, higher rating.",
+      "applications": [
+        "Industry"
+      ]
+    },
+    {
+      "name": "RCCB/GFCI",
+      "description": "Earth-leakage protection.",
+      "applications": [
+        "Safety"
+      ]
+    },
+    {
+      "name": "AFCI",
+      "description": "Arc-fault detection.",
+      "applications": [
+        "Bedrooms"
+      ]
+    }
+  ]
+}

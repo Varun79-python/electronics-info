@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1852,
+    "inventor": "Léon Foucault (concept)",
+    "discovery": "Foucault demonstrated Earth's rotation with a gyroscope; MEMS later miniaturized it.",
+    "evolution": [
+      {
+        "year": 1852,
+        "event": "Gyroscope concept"
+      },
+      {
+        "year": 1990,
+        "event": "MEMS gyro"
+      },
+      {
+        "year": 2007,
+        "event": "Smartphone use"
+      }
+    ]
+  }
+}

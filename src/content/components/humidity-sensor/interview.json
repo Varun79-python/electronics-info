@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does it measure?",
+      "answer": "Water vapor content (relative humidity)."
+    },
+    {
+      "question": "Common type?",
+      "answer": "Capacitive polymer sensor."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why pair with temp?",
+      "answer": "RH depends on temperature; dew point needs both."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Condensation risk?",
+      "answer": "Liquid water damages the hygroscopic film."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve accuracy?",
+      "answer": "Calibrate and protect from contamination/condensation."
+    }
+  ]
+}

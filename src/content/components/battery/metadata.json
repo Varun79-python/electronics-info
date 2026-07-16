@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "battery",
+    "name": "Battery",
+    "category": "energy-storage",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 86,
+    "status": "published"
+  }
+}

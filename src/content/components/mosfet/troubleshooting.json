@@ -1,0 +1,37 @@
+{
+  "failureModes": [
+    {
+      "failure": "Gate Punctured",
+      "symptoms": [
+        "Short S-D"
+      ],
+      "causes": [
+        "ESD",
+        "Overvoltage"
+      ],
+      "solution": "Replace; add protection"
+    },
+    {
+      "failure": "Not Turning On",
+      "symptoms": [
+        "High R"
+      ],
+      "causes": [
+        "Low V_GS",
+        "Slow gate"
+      ],
+      "solution": "Raise drive"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Thermal fail"
+      ],
+      "causes": [
+        "High R_DS",
+        "No sink"
+      ],
+      "solution": "Better MOSFET/heatsink"
+    }
+  ]
+}

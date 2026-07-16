@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A current-carrying conductor in a magnetic field develops a transverse voltage (Hall voltage) proportional to field strength.",
+  "steps": [
+    "Current flows through plate",
+    "Magnetic field applied perpendicular",
+    "Lorentz force deflects carriers",
+    "Hall voltage appears across sides"
+  ],
+  "microscopicExplanation": "Lorentz force qv×B separates charges, building an electric field (Hall voltage) balancing the force."
+}

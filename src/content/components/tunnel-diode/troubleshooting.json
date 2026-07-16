@@ -1,0 +1,26 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Oscillation",
+      "symptoms": [
+        "No output"
+      ],
+      "causes": [
+        "Wrong bias",
+        "No tank"
+      ],
+      "solution": "Adjust bias; add resonator"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Freq shift"
+      ],
+      "causes": [
+        "Temp",
+        "Bias"
+      ],
+      "solution": "Stabilize"
+    }
+  ]
+}

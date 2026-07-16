@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Current through a coiled conductor creates a magnetic field along its axis; an iron core concentrates the flux.",
+  "steps": [
+    "Current flows through the coil",
+    "Magnetic field builds around the core",
+    "Attracts ferromagnetic material",
+    "Field collapses when current stops"
+  ],
+  "microscopicExplanation": "Ampère's law: circulating current produces B field; the ferromagnetic core aligns domains, multiplying flux."
+}

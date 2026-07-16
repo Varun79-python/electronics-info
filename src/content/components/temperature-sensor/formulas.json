@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "NTC Resistance",
+      "formula": "R = R₀ e^(B(1/T - 1/T₀))",
+      "description": "Steinhart relation.",
+      "variables": [
+        {
+          "symbol": "R",
+          "name": "Resistance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "T",
+          "name": "Temp",
+          "unit": "K"
+        }
+      ],
+      "example": "B~3950K"
+    },
+    {
+      "name": "Thermocouple",
+      "formula": "V = S (T_hot - T_cold)",
+      "description": "Seebeck voltage.",
+      "variables": [
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "mV"
+        }
+      ],
+      "example": "Type K ~41µV/°C"
+    }
+  ]
+}

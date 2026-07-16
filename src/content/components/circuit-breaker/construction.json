@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Contacts",
+      "function": "Carry/break",
+      "material": "Silver alloy"
+    },
+    {
+      "name": "Bimetal Strip",
+      "function": "Thermal trip",
+      "material": "Two metals"
+    },
+    {
+      "name": "Solenoid",
+      "function": "Magnetic trip",
+      "material": "Copper"
+    },
+    {
+      "name": "Arc Chute",
+      "function": "Quench arc",
+      "material": "Ceramic"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "Non-linear I-V",
+      "formula": "I = k × V^α",
+      "description": "Current rises steeply with voltage; α is the non-linearity coefficient.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        },
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "α",
+          "name": "Non-linearity",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "α ~ 20-50 for ZnO varistors"
+    },
+    {
+      "name": "Clamping Voltage",
+      "formula": "V_clamp ≈ V_nom + I × R_dyn",
+      "description": "Peak voltage under surge current.",
+      "variables": [
+        {
+          "symbol": "V_clamp",
+          "name": "Clamp voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "R_dyn",
+          "name": "Dynamic resistance",
+          "unit": "Ω"
+        }
+      ],
+      "example": "Higher surge current → higher clamp"
+    }
+  ]
+}

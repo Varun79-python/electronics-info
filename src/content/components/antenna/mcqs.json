@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Antenna converts:",
+      "options": [
+        "RF <-> waves",
+        "DC->AC",
+        "V->I",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transducer.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "λ =",
+      "options": [
+        "c/f",
+        "f/c",
+        "c×f",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Wavelength.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Typical impedance:",
+      "options": [
+        "50Ω",
+        "75Ω only",
+        "1Ω",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "RF match.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Dipole length ~",
+      "options": [
+        "λ/2",
+        "λ",
+        "λ/4",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Half-wave.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Gain is:",
+      "options": [
+        "Directivity",
+        "Power",
+        "Voltage",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pattern focus.",
+      "difficulty": "advanced"
+    }
+  ]
+}

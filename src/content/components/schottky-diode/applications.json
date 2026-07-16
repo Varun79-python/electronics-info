@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Rectification",
+      "description": "Efficient low-voltage rectifier",
+      "examples": [
+        "SMPS",
+        "Solar"
+      ]
+    },
+    {
+      "category": "Freewheeling",
+      "description": "Flyback diode",
+      "examples": [
+        "DC-DC",
+        "Motor"
+      ]
+    },
+    {
+      "category": "RF Detection",
+      "description": "Envelope detector",
+      "examples": [
+        "Receivers"
+      ]
+    },
+    {
+      "category": "OR-ing",
+      "description": "Power path selection",
+      "examples": [
+        "Battery/USB"
+      ]
+    }
+  ]
+}

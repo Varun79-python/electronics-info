@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Resolution",
+      "formula": "LSB = V_ref / 2^N",
+      "description": "Step size.",
+      "variables": [
+        {
+          "symbol": "LSB",
+          "name": "Step",
+          "unit": "V"
+        },
+        {
+          "symbol": "N",
+          "name": "Bits",
+          "unit": ""
+        }
+      ],
+      "example": "12-bit, 3.3V -> 0.8mV"
+    },
+    {
+      "name": "Digital Value",
+      "formula": "D = round(V_in / LSB)",
+      "description": "Code.",
+      "variables": [
+        {
+          "symbol": "D",
+          "name": "Code",
+          "unit": ""
+        }
+      ],
+      "example": "0..4095"
+    }
+  ]
+}

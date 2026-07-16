@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "PIR detects:",
+      "options": [
+        "Heat motion",
+        "Distance",
+        "Color",
+        "Sound"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Infrared change.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Sunlight causes:",
+      "options": [
+        "Interference",
+        "None",
+        "Cooling",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambient IR.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "IR wavelength ~",
+      "options": [
+        "940nm",
+        "940µm",
+        "94nm",
+        "9.4nm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Near IR.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Modulation helps:",
+      "options": [
+        "Reject ambient",
+        "Increase range",
+        "Cool",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Separates signal.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Active IR uses:",
+      "options": [
+        "LED+photodiode",
+        "Coil",
+        "Mic",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reflectance.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

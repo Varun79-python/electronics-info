@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A rheostat has how many terminals used?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two terminals in series with the load.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Increasing rheostat resistance:",
+      "options": [
+        "Raises current",
+        "Lowers current",
+        "No effect",
+        "Changes voltage only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "More series resistance reduces current.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Wirewound rheostats are best for:",
+      "options": [
+        "Low power",
+        "High power",
+        "RF",
+        "Audio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wire handles high power.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Main drawback:",
+      "options": [
+        "Precision",
+        "Power wasted as heat",
+        "Size",
+        "Cost"
+      ],
+      "correctAnswer": 1,
+      "explanation": "They dissipate heat.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Modern replacement is:",
+      "options": [
+        "PWM",
+        "Relay",
+        "Fuse",
+        "Capacitor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PWM gives efficient control.",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Varicap",
+      "definition": "Another name for varactor."
+    },
+    {
+      "term": "Tuning Ratio",
+      "definition": "Ratio of maximum to minimum capacitance."
+    },
+    {
+      "term": "Hyperabrupt",
+      "definition": "Junction with very steep C-V for linear tuning."
+    },
+    {
+      "term": "VCO",
+      "definition": "Voltage-controlled oscillator using a varactor."
+    }
+  ]
+}

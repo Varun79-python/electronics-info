@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Intermittent",
+      "symptoms": [
+        "Flaky"
+      ],
+      "causes": [
+        "Worn/contam"
+      ],
+      "solution": "Clean/replace"
+    },
+    {
+      "failure": "No Contact",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Misalign"
+      ],
+      "solution": "Reseat"
+    },
+    {
+      "failure": "High R",
+      "symptoms": [
+        "Drop"
+      ],
+      "causes": [
+        "Oxide"
+      ],
+      "solution": "Clean"
+    }
+  ]
+}

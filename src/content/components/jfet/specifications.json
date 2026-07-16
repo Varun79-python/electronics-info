@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "I_DSS",
+      "typicalValues": "1mA to 50mA",
+      "notes": "Zero-gate current"
+    },
+    {
+      "name": "V_P (Pinch-off)",
+      "typicalValues": "-0.5V to -10V",
+      "notes": "Negative for N-JFET"
+    },
+    {
+      "name": "Input Impedance",
+      "typicalValues": "10^8 to 10^12 Ω",
+      "notes": "Very high"
+    },
+    {
+      "name": "Noise Figure",
+      "typicalValues": "Low",
+      "notes": "Good for front-ends"
+    },
+    {
+      "name": "V_DS Max",
+      "typicalValues": "20V to 50V",
+      "notes": "Modest"
+    }
+  ]
+}

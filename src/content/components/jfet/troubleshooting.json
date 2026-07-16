@@ -1,0 +1,24 @@
+{
+  "failureModes": [
+    {
+      "failure": "Gate Leakage",
+      "symptoms": [
+        "Lower Z"
+      ],
+      "causes": [
+        "Overvoltage"
+      ],
+      "solution": "Replace; limit V_GS"
+    },
+    {
+      "failure": "Open",
+      "symptoms": [
+        "No current"
+      ],
+      "causes": [
+        "Overstress"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

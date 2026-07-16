@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Semiconductor Die",
+      "function": "Emits light",
+      "material": "InGaN, AlInGaP, or GaAs"
+    },
+    {
+      "name": "Lead Frame",
+      "function": "Connects and conducts heat",
+      "material": "Copper alloy"
+    },
+    {
+      "name": "Encapsulant",
+      "function": "Shapes and protects",
+      "material": "Epoxy or silicone"
+    },
+    {
+      "name": "Reflector Cup",
+      "function": "Directs light",
+      "material": "Metalized plastic"
+    }
+  ]
+}

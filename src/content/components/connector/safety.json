@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Match rating.",
+  "currentSafety": "Per-pin limit.",
+  "thermalSafety": "Overload heats.",
+  "handling": "Standard.",
+  "storage": "Dry.",
+  "disposal": "Recycle metals."
+}

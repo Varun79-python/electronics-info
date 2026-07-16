@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1880,
+    "inventor": "Thomas Edison (patented)",
+    "discovery": "Edison patented an early fuse for lamp protection; fuses became standard safety devices.",
+    "evolution": [
+      {
+        "year": 1880,
+        "event": "Edison fuse patent"
+      },
+      {
+        "year": 1920,
+        "event": "Cartridge fuses"
+      },
+      {
+        "year": 1970,
+        "event": "Blade automotive fuses"
+      }
+    ]
+  }
+}

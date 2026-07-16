@@ -1,0 +1,25 @@
+{
+  "invention": {
+    "year": 1831,
+    "inventor": "Michael Faraday, Ottó Bláthy, Miksa Déri, Károly Zipernowsky",
+    "discovery": "Faraday's induction experiments led to the first practical transformers in the 1880s for AC power systems.",
+    "evolution": [
+      {
+        "year": 1831,
+        "event": "Faraday demonstrates induction"
+      },
+      {
+        "year": 1885,
+        "event": "Zipernowsky, Déri, Bláthy build first efficient transformers"
+      },
+      {
+        "year": 1891,
+        "event": "First three-phase AC transmission demonstrated"
+      },
+      {
+        "year": 1970,
+        "event": "Ferrite and toroidal designs mature for electronics"
+      }
+    ]
+  }
+}

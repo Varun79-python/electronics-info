@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A wiper moves along a fixed resistive track between two end terminals. The resistance from either end to the wiper changes linearly or logarithmically with position, dividing the applied voltage.",
+  "steps": [
+    "Voltage is applied across the two fixed end terminals",
+    "The wiper contacts a point along the resistive element",
+    "Resistance from end A to wiper varies with position",
+    "Output voltage at the wiper is a fraction of the input",
+    "Moving the wiper adjusts the division ratio continuously"
+  ],
+  "microscopicExplanation": "The resistive track has uniform resistivity; the wiper shorts a variable-length segment, so the tapped resistance is proportional to the contact position along the element."
+}

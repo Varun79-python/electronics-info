@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "PWM Speed",
+      "formula": "V_avg = D × V_supply",
+      "description": "Duty sets speed.",
+      "variables": [
+        {
+          "symbol": "V_avg",
+          "name": "Avg voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "D",
+          "name": "Duty",
+          "unit": ""
+        }
+      ],
+      "example": "50% = half"
+    },
+    {
+      "name": "Motor Current",
+      "formula": "I = V / R",
+      "description": "Stall current.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "High at stall"
+    }
+  ]
+}

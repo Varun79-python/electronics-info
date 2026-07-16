@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Radiating Element",
+      "function": "Emit/receive",
+      "material": "Copper"
+    },
+    {
+      "name": "Feed Point",
+      "function": "Connect RF",
+      "material": "Metal"
+    },
+    {
+      "name": "Ground Plane",
+      "function": "Reflect/balance",
+      "material": "Metal"
+    },
+    {
+      "name": "Housing",
+      "function": "Protect",
+      "material": "Plastic"
+    }
+  ]
+}

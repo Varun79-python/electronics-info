@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Flicker",
+      "symptoms": [
+        "Blink"
+      ],
+      "causes": [
+        "Slow scan"
+      ],
+      "solution": "Faster"
+    },
+    {
+      "failure": "Dim Rows",
+      "symptoms": [
+        "Uneven"
+      ],
+      "causes": [
+        "Current"
+      ],
+      "solution": "Boost"
+    },
+    {
+      "failure": "Stuck Pixel",
+      "symptoms": [
+        "Always on"
+      ],
+      "causes": [
+        "Short"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

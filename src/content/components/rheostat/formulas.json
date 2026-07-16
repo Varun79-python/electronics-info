@@ -1,0 +1,27 @@
+{
+  "formulas": [
+    {
+      "name": "Ohm's Law (Current)",
+      "formula": "I = V / (R_load + R_rheo)",
+      "description": "Current with rheostat in series.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        },
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "R_rheo",
+          "name": "Rheostat resistance",
+          "unit": "Ω"
+        }
+      ],
+      "example": "More R_rheo → less current"
+    }
+  ]
+}

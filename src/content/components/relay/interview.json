@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a relay?",
+      "answer": "An electromagnetically operated switch providing isolation between control and load."
+    },
+    {
+      "question": "Why flyback diode?",
+      "answer": "The coil is inductive; the diode clamps the turn-off voltage spike."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "EMR vs SSR?",
+      "answer": "EMR gives true isolation and no on-state loss; SSR is silent, fast, and long-lived but has leakage and drop."
+    },
+    {
+      "question": "What is contact bounce?",
+      "answer": "Mechanical chatter on closing; needs debouncing in digital circuits."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How protect relay contacts?",
+      "answer": "Use RC snubbers or TVS for inductive loads to reduce arcing and welding."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When choose SSR over EMR?",
+      "answer": "For silent, fast, high-cycle, or spark-free switching where small leakage/drop is acceptable."
+    }
+  ]
+}

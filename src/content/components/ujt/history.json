@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1948,
+    "inventor": "General Electric researchers",
+    "discovery": "The UJT was developed as a simple oscillator/trigger device in the late 1940s.",
+    "evolution": [
+      {
+        "year": 1948,
+        "event": "UJT invented"
+      },
+      {
+        "year": 1960,
+        "event": "Widely used in triggers"
+      },
+      {
+        "year": 1980,
+        "event": "Largely replaced by 555/ICs"
+      }
+    ]
+  }
+}

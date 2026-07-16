@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1980,
+    "inventor": "Conductive polymer evolution",
+    "discovery": "Printed conductive-ink flex sensors enabled cheap bend sensing.",
+    "evolution": [
+      {
+        "year": 1980,
+        "event": "Early flex sensors"
+      },
+      {
+        "year": 2000,
+        "event": "Wearable use"
+      },
+      {
+        "year": 2015,
+        "event": "Glove interfaces"
+      }
+    ]
+  }
+}

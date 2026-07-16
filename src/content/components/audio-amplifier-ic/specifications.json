@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Output Power",
+      "typicalValues": "0.1W to 100W",
+      "notes": "Per channel"
+    },
+    {
+      "name": "THD",
+      "typicalValues": "<0.1%",
+      "notes": "Distortion"
+    },
+    {
+      "name": "Supply",
+      "typicalValues": "3-50V",
+      "notes": "Wide"
+    },
+    {
+      "name": "Class",
+      "typicalValues": "AB/D",
+      "notes": "Efficiency"
+    }
+  ]
+}

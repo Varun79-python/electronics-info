@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Tunnel diode shows:",
+      "options": [
+        "Positive resistance only",
+        "Negative resistance",
+        "No conduction",
+        "Zener effect"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Negative differential resistance.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Mechanism is:",
+      "options": [
+        "Avalanche",
+        "Quantum tunneling",
+        "Thermal",
+        "Capacitive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quantum tunneling.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Used at:",
+      "options": [
+        "Audio",
+        "GHz microwave",
+        "DC",
+        "kHz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Microwave frequencies.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Discovered by:",
+      "options": [
+        "Shockley",
+        "Esaki",
+        "Bardeen",
+        "Zener"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leo Esaki.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Now mostly:",
+      "options": [
+        "Ubiquitous",
+        "Obsolete/legacy",
+        "Growing",
+        "Banned"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Superseded by transistors.",
+      "difficulty": "advanced"
+    }
+  ]
+}

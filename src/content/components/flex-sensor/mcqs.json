@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Bending a flex sensor:",
+      "options": [
+        "Increases R",
+        "Decreases R",
+        "No change",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Path stretches.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Read via:",
+      "options": [
+        "Voltage divider",
+        "Relay",
+        "Coil",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resistive.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Common issue:",
+      "options": [
+        "Hysteresis",
+        "Too fast",
+        "Digital",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lag in response.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Don't:",
+      "options": [
+        "Crease sharply",
+        "Bend",
+        "Read",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cracks ink.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Gloves",
+        "Motors",
+        "Speakers",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Wearable gesture.",
+      "difficulty": "beginner"
+    }
+  ]
+}

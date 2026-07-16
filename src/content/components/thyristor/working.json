@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A gate pulse turns on the device; internal positive feedback between the two transistors latches it on. It stays conducting until the anode current drops below the holding current (at AC zero-crossing).",
+  "steps": [
+    "Forward voltage applied across anode-cathode",
+    "A gate pulse triggers conduction",
+    "Internal regeneration latches the device on",
+    "Current flows until it falls below holding",
+    "At AC zero-crossing it turns off naturally"
+  ],
+  "microscopicExplanation": "The p-n-p-n structure forms two coupled transistors; once triggered, each sustains the other's base current, creating a stable on-state until external current is removed."
+}

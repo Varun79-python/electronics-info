@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "PIR senses?",
+      "answer": "Changes in infrared (body heat), not distance."
+    },
+    {
+      "question": "Sunlight problem?",
+      "answer": "Ambient IR overwhelms the sensor."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why modulate IR?",
+      "answer": "To distinguish signal from ambient light."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Active vs PIR?",
+      "answer": "Active measures reflectance/distance; PIR detects motion only."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve robustness?",
+      "answer": "Modulate, filter, and use differential detection."
+    }
+  ]
+}

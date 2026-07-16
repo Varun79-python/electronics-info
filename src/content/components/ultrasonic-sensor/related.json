@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "microcontroller",
+      "relationship": "Times echo"
+    },
+    {
+      "id": "ir-sensor",
+      "relationship": "Alternative ranging"
+    },
+    {
+      "id": "proximity-sensor",
+      "relationship": "Similar use"
+    }
+  ]
+}

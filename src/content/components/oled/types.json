@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "PMOLED",
+      "description": "Passive matrix.",
+      "applications": [
+        "Small"
+      ]
+    },
+    {
+      "name": "AMOLED",
+      "description": "Active matrix.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "Flexible",
+      "description": "Bendable.",
+      "applications": [
+        "Wearables"
+      ]
+    },
+    {
+      "name": "Transparent",
+      "description": "See-through.",
+      "applications": [
+        "HUD"
+      ]
+    }
+  ]
+}

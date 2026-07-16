@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "AC supply provides:",
+      "options": [
+        "DC",
+        "Alternating voltage",
+        "RF",
+        "Pulse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adjustable AC.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "V_rms of 10V peak sine:",
+      "options": [
+        "10V",
+        "7.07V",
+        "14.14V",
+        "5V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "10/√2.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Variac is a:",
+      "options": [
+        "Inverter",
+        "Autotransformer",
+        "Rectifier",
+        "Regulator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adjustable transformer.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "THD means:",
+      "options": [
+        "Total heat dissipation",
+        "Total harmonic distortion",
+        "Time harmonic delay",
+        "Transient high drop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Waveform distortion.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Inverter converts:",
+      "options": [
+        "AC to DC",
+        "DC to AC",
+        "AC to AC",
+        "DC to DC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DC to AC.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

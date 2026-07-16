@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1960,
+    "inventor": "MUX IC evolution",
+    "discovery": "Integrated multiplexers enabled shared data paths in digital systems.",
+    "evolution": [
+      {
+        "year": 1960,
+        "event": "MUX ICs"
+      },
+      {
+        "year": 1980,
+        "event": "Analog MUX"
+      },
+      {
+        "year": 2000,
+        "event": "High-speed"
+      }
+    ]
+  }
+}

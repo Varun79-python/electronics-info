@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a servo motor?",
+      "answer": "A motor with feedback and control for precise position/speed/torque."
+    },
+    {
+      "question": "Hobby servo signal?",
+      "answer": "A PWM pulse width sets the angle (e.g., 1-2ms)."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is a PID loop?",
+      "answer": "A control law using error, its integral, and derivative to drive the motor to setpoint."
+    },
+    {
+      "question": "Why feedback?",
+      "answer": "To correct disturbances and hold accuracy under varying load."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How tune a servo?",
+      "answer": "Set P for response, I to remove steady error, D to damp; avoid instability."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When choose AC servo over DC?",
+      "answer": "For higher power, speed, and maintenance-free operation in industrial settings."
+    }
+  ]
+}

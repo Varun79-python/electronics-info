@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A varistor's resistance:",
+      "options": [
+        "Is constant",
+        "Drops with voltage",
+        "Rises with voltage",
+        "Depends on light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Above threshold, resistance drops sharply.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Varistors are typically made of:",
+      "options": [
+        "Carbon",
+        "Zinc oxide",
+        "Copper",
+        "Silicon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ZnO MOVs are standard.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A varistor is:",
+      "options": [
+        "Polarity sensitive",
+        "Bidirectional",
+        "A diode",
+        "A capacitor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It clamps either polarity.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Main failure mode after surges is:",
+      "options": [
+        "Open",
+        "Degradation/short",
+        "No change",
+        "Leakage drop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repeated surges degrade and can short it.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Response time of a varistor is roughly:",
+      "options": [
+        "ms",
+        "µs",
+        "<1ns",
+        "seconds"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Varistors respond in under a nanosecond.",
+      "difficulty": "advanced"
+    }
+  ]
+}

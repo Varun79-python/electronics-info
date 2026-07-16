@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "1-Axis (Yaw)",
+      "description": "Single rotation.",
+      "applications": [
+        "Compass"
+      ]
+    },
+    {
+      "name": "3-Axis",
+      "description": "Full rotation.",
+      "applications": [
+        "Drones"
+      ]
+    },
+    {
+      "name": "Analog",
+      "description": "Voltage out.",
+      "applications": [
+        "Simple"
+      ]
+    },
+    {
+      "name": "Digital",
+      "description": "Bus out.",
+      "applications": [
+        "MCU"
+      ]
+    }
+  ]
+}

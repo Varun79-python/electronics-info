@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Distribution",
+      "description": "Panel protection",
+      "examples": [
+        "Homes"
+      ]
+    },
+    {
+      "category": "Safety",
+      "description": "Earth leakage",
+      "examples": [
+        "RCCB"
+      ]
+    },
+    {
+      "category": "Industry",
+      "description": "Large loads",
+      "examples": [
+        "MCCB"
+      ]
+    }
+  ]
+}

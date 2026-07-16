@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "logic-gates",
+      "relationship": "Built from"
+    },
+    {
+      "id": "counter",
+      "relationship": "Uses FFs"
+    },
+    {
+      "id": "register",
+      "relationship": "Array of FFs"
+    }
+  ]
+}

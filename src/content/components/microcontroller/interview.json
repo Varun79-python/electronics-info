@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is an MCU?",
+      "answer": "A tiny computer on a chip with CPU, memory, and I/O."
+    },
+    {
+      "question": "Flash vs RAM?",
+      "answer": "Flash stores code; RAM holds runtime data."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is an interrupt?",
+      "answer": "A hardware event that pauses code to run an ISR."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Real-time concern?",
+      "answer": "Meeting timing deadlines; use RTOS or careful ISRs."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Reduce power?",
+      "answer": "Sleep modes, clock gating, lower frequency."
+    }
+  ]
+}

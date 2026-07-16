@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1940,
+    "inventor": "Early computing",
+    "discovery": "Registers emerged as the fastest storage in early computers.",
+    "evolution": [
+      {
+        "year": 1940,
+        "event": "Relay registers"
+      },
+      {
+        "year": 1970,
+        "event": "IC registers"
+      },
+      {
+        "year": 2000,
+        "event": "CPU registers"
+      }
+    ]
+  }
+}

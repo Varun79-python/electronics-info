@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Op-amp amplifies:",
+      "options": [
+        "Difference of inputs",
+        "Sum",
+        "One input",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Differential.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inverting gain =",
+      "options": [
+        "-Rf/Rin",
+        "Rf+Rin",
+        "Rf/Rin",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Negative gain.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Virtual short means:",
+      "options": [
+        "V+≈V-",
+        "Shorted pins",
+        "No gain",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Feedback equalizes.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Slew rate is:",
+      "options": [
+        "Max dV/dt",
+        "Gain",
+        "BW",
+        "Offset"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Speed limit.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Rail-to-rail means:",
+      "options": [
+        "Full swing output",
+        "High gain",
+        "Low power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "To supplies.",
+      "difficulty": "beginner"
+    }
+  ]
+}

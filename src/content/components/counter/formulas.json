@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Modulus",
+      "formula": "States = 2^N",
+      "description": "N flip-flops.",
+      "variables": [
+        {
+          "symbol": "N",
+          "name": "Bits",
+          "unit": ""
+        }
+      ],
+      "example": "4-bit = 16"
+    },
+    {
+      "name": "Divide",
+      "formula": "f_out = f_clk / M",
+      "description": "Modulo divide.",
+      "variables": [
+        {
+          "symbol": "f_out",
+          "name": "Output",
+          "unit": "Hz"
+        },
+        {
+          "symbol": "M",
+          "name": "Modulus",
+          "unit": ""
+        }
+      ],
+      "example": "÷10"
+    }
+  ]
+}

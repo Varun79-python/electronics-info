@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "op-amp",
+    "name": "Operational Amplifier",
+    "category": "integrated-circuits",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 58,
+    "status": "published"
+  }
+}

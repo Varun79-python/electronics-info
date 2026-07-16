@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "pressure-sensor",
+    "name": "Pressure Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 46,
+    "status": "published"
+  }
+}

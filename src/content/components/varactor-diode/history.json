@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1960,
+    "inventor": "Developed with solid-state RF",
+    "discovery": "Varactor diodes became key for electronic tuning as RF electronics advanced in the 1960s.",
+    "evolution": [
+      {
+        "year": 1960,
+        "event": "Varactors for tuning"
+      },
+      {
+        "year": 1980,
+        "event": "Hyperabrupt types"
+      },
+      {
+        "year": 2000,
+        "event": "Integrated in RF ICs"
+      }
+    ]
+  }
+}

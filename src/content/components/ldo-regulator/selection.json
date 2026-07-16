@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Dropout",
+      "description": "Vin-Vout headroom."
+    },
+    {
+      "step": 2,
+      "title": "Current",
+      "description": "Max load."
+    },
+    {
+      "step": 3,
+      "title": "Noise/PSRR",
+      "description": "Sensitive?"
+    },
+    {
+      "step": 4,
+      "title": "Caps",
+      "description": "ESR requirements."
+    }
+  ],
+  "tips": [
+    "Mind thermal",
+    "Use correct ESR caps",
+    "Check stability"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Choose Color/Brightness",
+      "description": "Match application needs."
+    },
+    {
+      "step": 2,
+      "title": "Set Current",
+      "description": "Use 20mA typical; limit with resistor."
+    },
+    {
+      "step": 3,
+      "title": "Check V_F",
+      "description": "Compute series resistor R=(Vcc-V_F)/I."
+    },
+    {
+      "step": 4,
+      "title": "Thermal",
+      "description": "Heatsink high-power LEDs."
+    }
+  ],
+  "tips": [
+    "Always use a current-limiting resistor",
+    "Use constant-current driver for power LEDs",
+    "Avoid exceeding absolute max",
+    "Watch junction temperature"
+  ]
+}

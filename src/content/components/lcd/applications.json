@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Consumer",
+      "description": "Screens",
+      "examples": [
+        "Phones"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "HMI",
+      "examples": [
+        "Panels"
+      ]
+    },
+    {
+      "category": "Embedded",
+      "description": "Status",
+      "examples": [
+        "Modules"
+      ]
+    }
+  ]
+}

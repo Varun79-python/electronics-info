@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Spectral",
+      "description": "Match light."
+    },
+    {
+      "step": 2,
+      "title": "Range",
+      "description": "Dark/light R."
+    },
+    {
+      "step": 3,
+      "title": "Speed",
+      "description": "Slow ok?"
+    },
+    {
+      "step": 4,
+      "title": "Divider",
+      "description": "Pick fixed R."
+    }
+  ],
+  "tips": [
+    "Use divider + ADC",
+    "Avoid CdS if RoHS strict",
+    "Average for stability"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Output",
+      "symptoms": [
+        "Flat"
+      ],
+      "causes": [
+        "No field"
+      ],
+      "solution": "Add magnet"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Offset"
+      ],
+      "causes": [
+        "Temp"
+      ],
+      "solution": "Compensate"
+    },
+    {
+      "failure": "Noise",
+      "symptoms": [
+        "Jitter"
+      ],
+      "causes": [
+        "EMI"
+      ],
+      "solution": "Filter/shield"
+    }
+  ]
+}

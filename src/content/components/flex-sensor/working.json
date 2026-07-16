@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Bending stretches/conduits conductive ink paths, changing resistance proportionally to bend angle.",
+  "steps": [
+    "Sensor bent",
+    "Conductive element deforms",
+    "Path length/resistance changes",
+    "Read as analog value"
+  ],
+  "microscopicExplanation": "Strain alters the geometry of the conductive composite, increasing resistance with curvature."
+}

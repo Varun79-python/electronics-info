@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "speaker",
+      "relationship": "Drives"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Preamp"
+    },
+    {
+      "id": "dac",
+      "relationship": "Feeds signal"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Gain/BW",
+      "description": "Match signal."
+    },
+    {
+      "step": 2,
+      "title": "Offset",
+      "description": "Precision need."
+    },
+    {
+      "step": 3,
+      "title": "Supply",
+      "description": "Single/dual."
+    },
+    {
+      "step": 4,
+      "title": "Rail-to-Rail?",
+      "description": "Output swing."
+    }
+  ],
+  "tips": [
+    "Use decoupling caps",
+    "Balance for low offset",
+    "Check stability"
+  ]
+}

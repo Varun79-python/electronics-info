@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Frequency",
+      "description": "Match band."
+    },
+    {
+      "step": 2,
+      "title": "Gain/Pattern",
+      "description": "Omni vs directional."
+    },
+    {
+      "step": 3,
+      "title": "Impedance",
+      "description": "50Ω match."
+    },
+    {
+      "step": 4,
+      "title": "Size",
+      "description": "Space."
+    }
+  ],
+  "tips": [
+    "Match impedance",
+    "Orientation matters",
+    "Avoid near metal"
+  ]
+}

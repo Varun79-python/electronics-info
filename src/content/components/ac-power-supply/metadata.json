@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "ac-power-supply",
+    "name": "AC Power Supply",
+    "category": "power-electronics",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 31,
+    "status": "published"
+  }
+}

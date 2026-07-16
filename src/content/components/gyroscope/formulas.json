@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Coriolis",
+      "formula": "a_c = 2 ω × v",
+      "description": "Coriolis acceleration.",
+      "variables": [
+        {
+          "symbol": "a_c",
+          "name": "Accel",
+          "unit": "m/s²"
+        },
+        {
+          "symbol": "ω",
+          "name": "Ang vel",
+          "unit": "rad/s"
+        }
+      ],
+      "example": "Signal ∝ ω"
+    },
+    {
+      "name": "Angle",
+      "formula": "θ = ∫ ω dt",
+      "description": "Integrate rate.",
+      "variables": [
+        {
+          "symbol": "θ",
+          "name": "Angle",
+          "unit": "rad"
+        }
+      ],
+      "example": "Dead-reckoning"
+    }
+  ]
+}

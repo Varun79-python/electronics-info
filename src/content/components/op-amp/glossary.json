@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Virtual Short",
+      "definition": "V+ ≈ V- under feedback."
+    },
+    {
+      "term": "GBW",
+      "definition": "Gain-bandwidth product."
+    },
+    {
+      "term": "Slew Rate",
+      "definition": "Max output dV/dt."
+    },
+    {
+      "term": "Rail-to-Rail",
+      "definition": "Swings to supply rails."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "transistor",
+    "name": "Bipolar Transistor",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 18,
+    "status": "published"
+  }
+}

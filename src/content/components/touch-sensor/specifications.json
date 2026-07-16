@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Sensitivity",
+      "typicalValues": "fF detect",
+      "notes": "Capacitive"
+    },
+    {
+      "name": "Layers",
+      "typicalValues": "Single/multi",
+      "notes": "Touch count"
+    },
+    {
+      "name": "Interface",
+      "typicalValues": "I²C, GPIO",
+      "notes": "Output"
+    },
+    {
+      "name": "Thickness",
+      "typicalValues": "up to 10mm glass",
+      "notes": "Cover"
+    }
+  ]
+}

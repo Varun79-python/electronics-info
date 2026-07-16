@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a PCB?",
+      "answer": "A board with copper traces connecting components."
+    },
+    {
+      "question": "Via does?",
+      "answer": "Connects different layers."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why ground plane?",
+      "answer": "Return path and noise reduction."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "50Ω trace?",
+      "answer": "Width/stack-up set characteristic impedance."
+    }
+  ],
+  "expert": [
+    {
+      "question": "DFM importance?",
+      "answer": "Design for manufacturability avoids fab failures."
+    }
+  ]
+}

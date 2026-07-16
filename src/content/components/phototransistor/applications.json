@@ -1,0 +1,27 @@
+{
+  "applications": [
+    {
+      "category": "Object Detection",
+      "description": "Presence/position",
+      "examples": [
+        "Proximity",
+        "Counters"
+      ]
+    },
+    {
+      "category": "Encoders",
+      "description": "Slot/reflective",
+      "examples": [
+        "Rotary",
+        "Linear"
+      ]
+    },
+    {
+      "category": "Optical Isolation",
+      "description": "Coupled with LED",
+      "examples": [
+        "Optocouplers"
+      ]
+    }
+  ]
+}

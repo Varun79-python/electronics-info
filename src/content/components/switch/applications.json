@@ -1,0 +1,26 @@
+{
+  "applications": [
+    {
+      "category": "Control",
+      "description": "On/off power",
+      "examples": [
+        "Lights",
+        "Fans"
+      ]
+    },
+    {
+      "category": "Selection",
+      "description": "Choose mode",
+      "examples": [
+        "Appliances"
+      ]
+    },
+    {
+      "category": "Safety",
+      "description": "Emergency stop",
+      "examples": [
+        "Machines"
+      ]
+    }
+  ]
+}

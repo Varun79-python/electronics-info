@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Ripple",
+      "definition": "Residual AC variation on the DC output."
+    },
+    {
+      "term": "SMPS",
+      "definition": "Switched-mode power supply; efficient."
+    },
+    {
+      "term": "Rectifier",
+      "definition": "Converts AC to DC."
+    },
+    {
+      "term": "Regulation",
+      "definition": "Stability of output under varying conditions."
+    }
+  ]
+}

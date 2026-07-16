@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Voltage Gain",
+      "formula": "A_v = V_out / V_in",
+      "description": "Amplification.",
+      "variables": [
+        {
+          "symbol": "A_v",
+          "name": "Gain",
+          "unit": ""
+        },
+        {
+          "symbol": "V_out",
+          "name": "Output",
+          "unit": "V"
+        }
+      ],
+      "example": "20-100"
+    },
+    {
+      "name": "Output Power",
+      "formula": "P = V² / (2 R_load)",
+      "description": "Into speaker.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        },
+        {
+          "symbol": "R_load",
+          "name": "Load",
+          "unit": "Ω"
+        }
+      ],
+      "example": "8Ω speaker"
+    }
+  ]
+}

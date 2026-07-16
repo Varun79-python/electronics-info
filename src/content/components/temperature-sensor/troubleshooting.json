@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open",
+      "symptoms": [
+        "No read"
+      ],
+      "causes": [
+        "Broken"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Wrong value"
+      ],
+      "causes": [
+        "Aging"
+      ],
+      "solution": "Recalibrate"
+    },
+    {
+      "failure": "Noise",
+      "symptoms": [
+        "Jitter"
+      ],
+      "causes": [
+        "EMI"
+      ],
+      "solution": "Shield/filter"
+    }
+  ]
+}

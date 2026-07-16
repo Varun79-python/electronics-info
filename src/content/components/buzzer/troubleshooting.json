@@ -1,0 +1,26 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Sound",
+      "symptoms": [
+        "Silent"
+      ],
+      "causes": [
+        "No power",
+        "Open"
+      ],
+      "solution": "Check drive"
+    },
+    {
+      "failure": "Weak",
+      "symptoms": [
+        "Quiet"
+      ],
+      "causes": [
+        "Low V",
+        "Damage"
+      ],
+      "solution": "Raise V within rating"
+    }
+  ]
+}

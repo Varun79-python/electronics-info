@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Voice Coil",
+      "function": "Converts current to motion",
+      "material": "Copper wire"
+    },
+    {
+      "name": "Magnet",
+      "function": "Provides field",
+      "material": "Ferrite/Neodymium"
+    },
+    {
+      "name": "Cone/Diaphragm",
+      "function": "Moves air",
+      "material": "Paper/plastic"
+    },
+    {
+      "name": "Suspension",
+      "function": "Centers and returns",
+      "material": "Rubber/foam"
+    }
+  ]
+}

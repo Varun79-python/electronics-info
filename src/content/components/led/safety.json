@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Overcurrent destroys LEDs quickly; always limit.",
+  "thermalSafety": "High-power LEDs need heatsinking.",
+  "handling": "ESD sensitive; use grounding.",
+  "storage": "Store in anti-static, dry.",
+  "disposal": "RoHS; e-waste rules."
+}

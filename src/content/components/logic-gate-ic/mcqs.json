@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Logic gate does:",
+      "options": [
+        "Boolean function",
+        "Amplify",
+        "Regulate",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Digital logic.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Unused input should:",
+      "options": [
+        "Be tied off",
+        "Float",
+        "Connect out",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Avoid float.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "74HC is:",
+      "options": [
+        "CMOS",
+        "TTL",
+        "ECL",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CMOS family.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Fan-out is:",
+      "options": [
+        "Loads driven",
+        "Speed",
+        "Power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Output capacity.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Propagation delay is:",
+      "options": [
+        "Input→output time",
+        "Clock",
+        "Voltage",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gate delay.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

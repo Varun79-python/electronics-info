@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "SAR",
+      "description": "Medium speed/res.",
+      "applications": [
+        "MCU built-in"
+      ]
+    },
+    {
+      "name": "Sigma-Delta",
+      "description": "High res, slow.",
+      "applications": [
+        "Audio/scale"
+      ]
+    },
+    {
+      "name": "Flash",
+      "description": "Very fast.",
+      "applications": [
+        "Oscilloscopes"
+      ]
+    },
+    {
+      "name": "Pipeline",
+      "description": "High speed.",
+      "applications": [
+        "Video"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Analog to Digital Converter",
+  "id": "adc",
+  "category": "integrated-circuits",
+  "shortDescription": "An Analog-to-Digital Converter (ADC) converts continuous analog voltage into digital numbers.",
+  "whatIsIt": "An Analog-to-Digital Converter (ADC) converts continuous analog voltage into digital numbers.",
+  "whyExists": "Microcontrollers need digital values to process real-world analog signals.",
+  "whereUsed": "Used in sensors, audio, and measurement instruments.",
+  "thumbnail": "/assets/images/components/adc/thumbnail.svg",
+  "schematic": "/assets/components/adc/schematic/symbol.svg"
+}

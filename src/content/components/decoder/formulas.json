@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Outputs",
+      "formula": "M = 2^N",
+      "description": "N input bits.",
+      "variables": [
+        {
+          "symbol": "M",
+          "name": "Outputs",
+          "unit": ""
+        },
+        {
+          "symbol": "N",
+          "name": "Inputs",
+          "unit": ""
+        }
+      ],
+      "example": "3 in -> 8 out"
+    },
+    {
+      "name": "Active",
+      "formula": "Y[code] = 1",
+      "description": "One asserted.",
+      "variables": [
+        {
+          "symbol": "Y",
+          "name": "Output",
+          "unit": ""
+        }
+      ],
+      "example": "One-hot"
+    }
+  ]
+}

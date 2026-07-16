@@ -1,0 +1,27 @@
+{
+  "formulas": [
+    {
+      "name": "Output Current",
+      "formula": "I_C ≈ β × I_ph",
+      "description": "Gain multiplies photocurrent.",
+      "variables": [
+        {
+          "symbol": "I_C",
+          "name": "Collector current",
+          "unit": "A"
+        },
+        {
+          "symbol": "β",
+          "name": "Gain",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "I_ph",
+          "name": "Photocurrent",
+          "unit": "A"
+        }
+      ],
+      "example": "β=100 amplifies small I_ph"
+    }
+  ]
+}

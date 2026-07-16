@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A semiconductor diode is a crystalline piece of semiconductor material with a p–n junction connected to two terminals. It has an exponential current–voltage characteristic. When forward biased (P side positive), electrons flow through the depletion region; reverse bias blocks current like a check valve.",
+  "steps": [
+    "A p–n junction is formed by joining p-type (holes) and n-type (electrons) semiconductors",
+    "At the junction, a depletion region forms with no charge carriers",
+    "Forward bias reduces the barrier, allowing current to flow",
+    "Reverse bias widens the depletion region, blocking current",
+    "Beyond breakdown voltage, reverse current increases sharply (Zener/avalanche)"
+  ],
+  "microscopicExplanation": "When a p–n junction is created, electrons diffuse from n to p side, leaving immobile donor ions on the n side and acceptor ions on the p side. This creates a built-in electric field across the depletion region that opposes further diffusion."
+}

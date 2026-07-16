@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "Prototyping accessory",
+    "discovery": "Jumper wires became standard with solderless breadboarding.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "Hookup wires"
+      },
+      {
+        "year": 2000,
+        "event": "Color dupont sets"
+      },
+      {
+        "year": 2010,
+        "event": "Pre-cut kits"
+      }
+    ]
+  }
+}

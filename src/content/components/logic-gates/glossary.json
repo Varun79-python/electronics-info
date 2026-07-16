@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Boolean",
+      "definition": "True/false algebra."
+    },
+    {
+      "term": "Truth Table",
+      "definition": "Input-output map."
+    },
+    {
+      "term": "Universal Gate",
+      "definition": "Can build any function (NAND/NOR)."
+    },
+    {
+      "term": "CMOS",
+      "definition": "Complementary MOS."
+    }
+  ]
+}

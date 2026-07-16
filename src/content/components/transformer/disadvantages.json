@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Only works with AC, not DC",
+    "Bulky and heavy at low frequency",
+    "Core losses (hysteresis, eddy current)",
+    "Can be expensive for custom ratios",
+    "Generates heat and hum",
+    "No voltage regulation by itself"
+  ]
+}

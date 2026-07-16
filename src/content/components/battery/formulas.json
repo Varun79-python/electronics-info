@@ -1,0 +1,58 @@
+{
+  "formulas": [
+    {
+      "name": "Energy",
+      "formula": "E = V × Q",
+      "description": "Capacity energy.",
+      "variables": [
+        {
+          "symbol": "E",
+          "name": "Energy",
+          "unit": "Wh"
+        },
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "Q",
+          "name": "Charge",
+          "unit": "Ah"
+        }
+      ],
+      "example": "3.7V×2Ah=7.4Wh"
+    },
+    {
+      "name": "Charge Time",
+      "formula": "t = Q / I",
+      "description": "At current I.",
+      "variables": [
+        {
+          "symbol": "t",
+          "name": "Time",
+          "unit": "h"
+        }
+      ],
+      "example": "2Ah at 1A = 2h"
+    },
+    {
+      "name": "C-rate",
+      "formula": "I = C × rate",
+      "description": "Discharge speed.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        },
+        {
+          "symbol": "C",
+          "name": "Capacity",
+          "unit": "Ah"
+        }
+      ],
+      "example": "1C = 1h drain"
+    }
+  ]
+}

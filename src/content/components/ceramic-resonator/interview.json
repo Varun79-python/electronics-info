@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a ceramic resonator?",
+      "answer": "A piezoelectric ceramic that provides a fixed clock frequency for digital circuits."
+    },
+    {
+      "question": "Resonator vs crystal?",
+      "answer": "Resonators are cheaper and smaller but less accurate and stable than crystals."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why use a 3-terminal resonator?",
+      "answer": "It includes the load capacitors, simplifying the circuit and layout."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "When would you avoid a resonator?",
+      "answer": "For UART, USB, or any timing where ±0.5% accuracy and low drift are required; use a crystal."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How does drive level affect life?",
+      "answer": "Excessive drive level accelerates aging and can crack the ceramic; stay within rated level."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A small base-emitter current injects carriers into the thin base; most are swept into the collector, so collector current is β times the base current (I_C = β × I_B).",
+  "steps": [
+    "Base-emitter junction is forward biased",
+    "Base current injects carriers into the thin base",
+    "Most carriers diffuse to the collector (reverse-biased)",
+    "Collector current is β times base current",
+    "Small base change controls large collector current"
+  ],
+  "microscopicExplanation": "The thin, lightly doped base lets most injected minority carriers reach the collector before recombining; the ratio defines current gain β."
+}

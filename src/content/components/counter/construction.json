@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Flip-Flops",
+      "function": "Store bits",
+      "material": "Silicon"
+    },
+    {
+      "name": "Logic",
+      "function": "Carry/reset",
+      "material": "Silicon"
+    },
+    {
+      "name": "Clock",
+      "function": "Drive",
+      "material": "Signal"
+    },
+    {
+      "name": "Reset",
+      "function": "Clear",
+      "material": "Signal"
+    }
+  ]
+}

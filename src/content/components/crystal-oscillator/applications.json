@@ -1,0 +1,36 @@
+{
+  "applications": [
+    {
+      "category": "System Clock",
+      "description": "Times digital logic",
+      "examples": [
+        "MCU",
+        "CPU"
+      ]
+    },
+    {
+      "category": "Communication",
+      "description": "Sets carrier and baud",
+      "examples": [
+        "Radios",
+        "Modems"
+      ]
+    },
+    {
+      "category": "Timekeeping",
+      "description": "Real-time clocks",
+      "examples": [
+        "Watches",
+        "RTC"
+      ]
+    },
+    {
+      "category": "Frequency Reference",
+      "description": "Stable source",
+      "examples": [
+        "Test gear",
+        "GPS"
+      ]
+    }
+  ]
+}

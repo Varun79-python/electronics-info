@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "led",
+      "relationship": "Backlight"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Drives"
+    },
+    {
+      "id": "oled",
+      "relationship": "Alternative"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Inputs",
+      "typicalValues": "8-16",
+      "notes": "Lines"
+    },
+    {
+      "name": "Outputs",
+      "typicalValues": "3-4",
+      "notes": "Code bits"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Priority/simple",
+      "notes": "Mode"
+    },
+    {
+      "name": "Speed",
+      "typicalValues": "ns",
+      "notes": "Prop delay"
+    }
+  ]
+}

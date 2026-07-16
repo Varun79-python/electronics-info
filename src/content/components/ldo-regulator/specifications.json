@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Dropout",
+      "typicalValues": "0.1-0.5V",
+      "notes": "Low"
+    },
+    {
+      "name": "Output Current",
+      "typicalValues": "100mA-5A",
+      "notes": "By model"
+    },
+    {
+      "name": "PSRR",
+      "typicalValues": "40-80dB",
+      "notes": "Ripple reject"
+    },
+    {
+      "name": "Quiescent",
+      "typicalValues": "µA to mA",
+      "notes": "Efficiency"
+    }
+  ]
+}

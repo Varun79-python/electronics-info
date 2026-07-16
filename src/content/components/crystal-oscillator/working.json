@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A quartz crystal behaves like a precise mechanical resonator; in an amplifier feedback loop it sustains oscillation at its natural frequency with very low drift.",
+  "steps": [
+    "The amplifier applies a signal across the crystal",
+    "Piezoelectric effect makes the quartz vibrate",
+    "The crystal presents a sharp resonant impedance",
+    "Feedback sustains oscillation at resonance",
+    "A stable clock frequency is produced"
+  ],
+  "microscopicExplanation": "The crystal's mass and stiffness yield a high-Q mechanical resonance; the piezoelectric effect couples it to the circuit, giving frequency stability of parts per million."
+}

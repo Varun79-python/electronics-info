@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a varactor?",
+      "answer": "A reverse-biased diode whose capacitance changes with voltage—a voltage-controlled capacitor."
+    },
+    {
+      "question": "Why reverse bias?",
+      "answer": "Reverse bias sets the depletion width, which sets the capacitance."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "How used in a VCO?",
+      "answer": "The varactor is part of the resonant tank; control voltage sets the frequency."
+    },
+    {
+      "question": "What is tuning ratio?",
+      "answer": "The ratio of maximum to minimum capacitance across the bias range."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why hyperabrupt?",
+      "answer": "Its steep C-V gives more linear frequency-vs-voltage tuning."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How reduce VCO phase noise?",
+      "answer": "Use a high-Q varactor, filter the control line, and stabilize the bias and supply."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "MQ sensor needs?",
+      "answer": "A heated element to react with gas."
+    },
+    {
+      "question": "What changes?",
+      "answer": "Resistance changes with gas concentration."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why calibrate R0?",
+      "answer": "Baseline in clean air sets the ratio curve."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Cross-sensitivity issue?",
+      "answer": "Sensor may respond to multiple gases, reducing specificity."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Best CO₂ sensor?",
+      "answer": "NDIR for specificity over metal-oxide."
+    }
+  ]
+}

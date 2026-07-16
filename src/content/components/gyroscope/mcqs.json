@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Gyro measures:",
+      "options": [
+        "Angular velocity",
+        "Acceleration",
+        "Position",
+        "Force"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rotation rate.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "MEMS gyro uses:",
+      "options": [
+        "Coriolis",
+        "Hall",
+        "Piezo",
+        "Seebeck"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coriolis force.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Angle from:",
+      "options": [
+        "Integrate rate",
+        "Differentiate",
+        "Multiply",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "θ = ∫ω.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Bias causes:",
+      "options": [
+        "Angle drift",
+        "No effect",
+        "Gain",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integration error.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Common with accel as:",
+      "options": [
+        "IMU",
+        "ADC",
+        "Relay",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inertial unit.",
+      "difficulty": "beginner"
+    }
+  ]
+}

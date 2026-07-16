@@ -1,0 +1,26 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Oscillation",
+      "symptoms": [
+        "MCU won't start"
+      ],
+      "causes": [
+        "Wrong load",
+        "Damage"
+      ],
+      "solution": "Check caps and wiring"
+    },
+    {
+      "failure": "Frequency Drift",
+      "symptoms": [
+        "Timing errors"
+      ],
+      "causes": [
+        "Temperature",
+        "Aging"
+      ],
+      "solution": "Use crystal if critical"
+    }
+  ]
+}

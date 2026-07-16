@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Channels",
+      "description": "How many."
+    },
+    {
+      "step": 2,
+      "title": "Type",
+      "description": "Digital/analog."
+    },
+    {
+      "step": 3,
+      "title": "Speed",
+      "description": "Switch time."
+    },
+    {
+      "step": 4,
+      "title": "On-R",
+      "description": "Analog tolerance."
+    }
+  ],
+  "tips": [
+    "Analog: low on-R",
+    "Decode select",
+    "Watch crosstalk"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A proof mass deflects under acceleration; capacitive or piezoelectric sensing converts deflection to a signal.",
+  "steps": [
+    "Acceleration acts on proof mass",
+    "Mass deflects against spring",
+    "Capacitance/charge changes",
+    "ASIC outputs acceleration"
+  ],
+  "microscopicExplanation": "MEMS: etched silicon mass and fixed plates form a variable capacitor; ΔC ∝ displacement."
+}

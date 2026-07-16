@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Detection Logic",
+      "function": "Find active",
+      "material": "Silicon"
+    },
+    {
+      "name": "Priority Circuit",
+      "function": "Resolve",
+      "material": "Silicon"
+    },
+    {
+      "name": "Output Encoder",
+      "function": "Code",
+      "material": "Silicon"
+    },
+    {
+      "name": "Valid Flag",
+      "function": "Indicate",
+      "material": "Signal"
+    }
+  ]
+}

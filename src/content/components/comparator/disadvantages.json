@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "No linear region",
+    "Chatter without hysteresis",
+    "Offset",
+    "Limited drive",
+    "Oscillation prone"
+  ]
+}

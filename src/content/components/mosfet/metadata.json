@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "mosfet",
+    "name": "MOSFET",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 19,
+    "status": "published"
+  }
+}

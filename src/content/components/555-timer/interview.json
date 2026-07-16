@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a 555?",
+      "answer": "A timer IC for pulses, delays, and oscillations."
+    },
+    {
+      "question": "Astable does?",
+      "answer": "Continuously oscillates."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Frequency formula?",
+      "answer": "f = 1.44/((R1+2R2)C)."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why 1/3 and 2/3?",
+      "answer": "Internal divider sets the comparator thresholds."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve accuracy?",
+      "answer": "Use stable components and CMOS variant; or use a crystal reference."
+    }
+  ]
+}

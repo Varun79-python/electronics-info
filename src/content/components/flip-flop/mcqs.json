@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Flip-flop stores:",
+      "options": [
+        "1 bit",
+        "1 byte",
+        "Word",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bistable.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "D-FF output =",
+      "options": [
+        "Input at clock",
+        "Toggle",
+        "Reset",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Samples D.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "T-FF does:",
+      "options": [
+        "Divide by 2",
+        "Store",
+        "Add",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Halves freq.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Metastability from:",
+      "options": [
+        "Async violation",
+        "Clock",
+        "Power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Timing.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Edge-triggered means:",
+      "options": [
+        "On clock edge",
+        "Level",
+        "Always",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transition.",
+      "difficulty": "beginner"
+    }
+  ]
+}

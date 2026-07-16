@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Comparators",
+      "function": "Threshold detect",
+      "material": "Silicon"
+    },
+    {
+      "name": "Flip-Flop",
+      "function": "Latch state",
+      "material": "Silicon"
+    },
+    {
+      "name": "Discharge Transistor",
+      "function": "Empty cap",
+      "material": "Silicon"
+    },
+    {
+      "name": "Voltage Divider",
+      "function": "1/3, 2/3 refs",
+      "material": "Resistors"
+    }
+  ]
+}

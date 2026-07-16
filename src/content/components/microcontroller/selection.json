@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Performance",
+      "description": "Needed MIPS."
+    },
+    {
+      "step": 2,
+      "title": "Memory",
+      "description": "Flash/RAM."
+    },
+    {
+      "step": 3,
+      "title": "Peripherals",
+      "description": "Required I/F."
+    },
+    {
+      "step": 4,
+      "title": "Ecosystem",
+      "description": "Tools/cost."
+    }
+  ],
+  "tips": [
+    "Leave headroom",
+    "Check power budget",
+    "Use dev board first"
+  ]
+}

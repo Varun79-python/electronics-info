@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Low-Voltage Zener (<5V)",
+      "description": "Zener-effect dominated.",
+      "applications": [
+        "Low references"
+      ]
+    },
+    {
+      "name": "High-Voltage Zener (>5V)",
+      "description": "Avalanche dominated.",
+      "applications": [
+        "Regulation"
+      ]
+    },
+    {
+      "name": "Precision Zener (Reference)",
+      "description": "Tight tolerance, low drift.",
+      "applications": [
+        "Metrology"
+      ]
+    }
+  ]
+}

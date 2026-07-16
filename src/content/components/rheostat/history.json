@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1833,
+    "inventor": "Charles Wheatstone (term popularized 1840s)",
+    "discovery": "Early variable resistors evolved from telegraph adjustments into the rheostat for current control.",
+    "evolution": [
+      {
+        "year": 1840,
+        "event": "Term 'rheostat' coined for variable resistance"
+      },
+      {
+        "year": 1900,
+        "event": "Wirewound rheostats for industrial control"
+      },
+      {
+        "year": 1970,
+        "event": "Largely replaced by electronic dimmers"
+      }
+    ]
+  }
+}

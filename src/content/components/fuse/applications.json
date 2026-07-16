@@ -1,0 +1,26 @@
+{
+  "applications": [
+    {
+      "category": "Protection",
+      "description": "Overcurrent",
+      "examples": [
+        "PSUs",
+        "Wiring"
+      ]
+    },
+    {
+      "category": "Safety",
+      "description": "Fire prevention",
+      "examples": [
+        "Boards"
+      ]
+    },
+    {
+      "category": "Automotive",
+      "description": "Circuit protect",
+      "examples": [
+        "Cars"
+      ]
+    }
+  ]
+}

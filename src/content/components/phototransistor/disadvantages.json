@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Slower than photodiode",
+    "Gain varies with temp",
+    "Less linear",
+    "More noise",
+    "Larger dark current",
+    "Narrower bandwidth"
+  ]
+}

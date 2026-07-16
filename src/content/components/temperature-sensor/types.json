@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Thermistor (NTC)",
+      "description": "Resistance falls with heat.",
+      "applications": [
+        "Thermostats"
+      ]
+    },
+    {
+      "name": "Thermocouple",
+      "description": "Voltage from junction.",
+      "applications": [
+        "Furnaces"
+      ]
+    },
+    {
+      "name": "RTD (Pt100)",
+      "description": "Stable resistance.",
+      "applications": [
+        "Industry"
+      ]
+    },
+    {
+      "name": "IC (LM35)",
+      "description": "Linear voltage out.",
+      "applications": [
+        "MCU"
+      ]
+    }
+  ]
+}

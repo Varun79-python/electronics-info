@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "OLED is:",
+      "options": [
+        "Self-emissive",
+        "Backlit",
+        "Reflective",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Per-pixel light.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "True black because:",
+      "options": [
+        "Pixel off",
+        "Backlight off",
+        "Filter",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Emissive off.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Burn-in from:",
+      "options": [
+        "Static image",
+        "Heat",
+        "Voltage",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uneven aging.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "AMOLED is:",
+      "options": [
+        "Active matrix",
+        "Passive",
+        "LCD",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "TFT driven.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Power depends on:",
+      "options": [
+        "Content",
+        "Size only",
+        "Backlight",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brightness/content.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Energizing coils in sequence creates a rotating magnetic field that pulls the rotor (permanent magnet or variable reluctance) one step at a time.",
+  "steps": [
+    "Controller energizes coil pair A",
+    "Rotor aligns to that field",
+    "Next coil energized, field shifts",
+    "Rotor steps to new position",
+    "Repeat sequence for rotation"
+  ],
+  "microscopicExplanation": "The rotor follows the sequentially energized stator poles; microstepping varies coil currents sinusoidally for smoother, finer motion."
+}

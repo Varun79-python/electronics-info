@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1960,
+    "inventor": "LED matrix evolution",
+    "discovery": "Multiplexed LED matrices enabled large displays efficiently.",
+    "evolution": [
+      {
+        "year": 1960,
+        "event": "LED arrays"
+      },
+      {
+        "year": 1990,
+        "event": "Dot-matrix signs"
+      },
+      {
+        "year": 2010,
+        "event": "RGB video walls"
+      }
+    ]
+  }
+}

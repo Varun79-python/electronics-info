@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is an FPGA?",
+      "answer": "A reconfigurable chip you program as custom hardware."
+    },
+    {
+      "question": "FPGA vs MCU?",
+      "answer": "FPGA is parallel hardware; MCU is sequential software."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is a bitstream?",
+      "answer": "The configuration loaded to set up the fabric."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Timing closure?",
+      "answer": "Meeting setup/hold across the design at target clock."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When choose FPGA?",
+      "answer": "When parallelism, latency, or I/O speed beat an MCU/ASIC tradeoff."
+    }
+  ]
+}

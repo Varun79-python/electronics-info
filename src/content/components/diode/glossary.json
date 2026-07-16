@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "P–N Junction",
+      "definition": "The boundary between p-type and n-type semiconductor where rectification occurs."
+    },
+    {
+      "term": "Depletion Region",
+      "definition": "Area at the junction depleted of mobile charge carriers, acting as an insulator."
+    },
+    {
+      "term": "Forward Bias",
+      "definition": "P side positive relative to N side, allowing current flow."
+    },
+    {
+      "term": "Reverse Bias",
+      "definition": "N side positive relative to P side, blocking current."
+    },
+    {
+      "term": "Zener Effect",
+      "definition": "Quantum tunneling causing reverse conduction at low breakdown voltages."
+    }
+  ]
+}

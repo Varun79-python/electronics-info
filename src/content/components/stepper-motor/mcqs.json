@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A stepper moves in:",
+      "options": [
+        "Continuous",
+        "Discrete steps",
+        "Random",
+        "Only CW"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Incremental steps.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "200 steps/rev means:",
+      "options": [
+        "0.9°",
+        "1.8°",
+        "7.2°",
+        "10°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "360/200 = 1.8°.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Microstepping gives:",
+      "options": [
+        "More torque",
+        "Finer resolution",
+        "Higher speed",
+        "Less heat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fractional steps.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Losing steps is due to:",
+      "options": [
+        "Low voltage",
+        "Overload/resonance",
+        "Cold",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Torque insufficient.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Open-loop lacks:",
+      "options": [
+        "Power",
+        "Feedback",
+        "Steps",
+        "Coils"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No encoder feedback.",
+      "difficulty": "beginner"
+    }
+  ]
+}

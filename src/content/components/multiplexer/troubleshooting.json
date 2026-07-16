@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Wrong Channel",
+      "symptoms": [
+        "Bad data"
+      ],
+      "causes": [
+        "Select error"
+      ],
+      "solution": "Fix code"
+    },
+    {
+      "failure": "Crosstalk",
+      "symptoms": [
+        "Leakage"
+      ],
+      "causes": [
+        "Adjacent"
+      ],
+      "solution": "Shield"
+    },
+    {
+      "failure": "High On-R",
+      "symptoms": [
+        "Loss"
+      ],
+      "causes": [
+        "Analog"
+      ],
+      "solution": "Buffer"
+    }
+  ]
+}

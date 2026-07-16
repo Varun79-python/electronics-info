@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Fast-Acting",
+      "description": "Quick clear, no surge tolerance.",
+      "applications": [
+        "Electronics"
+      ]
+    },
+    {
+      "name": "Time-Delay (Slow-Blow)",
+      "description": "Tolerates inrush.",
+      "applications": [
+        "Motors"
+      ]
+    },
+    {
+      "name": "Glass Cartridge",
+      "description": "Visible element.",
+      "applications": [
+        "Appliances"
+      ]
+    },
+    {
+      "name": "Blade (ATO)",
+      "description": "Automotive.",
+      "applications": [
+        "Cars"
+      ]
+    }
+  ]
+}

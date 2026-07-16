@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Bulky and heavy at high inductance",
+    "Suffers core saturation and hysteresis loss",
+    "Parasitic capacitance limits high-frequency use",
+    "Can radiate electromagnetic interference",
+    "Harder to integrate into ICs",
+    "More expensive than resistors/capacitors"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Logic Cells",
+      "typicalValues": "1k to millions",
+      "notes": "Capacity"
+    },
+    {
+      "name": "Clock",
+      "typicalValues": "up to 500MHz+",
+      "notes": "Speed"
+    },
+    {
+      "name": "Block RAM",
+      "typicalValues": "Kb to Mb",
+      "notes": "Memory"
+    },
+    {
+      "name": "DSP Slices",
+      "typicalValues": "tens to thousands",
+      "notes": "Math"
+    }
+  ]
+}

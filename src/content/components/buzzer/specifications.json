@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Rated Voltage",
+      "typicalValues": "3V to 12V",
+      "notes": "DC common"
+    },
+    {
+      "name": "Frequency",
+      "typicalValues": "1kHz to 4kHz",
+      "notes": "Audible"
+    },
+    {
+      "name": "Sound Level",
+      "typicalValues": "70 to 100 dB",
+      "notes": "At distance"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "mA to 30mA",
+      "notes": "Low"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Active/Passive",
+      "notes": "Active simpler"
+    }
+  ]
+}

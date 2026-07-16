@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "connector",
+      "relationship": "Mounted on PCB"
+    },
+    {
+      "id": "breadboard",
+      "relationship": "Prototyping alt"
+    },
+    {
+      "id": "solder",
+      "relationship": "Assembly"
+    }
+  ]
+}

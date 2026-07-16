@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a contactor?",
+      "answer": "A heavy-duty relay for switching large electrical loads with a control coil."
+    },
+    {
+      "question": "Contactor vs relay?",
+      "answer": "Contactor handles much higher current and has arc suppression; relay is for signals/small loads."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why overload relay?",
+      "answer": "To protect the motor and contactor from sustained overcurrent."
+    },
+    {
+      "question": "What is AC3?",
+      "answer": "A utilization category describing motor starting duty."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How quench the arc?",
+      "answer": "Arc chutes split and cool the arc, extinguishing it quickly at contact opening."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When use contactor vs SSR?",
+      "answer": "Contactor for very high current/isolation; SSR for silent, fast, frequent switching."
+    }
+  ]
+}

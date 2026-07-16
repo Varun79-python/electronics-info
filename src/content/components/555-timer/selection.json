@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Mode",
+      "description": "Astable/mono/bi."
+    },
+    {
+      "step": 2,
+      "title": "Timing",
+      "description": "Pick R, C."
+    },
+    {
+      "step": 3,
+      "title": "Supply",
+      "description": "Match Vcc."
+    },
+    {
+      "step": 4,
+      "title": "CMOS?",
+      "description": "For low power."
+    }
+  ],
+  "tips": [
+    "Use stable caps",
+    "Decouple Vcc",
+    "CMOS for battery"
+  ]
+}

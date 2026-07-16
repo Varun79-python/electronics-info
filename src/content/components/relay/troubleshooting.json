@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "Coil Open",
+      "symptoms": [
+        "No click",
+        "No switch"
+      ],
+      "causes": [
+        "Burnout"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Contacts Welded",
+      "symptoms": [
+        "Stuck on"
+      ],
+      "causes": [
+        "Arc",
+        "Overload"
+      ],
+      "solution": "Replace; snubber"
+    },
+    {
+      "failure": "Contact Bounce",
+      "symptoms": [
+        "Glitches"
+      ],
+      "causes": [
+        "Mechanical"
+      ],
+      "solution": "Debounce in software"
+    }
+  ]
+}

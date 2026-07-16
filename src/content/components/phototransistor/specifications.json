@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Spectral Range",
+      "typicalValues": "400nm to 1100nm",
+      "notes": "Silicon"
+    },
+    {
+      "name": "Gain",
+      "typicalValues": "20 to 1000",
+      "notes": "Darlington higher"
+    },
+    {
+      "name": "Response Time",
+      "typicalValues": "µs to ms",
+      "notes": "Slower than photodiode"
+    },
+    {
+      "name": "Dark Current",
+      "typicalValues": "nA",
+      "notes": "Lower is better"
+    }
+  ]
+}

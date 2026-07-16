@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does an encoder do?",
+      "answer": "Converts an active input into a binary code."
+    },
+    {
+      "question": "8-to-3 means?",
+      "answer": "8 inputs become 3-bit code."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Priority encoder use?",
+      "answer": "Resolves multiple active inputs (e.g., interrupts)."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Glitch source?",
+      "answer": "Input transitions cause transient wrong codes."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Keyboard scan?",
+      "answer": "Matrix rows/cols encoded to a code."
+    }
+  ]
+}

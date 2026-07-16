@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Current through organic layers causes electroluminescence; each pixel emits its own light, controlled by TFT backplane.",
+  "steps": [
+    "Voltage applied to pixel",
+    "Holes and electrons recombine",
+    "Organic layer emits light",
+    "TFT sets brightness per pixel"
+  ],
+  "microscopicExplanation": "Electroluminescence: recombination of carriers in the emissive organic layer releases photons."
+}

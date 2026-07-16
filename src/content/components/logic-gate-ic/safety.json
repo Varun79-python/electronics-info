@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage.",
+  "currentSafety": "Minimal.",
+  "thermalSafety": "None.",
+  "handling": "ESD sensitive.",
+  "storage": "Antistatic.",
+  "disposal": "E-waste."
+}

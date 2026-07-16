@@ -1,0 +1,26 @@
+{
+  "types": [
+    {
+      "name": "SCR (Phase Control)",
+      "description": "Half/full-wave control.",
+      "applications": [
+        "Dimmers",
+        "Rectifiers"
+      ]
+    },
+    {
+      "name": "Fast Thyristor",
+      "description": "High di/dt, turn-off.",
+      "applications": [
+        "Inverters"
+      ]
+    },
+    {
+      "name": "Asymmetric Thyristor",
+      "description": "Reverse-blocking optimized.",
+      "applications": [
+        "Drives"
+      ]
+    }
+  ]
+}

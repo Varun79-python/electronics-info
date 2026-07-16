@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A diode conducts primarily in:",
+      "options": [
+        "Both directions equally",
+        "One direction only",
+        "Neither direction",
+        "Only at high frequency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diode is asymmetric, conducting in its forward direction.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Forward voltage of a silicon diode is approximately:",
+      "options": [
+        "0.2V",
+        "0.7V",
+        "1.5V",
+        "5V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Silicon p–n diodes drop about 0.6-0.7V.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which diode is fastest for switching?",
+      "options": [
+        "Standard p–n",
+        "Zener",
+        "Schottky",
+        "LED"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Schottky diodes have negligible reverse recovery time.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A Zener diode is used for:",
+      "options": [
+        "Rectification",
+        "Voltage regulation",
+        "Amplification",
+        "Oscillation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zener diodes maintain a stable voltage in reverse breakdown.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The Shockley equation models:",
+      "options": [
+        "Resistor behavior",
+        "Diode I–V curve",
+        "Capacitor charging",
+        "Inductor field"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It describes the exponential current-voltage relationship of a diode.",
+      "difficulty": "advanced"
+    }
+  ]
+}

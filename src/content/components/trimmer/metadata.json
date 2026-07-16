@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "trimmer",
+    "name": "Trimmer Potentiometer",
+    "category": "passive",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 9,
+    "status": "published"
+  }
+}

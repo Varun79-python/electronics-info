@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does a decoder do?",
+      "answer": "Turns a binary code into one active output line."
+    },
+    {
+      "question": "3:8 means?",
+      "answer": "3 inputs select 1 of 8 outputs."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Decoder in memory?",
+      "answer": "Selects which chip/row is active (chip-select)."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Glitch on change?",
+      "answer": "Intermediate codes can briefly assert wrong lines; latch or sync."
+    }
+  ],
+  "expert": [
+    {
+      "question": "7-seg decoder?",
+      "answer": "Maps BCD to segment patterns."
+    }
+  ]
+}

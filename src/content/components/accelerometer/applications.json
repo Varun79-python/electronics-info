@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Consumer",
+      "description": "Orientation",
+      "examples": [
+        "Phones"
+      ]
+    },
+    {
+      "category": "Automotive",
+      "description": "Airbag deploy",
+      "examples": [
+        "Cars"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Vibration",
+      "examples": [
+        "Motors"
+      ]
+    },
+    {
+      "category": "Aerospace",
+      "description": "Stabilization",
+      "examples": [
+        "Drones"
+      ]
+    }
+  ]
+}

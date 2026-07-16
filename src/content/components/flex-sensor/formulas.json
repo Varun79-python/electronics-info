@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Resistance vs Bend",
+      "formula": "R = R₀ (1 + k θ)",
+      "description": "Rises with angle.",
+      "variables": [
+        {
+          "symbol": "R",
+          "name": "Resistance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "θ",
+          "name": "Angle",
+          "unit": "°"
+        }
+      ],
+      "example": "10kΩ flat to 30kΩ bent"
+    },
+    {
+      "name": "Divider",
+      "formula": "V_out = V (R_f/(R_f+R))",
+      "description": "Read voltage.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "With fixed R"
+    }
+  ]
+}

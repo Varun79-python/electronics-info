@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Impedance",
+      "typicalValues": "4Ω, 8Ω, 16Ω",
+      "notes": "Nominal"
+    },
+    {
+      "name": "Power Rating",
+      "typicalValues": "0.5W to 1000W",
+      "notes": "RMS"
+    },
+    {
+      "name": "Frequency Response",
+      "typicalValues": "20Hz to 20kHz",
+      "notes": "By size"
+    },
+    {
+      "name": "Sensitivity",
+      "typicalValues": "80 to 100 dB",
+      "notes": "Higher = louder"
+    },
+    {
+      "name": "Resonance Fs",
+      "typicalValues": "Hz",
+      "notes": "Enclosure matters"
+    }
+  ]
+}

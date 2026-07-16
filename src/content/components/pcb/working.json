@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Copper layers etched into traces route signals and power; vias connect layers; solder joints mount components.",
+  "steps": [
+    "Design schematic + layout",
+    "Etch copper traces",
+    "Drill vias/holes",
+    "Solder components"
+  ],
+  "microscopicExplanation": "Controlled-impedance traces and ground planes manage signal integrity and return currents."
+}

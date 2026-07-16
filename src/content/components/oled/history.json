@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1987,
+    "inventor": "Ching Tang & Steven Van Slyke (Kodak)",
+    "discovery": "They demonstrated the first practical OLED device.",
+    "evolution": [
+      {
+        "year": 1987,
+        "event": "First OLED"
+      },
+      {
+        "year": 2000,
+        "event": "AMOLED phones"
+      },
+      {
+        "year": 2015,
+        "event": "Flexible OLED"
+      }
+    ]
+  }
+}

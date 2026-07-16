@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1960,
+    "inventor": "DEMUX IC evolution",
+    "discovery": "Integrated demultiplexers enabled address decoding and distribution.",
+    "evolution": [
+      {
+        "year": 1960,
+        "event": "DEMUX ICs"
+      },
+      {
+        "year": 1980,
+        "event": "Address decoders"
+      },
+      {
+        "year": 2000,
+        "event": "High-speed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "switch",
+      "relationship": "Momentary variant"
+    },
+    {
+      "id": "relay",
+      "relationship": "Driven by button"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads input"
+    }
+  ]
+}

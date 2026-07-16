@@ -1,0 +1,25 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open",
+      "symptoms": [
+        "No continuity"
+      ],
+      "causes": [
+        "Overload",
+        "Thermal"
+      ],
+      "solution": "Replace with higher rating"
+    },
+    {
+      "failure": "Value Drift",
+      "symptoms": [
+        "Wrong R"
+      ],
+      "causes": [
+        "Overheat"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

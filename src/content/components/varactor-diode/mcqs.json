@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A varactor acts as a:",
+      "options": [
+        "Resistor",
+        "Voltage-controlled capacitor",
+        "Inductor",
+        "Switch"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Voltage-tuned capacitor.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Increasing reverse bias:",
+      "options": [
+        "Raises C",
+        "Lowers C",
+        "No effect",
+        "Reverses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wider depletion → lower C.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "VCO",
+        "Rectifier",
+        "Amplifier",
+        "LED"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tuning oscillators.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Hyperabrupt gives:",
+      "options": [
+        "Lower Q",
+        "Linear tuning",
+        "Higher V",
+        "Less C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Steeper, more linear C-V.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Must be:",
+      "options": [
+        "Forward biased",
+        "Reverse biased",
+        "Zener",
+        "Shorted"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reverse bias sets capacitance.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

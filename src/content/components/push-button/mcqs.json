@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "NO contact is:",
+      "options": [
+        "Open at rest",
+        "Closed at rest",
+        "Always open",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Normally open.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Momentary returns:",
+      "options": [
+        "On release",
+        "Stays",
+        "Never",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Spring return.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Debounce handles:",
+      "options": [
+        "Bounce",
+        "Voltage",
+        "Current",
+        "Heat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mechanical bounce.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Latching button:",
+      "options": [
+        "Toggles state",
+        "Momentary",
+        "NC only",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Stays toggled.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Gold contacts for:",
+      "options": [
+        "Low signal",
+        "High power",
+        "Both",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Low-signal use.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What does a transistor do?",
+      "answer": "It amplifies or switches a large current using a small control current."
+    },
+    {
+      "question": "NPN vs PNP?",
+      "answer": "NPN uses electron flow from collector to emitter; PNP is complementary with opposite bias."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is β?",
+      "answer": "Current gain: collector current equals β times base current."
+    },
+    {
+      "question": "What are the three regions?",
+      "answer": "Cutoff (off), active (linear amplification), and saturation (fully on)."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What causes thermal runaway?",
+      "answer": "Increased temperature raises leakage and I_C, which increases power and temperature in a positive feedback loop."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When choose BJT over MOSFET?",
+      "answer": "For analog linearity, low-noise amplification, and where a current-driven device suits the design."
+    }
+  ]
+}

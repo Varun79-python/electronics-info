@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Shoot-through",
+      "symptoms": [
+        "Hot/short"
+      ],
+      "causes": [
+        "Both sides on"
+      ],
+      "solution": "Dead-time"
+    },
+    {
+      "failure": "No Move",
+      "symptoms": [
+        "Still"
+      ],
+      "causes": [
+        "No PWM"
+      ],
+      "solution": "Check MCU"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Trip"
+      ],
+      "causes": [
+        "Stall"
+      ],
+      "solution": "Current limit"
+    }
+  ]
+}

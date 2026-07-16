@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "FPGA is:",
+      "options": [
+        "Reconfigurable hardware",
+        "Fixed MCU",
+        "Memory",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Programmable fabric.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "LUT implements:",
+      "options": [
+        "Combinational logic",
+        "Memory only",
+        "Clock",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Logic block.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Bitstream is:",
+      "options": [
+        "Config data",
+        "Firmware C",
+        "Power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sets fabric.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Invented by:",
+      "options": [
+        "Freeman/Xilinx",
+        "Intel",
+        "ARM",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1985.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "FPGA advantage:",
+      "options": [
+        "Parallelism",
+        "Low cost",
+        "Easy",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hardware parallel.",
+      "difficulty": "advanced"
+    }
+  ]
+}

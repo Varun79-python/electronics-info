@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Backlight",
+      "function": "Illuminate",
+      "material": "LED"
+    },
+    {
+      "name": "Glass Substrate",
+      "function": "Hold crystals",
+      "material": "Glass"
+    },
+    {
+      "name": "TFT Array",
+      "function": "Switch pixels",
+      "material": "Silicon"
+    },
+    {
+      "name": "Polarizers",
+      "function": "Filter light",
+      "material": "Film"
+    }
+  ]
+}

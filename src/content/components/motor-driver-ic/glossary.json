@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "H-Bridge",
+      "definition": "Four-switch polarity reverser."
+    },
+    {
+      "term": "Shoot-through",
+      "definition": "Both sides conducting (short)."
+    },
+    {
+      "term": "PWM",
+      "definition": "Pulse-width modulation for speed."
+    },
+    {
+      "term": "Stall Current",
+      "definition": "Max current at zero speed."
+    }
+  ]
+}

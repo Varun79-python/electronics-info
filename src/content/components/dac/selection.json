@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Resolution",
+      "description": "Bits needed."
+    },
+    {
+      "step": 2,
+      "title": "Speed",
+      "description": "Settling time."
+    },
+    {
+      "step": 3,
+      "title": "Output",
+      "description": "Voltage/current."
+    },
+    {
+      "step": 4,
+      "title": "Reference",
+      "description": "Stable Vref."
+    }
+  ],
+  "tips": [
+    "Use op-amp buffer",
+    "Stable reference",
+    "Watch glitches"
+  ]
+}

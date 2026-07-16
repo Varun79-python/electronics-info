@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "electromagnet",
+    "name": "Electromagnet",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 42,
+    "status": "published"
+  }
+}

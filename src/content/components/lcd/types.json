@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "TN",
+      "description": "Cheap, fast.",
+      "applications": [
+        "Monitors"
+      ]
+    },
+    {
+      "name": "IPS",
+      "description": "Better color.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "Character LCD",
+      "description": "Text (16x2).",
+      "applications": [
+        "Hobby"
+      ]
+    },
+    {
+      "name": "TFT",
+      "description": "Full graphics.",
+      "applications": [
+        "Displays"
+      ]
+    }
+  ]
+}

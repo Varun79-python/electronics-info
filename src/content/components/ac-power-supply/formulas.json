@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "RMS",
+      "formula": "V_rms = V_peak / √2",
+      "description": "AC RMS value.",
+      "variables": [
+        {
+          "symbol": "V_rms",
+          "name": "RMS voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "Sine peak 10V → 7.07Vrms"
+    },
+    {
+      "name": "Power",
+      "formula": "P = V_rms × I_rms × cos φ",
+      "description": "AC real power.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        },
+        {
+          "symbol": "cos φ",
+          "name": "Power factor",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "Resistive: cosφ=1"
+    }
+  ]
+}

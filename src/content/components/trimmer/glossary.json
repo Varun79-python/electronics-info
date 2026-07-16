@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Trimmer",
+      "definition": "A preset variable resistor adjusted for calibration."
+    },
+    {
+      "term": "Multiturn",
+      "definition": "Adjuster requiring multiple rotations for full range."
+    },
+    {
+      "term": "Cermet",
+      "definition": "Ceramic-metal resistive material; stable and precise."
+    },
+    {
+      "term": "Preset",
+      "definition": "Set during manufacturing, not by end user."
+    }
+  ]
+}

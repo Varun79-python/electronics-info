@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Trigger",
+      "symptoms": [
+        "No output"
+      ],
+      "causes": [
+        "No gate pulse"
+      ],
+      "solution": "Check trigger circuit"
+    },
+    {
+      "failure": "False Trigger",
+      "symptoms": [
+        "Random on"
+      ],
+      "causes": [
+        "dv/dt",
+        "Noise"
+      ],
+      "solution": "Snubber; filter"
+    },
+    {
+      "failure": "Won't Commutate",
+      "symptoms": [
+        "Stays on"
+      ],
+      "causes": [
+        "Inductive load"
+      ],
+      "solution": "Snubberless TRIAC"
+    }
+  ]
+}

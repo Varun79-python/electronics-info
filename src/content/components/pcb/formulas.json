@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Trace Width",
+      "formula": "W ∝ I / (ΔT^0.44)",
+      "description": "Current capacity (IPC).",
+      "variables": [
+        {
+          "symbol": "W",
+          "name": "Width",
+          "unit": "mil"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "10mil per A rough"
+    },
+    {
+      "name": "Impedance",
+      "formula": "Z₀ = (87/√(εr+1.41)) ln(5.98h/(0.8w+t))",
+      "description": "Microstrip.",
+      "variables": [
+        {
+          "symbol": "Z₀",
+          "name": "Impedance",
+          "unit": "Ω"
+        }
+      ],
+      "example": "50Ω"
+    }
+  ]
+}

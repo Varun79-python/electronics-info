@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Inductive",
+      "description": "Metal only.",
+      "applications": [
+        "Industry"
+      ]
+    },
+    {
+      "name": "Capacitive",
+      "description": "Any material.",
+      "applications": [
+        "Liquids"
+      ]
+    },
+    {
+      "name": "Optical",
+      "description": "Light beam.",
+      "applications": [
+        "Counters"
+      ]
+    },
+    {
+      "name": "Magnetic",
+      "description": "Magnet target.",
+      "applications": [
+        "Position"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Inductive proximity senses:",
+      "options": [
+        "Metal",
+        "Plastic",
+        "Water",
+        "All"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eddy currents.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Capacitive senses:",
+      "options": [
+        "Any material",
+        "Metal only",
+        "Light",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dielectric change.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "NPN output is:",
+      "options": [
+        "Sinking",
+        "Sourcing",
+        "Relay",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pulls to ground.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Shielded reduces:",
+      "options": [
+        "Side false triggers",
+        "Range",
+        "Voltage",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Confines field.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Sn means:",
+      "options": [
+        "Rated distance",
+        "Supply",
+        "Speed",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nominal sense range.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

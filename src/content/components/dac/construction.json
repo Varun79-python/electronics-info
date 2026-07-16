@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Resistor Ladder",
+      "function": "Weight bits",
+      "material": "Silicon"
+    },
+    {
+      "name": "Switches",
+      "function": "Select bits",
+      "material": "CMOS"
+    },
+    {
+      "name": "Summing Amp",
+      "function": "Combine",
+      "material": "Silicon"
+    },
+    {
+      "name": "Reference",
+      "function": "Set span",
+      "material": "Silicon"
+    }
+  ]
+}

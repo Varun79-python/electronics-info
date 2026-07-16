@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Automotive",
+      "description": "Wheel speed",
+      "examples": [
+        "ABS"
+      ]
+    },
+    {
+      "category": "Motor",
+      "description": "Commutation",
+      "examples": [
+        "BLDC"
+      ]
+    },
+    {
+      "category": "Power",
+      "description": "Current sense",
+      "examples": [
+        "Inverters"
+      ]
+    },
+    {
+      "category": "Position",
+      "description": "Linear/angle",
+      "examples": [
+        "Encoders"
+      ]
+    }
+  ]
+}

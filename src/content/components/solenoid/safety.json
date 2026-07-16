@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Inrush; fuse/driver.",
+  "thermalSafety": "Holding heats; duty limit.",
+  "handling": "Pinch hazard when actuating.",
+  "storage": "Dry.",
+  "disposal": "E-waste rules."
+}

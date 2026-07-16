@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "transformer",
+      "relationship": "Voltage scaling"
+    },
+    {
+      "id": "igbt",
+      "relationship": "Inverter bridge switches"
+    },
+    {
+      "id": "dc-power-supply",
+      "relationship": "DC counterpart"
+    },
+    {
+      "id": "voltage-regulator",
+      "relationship": "Regulates derived rails"
+    }
+  ]
+}

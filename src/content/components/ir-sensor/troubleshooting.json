@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Detect",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Sunlight"
+      ],
+      "solution": "Shield/modulate"
+    },
+    {
+      "failure": "False",
+      "symptoms": [
+        "Triggers"
+      ],
+      "causes": [
+        "Heat source"
+      ],
+      "solution": "Reposition"
+    },
+    {
+      "failure": "Weak",
+      "symptoms": [
+        "Short"
+      ],
+      "causes": [
+        "Low V"
+      ],
+      "solution": "Check supply"
+    }
+  ]
+}

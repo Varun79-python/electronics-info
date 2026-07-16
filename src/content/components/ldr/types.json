@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "CdS Cell",
+      "description": "Visible light.",
+      "applications": [
+        "Lamps"
+      ]
+    },
+    {
+      "name": "PbS Cell",
+      "description": "Infrared.",
+      "applications": [
+        "IR detect"
+      ]
+    },
+    {
+      "name": "High-resistance",
+      "description": "Dark high R.",
+      "applications": [
+        "Switching"
+      ]
+    }
+  ]
+}

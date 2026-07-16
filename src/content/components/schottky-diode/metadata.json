@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "schottky-diode",
+    "name": "Schottky Diode",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 16,
+    "status": "published"
+  }
+}

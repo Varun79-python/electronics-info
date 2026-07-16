@@ -1,0 +1,37 @@
+{
+  "failureModes": [
+    {
+      "failure": "Shorted",
+      "symptoms": [
+        "No regulation",
+        "Low V"
+      ],
+      "causes": [
+        "Overcurrent",
+        "Surge"
+      ],
+      "solution": "Replace; check R"
+    },
+    {
+      "failure": "Open",
+      "symptoms": [
+        "No clamp"
+      ],
+      "causes": [
+        "Damage"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Wrong V"
+      ],
+      "causes": [
+        "Temp",
+        "Aging"
+      ],
+      "solution": "Use better reference"
+    }
+  ]
+}

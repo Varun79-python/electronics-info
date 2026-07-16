@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "It amplifies the difference between inputs; without feedback it snaps the output to rail based on sign of (V+ - V-).",
+  "steps": [
+    "Two inputs applied",
+    "Difference evaluated",
+    "Output swings to high/low rail",
+    "No linear region (typically)"
+  ],
+  "microscopicExplanation": "High open-loop gain forces the output to saturate; hysteresis (positive feedback) adds noise immunity."
+}

@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Forward Voltage (V_F)",
+      "typicalValues": "0.15V (Schottky) to 4V (LED)",
+      "notes": "Silicon p–n ≈ 0.6-0.7V"
+    },
+    {
+      "name": "Reverse Breakdown Voltage (V_BR)",
+      "typicalValues": "50V to 1000V+",
+      "notes": "Must exceed maximum reverse voltage"
+    },
+    {
+      "name": "Maximum Forward Current (I_F)",
+      "typicalValues": "1mA to 100A",
+      "notes": "Continuous current rating"
+    },
+    {
+      "name": "Reverse Recovery Time (t_rr)",
+      "typicalValues": "ns to µs",
+      "notes": "Schottky fastest, standard p–n slower"
+    },
+    {
+      "name": "Junction Capacitance",
+      "typicalValues": "1pF to 100pF",
+      "notes": "Affects high-frequency performance"
+    },
+    {
+      "name": "Operating Temperature",
+      "typicalValues": "-65°C to +175°C",
+      "notes": "Silicon diodes wide range"
+    }
+  ]
+}

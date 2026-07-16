@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Encoder",
+      "definition": "Input-to-code converter."
+    },
+    {
+      "term": "Priority",
+      "definition": "Highest active wins."
+    },
+    {
+      "term": "Valid Flag",
+      "definition": "Indicates active input."
+    },
+    {
+      "term": "DEMUX",
+      "definition": "Inverse function."
+    }
+  ]
+}

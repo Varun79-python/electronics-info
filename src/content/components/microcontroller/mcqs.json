@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "MCU contains:",
+      "options": [
+        "CPU+mem+IO",
+        "CPU only",
+        "Memory only",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integrated.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Flash stores:",
+      "options": [
+        "Firmware",
+        "RAM data",
+        "Cache",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Program.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "GPIO means:",
+      "options": [
+        "General I/O",
+        "Ground",
+        "Gain",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Configurable pins.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Interrupt does:",
+      "options": [
+        "Pause for ISR",
+        "Reset",
+        "Sleep",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Event handler.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "ARM Cortex-M is:",
+      "options": [
+        "32-bit MCU core",
+        "8-bit",
+        "FPGA",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Common MCU.",
+      "difficulty": "beginner"
+    }
+  ]
+}

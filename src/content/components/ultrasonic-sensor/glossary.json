@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Time-of-Flight",
+      "definition": "Round-trip echo time."
+    },
+    {
+      "term": "Blind Zone",
+      "definition": "Minimum measurable distance."
+    },
+    {
+      "term": "Beam Angle",
+      "definition": "Cone of sensitivity."
+    },
+    {
+      "term": "Echo",
+      "definition": "Reflected sound return."
+    }
+  ]
+}

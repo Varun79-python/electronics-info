@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "dac",
+      "relationship": "Inverse"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Uses ADC"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Conditions input"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "Bits/modulus."
+    },
+    {
+      "step": 2,
+      "title": "Speed",
+      "description": "Clock rate."
+    },
+    {
+      "step": 3,
+      "title": "Type",
+      "description": "Sync vs ripple."
+    },
+    {
+      "step": 4,
+      "title": "Direction",
+      "description": "Up/down."
+    }
+  ],
+  "tips": [
+    "Sync for speed",
+    "Decode carefully",
+    "Use reset"
+  ]
+}

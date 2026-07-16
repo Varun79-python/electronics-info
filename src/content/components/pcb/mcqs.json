@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "PCB connects via:",
+      "options": [
+        "Copper traces",
+        "Wires only",
+        "Air",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Etched copper.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Via is:",
+      "options": [
+        "Layer connector",
+        "Resistor",
+        "Cap",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hole through layers.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "FR4 is:",
+      "options": [
+        "Substrate",
+        "Copper",
+        "Solder",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Board material.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "50Ω relates to:",
+      "options": [
+        "Impedance",
+        "Voltage",
+        "Current",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Controlled trace.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Multilayer for:",
+      "options": [
+        "Complexity/density",
+        "Cost only",
+        "Color",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "More routing.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

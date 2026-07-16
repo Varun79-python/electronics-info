@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1938,
+    "inventor": "Walter Schottky (theory), practical 1960s-70s",
+    "discovery": "Schottky described metal-semiconductor barrier theory; practical Schottky diodes followed mid-20th century.",
+    "evolution": [
+      {
+        "year": 1938,
+        "event": "Schottky barrier theory"
+      },
+      {
+        "year": 1960,
+        "event": "First Schottky diodes"
+      },
+      {
+        "year": 1980,
+        "event": "Power Schottkys for SMPS"
+      }
+    ]
+  }
+}

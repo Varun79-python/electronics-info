@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Audio Playback",
+      "description": "Reproduces sound",
+      "examples": [
+        "Music",
+        "TV"
+      ]
+    },
+    {
+      "category": "Communication",
+      "description": "Voice output",
+      "examples": [
+        "Phones",
+        "Intercom"
+      ]
+    },
+    {
+      "category": "Alerting",
+      "description": "Tones/alarms",
+      "examples": [
+        "Alarms"
+      ]
+    },
+    {
+      "category": "PA Systems",
+      "description": "Public address",
+      "examples": [
+        "Stadiums"
+      ]
+    }
+  ]
+}

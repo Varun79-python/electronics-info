@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A controller compares a commanded position to feedback from an encoder and drives the motor to minimize error via a control loop (often PID).",
+  "steps": [
+    "Command position is set",
+    "Encoder reports actual position",
+    "Controller computes error",
+    "Motor driven to reduce error",
+    "Loop maintains accuracy dynamically"
+  ],
+  "microscopicExplanation": "The feedback loop continuously corrects error; the motor (DC, BLDC, or AC) plus encoder forms a closed system that holds or tracks the setpoint."
+}

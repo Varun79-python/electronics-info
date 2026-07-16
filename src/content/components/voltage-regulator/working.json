@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A linear regulator drops excess voltage across a pass element; a switching regulator chops and filters energy to regulate efficiently. Feedback compares output to a reference and adjusts control.",
+  "steps": [
+    "Output is sampled and compared to a reference",
+    "Error amplifier drives the pass element",
+    "Pass element adjusts to hold output constant",
+    "Feedback continuously corrects deviations",
+    "Load/input changes are rejected"
+  ],
+  "microscopicExplanation": "A bandgap reference provides a stable voltage; the feedback loop adjusts the series pass device (BJT/MOSFET) or the duty cycle to keep V_out fixed."
+}

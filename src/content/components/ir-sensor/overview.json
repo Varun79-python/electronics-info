@@ -1,0 +1,11 @@
+{
+  "name": "IR Sensor",
+  "id": "ir-sensor",
+  "category": "sensors",
+  "shortDescription": "An IR sensor detects infrared radiation, either as a proximity/obstacle detector or as a thermal/remote receiver.",
+  "whatIsIt": "An IR sensor detects infrared radiation, either as a proximity/obstacle detector or as a thermal/remote receiver.",
+  "whyExists": "IR sensing enables remote control, night vision, and non-contact detection.",
+  "whereUsed": "Used in TV remotes, proximity modules, and PIR motion detectors.",
+  "thumbnail": "/assets/images/components/ir-sensor/thumbnail.svg",
+  "schematic": "/assets/components/ir-sensor/schematic/symbol.svg"
+}

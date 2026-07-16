@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "wirewound-resistor",
+    "name": "Wirewound Resistor",
+    "category": "passive",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 10,
+    "status": "published"
+  }
+}

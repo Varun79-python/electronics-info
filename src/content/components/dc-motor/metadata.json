@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "dc-motor",
+    "name": "DC Motor",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 33,
+    "status": "published"
+  }
+}

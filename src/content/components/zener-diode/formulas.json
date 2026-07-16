@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "Series Resistor",
+      "formula": "R = (V_in - V_Z) / I_Z",
+      "description": "Sets Zener current.",
+      "variables": [
+        {
+          "symbol": "R",
+          "name": "Resistor",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "V_in",
+          "name": "Input",
+          "unit": "V"
+        },
+        {
+          "symbol": "V_Z",
+          "name": "Zener voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "I_Z",
+          "name": "Zener current",
+          "unit": "A"
+        }
+      ],
+      "example": "12V in, 5.1V Zener, 10mA → 690Ω"
+    },
+    {
+      "name": "Power in Zener",
+      "formula": "P_Z = V_Z × I_Z",
+      "description": "Dissipation limit.",
+      "variables": [
+        {
+          "symbol": "P_Z",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "5.1V × 20mA = 0.1W"
+    }
+  ]
+}

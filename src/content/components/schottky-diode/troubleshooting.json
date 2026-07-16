@@ -1,0 +1,26 @@
+{
+  "failureModes": [
+    {
+      "failure": "Short",
+      "symptoms": [
+        "No rectification"
+      ],
+      "causes": [
+        "Overvoltage",
+        "Overcurrent"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Leakage High",
+      "symptoms": [
+        "Heat",
+        "Inefficiency"
+      ],
+      "causes": [
+        "High temp"
+      ],
+      "solution": "Cool; choose lower-leakage"
+    }
+  ]
+}

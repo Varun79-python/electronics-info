@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Pitch",
+      "typicalValues": "0.5-5mm",
+      "notes": "Spacing"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "1-50A",
+      "notes": "Per pin"
+    },
+    {
+      "name": "Cycles",
+      "typicalValues": "100-10000",
+      "notes": "Mating life"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Signal/power/RF",
+      "notes": "Class"
+    }
+  ]
+}

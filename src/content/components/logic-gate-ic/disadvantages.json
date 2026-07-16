@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Fixed function",
+    "Power (vs MCU)",
+    "Board space",
+    "Limited",
+    "Static sensitive"
+  ]
+}

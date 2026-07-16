@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage typical; isolate mains.",
+  "currentSafety": "Limited current.",
+  "thermalSafety": "Overload melts.",
+  "handling": "Standard.",
+  "storage": "Dry.",
+  "disposal": "E-waste."
+}

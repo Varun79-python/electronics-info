@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Output Voltage",
+      "typicalValues": "3.3V to 48V",
+      "notes": "Fixed/adjustable"
+    },
+    {
+      "name": "Output Current",
+      "typicalValues": "0.5A to 50A",
+      "notes": "By supply"
+    },
+    {
+      "name": "Ripple",
+      "typicalValues": "mV to tens mV",
+      "notes": "Lower is better"
+    },
+    {
+      "name": "Efficiency",
+      "typicalValues": "60% (linear) to 90% (SMPS)",
+      "notes": "Key"
+    },
+    {
+      "name": "Regulation",
+      "typicalValues": "±1%",
+      "notes": "Load/line"
+    }
+  ]
+}

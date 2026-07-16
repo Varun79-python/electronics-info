@@ -1,0 +1,11 @@
+{
+  "name": "FPGA",
+  "id": "fpga",
+  "category": "integrated-circuits",
+  "shortDescription": "An FPGA (Field-Programmable Gate Array) is a reconfigurable chip of logic blocks and interconnects programmed by the user.",
+  "whatIsIt": "An FPGA (Field-Programmable Gate Array) is a reconfigurable chip of logic blocks and interconnects programmed by the user.",
+  "whyExists": "FPGAs give hardware-level parallelism and reconfigurability without fabricating an ASIC.",
+  "whereUsed": "Used in signal processing, prototyping, and high-speed interfaces.",
+  "thumbnail": "/assets/images/components/fpga/thumbnail.svg",
+  "schematic": "/assets/components/fpga/schematic/symbol.svg"
+}

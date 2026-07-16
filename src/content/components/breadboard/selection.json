@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Size",
+      "description": "Points needed."
+    },
+    {
+      "step": 2,
+      "title": "Rails",
+      "description": "Power buses."
+    },
+    {
+      "step": 3,
+      "title": "Quality",
+      "description": "Tight clips."
+    },
+    {
+      "step": 4,
+      "title": "Accessories",
+      "description": "Wires/power."
+    }
+  ],
+  "tips": [
+    "Use solid wire",
+    "Check contacts",
+    "Don't exceed current"
+  ]
+}

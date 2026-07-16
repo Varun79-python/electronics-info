@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Coil Voltage",
+      "typicalValues": "5V to 240V",
+      "notes": "DC/AC"
+    },
+    {
+      "name": "Pull Force",
+      "typicalValues": "0.1N to kN",
+      "notes": "Depends size"
+    },
+    {
+      "name": "Duty",
+      "typicalValues": "Continuous/intermittent",
+      "notes": "Heating"
+    },
+    {
+      "name": "Stroke",
+      "typicalValues": "1mm to 50mm",
+      "notes": "Travel"
+    }
+  ]
+}

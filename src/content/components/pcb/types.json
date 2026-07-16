@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Single-layer",
+      "description": "One side.",
+      "applications": [
+        "Simple"
+      ]
+    },
+    {
+      "name": "Double-layer",
+      "description": "Both sides.",
+      "applications": [
+        "General"
+      ]
+    },
+    {
+      "name": "Multi-layer",
+      "description": "4-20+ layers.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "Flex/Rigid-flex",
+      "description": "Bendable.",
+      "applications": [
+        "Wearables"
+      ]
+    }
+  ]
+}

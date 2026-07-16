@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Transistors implement Boolean functions; the output is a logic level determined by the input combination per the gate truth table.",
+  "steps": [
+    "Inputs applied as levels",
+    "Internal transistors switch",
+    "Boolean function computed",
+    "Output driven to rail"
+  ],
+  "microscopicExplanation": "CMOS pairs of MOSFETs pull the output high or low based on input states, with no DC path when static."
+}

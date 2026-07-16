@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Channels",
+      "typicalValues": "2-16",
+      "notes": "Inputs"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Digital/analog",
+      "notes": "Signal"
+    },
+    {
+      "name": "On-Resistance",
+      "typicalValues": "Ω (analog)",
+      "notes": "Pass"
+    },
+    {
+      "name": "Speed",
+      "typicalValues": "ns switch",
+      "notes": "Fast"
+    }
+  ]
+}

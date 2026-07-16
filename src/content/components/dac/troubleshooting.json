@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Glitches",
+      "symptoms": [
+        "Spikes"
+      ],
+      "causes": [
+        "Switching"
+      ],
+      "solution": "Deglitch"
+    },
+    {
+      "failure": "Nonlinear",
+      "symptoms": [
+        "Distortion"
+      ],
+      "causes": [
+        "INL"
+      ],
+      "solution": "Calibrate"
+    },
+    {
+      "failure": "No Output",
+      "symptoms": [
+        "Flat"
+      ],
+      "causes": [
+        "No ref"
+      ],
+      "solution": "Check Vref"
+    }
+  ]
+}

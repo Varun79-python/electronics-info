@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Pinch-off",
+      "definition": "Gate voltage where the channel closes and current saturates."
+    },
+    {
+      "term": "I_DSS",
+      "definition": "Drain current with gate shorted to source."
+    },
+    {
+      "term": "Depletion Region",
+      "definition": "Gate junction region that modulates the channel."
+    },
+    {
+      "term": "Normally On",
+      "definition": "Conducts at zero gate voltage (JFET)."
+    }
+  ]
+}

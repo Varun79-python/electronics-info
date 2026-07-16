@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "voltage-regulator",
+      "relationship": "Linear family"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Stability"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Powers"
+    }
+  ]
+}

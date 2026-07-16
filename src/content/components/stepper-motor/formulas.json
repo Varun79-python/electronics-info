@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Step Angle",
+      "formula": "θ = 360 / (N_steps)",
+      "description": "Angle per full step.",
+      "variables": [
+        {
+          "symbol": "θ",
+          "name": "Step angle",
+          "unit": "°"
+        },
+        {
+          "symbol": "N_steps",
+          "name": "Steps/rev",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "200 steps/rev → 1.8°"
+    },
+    {
+      "name": "Speed",
+      "formula": "rpm = (steps/s × 60) / N_steps",
+      "description": "Speed from step rate.",
+      "variables": [
+        {
+          "symbol": "steps/s",
+          "name": "Step rate",
+          "unit": "steps/s"
+        }
+      ],
+      "example": "1000 steps/s → 300 rpm"
+    }
+  ]
+}

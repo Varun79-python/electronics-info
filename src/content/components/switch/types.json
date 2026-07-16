@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "SPST",
+      "description": "Single-pole single-throw on/off.",
+      "applications": [
+        "Lights"
+      ]
+    },
+    {
+      "name": "SPDT",
+      "description": "Single-pole double-throw selector.",
+      "applications": [
+        "Mode select"
+      ]
+    },
+    {
+      "name": "DPDT",
+      "description": "Double-pole double-throw.",
+      "applications": [
+        "Motor reverse"
+      ]
+    },
+    {
+      "name": "Rotary",
+      "description": "Multi-position selector.",
+      "applications": [
+        "Range"
+      ]
+    }
+  ]
+}

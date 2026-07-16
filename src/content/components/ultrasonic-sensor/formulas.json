@@ -1,0 +1,27 @@
+{
+  "formulas": [
+    {
+      "name": "Distance",
+      "formula": "d = c·t / 2",
+      "description": "Half round-trip.",
+      "variables": [
+        {
+          "symbol": "d",
+          "name": "Distance",
+          "unit": "m"
+        },
+        {
+          "symbol": "c",
+          "name": "Sound speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "t",
+          "name": "Time",
+          "unit": "s"
+        }
+      ],
+      "example": "c~343m/s air"
+    }
+  ]
+}

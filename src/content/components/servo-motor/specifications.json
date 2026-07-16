@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Rated Torque",
+      "typicalValues": "mN·m to 100s N·m",
+      "notes": "By size"
+    },
+    {
+      "name": "Speed",
+      "typicalValues": "1000 to 6000 rpm",
+      "notes": "Rated"
+    },
+    {
+      "name": "Resolution",
+      "typicalValues": "1000 to 100000 cpr",
+      "notes": "Encoder"
+    },
+    {
+      "name": "Bandwidth",
+      "typicalValues": "Hz",
+      "notes": "Loop response"
+    },
+    {
+      "name": "Voltage",
+      "typicalValues": "5V (hobby) to 400V",
+      "notes": "By class"
+    }
+  ]
+}

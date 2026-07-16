@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "Match temperature span."
+    },
+    {
+      "step": 2,
+      "title": "Accuracy",
+      "description": "Needed precision."
+    },
+    {
+      "step": 3,
+      "title": "Output",
+      "description": "Analog or digital."
+    },
+    {
+      "step": 4,
+      "title": "Environment",
+      "description": "Harsh? use RTD."
+    }
+  ],
+  "tips": [
+    "Use bridge for RTD",
+    "Self-heating: limit current",
+    "Calibrate endpoints"
+  ]
+}

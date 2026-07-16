@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "Above max rate."
+    },
+    {
+      "step": 2,
+      "title": "Axes",
+      "description": "1 or 3."
+    },
+    {
+      "step": 3,
+      "title": "Interface",
+      "description": "Analog/I²C/SPI."
+    },
+    {
+      "step": 4,
+      "title": "Drift",
+      "description": "Acceptable bias."
+    }
+  ],
+  "tips": [
+    "Calibrate bias",
+    "Temperature-compensate",
+    "Fuse with accel/mag"
+  ]
+}

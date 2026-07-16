@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "fuse",
+      "relationship": "One-time alternative"
+    },
+    {
+      "id": "relay",
+      "relationship": "Switching"
+    },
+    {
+      "id": "contactor",
+      "relationship": "Load switching"
+    }
+  ]
+}

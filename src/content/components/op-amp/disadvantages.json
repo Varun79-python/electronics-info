@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Offset/drift",
+    "Limited BW",
+    "Not rail at output (some)",
+    "Power needed",
+    "Noise"
+  ]
+}

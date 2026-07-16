@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "accelerometer",
+      "relationship": "IMU pair"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads"
+    },
+    {
+      "id": "magnetometer-ish",
+      "relationship": "Heading fusion"
+    }
+  ]
+}

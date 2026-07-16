@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Coil Voltage",
+      "typicalValues": "24V, 110V, 230V AC/DC",
+      "notes": "Control"
+    },
+    {
+      "name": "Rated Current",
+      "typicalValues": "9A to 1000A+",
+      "notes": "AC3"
+    },
+    {
+      "name": "Poles",
+      "typicalValues": "3P common",
+      "notes": "For 3-phase"
+    },
+    {
+      "name": "Utilization Category",
+      "typicalValues": "AC1, AC3",
+      "notes": "Duty type"
+    },
+    {
+      "name": "Electrical Life",
+      "typicalValues": "10^5 to 10^7",
+      "notes": "Operations"
+    }
+  ]
+}

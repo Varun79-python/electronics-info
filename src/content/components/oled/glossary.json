@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Electroluminescence",
+      "definition": "Light from recombination."
+    },
+    {
+      "term": "AMOLED",
+      "definition": "Active-matrix OLED."
+    },
+    {
+      "term": "Burn-in",
+      "definition": "Persistent image ghost."
+    },
+    {
+      "term": "True Black",
+      "definition": "Pixel fully off."
+    }
+  ]
+}

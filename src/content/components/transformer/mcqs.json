@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A transformer works on the principle of:",
+      "options": [
+        "Resistance",
+        "Electromagnetic induction",
+        "Capacitance",
+        "Conduction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transformers rely on mutual induction.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a step-down transformer:",
+      "options": [
+        "N_s > N_p",
+        "N_s < N_p",
+        "N_s = N_p",
+        "Turns don't matter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fewer secondary turns lower voltage.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Transformers do NOT work with:",
+      "options": [
+        "AC",
+        "DC",
+        "50Hz",
+        "60Hz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DC gives no changing flux, so no transfer.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Eddy current loss is reduced by:",
+      "options": [
+        "Thicker core",
+        "Lamination",
+        "More turns",
+        "Higher voltage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lamination breaks eddy-current loops.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Impedance ratio equals:",
+      "options": [
+        "N_s/N_p",
+        "(N_s/N_p)²",
+        "N_p/N_s",
+        "1/(N_s/N_p)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reflected impedance scales with turns ratio squared.",
+      "difficulty": "advanced"
+    }
+  ]
+}

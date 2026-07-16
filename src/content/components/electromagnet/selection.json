@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Force",
+      "description": "Match required pull."
+    },
+    {
+      "step": 2,
+      "title": "Voltage",
+      "description": "Match supply."
+    },
+    {
+      "step": 3,
+      "title": "Duty",
+      "description": "Continuous vs intermittent."
+    },
+    {
+      "step": 4,
+      "title": "Stroke",
+      "description": "Required travel."
+    }
+  ],
+  "tips": [
+    "Use flyback diode on DC coil",
+    "Derate for heat",
+    "Soft iron core for fast response"
+  ]
+}

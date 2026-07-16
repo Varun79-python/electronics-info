@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "fuse",
+      "relationship": "Fuse disconnects a failed-short varistor"
+    },
+    {
+      "id": "circuit-breaker",
+      "relationship": "Higher-level overcurrent protection"
+    },
+    {
+      "id": "transient-voltage-suppressor",
+      "relationship": "Alternative clamping device"
+    },
+    {
+      "id": "gas-sensor",
+      "relationship": "Unrelated but both sensors/protectors"
+    }
+  ]
+}

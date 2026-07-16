@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open",
+      "symptoms": [
+        "No conduction"
+      ],
+      "causes": [
+        "Overstress"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Short (C-E)",
+      "symptoms": [
+        "Always on"
+      ],
+      "causes": [
+        "Overvoltage",
+        "Overheat"
+      ],
+      "solution": "Replace; check snubber"
+    },
+    {
+      "failure": "Thermal Runaway",
+      "symptoms": [
+        "Heats, fails"
+      ],
+      "causes": [
+        "Insufficient bias/heat"
+      ],
+      "solution": "Add emitter resistor, heatsink"
+    }
+  ]
+}

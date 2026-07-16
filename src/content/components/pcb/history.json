@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1936,
+    "inventor": "Paul Eisler (printed circuit)",
+    "discovery": "Eisler invented the printed circuit, revolutionizing electronics manufacturing.",
+    "evolution": [
+      {
+        "year": 1936,
+        "event": "First PCB"
+      },
+      {
+        "year": 1960,
+        "event": "Multilayer"
+      },
+      {
+        "year": 2000,
+        "event": "HDI/flex"
+      }
+    ]
+  }
+}

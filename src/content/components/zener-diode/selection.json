@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Pick V_Z",
+      "description": "Match desired regulated voltage."
+    },
+    {
+      "step": 2,
+      "title": "Set Current",
+      "description": "Choose I_Z within rating (e.g., 5-20mA)."
+    },
+    {
+      "step": 3,
+      "title": "Compute R",
+      "description": "R = (V_in - V_Z)/I_Z with margin."
+    },
+    {
+      "step": 4,
+      "title": "Check Power",
+      "description": "P_Z and P_R within ratings."
+    }
+  ],
+  "tips": [
+    "Use ~5V Zener for low tempco",
+    "Add capacitor for noise",
+    "Derate power 50%",
+    "Precision apps use reference ICs"
+  ]
+}

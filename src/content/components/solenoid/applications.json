@@ -1,0 +1,35 @@
+{
+  "applications": [
+    {
+      "category": "Locking",
+      "description": "Electronic locks",
+      "examples": [
+        "Doors",
+        "Cabinets"
+      ]
+    },
+    {
+      "category": "Valves",
+      "description": "Fluid control",
+      "examples": [
+        "Water",
+        "Fuel"
+      ]
+    },
+    {
+      "category": "Actuation",
+      "description": "Mechanical push",
+      "examples": [
+        "Vending",
+        "Printers"
+      ]
+    },
+    {
+      "category": "Relays",
+      "description": "Heavy contactors",
+      "examples": [
+        "Industrial"
+      ]
+    }
+  ]
+}

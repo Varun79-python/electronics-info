@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A UJT has:",
+      "options": [
+        "One base",
+        "Two bases",
+        "Three bases",
+        "No base"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Base1 and Base2.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Main use:",
+      "options": [
+        "Amplifier",
+        "Relaxation oscillator",
+        "Rectifier",
+        "Filter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oscillator/trigger.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Firing threshold depends on:",
+      "options": [
+        "η and V_BB",
+        "Only R",
+        "Only C",
+        "Temperature only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "V_P = ηV_BB + V_D.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Frequency set by:",
+      "options": [
+        "L only",
+        "R and C",
+        "V only",
+        "β"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RC timing.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Largely replaced by:",
+      "options": [
+        "Transistor",
+        "555 timer",
+        "Diode",
+        "Relay"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IC timers.",
+      "difficulty": "advanced"
+    }
+  ]
+}

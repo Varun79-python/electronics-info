@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Resistance Range",
+      "typicalValues": "10Ω to 5MΩ",
+      "notes": "Common 10k, 100k"
+    },
+    {
+      "name": "Tolerance",
+      "typicalValues": "±10% to ±20%",
+      "notes": "Absolute less critical"
+    },
+    {
+      "name": "Adjustment",
+      "typicalValues": "Single or multiturn",
+      "notes": "Multiturn = finer"
+    },
+    {
+      "name": "Power",
+      "typicalValues": "0.1W to 0.5W",
+      "notes": "Low power"
+    }
+  ]
+}

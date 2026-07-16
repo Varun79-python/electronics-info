@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Family",
+      "typicalValues": "HC/LS/LVC",
+      "notes": "Tech"
+    },
+    {
+      "name": "Vcc",
+      "typicalValues": "2-6V (HC)",
+      "notes": "Supply"
+    },
+    {
+      "name": "Speed",
+      "typicalValues": "ns prop delay",
+      "notes": "Fast"
+    },
+    {
+      "name": "Gates/pkg",
+      "typicalValues": "1-6",
+      "notes": "Count"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1920,
+    "inventor": "Multiple inventors (early 20th century)",
+    "discovery": "Evolved from rheostats into calibrated voltage dividers for measurement and control.",
+    "evolution": [
+      {
+        "year": 1920,
+        "event": "Carbon composition pots for radio"
+      },
+      {
+        "year": 1950,
+        "event": "Cermet and conductive plastic improve life"
+      },
+      {
+        "year": 1990,
+        "event": "Digital potentiometers emerge"
+      }
+    ]
+  }
+}

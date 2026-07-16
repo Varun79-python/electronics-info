@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Magnetic Field (solenoid)",
+      "formula": "B = μ₀ n I",
+      "description": "Field inside coil.",
+      "variables": [
+        {
+          "symbol": "B",
+          "name": "Field",
+          "unit": "T"
+        },
+        {
+          "symbol": "n",
+          "name": "Turns/m",
+          "unit": "1/m"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "n=1000/m, I=1A -> B~1.26mT"
+    },
+    {
+      "name": "Force",
+      "formula": "F ∝ (N I)² / gap²",
+      "description": "Attraction force.",
+      "variables": [
+        {
+          "symbol": "F",
+          "name": "Force",
+          "unit": "N"
+        }
+      ],
+      "example": "More turns or current -> more force"
+    }
+  ]
+}

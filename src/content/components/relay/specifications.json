@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Coil Voltage",
+      "typicalValues": "5V, 12V, 24V",
+      "notes": "DC common"
+    },
+    {
+      "name": "Contact Rating",
+      "typicalValues": "1A to 30A",
+      "notes": "Resistive"
+    },
+    {
+      "name": "Contact Form",
+      "typicalValues": "SPST, SPDT, DPDT",
+      "notes": "Configuration"
+    },
+    {
+      "name": "Switching Time",
+      "typicalValues": "ms",
+      "notes": "EMR slower"
+    },
+    {
+      "name": "Life",
+      "typicalValues": "10^5 to 10^7 ops",
+      "notes": "Mechanical/electrical"
+    }
+  ]
+}

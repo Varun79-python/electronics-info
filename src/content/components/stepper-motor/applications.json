@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Positioning",
+      "description": "Precise motion",
+      "examples": [
+        "CNC",
+        "3D print"
+      ]
+    },
+    {
+      "category": "Robotics",
+      "description": "Joint/axis control",
+      "examples": [
+        "Arms"
+      ]
+    },
+    {
+      "category": "Cameras",
+      "description": "Lens/optics",
+      "examples": [
+        "Focus",
+        "Zoom"
+      ]
+    },
+    {
+      "category": "Automation",
+      "description": "Conveyors, feeders",
+      "examples": [
+        "Factory"
+      ]
+    }
+  ]
+}

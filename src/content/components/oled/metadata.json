@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "oled",
+    "name": "OLED Display",
+    "category": "displays",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 78,
+    "status": "published"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Voltage",
+      "typicalValues": "5V to 24V",
+      "notes": "DC common"
+    },
+    {
+      "name": "Stroke",
+      "typicalValues": "2mm to 25mm",
+      "notes": "Travel"
+    },
+    {
+      "name": "Force",
+      "typicalValues": "0.1N to 100N",
+      "notes": "At full stroke"
+    },
+    {
+      "name": "Duty Cycle",
+      "typicalValues": "10% to 100%",
+      "notes": "Heat limits"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "0.1A to 3A",
+      "notes": "Inrush/hold"
+    }
+  ]
+}

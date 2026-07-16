@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1920,
+    "inventor": "Hugo Stotz (MCB)",
+    "discovery": "Stotz developed the modern miniature circuit breaker for safe resettable protection.",
+    "evolution": [
+      {
+        "year": 1920,
+        "event": "MCB invented"
+      },
+      {
+        "year": 1970,
+        "event": "RCCB introduced"
+      },
+      {
+        "year": 2000,
+        "event": "AFCI/electronic"
+      }
+    ]
+  }
+}

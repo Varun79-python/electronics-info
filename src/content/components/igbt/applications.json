@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Motor Drives",
+      "description": "VFDs for AC motors",
+      "examples": [
+        "Industrial",
+        "HVAC"
+      ]
+    },
+    {
+      "category": "Inverters",
+      "description": "DC-AC conversion",
+      "examples": [
+        "Solar",
+        "UPS"
+      ]
+    },
+    {
+      "category": "Traction",
+      "description": "Train and EV propulsion",
+      "examples": [
+        "Locomotives"
+      ]
+    },
+    {
+      "category": "Welding/Induction",
+      "description": "High-power control",
+      "examples": [
+        "Welders"
+      ]
+    }
+  ]
+}

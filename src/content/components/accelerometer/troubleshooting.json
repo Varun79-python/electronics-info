@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Offset"
+      ],
+      "causes": [
+        "Temp"
+      ],
+      "solution": "Recalibrate"
+    },
+    {
+      "failure": "Saturation",
+      "symptoms": [
+        "Clipped"
+      ],
+      "causes": [
+        "High a"
+      ],
+      "solution": "Larger range"
+    },
+    {
+      "failure": "Noisy",
+      "symptoms": [
+        "Jitter"
+      ],
+      "causes": [
+        "EMI"
+      ],
+      "solution": "Filter"
+    }
+  ]
+}

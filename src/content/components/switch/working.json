@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A movable contact is pressed against a fixed contact to complete the circuit, or lifted to break it, controlling current path.",
+  "steps": [
+    "User applies force to the actuator",
+    "Contacts touch (close) or separate (open)",
+    "Current flows or stops",
+    "Spring returns (momentary) or latch holds (maintained)"
+  ],
+  "microscopicExplanation": "Closed contacts give very low contact resistance; the air gap when open provides high insulation resistance."
+}

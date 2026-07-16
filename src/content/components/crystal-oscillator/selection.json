@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Pick Frequency",
+      "description": "Match system requirement."
+    },
+    {
+      "step": 2,
+      "title": "Set Tolerance",
+      "description": "Choose ppm for the need."
+    },
+    {
+      "step": 3,
+      "title": "Match Load C",
+      "description": "Use correct external caps."
+    },
+    {
+      "step": 4,
+      "title": "Check Drive Level",
+      "description": "Stay within rated µW."
+    },
+    {
+      "step": 5,
+      "title": "Stability Need",
+      "description": "TCXO/OCXO for harsh env."
+    }
+  ],
+  "tips": [
+    "Use 32.768kHz for RTC",
+    "Keep traces short and symmetric",
+    "Never over-drive the crystal",
+    "TCXO for outdoor gear"
+  ]
+}

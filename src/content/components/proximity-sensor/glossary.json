@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Eddy Current",
+      "definition": "Induced current in metal target."
+    },
+    {
+      "term": "NPN/PNP",
+      "definition": "Output transistor type."
+    },
+    {
+      "term": "Sn",
+      "definition": "Rated sensing distance."
+    },
+    {
+      "term": "Shielded",
+      "description": "Confines field to front."
+    }
+  ]
+}

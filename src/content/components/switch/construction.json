@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Actuator",
+      "function": "User input",
+      "material": "Plastic/metal"
+    },
+    {
+      "name": "Contacts",
+      "function": "Conduct current",
+      "material": "Silver alloy"
+    },
+    {
+      "name": "Spring",
+      "function": "Return force",
+      "material": "Steel"
+    },
+    {
+      "name": "Housing",
+      "function": "Insulate",
+      "material": "Plastic/ceramic"
+    }
+  ]
+}

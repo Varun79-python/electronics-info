@@ -1,0 +1,26 @@
+{
+  "types": [
+    {
+      "name": "Pull Solenoid",
+      "description": "Pulls plunger in.",
+      "applications": [
+        "Locks",
+        "Valves"
+      ]
+    },
+    {
+      "name": "Push Solenoid",
+      "description": "Pushes rod out.",
+      "applications": [
+        "Latches"
+      ]
+    },
+    {
+      "name": "Latching Solenoid",
+      "description": "Holds without power.",
+      "applications": [
+        "Energy save"
+      ]
+    }
+  ]
+}

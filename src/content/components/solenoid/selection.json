@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Force/Stroke",
+      "description": "Match mechanical need."
+    },
+    {
+      "step": 2,
+      "title": "Voltage",
+      "description": "Match supply."
+    },
+    {
+      "step": 3,
+      "title": "Duty Cycle",
+      "description": "Ensure thermal rating."
+    },
+    {
+      "step": 4,
+      "title": "Flyback",
+      "description": "Protect driver."
+    }
+  ],
+  "tips": [
+    "Use PWM to reduce hold current",
+    "Flyback diode essential",
+    "Mind duty cycle",
+    "Latching saves power"
+  ]
+}

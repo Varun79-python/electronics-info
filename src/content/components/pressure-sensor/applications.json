@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Automotive",
+      "description": "Manifold/TPMS",
+      "examples": [
+        "Engines"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Tank level",
+      "examples": [
+        "Process"
+      ]
+    },
+    {
+      "category": "Medical",
+      "description": "Blood pressure",
+      "examples": [
+        "Monitors"
+      ]
+    }
+  ]
+}

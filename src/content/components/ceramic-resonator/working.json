@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "The piezoelectric ceramic mechanically vibrates at its natural frequency when electrically excited, producing a stable oscillation when placed in a feedback amplifier circuit.",
+  "steps": [
+    "An amplifier drives the ceramic element",
+    "Piezoelectric effect converts voltage to mechanical strain",
+    "The ceramic resonates at its mechanical frequency",
+    "The vibration generates a stable electrical signal",
+    "Feedback sustains oscillation at that frequency"
+  ],
+  "microscopicExplanation": "Piezoelectric domains in the ceramic couple mechanical stress to electric field; the device's mass and stiffness set a sharp mechanical resonance used as a timing reference."
+}

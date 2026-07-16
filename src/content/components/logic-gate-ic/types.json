@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "74HC",
+      "description": "CMOS, fast.",
+      "applications": [
+        "General"
+      ]
+    },
+    {
+      "name": "74LS",
+      "description": "TTL, legacy.",
+      "applications": [
+        "Older"
+      ]
+    },
+    {
+      "name": "74LVC",
+      "description": "Low voltage.",
+      "applications": [
+        "3.3V"
+      ]
+    },
+    {
+      "name": "Single-gate",
+      "description": "One function.",
+      "applications": [
+        "Glue"
+      ]
+    }
+  ]
+}

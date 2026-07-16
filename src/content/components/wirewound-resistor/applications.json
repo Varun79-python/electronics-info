@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Power Dissipation",
+      "description": "High-wattage loads and bleeds",
+      "examples": [
+        "Load banks",
+        "Bleeder resistors"
+      ]
+    },
+    {
+      "category": "Current Sensing",
+      "description": "Low-value precision shunt",
+      "examples": [
+        "Ammeters",
+        "BMS"
+      ]
+    },
+    {
+      "category": "Audio",
+      "description": "Low-noise feedback",
+      "examples": [
+        "Amplifier circuits"
+      ]
+    },
+    {
+      "category": "Precision",
+      "description": "Stable reference",
+      "examples": [
+        "Calibrators"
+      ]
+    }
+  ]
+}

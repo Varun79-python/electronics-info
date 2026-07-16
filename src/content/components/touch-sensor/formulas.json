@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Capacitance",
+      "formula": "C = ε A / d",
+      "description": "Pad capacitance.",
+      "variables": [
+        {
+          "symbol": "C",
+          "name": "Capacitance",
+          "unit": "pF"
+        }
+      ],
+      "example": "ΔC from finger"
+    },
+    {
+      "name": "Threshold",
+      "formula": "ΔC > C_th",
+      "description": "Detect touch.",
+      "variables": [
+        {
+          "symbol": "ΔC",
+          "name": "Delta C",
+          "unit": "fF"
+        }
+      ],
+      "example": "Few fF"
+    }
+  ]
+}

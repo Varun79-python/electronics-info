@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "IR Sensor Datasheet",
+      "author": "Sharp/Vishay",
+      "year": 2021,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "Optoelectronics",
+      "author": "Textbook",
+      "year": 2018,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Holding Current",
+      "formula": "I_H (device spec)",
+      "description": "Below this, device turns off.",
+      "variables": [
+        {
+          "symbol": "I_H",
+          "name": "Holding current",
+          "unit": "A"
+        }
+      ],
+      "example": "Must fall to zero at commutation"
+    },
+    {
+      "name": "Firing Angle",
+      "formula": "V_avg = (V_m/π)(1+cos α)",
+      "description": "Phase-control average output.",
+      "variables": [
+        {
+          "symbol": "α",
+          "name": "Firing angle",
+          "unit": "radians"
+        }
+      ],
+      "example": "α=90° → half output"
+    }
+  ]
+}

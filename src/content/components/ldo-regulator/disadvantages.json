@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Inefficient (linear)",
+    "Heat at high drop",
+    "Limited current",
+    "Needs caps",
+    "Quiescent loss"
+  ]
+}

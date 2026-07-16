@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Nonlinear",
+    "Hysteresis",
+    "Drift",
+    "Fragile",
+    "Needs calibration"
+  ]
+}

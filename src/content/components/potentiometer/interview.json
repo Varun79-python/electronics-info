@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a potentiometer?",
+      "answer": "A three-terminal variable resistor used as an adjustable voltage divider."
+    },
+    {
+      "question": "What is the difference between linear and log taper?",
+      "answer": "Linear changes resistance evenly with position; log changes it logarithmically, suiting audio volume."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "How do you use a pot as a voltage divider?",
+      "answer": "Apply voltage across the two ends; the wiper outputs a fraction set by its position."
+    },
+    {
+      "question": "Why use a log taper for volume?",
+      "answer": "Human loudness perception is logarithmic, so log taper gives a perceptually linear volume control."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What limits a potentiometer's precision?",
+      "answer": "Taper law error, wiper contact resistance, temperature drift, and mechanical wear."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When would you choose a digital potentiometer?",
+      "answer": "When control must be automated, calibrated, or driven by a microcontroller without mechanical wear."
+    }
+  ]
+}

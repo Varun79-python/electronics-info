@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Mains voltage is lethal; isolate before work.",
+  "currentSafety": "Arcing at break; rated switching.",
+  "thermalSafety": "Overload causes fire.",
+  "handling": "De-energize first.",
+  "storage": "Dry.",
+  "disposal": "E-waste."
+}

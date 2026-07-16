@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Wrong Data",
+      "symptoms": [
+        "Error"
+      ],
+      "causes": [
+        "Setup viol"
+      ],
+      "solution": "Fix timing"
+    },
+    {
+      "failure": "No Load",
+      "symptoms": [
+        "Frozen"
+      ],
+      "causes": [
+        "No clock"
+      ],
+      "solution": "Check"
+    },
+    {
+      "failure": "Shift Error",
+      "symptoms": [
+        "Offset"
+      ],
+      "causes": [
+        "Clock"
+      ],
+      "solution": "Align"
+    }
+  ]
+}

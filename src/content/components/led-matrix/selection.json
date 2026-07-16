@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Size/Color",
+      "description": "Match need."
+    },
+    {
+      "step": 2,
+      "title": "Interface",
+      "description": "SPI/driver."
+    },
+    {
+      "step": 3,
+      "title": "Scan",
+      "description": "Refresh rate."
+    },
+    {
+      "step": 4,
+      "title": "Power",
+      "description": "Peak current."
+    }
+  ],
+  "tips": [
+    "Refresh >60Hz",
+    "Current limit",
+    "Use driver IC (MAX7219)"
+  ]
+}

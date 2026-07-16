@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "diode",
+      "relationship": "Zener is a specialized diode"
+    },
+    {
+      "id": "voltage-regulator",
+      "relationship": "IC regulators replace Zeners for power"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Series resistor sets current"
+    },
+    {
+      "id": "ldo-regulator",
+      "relationship": "Modern alternative"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "accelerometer",
+    "name": "Accelerometer",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 48,
+    "status": "published"
+  }
+}

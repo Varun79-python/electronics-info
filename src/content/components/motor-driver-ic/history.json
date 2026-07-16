@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "Motor driver evolution",
+    "discovery": "Integrated H-bridge drivers simplified motor control vs discrete circuits.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "Discrete H-bridge"
+      },
+      {
+        "year": 1990,
+        "event": "Integrated drivers"
+      },
+      {
+        "year": 2010,
+        "event": "Smart BLDC drivers"
+      }
+    ]
+  }
+}

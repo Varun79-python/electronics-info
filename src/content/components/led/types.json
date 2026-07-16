@@ -1,0 +1,36 @@
+{
+  "types": [
+    {
+      "name": "Standard LED",
+      "description": "Visible indicator, various colors.",
+      "applications": [
+        "Status lights",
+        "Panels"
+      ]
+    },
+    {
+      "name": "High-Power LED",
+      "description": "Watt-level for lighting.",
+      "applications": [
+        "Lamps",
+        "Automotive"
+      ]
+    },
+    {
+      "name": "RGB LED",
+      "description": "Red/green/blue in one package.",
+      "applications": [
+        "Displays",
+        "Ambient"
+      ]
+    },
+    {
+      "name": "IR LED",
+      "description": "Infrared emission.",
+      "applications": [
+        "Remote controls",
+        "Sensors"
+      ]
+    }
+  ]
+}

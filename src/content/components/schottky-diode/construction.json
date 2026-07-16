@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Metal Contact",
+      "function": "Forms barrier",
+      "material": "Platinum, molybdenum"
+    },
+    {
+      "name": "Semiconductor",
+      "function": "N-type silicon",
+      "material": "Silicon"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect",
+      "material": "Tinned leads"
+    }
+  ]
+}

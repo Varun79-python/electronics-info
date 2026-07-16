@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "ultrasonic-sensor",
+    "name": "Ultrasonic Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 47,
+    "status": "published"
+  }
+}

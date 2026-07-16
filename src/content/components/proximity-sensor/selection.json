@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Target",
+      "description": "Metal? capacitive?"
+    },
+    {
+      "step": 2,
+      "title": "Range",
+      "description": "Match distance."
+    },
+    {
+      "step": 3,
+      "title": "Output",
+      "description": "NPN/PNP/analog."
+    },
+    {
+      "step": 4,
+      "title": "Environment",
+      "description": "IP rating."
+    }
+  ],
+  "tips": [
+    "Shielded vs unshielded",
+    "Avoid metal nearby (inductive)",
+    "Use analog for distance"
+  ]
+}

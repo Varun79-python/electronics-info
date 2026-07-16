@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Output Bits",
+      "formula": "B = ceil(log2 N)",
+      "description": "Code width.",
+      "variables": [
+        {
+          "symbol": "B",
+          "name": "Bits",
+          "unit": ""
+        },
+        {
+          "symbol": "N",
+          "name": "Inputs",
+          "unit": ""
+        }
+      ],
+      "example": "8 in -> 3 out"
+    },
+    {
+      "name": "Code",
+      "formula": "Out = index(active)",
+      "description": "Position code.",
+      "variables": [
+        {
+          "symbol": "Out",
+          "name": "Code",
+          "unit": ""
+        }
+      ],
+      "example": "Binary"
+    }
+  ]
+}

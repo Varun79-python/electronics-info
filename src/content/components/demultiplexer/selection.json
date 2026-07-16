@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Outputs",
+      "description": "How many."
+    },
+    {
+      "step": 2,
+      "title": "Type",
+      "description": "Digital/analog."
+    },
+    {
+      "step": 3,
+      "title": "Speed",
+      "description": "Switch time."
+    },
+    {
+      "step": 4,
+      "title": "Drive",
+      "description": "Output current."
+    }
+  ],
+  "tips": [
+    "Decode select",
+    "Watch crosstalk",
+    "Buffer outputs"
+  ]
+}

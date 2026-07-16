@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Switched Power",
+      "formula": "P = V I",
+      "description": "Load power controlled.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "230V x 10A = 2300W"
+    },
+    {
+      "name": "Contact Rating",
+      "formula": "I_max, V_max",
+      "description": "Max safe switched load.",
+      "variables": [
+        {
+          "symbol": "I_max",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "10A 250V AC"
+    }
+  ]
+}

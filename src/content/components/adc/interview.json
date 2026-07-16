@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does ADC do?",
+      "answer": "Converts analog voltage to a digital number."
+    },
+    {
+      "question": "Resolution?",
+      "answer": "Number of bits in the output code."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Nyquist rule?",
+      "answer": "Sample at least twice the highest frequency."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Sigma-delta advantage?",
+      "answer": "Oversampling yields high resolution."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Reduce error?",
+      "answer": "Stable reference, anti-alias filter, oversampling/dithering."
+    }
+  ]
+}

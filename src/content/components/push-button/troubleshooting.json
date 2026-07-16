@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Stuck",
+      "symptoms": [
+        "No return"
+      ],
+      "causes": [
+        "Dirt"
+      ],
+      "solution": "Clean/replace"
+    },
+    {
+      "failure": "No Contact",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Wear"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Bounce",
+      "symptoms": [
+        "Double trigger"
+      ],
+      "causes": [
+        "Mechanical"
+      ],
+      "solution": "Debounce"
+    }
+  ]
+}

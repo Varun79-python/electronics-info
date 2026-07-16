@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does a gyro measure?",
+      "answer": "Angular velocity (rotation rate)."
+    },
+    {
+      "question": "MEMS principle?",
+      "answer": "Coriolis effect on a vibrating mass."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why integrate for angle?",
+      "answer": "Angle is the integral of angular rate over time."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Bias drift issue?",
+      "answer": "Integration of bias causes angle error growth."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve heading?",
+      "answer": "Sensor-fuse gyro with accel/magnetometer (Kalman)."
+    }
+  ]
+}

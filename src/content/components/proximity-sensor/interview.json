@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "Inductive senses?",
+      "answer": "Only metal targets."
+    },
+    {
+      "question": "Capacitive senses?",
+      "answer": "Any material including liquids."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why shielded?",
+      "answer": "Prevents false triggers from side metal."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Output types?",
+      "answer": "NPN (sink) or PNP (source) open-collector."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Analog proximity use?",
+      "answer": "Gives distance proportional to position."
+    }
+  ]
+}

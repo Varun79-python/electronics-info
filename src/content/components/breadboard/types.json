@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Full-size",
+      "description": "Many points.",
+      "applications": [
+        "Projects"
+      ]
+    },
+    {
+      "name": "Half-size",
+      "description": "Compact.",
+      "applications": [
+        "Small"
+      ]
+    },
+    {
+      "name": "Mini",
+      "description": "Tiny.",
+      "applications": [
+        "Portable"
+      ]
+    },
+    {
+      "name": "With rails",
+      "description": "Power buses.",
+      "applications": [
+        "General"
+      ]
+    }
+  ]
+}

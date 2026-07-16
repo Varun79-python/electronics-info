@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "CMOS Cells",
+      "function": "Implement gates",
+      "material": "Silicon"
+    },
+    {
+      "name": "Output Buffer",
+      "function": "Drive load",
+      "material": "Silicon"
+    },
+    {
+      "name": "ESD Diodes",
+      "function": "Protect",
+      "material": "Silicon"
+    },
+    {
+      "name": "Package",
+      "function": "Pins",
+      "material": "Plastic"
+    }
+  ]
+}

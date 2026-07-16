@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Threshold",
+      "description": "Level detect",
+      "examples": [
+        "Battery"
+      ]
+    },
+    {
+      "category": "Timing",
+      "description": "Zero-cross",
+      "examples": [
+        "AC"
+      ]
+    },
+    {
+      "category": "Oscillator",
+      "description": "Relaxation",
+      "examples": [
+        "555-like"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "speaker",
+    "name": "Loudspeaker",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 36,
+    "status": "published"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Peak Current I_p",
+      "typicalValues": "mA",
+      "notes": "At V_p"
+    },
+    {
+      "name": "Peak Voltage V_p",
+      "typicalValues": "50mV to 100mV",
+      "notes": "Low"
+    },
+    {
+      "name": "Valley Voltage V_v",
+      "typicalValues": "300mV to 500mV",
+      "notes": "Beyond peak"
+    },
+    {
+      "name": "Frequency",
+      "typicalValues": "GHz",
+      "notes": "Very fast"
+    }
+  ]
+}

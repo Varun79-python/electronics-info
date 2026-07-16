@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "zener-diode",
+    "name": "Zener Diode",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 15,
+    "status": "published"
+  }
+}

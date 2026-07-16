@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Intrinsic Standoff η",
+      "typicalValues": "0.5 to 0.8",
+      "notes": "Device parameter"
+    },
+    {
+      "name": "Interbase Resistance",
+      "typicalValues": "4kΩ to 10kΩ",
+      "notes": "R_BB"
+    },
+    {
+      "name": "Peak Current",
+      "typicalValues": "µA",
+      "notes": "Low"
+    },
+    {
+      "name": "Valley Current",
+      "typicalValues": "mA",
+      "notes": "Hold-on"
+    }
+  ]
+}

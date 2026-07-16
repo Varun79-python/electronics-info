@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage Rating",
+      "description": "V_CES > 2x DC bus."
+    },
+    {
+      "step": 2,
+      "title": "Current Rating",
+      "description": "Exceed peak with margin."
+    },
+    {
+      "step": 3,
+      "title": "Switching Frequency",
+      "description": "IGBT for <20kHz typically."
+    },
+    {
+      "step": 4,
+      "title": "Gate Driver",
+      "description": "Use dedicated driver with desat."
+    }
+  ],
+  "tips": [
+    "Use anti-parallel diode",
+    "Mind tail current",
+    "Desaturation protection",
+    "Heatsink essential"
+  ]
+}

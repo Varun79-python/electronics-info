@@ -1,0 +1,11 @@
+{
+  "name": "Ceramic Resonator",
+  "id": "ceramic-resonator",
+  "category": "passive",
+  "shortDescription": "A ceramic resonator is a piezoelectric ceramic device that resonates at a fixed frequency, used as a low-cost clock source for microcontrollers.",
+  "whatIsIt": "A ceramic resonator is a piezoelectric ceramic device that resonates at a fixed frequency, used as a low-cost clock source for microcontrollers.",
+  "whyExists": "Ceramic resonators offer a smaller, cheaper timing reference than crystal oscillators, with adequate stability for many digital systems.",
+  "whereUsed": "They provide clock signals in microcontrollers, remote controls, and consumer electronics.",
+  "thumbnail": "/assets/images/components/ceramic-resonator/thumbnail.svg",
+  "schematic": "/assets/components/ceramic-resonator/schematic/symbol.svg"
+}

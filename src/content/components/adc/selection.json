@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Resolution",
+      "description": "Bits needed."
+    },
+    {
+      "step": 2,
+      "title": "Speed",
+      "description": "Sample rate."
+    },
+    {
+      "step": 3,
+      "title": "Interface",
+      "description": "SAR/I²C/SPI."
+    },
+    {
+      "step": 4,
+      "title": "Reference",
+      "description": "Stable Vref."
+    }
+  ],
+  "tips": [
+    "Anti-alias filter",
+    "Stable reference",
+    "Oversample to improve"
+  ]
+}

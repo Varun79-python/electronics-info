@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Wrong Code",
+      "symptoms": [
+        "Error"
+      ],
+      "causes": [
+        "Multiple"
+      ],
+      "solution": "Priority"
+    },
+    {
+      "failure": "No Code",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "No input"
+      ],
+      "solution": "Check"
+    },
+    {
+      "failure": "Glitch",
+      "symptoms": [
+        "Transient"
+      ],
+      "causes": [
+        "Bounce"
+      ],
+      "solution": "Debounce"
+    }
+  ]
+}

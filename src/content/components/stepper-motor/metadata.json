@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "stepper-motor",
+    "name": "Stepper Motor",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 34,
+    "status": "published"
+  }
+}

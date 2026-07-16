@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Contact Resistance",
+      "formula": "R_c (mΩ)",
+      "description": "Joint resistance.",
+      "variables": [
+        {
+          "symbol": "R_c",
+          "name": "Resistance",
+          "unit": "mΩ"
+        }
+      ],
+      "example": "Low is good"
+    },
+    {
+      "name": "Current Rating",
+      "formula": "I_max per pin",
+      "description": "Pin limit.",
+      "variables": [
+        {
+          "symbol": "I_max",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "1-10A"
+    }
+  ]
+}

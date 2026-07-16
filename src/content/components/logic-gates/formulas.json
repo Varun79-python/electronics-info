@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Boolean",
+      "formula": "Y = A·B (AND)",
+      "description": "Conjunction.",
+      "variables": [
+        {
+          "symbol": "Y",
+          "name": "Output",
+          "unit": ""
+        }
+      ],
+      "example": "1 only if both 1"
+    },
+    {
+      "name": "De Morgan",
+      "formula": "NOT(A+B) = NOT A · NOT B",
+      "description": "Equivalence.",
+      "variables": [
+        {
+          "symbol": "A",
+          "name": "Input",
+          "unit": ""
+        }
+      ],
+      "example": "Transform"
+    }
+  ]
+}

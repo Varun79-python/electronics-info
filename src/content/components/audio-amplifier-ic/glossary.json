@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Class D",
+      "definition": "PWM switching amplifier."
+    },
+    {
+      "term": "THD",
+      "definition": "Total harmonic distortion."
+    },
+    {
+      "term": "Crossover",
+      "definition": "Distortion near zero crossing."
+    },
+    {
+      "term": "Load",
+      "definition": "Speaker impedance."
+    }
+  ]
+}

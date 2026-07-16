@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A fuse protects against:",
+      "options": [
+        "Overcurrent",
+        "Overvoltage",
+        "Heat",
+        "Noise"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Opens on excess current.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Fuse is:",
+      "options": [
+        "One-time",
+        "Resettable",
+        "Adjustable",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sacrificial.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Slow-blow tolerates:",
+      "options": [
+        "Inrush",
+        "Overvoltage",
+        "Heat",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Surge current.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "I²t relates to:",
+      "options": [
+        "Melting energy",
+        "Voltage",
+        "Resistance",
+        "Power"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Energy to melt.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Breaking capacity is:",
+      "options": [
+        "Max fault current",
+        "Rated current",
+        "Voltage",
+        "Size"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clear capability.",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "LDR resistance with light?",
+      "answer": "It decreases as light increases."
+    },
+    {
+      "question": "How read it?",
+      "answer": "Use a voltage divider into an ADC."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why slow?",
+      "answer": "Carrier recombination is relatively slow."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "CdS concern?",
+      "answer": "Toxic; RoHS restricts in new designs."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Better alternative?",
+      "answer": "Photodiodes/phototransistors for speed/linearity."
+    }
+  ]
+}

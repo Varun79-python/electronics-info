@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "DC Driver",
+      "description": "Single H-bridge.",
+      "applications": [
+        "Toys"
+      ]
+    },
+    {
+      "name": "Dual",
+      "description": "Two motors.",
+      "applications": [
+        "Robots"
+      ]
+    },
+    {
+      "name": "Stepper Driver",
+      "description": "Coil sequencing.",
+      "applications": [
+        "CNC"
+      ]
+    },
+    {
+      "name": "Brushless (ESC)",
+      "description": "3-phase.",
+      "applications": [
+        "Drones"
+      ]
+    }
+  ]
+}

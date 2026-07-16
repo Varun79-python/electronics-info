@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Contact",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Loose"
+      ],
+      "solution": "Reseat"
+    },
+    {
+      "failure": "Short",
+      "symptoms": [
+        "Wrong"
+      ],
+      "causes": [
+        "Stray lead"
+      ],
+      "solution": "Inspect"
+    },
+    {
+      "failure": "Intermittent",
+      "symptoms": [
+        "Flaky"
+      ],
+      "causes": [
+        "Worn"
+      ],
+      "solution": "Replace board"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is an op-amp?",
+      "answer": "A high-gain differential amplifier for analog signals."
+    },
+    {
+      "question": "Virtual short?",
+      "answer": "Negative feedback makes inputs nearly equal."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why decoupling?",
+      "answer": "Stabilizes supply, prevents oscillation."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Slew rate limit?",
+      "answer": "Output can't change faster than slew rate, causing distortion."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Reduce offset?",
+      "answer": "Use precision op-amp, trim, or chopper-stabilized."
+    }
+  ]
+}

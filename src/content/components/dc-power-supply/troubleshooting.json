@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Output",
+      "symptoms": [
+        "0V"
+      ],
+      "causes": [
+        "Fuse",
+        "Fault"
+      ],
+      "solution": "Check fuse; repair"
+    },
+    {
+      "failure": "High Ripple",
+      "symptoms": [
+        "Noisy"
+      ],
+      "causes": [
+        "Bad cap"
+      ],
+      "solution": "Replace capacitor"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Shutdown"
+      ],
+      "causes": [
+        "Overload"
+      ],
+      "solution": "Reduce load"
+    }
+  ]
+}

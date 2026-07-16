@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "diode",
+      "relationship": "Fast variant of diode"
+    },
+    {
+      "id": "mosfet",
+      "relationship": "Synchronous rectification alternative"
+    },
+    {
+      "id": "voltage-regulator",
+      "relationship": "Used in efficient supplies"
+    },
+    {
+      "id": "dc-power-supply",
+      "relationship": "Rectifies in SMPS"
+    }
+  ]
+}

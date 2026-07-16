@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Sense Pad",
+      "function": "Capacitive plate",
+      "material": "ITO/copper"
+    },
+    {
+      "name": "Controller IC",
+      "function": "Measure ΔC",
+      "material": "Silicon"
+    },
+    {
+      "name": "Overlay",
+      "function": "Protect",
+      "material": "Glass/plastic"
+    },
+    {
+      "name": "Ground",
+      "function": "Reference",
+      "material": "Copper"
+    }
+  ]
+}

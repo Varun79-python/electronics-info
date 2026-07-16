@@ -1,9 +1,24 @@
 {
   "relatedComponents": [
-    { "id": "capacitor", "relationship": "Forms RC circuits for timing and filtering" },
-    { "id": "inductor", "relationship": "Forms RL circuits for filtering and transient response" },
-    { "id": "diode", "relationship": "Requires current-limiting resistors in series" },
-    { "id": "transistor", "relationship": "Base biasing requires precise resistor networks" },
-    { "id": "potentiometer", "relationship": "Variable resistor variant for adjustable applications" }
+    {
+      "id": "capacitor",
+      "relationship": "Forms RC circuits for timing and filtering"
+    },
+    {
+      "id": "inductor",
+      "relationship": "Forms RL circuits for filtering and transient response"
+    },
+    {
+      "id": "diode",
+      "relationship": "Requires current-limiting resistors in series"
+    },
+    {
+      "id": "transistor",
+      "relationship": "Base biasing requires precise resistor networks"
+    },
+    {
+      "id": "potentiometer",
+      "relationship": "Variable resistor variant for adjustable applications"
+    }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Define Voltages",
+      "description": "Fix primary and secondary voltage from turns ratio."
+    },
+    {
+      "step": 2,
+      "title": "Calculate VA Rating",
+      "description": "Sum load power; add 20-30% margin."
+    },
+    {
+      "step": 3,
+      "title": "Choose Frequency",
+      "description": "Mains 50/60Hz or switch-mode kHz designs."
+    },
+    {
+      "step": 4,
+      "title": "Verify Isolation",
+      "description": "Ensure isolation voltage meets safety standards."
+    },
+    {
+      "step": 5,
+      "title": "Pick Core Type",
+      "description": "Laminated steel for mains, ferrite for high frequency."
+    }
+  ],
+  "tips": [
+    "Derate VA by 20% for reliability",
+    "Use toroids to reduce hum in audio",
+    "Check inrush current on power-up",
+    "Keep windings separated for safety"
+  ]
+}

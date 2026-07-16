@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Conditioning",
+      "description": "Amplify sensor",
+      "examples": [
+        "Strain"
+      ]
+    },
+    {
+      "category": "Filtering",
+      "description": "Active filters",
+      "examples": [
+        "Audio"
+      ]
+    },
+    {
+      "category": "Math",
+      "description": "Add/integrate",
+      "examples": [
+        "Control"
+      ]
+    },
+    {
+      "category": "Compare",
+      "description": "Threshold",
+      "examples": [
+        "Schmitt"
+      ]
+    }
+  ]
+}

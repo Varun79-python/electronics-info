@@ -1,0 +1,33 @@
+{
+  "applications": [
+    {
+      "category": "Alarms",
+      "description": "Warning tones",
+      "examples": [
+        "Smoke",
+        "Security"
+      ]
+    },
+    {
+      "category": "User Feedback",
+      "description": "Button/confirm",
+      "examples": [
+        "Appliances"
+      ]
+    },
+    {
+      "category": "Timers",
+      "description": "End-of-cycle",
+      "examples": [
+        "Microwave"
+      ]
+    },
+    {
+      "category": "Toys",
+      "description": "Sound effects",
+      "examples": [
+        "Gadgets"
+      ]
+    }
+  ]
+}

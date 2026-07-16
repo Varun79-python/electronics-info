@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Collector current equals:",
+      "options": [
+        "I_B",
+        "β × I_B",
+        "I_E",
+        "V_BE/R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "I_C = β × I_B.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A transistor in saturation is:",
+      "options": [
+        "Off",
+        "Fully on",
+        "Linear",
+        "Reverse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Saturation = fully conducting.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "BJT is controlled by:",
+      "options": [
+        "Voltage",
+        "Current",
+        "Light",
+        "Magnetic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Base current controls it.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermal runaway is a risk in:",
+      "options": [
+        "MOSFET",
+        "BJT",
+        "Diode",
+        "Resistor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bipolar positive feedback with temperature.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "V_BE of silicon BJT is about:",
+      "options": [
+        "0.2V",
+        "0.7V",
+        "1.5V",
+        "5V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "≈0.6-0.7V.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

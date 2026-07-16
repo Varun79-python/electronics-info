@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is an inductor?",
+      "answer": "A passive component that stores energy in a magnetic field and opposes changes in current."
+    },
+    {
+      "question": "What happens to an ideal inductor with DC?",
+      "answer": "At steady DC it acts like a short circuit because di/dt = 0, so no induced voltage."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Explain inductive reactance.",
+      "answer": "X_L = 2πfL. It rises with frequency, so inductors block high frequencies and pass low frequencies."
+    },
+    {
+      "question": "What is core saturation?",
+      "answer": "When the magnetic core reaches maximum flux, inductance drops sharply, causing current spikes and distortion."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why does an inductor have a self-resonant frequency?",
+      "answer": "Parasitic winding capacitance forms an LC tank with the inductance, resonating at SRF above which the part behaves capacitively."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How do you minimize EMI from power inductors?",
+      "answer": "Use shielded or toroidal cores, proper layout with ground planes, and snubbers; keep loops small."
+    }
+  ]
+}

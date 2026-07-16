@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "connector",
+    "name": "Connector",
+    "category": "prototyping",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 84,
+    "status": "published"
+  }
+}

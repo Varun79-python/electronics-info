@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "thyristor",
+      "relationship": "Unidirectional counterpart"
+    },
+    {
+      "id": "diac",
+      "relationship": "Common TRIAC trigger"
+    },
+    {
+      "id": "igbt",
+      "relationship": "Alternative AC switch"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Gate/snubber resistors"
+    }
+  ]
+}

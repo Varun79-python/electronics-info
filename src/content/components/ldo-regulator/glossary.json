@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Dropout",
+      "definition": "Min Vin-Vout to regulate."
+    },
+    {
+      "term": "PSRR",
+      "definition": "Power supply rejection ratio."
+    },
+    {
+      "term": "Bandgap",
+      "definition": "Temperature-stable reference."
+    },
+    {
+      "term": "Quiescent",
+      "definition": "No-load supply current."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "2:1",
+      "description": "Two to one.",
+      "applications": [
+        "Simple"
+      ]
+    },
+    {
+      "name": "4:1 / 8:1",
+      "description": "More inputs.",
+      "applications": [
+        "ADC mux"
+      ]
+    },
+    {
+      "name": "Analog MUX",
+      "description": "Passes analog.",
+      "applications": [
+        "Sensors"
+      ]
+    },
+    {
+      "name": "Bus MUX",
+      "description": "Data select.",
+      "applications": [
+        "CPU"
+      ]
+    }
+  ]
+}

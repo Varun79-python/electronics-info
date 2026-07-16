@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "jumper-wire",
+      "relationship": "Connections"
+    },
+    {
+      "id": "pcb",
+      "relationship": "Permanent form"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Placed on it"
+    }
+  ]
+}

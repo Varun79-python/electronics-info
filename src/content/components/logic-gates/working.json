@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Each gate outputs a logic level based on its inputs per a truth table (AND, OR, NOT, NAND, NOR, XOR, XNOR).",
+  "steps": [
+    "Inputs arrive as levels",
+    "Transistors implement function",
+    "Boolean result computed",
+    "Output driven"
+  ],
+  "microscopicExplanation": "CMOS pairs pull the output high or low; the function is the Boolean combination of inputs."
+}

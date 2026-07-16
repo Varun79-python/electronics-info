@@ -1,0 +1,37 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Light",
+      "symptoms": [
+        "Dark"
+      ],
+      "causes": [
+        "Reverse wired",
+        "Burned"
+      ],
+      "solution": "Check polarity; replace"
+    },
+    {
+      "failure": "Dim",
+      "symptoms": [
+        "Weak output"
+      ],
+      "causes": [
+        "Low current",
+        "Aging"
+      ],
+      "solution": "Increase current within rating"
+    },
+    {
+      "failure": "Dead",
+      "symptoms": [
+        "Open"
+      ],
+      "causes": [
+        "Overcurrent",
+        "ESD"
+      ],
+      "solution": "Replace; add protection"
+    }
+  ]
+}

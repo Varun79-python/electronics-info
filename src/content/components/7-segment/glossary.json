@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Common Anode",
+      "definition": "Shared positive pin."
+    },
+    {
+      "term": "Common Cathode",
+      "definition": "Shared ground pin."
+    },
+    {
+      "term": "Multiplex",
+      "definition": "Scan digits in turn."
+    },
+    {
+      "term": "dp",
+      "definition": "Decimal point segment."
+    }
+  ]
+}

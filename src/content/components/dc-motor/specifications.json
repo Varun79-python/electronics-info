@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Voltage",
+      "typicalValues": "3V to 48V",
+      "notes": "Common 6/12/24V"
+    },
+    {
+      "name": "No-Load Speed",
+      "typicalValues": "1000 to 20000 rpm",
+      "notes": "By size"
+    },
+    {
+      "name": "Stall Torque",
+      "typicalValues": "mN·m to N·m",
+      "notes": "Max at stall"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "mA to tens A",
+      "notes": "Stall high"
+    },
+    {
+      "name": "Efficiency",
+      "typicalValues": "50% to 90%",
+      "notes": "BLDC higher"
+    }
+  ]
+}

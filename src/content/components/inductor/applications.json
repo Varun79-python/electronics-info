@@ -1,0 +1,36 @@
+{
+  "applications": [
+    {
+      "category": "Power Conversion",
+      "description": "Stores and transfers energy in switching regulators",
+      "examples": [
+        "Buck converter",
+        "Boost converter"
+      ]
+    },
+    {
+      "category": "Filtering",
+      "description": "Blocks AC ripple while passing DC",
+      "examples": [
+        "LC filters",
+        "Chokes"
+      ]
+    },
+    {
+      "category": "Tuning",
+      "description": "Selects frequencies with capacitors",
+      "examples": [
+        "Radio tuners",
+        "Oscillators"
+      ]
+    },
+    {
+      "category": "Energy Storage",
+      "description": "Buffers energy in converters",
+      "examples": [
+        "SMPS",
+        "Ballasts"
+      ]
+    }
+  ]
+}

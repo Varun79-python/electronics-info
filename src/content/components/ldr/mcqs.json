@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "LDR resistance with light:",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Constant",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Photoconductive.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "LDR material often:",
+      "options": [
+        "CdS",
+        "Si",
+        "Cu",
+        "Fe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cadmium sulfide.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Read via:",
+      "options": [
+        "Voltage divider",
+        "Direct ADC current",
+        "Relay",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resistive divider.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "LDR is:",
+      "options": [
+        "Slow",
+        "Very fast",
+        "Digital",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tens of ms.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "CdS issue:",
+      "options": [
+        "Toxic/RoHS",
+        "Too fast",
+        "Expensive",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hazardous.",
+      "difficulty": "advanced"
+    }
+  ]
+}

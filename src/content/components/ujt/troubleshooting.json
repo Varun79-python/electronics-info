@@ -1,0 +1,25 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Oscillation",
+      "symptoms": [
+        "Flat output"
+      ],
+      "causes": [
+        "R too large",
+        "Wrong C"
+      ],
+      "solution": "Adjust R/C"
+    },
+    {
+      "failure": "Wrong Freq",
+      "symptoms": [
+        "Off calibration"
+      ],
+      "causes": [
+        "Drift"
+      ],
+      "solution": "Recalc; stabilize V_BB"
+    }
+  ]
+}

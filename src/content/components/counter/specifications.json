@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Bits",
+      "typicalValues": "3-16",
+      "notes": "Count range"
+    },
+    {
+      "name": "Speed",
+      "typicalValues": "up to 100s MHz",
+      "notes": "Clock"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Sync/ripple",
+      "notes": "Topology"
+    },
+    {
+      "name": "Reset",
+      "typicalValues": "Async/sync",
+      "notes": "Clear"
+    }
+  ]
+}

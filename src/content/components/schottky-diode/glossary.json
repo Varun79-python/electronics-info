@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Schottky Barrier",
+      "definition": "Potential barrier at a metal-semiconductor junction."
+    },
+    {
+      "term": "Reverse Recovery",
+      "definition": "Time/charge to stop conducting when reversed; near zero for Schottky."
+    },
+    {
+      "term": "Majority Carrier",
+      "definition": "Only majority carriers conduct; no storage."
+    },
+    {
+      "term": "Freewheeling Diode",
+      "definition": "Diode that clamps inductive kickback."
+    }
+  ]
+}

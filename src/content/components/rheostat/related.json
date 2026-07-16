@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "potentiometer",
+      "relationship": "Three-terminal cousin of rheostat"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Fixed version of the same concept"
+    },
+    {
+      "id": "dc-motor",
+      "relationship": "Rheostats control motor speed"
+    },
+    {
+      "id": "wirewound-resistor",
+      "relationship": "Same wirewound technology"
+    }
+  ]
+}

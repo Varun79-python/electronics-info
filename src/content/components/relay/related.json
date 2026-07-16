@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "electromagnet",
+      "relationship": "Coil principle"
+    },
+    {
+      "id": "transistor",
+      "relationship": "Drives the coil"
+    },
+    {
+      "id": "diode",
+      "relationship": "Flyback protection"
+    },
+    {
+      "id": "switch",
+      "relationship": "Solid-state equivalent"
+    }
+  ]
+}

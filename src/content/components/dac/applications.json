@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Audio",
+      "description": "Play sound",
+      "examples": [
+        "Speakers"
+      ]
+    },
+    {
+      "category": "Control",
+      "description": "Setpoint",
+      "examples": [
+        "PSU"
+      ]
+    },
+    {
+      "category": "Waveform",
+      "description": "Generate",
+      "examples": [
+        "FG"
+      ]
+    }
+  ]
+}

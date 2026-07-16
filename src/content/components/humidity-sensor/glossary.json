@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "RH",
+      "definition": "Relative humidity percent."
+    },
+    {
+      "term": "Dew Point",
+      "definition": "Temp where condensation begins."
+    },
+    {
+      "term": "Hygroscopic",
+      "definition": "Absorbs moisture."
+    },
+    {
+      "term": "Permittivity",
+      "definition": "Dielectric constant."
+    }
+  ]
+}

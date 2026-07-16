@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "Oscillation",
+      "symptoms": [
+        "Unstable output"
+      ],
+      "causes": [
+        "Bad caps",
+        "Layout"
+      ],
+      "solution": "Add capacitance; fix layout"
+    },
+    {
+      "failure": "Thermal Shutdown",
+      "symptoms": [
+        "Drops out"
+      ],
+      "causes": [
+        "Overheat"
+      ],
+      "solution": "Heatsink; reduce P_diss"
+    },
+    {
+      "failure": "Dropout",
+      "symptoms": [
+        "Low V_out"
+      ],
+      "causes": [
+        "V_in too low"
+      ],
+      "solution": "Raise input"
+    }
+  ]
+}

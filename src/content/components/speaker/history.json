@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1925,
+    "inventor": "Edward Kellogg, Chester Rice",
+    "discovery": "The moving-coil loudspeaker was developed at General Electric in the 1920s.",
+    "evolution": [
+      {
+        "year": 1925,
+        "event": "First moving-coil speaker"
+      },
+      {
+        "year": 1930,
+        "event": "Permanent magnet types"
+      },
+      {
+        "year": 1970,
+        "event": "High-fidelity speakers"
+      }
+    ]
+  }
+}

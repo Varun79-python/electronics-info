@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Backlight",
+      "symptoms": [
+        "Dark"
+      ],
+      "causes": [
+        "LED fail"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Ghosting",
+      "symptoms": [
+        "Trails"
+      ],
+      "causes": [
+        "Slow"
+      ],
+      "solution": "Faster"
+    },
+    {
+      "failure": "Lines",
+      "symptoms": [
+        "Dead rows"
+      ],
+      "causes": [
+        "Flex break"
+      ],
+      "solution": "Reseat"
+    }
+  ]
+}

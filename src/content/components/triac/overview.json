@@ -1,0 +1,11 @@
+{
+  "name": "TRIAC",
+  "id": "triac",
+  "category": "semiconductor",
+  "shortDescription": "A TRIAC is a bidirectional thyristor that conducts in both directions when triggered by a gate pulse, used for AC power control.",
+  "whatIsIt": "A TRIAC is a bidirectional thyristor that conducts in both directions when triggered by a gate pulse, used for AC power control.",
+  "whyExists": "TRIACs let a single device switch AC loads in both half-cycles, simplifying lamp dimmers and motor controls.",
+  "whereUsed": "They are used in light dimmers, fan speed controls, and AC motor starters.",
+  "thumbnail": "/assets/images/components/triac/thumbnail.svg",
+  "schematic": "/assets/components/triac/schematic/symbol.svg"
+}

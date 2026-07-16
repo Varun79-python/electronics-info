@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a capacitor and what does it store?",
+      "answer": "A capacitor is a two-terminal passive component that stores electrical energy in an electric field between two conductive plates separated by a dielectric."
+    },
+    {
+      "question": "What is the unit of capacitance?",
+      "answer": "The farad (F), though practical capacitors are measured in microfarads (µF), nanofarads (nF), or picofarads (pF)."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why does capacitive reactance decrease with frequency?",
+      "answer": "X_C = 1/(2πfC). As frequency increases, the capacitor charges and discharges faster, offering less opposition to current flow."
+    },
+    {
+      "question": "What happens when you connect capacitors in parallel?",
+      "answer": "Capacitances add: C_total = C1 + C2 + ... This increases total stored charge capacity."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Explain the difference between Class 1 and Class 2 ceramic capacitors.",
+      "answer": "Class 1 ceramics (e.g., C0G/NP0) have predictable, stable capacitance with temperature. Class 2 (e.g., X7R, Y5V) offer higher capacitance but vary strongly with voltage and temperature."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How does dielectric absorption affect capacitor performance?",
+      "answer": "Dielectric absorption causes a capacitor to retain a small charge after being discharged, affecting precision sampling circuits and ADCs. It is modeled as a series of parallel RC networks within the dielectric."
+    }
+  ]
+}

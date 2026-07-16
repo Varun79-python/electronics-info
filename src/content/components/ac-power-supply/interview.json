@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is an AC supply?",
+      "answer": "A source providing adjustable alternating voltage, often variable frequency."
+    },
+    {
+      "question": "Variac vs inverter?",
+      "answer": "Variac transforms mains; inverter synthesizes AC from DC."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is THD?",
+      "answer": "Total harmonic distortion; lower means a cleaner sine wave."
+    },
+    {
+      "question": "Why V/f control for motors?",
+      "answer": "Keeping V/f constant maintains flux and torque across speeds."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How synthesize a clean sine?",
+      "answer": "PWM H-bridge plus LC filter, with feedback for low THD."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Reactive load challenges?",
+      "answer": "Inductive/capacitive loads cause phase shift and current peaks; size VA accordingly."
+    }
+  ]
+}

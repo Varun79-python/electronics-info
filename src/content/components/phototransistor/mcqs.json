@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A phototransistor outputs:",
+      "options": [
+        "Voltage only",
+        "Amplified current",
+        "Light",
+        "Sound"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gain amplifies photocurrent.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Compared to photodiode it is:",
+      "options": [
+        "Faster",
+        "Slower",
+        "Same speed",
+        "Noiseless"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Slower due to gain/storage.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Light acts as:",
+      "options": [
+        "Collector",
+        "Base current",
+        "Emitter",
+        "Gate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Optical base drive.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Darlington gives:",
+      "options": [
+        "Lower gain",
+        "Higher gain",
+        "Faster",
+        "Less noise"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two-stage gain.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Optocouplers",
+        "Amplifiers",
+        "Oscillators",
+        "Regulators"
+      ],
+      "correctAnswer": 0,
+      "explanation": "LED-phototransistor isolation.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

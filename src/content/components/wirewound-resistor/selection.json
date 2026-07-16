@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Set Value and Power",
+      "description": "Compute R and P = I²R; add margin."
+    },
+    {
+      "step": 2,
+      "title": "Choose Tolerance/TCR",
+      "description": "Precision needs low TCR."
+    },
+    {
+      "step": 3,
+      "title": "Inductance Needs",
+      "description": "Use non-inductive for AC/RF."
+    },
+    {
+      "step": 4,
+      "title": "Mounting/Heatsink",
+      "description": "High power needs cooling."
+    }
+  ],
+  "tips": [
+    "Derate power 50%",
+    "Non-inductive for audio/RF",
+    "Manganin for precision shunts",
+    "Use heatsink for >5W"
+  ]
+}

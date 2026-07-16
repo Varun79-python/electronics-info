@@ -1,0 +1,45 @@
+{
+  "types": [
+    {
+      "name": "Rectifier Diode",
+      "description": "General-purpose diode for AC to DC conversion.",
+      "applications": [
+        "Power supplies",
+        "Rectification"
+      ]
+    },
+    {
+      "name": "Zener Diode",
+      "description": "Designed to operate in reverse breakdown for voltage regulation.",
+      "applications": [
+        "Voltage references",
+        "Shunt regulators"
+      ]
+    },
+    {
+      "name": "Schottky Diode",
+      "description": "Metal-semiconductor junction with low forward voltage and fast switching.",
+      "applications": [
+        "Switch-mode power supplies",
+        "RF detection"
+      ]
+    },
+    {
+      "name": "LED (Light Emitting Diode)",
+      "description": "Emits light when forward biased.",
+      "applications": [
+        "Indicators",
+        "Displays",
+        "Lighting"
+      ]
+    },
+    {
+      "name": "Photodiode",
+      "description": "Converts light into current.",
+      "applications": [
+        "Light sensors",
+        "Optical communication"
+      ]
+    }
+  ]
+}

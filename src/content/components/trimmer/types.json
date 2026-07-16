@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Multiturn Trimmer",
+      "description": "Several turns for fine adjustment.",
+      "applications": [
+        "Precision calibration"
+      ]
+    },
+    {
+      "name": "Single-turn Trimmer",
+      "description": "One rotation; general use.",
+      "applications": [
+        "Consumer electronics"
+      ]
+    },
+    {
+      "name": "SMD Trimmer",
+      "description": "Surface-mount for PCBs.",
+      "applications": [
+        "Compact devices"
+      ]
+    }
+  ]
+}

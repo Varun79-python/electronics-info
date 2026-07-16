@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1820,
+    "inventor": "André-Marie Ampère (principle), applied later",
+    "discovery": "The solenoid principle followed Ampère's work on electromagnetism in the 1820s.",
+    "evolution": [
+      {
+        "year": 1820,
+        "event": "Electromagnetism discovered"
+      },
+      {
+        "year": 1900,
+        "event": "Practical solenoids"
+      },
+      {
+        "year": 1980,
+        "event": "Miniature/SMD types"
+      }
+    ]
+  }
+}

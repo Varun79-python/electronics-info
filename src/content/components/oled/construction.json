@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Emissive Layer",
+      "function": "Emit light",
+      "material": "Organic"
+    },
+    {
+      "name": "TFT Backplane",
+      "function": "Drive pixel",
+      "material": "Silicon"
+    },
+    {
+      "name": "Cathode/Anode",
+      "function": "Inject carriers",
+      "material": "Metal/ITO"
+    },
+    {
+      "name": "Substrate",
+      "function": "Support",
+      "material": "Glass/flex"
+    }
+  ]
+}

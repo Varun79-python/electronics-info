@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Fusible Element",
+      "function": "Melts on fault",
+      "material": "Tin/copper alloy"
+    },
+    {
+      "name": "Body",
+      "function": "Contain/quench",
+      "material": "Ceramic/glass"
+    },
+    {
+      "name": "End Caps",
+      "function": "Connect",
+      "material": "Brass"
+    },
+    {
+      "name": "Filler",
+      "function": "Quench arc",
+      "material": "Silica sand"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "8-bit (AVR)",
+      "description": "Simple, cheap.",
+      "applications": [
+        "Hobby"
+      ]
+    },
+    {
+      "name": "32-bit (ARM)",
+      "description": "Powerful, common.",
+      "applications": [
+        "IoT"
+      ]
+    },
+    {
+      "name": "ESP32",
+      "description": "Wi-Fi/BT.",
+      "applications": [
+        "Connected"
+      ]
+    },
+    {
+      "name": "DSP/RT",
+      "description": "Real-time.",
+      "applications": [
+        "Control"
+      ]
+    }
+  ]
+}

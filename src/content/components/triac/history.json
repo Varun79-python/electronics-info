@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1963,
+    "inventor": "Frank W. Gutzwiller (General Electric)",
+    "discovery": "The TRIAC was developed as a bidirectional AC switch building on SCR technology.",
+    "evolution": [
+      {
+        "year": 1963,
+        "event": "First TRIAC"
+      },
+      {
+        "year": 1970,
+        "event": "Ubiquitous in dimmers"
+      },
+      {
+        "year": 2000,
+        "event": "Snubberless types for motors"
+      }
+    ]
+  }
+}

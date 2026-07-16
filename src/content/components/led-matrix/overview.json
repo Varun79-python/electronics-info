@@ -1,0 +1,11 @@
+{
+  "name": "LED Matrix",
+  "id": "led-matrix",
+  "category": "displays",
+  "shortDescription": "An LED matrix arranges LEDs in a grid (rows/columns) to display text, icons, or video.",
+  "whatIsIt": "An LED matrix arranges LEDs in a grid (rows/columns) to display text, icons, or video.",
+  "whyExists": "Matrices show graphics with far fewer pins than one-per-LED by multiplexing.",
+  "whereUsed": "Used in signs, wearables, and indicators.",
+  "thumbnail": "/assets/images/components/led-matrix/thumbnail.svg",
+  "schematic": "/assets/components/led-matrix/schematic/symbol.svg"
+}

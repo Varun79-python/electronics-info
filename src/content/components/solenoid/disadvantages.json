@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Coil power when held",
+    "Heat at 100% duty",
+    "Stroke limited",
+    "Wear",
+    "Only on/off (mostly)",
+    "Inrush current"
+  ]
+}

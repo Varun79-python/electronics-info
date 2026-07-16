@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "Voltage Divider",
+      "formula": "V_out = V_in × (R_wiper / R_total)",
+      "description": "Output at wiper as fraction of input.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Output voltage",
+          "unit": "Volts (V)"
+        },
+        {
+          "symbol": "V_in",
+          "name": "Input voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "R_wiper",
+          "name": "Tapped resistance",
+          "unit": "Ohms (Ω)"
+        }
+      ],
+      "example": "Mid-position → V_out = V_in/2"
+    },
+    {
+      "name": "Taper Law",
+      "formula": "R(x) = R_total × x^n",
+      "description": "Resistance vs position; n=1 linear, n≈0.5 log.",
+      "variables": [
+        {
+          "symbol": "x",
+          "name": "Position",
+          "unit": "0 to 1"
+        },
+        {
+          "symbol": "n",
+          "name": "Taper exponent",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "Linear pot: n=1"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open",
+      "symptoms": [
+        "No reading",
+        "Infinite R"
+      ],
+      "causes": [
+        "Thermal shock",
+        "Overcurrent"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Wrong temperature"
+      ],
+      "causes": [
+        "Aging",
+        "Moisture"
+      ],
+      "solution": "Recalibrate or replace"
+    },
+    {
+      "failure": "Short",
+      "symptoms": [
+        "Zero resistance"
+      ],
+      "causes": [
+        "Cracked encapsulation"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

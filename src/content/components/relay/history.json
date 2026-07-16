@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1835,
+    "inventor": "Joseph Henry (electromagnetic relay)",
+    "discovery": "Henry built early electromagnetic relays, foundational to the telegraph.",
+    "evolution": [
+      {
+        "year": 1835,
+        "event": "First practical relay"
+      },
+      {
+        "year": 1844,
+        "event": "Telegraph relays"
+      },
+      {
+        "year": 1970,
+        "event": "SSRs emerge"
+      }
+    ]
+  }
+}

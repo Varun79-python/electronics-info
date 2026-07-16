@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Button Cap",
+      "function": "User press",
+      "material": "Plastic"
+    },
+    {
+      "name": "Contacts",
+      "function": "Conduct",
+      "material": "Gold/silver"
+    },
+    {
+      "name": "Spring",
+      "function": "Return",
+      "material": "Steel"
+    },
+    {
+      "name": "Housing",
+      "function": "Mount",
+      "material": "Plastic"
+    }
+  ]
+}

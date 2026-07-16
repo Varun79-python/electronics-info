@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "Resistance",
+      "typicalValues": "0.1Ω to 100kΩ",
+      "notes": "Low values common"
+    },
+    {
+      "name": "Power Rating",
+      "typicalValues": "1W to 1000W",
+      "notes": "Much higher than film"
+    },
+    {
+      "name": "Tolerance",
+      "typicalValues": "±0.1% to ±5%",
+      "notes": "Precision types tight"
+    },
+    {
+      "name": "TCR",
+      "typicalValues": "±5 to ±50 ppm/°C",
+      "notes": "Very stable"
+    },
+    {
+      "name": "Inductance",
+      "typicalValues": "µH (non-inductive options)",
+      "notes": "Bifilar reduces it"
+    }
+  ]
+}

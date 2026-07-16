@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Nichrome",
+      "definition": "Nickel-chromium alloy used for resistive wire."
+    },
+    {
+      "term": "TCR",
+      "definition": "Temperature Coefficient of Resistance; lower is more stable."
+    },
+    {
+      "term": "Non-inductive",
+      "definition": "Bifilar winding that cancels magnetic field and inductance."
+    },
+    {
+      "term": "Manganin",
+      "definition": "Alloy with very low TCR, used for precision shunts."
+    }
+  ]
+}

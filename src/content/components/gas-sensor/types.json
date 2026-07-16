@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Metal-Oxide (MQ)",
+      "description": "Resistive, broad.",
+      "applications": [
+        "Air quality"
+      ]
+    },
+    {
+      "name": "Electrochemical",
+      "description": "Current output.",
+      "applications": [
+        "CO alarms"
+      ]
+    },
+    {
+      "name": "NDIR (CO₂)",
+      "description": "Infrared absorption.",
+      "applications": [
+        "HVAC"
+      ]
+    },
+    {
+      "name": "Catalytic (LEL)",
+      "description": "Combustible gas.",
+      "applications": [
+        "Explosion"
+      ]
+    }
+  ]
+}

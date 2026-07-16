@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Cannot turn off via gate (SCR)",
+    "Slow switching vs transistors",
+    "Needs commutation",
+    "Generates harmonics",
+    "dv/dt sensitivity",
+    "One-way conduction"
+  ]
+}

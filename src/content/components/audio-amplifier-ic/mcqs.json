@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Audio amp drives:",
+      "options": [
+        "Speaker",
+        "LED",
+        "Relay",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Load power.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Class D is:",
+      "options": [
+        "PWM efficient",
+        "Linear",
+        "Transformer",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Switching.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "P = V²/(2R) is:",
+      "options": [
+        "Output power",
+        "Gain",
+        "Current",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Into load.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "THD is:",
+      "options": [
+        "Distortion",
+        "Gain",
+        "Power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Harmonics.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Class AB issue:",
+      "options": [
+        "Heat",
+        "Low eff only",
+        "Noise",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dissipates heat.",
+      "difficulty": "beginner"
+    }
+  ]
+}

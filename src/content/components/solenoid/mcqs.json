@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A solenoid produces:",
+      "options": [
+        "Rotation",
+        "Linear motion",
+        "Sound",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Linear plunger motion.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Force depends on:",
+      "options": [
+        "Only voltage",
+        "(N×I)²/gap²",
+        "Frequency",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ampere-turns and gap.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Flyback diode protects:",
+      "options": [
+        "Coil driver",
+        "Plunger",
+        "Spring",
+        "Frame"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clamps coil spike.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Duty cycle limits:",
+      "options": [
+        "Speed",
+        "Heat",
+        "Stroke",
+        "Force"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thermal limit.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Latching solenoid:",
+      "options": [
+        "Needs power always",
+        "Holds without power",
+        "No coil",
+        "Rotates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Holds position unpowered.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

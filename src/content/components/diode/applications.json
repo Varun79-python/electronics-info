@@ -1,0 +1,45 @@
+{
+  "applications": [
+    {
+      "category": "Rectification",
+      "description": "Converts AC to DC in power supplies",
+      "examples": [
+        "Bridge rectifier",
+        "Half-wave rectifier"
+      ]
+    },
+    {
+      "category": "Voltage Regulation",
+      "description": "Zener diodes clamp voltage",
+      "examples": [
+        "Reference voltage",
+        "Shunt regulator"
+      ]
+    },
+    {
+      "category": "Signal Demodulation",
+      "description": "Extracts modulation from radio signals",
+      "examples": [
+        "AM radio detector",
+        "Envelope detector"
+      ]
+    },
+    {
+      "category": "Protection",
+      "description": "Protects circuits from reverse polarity and spikes",
+      "examples": [
+        "Reverse polarity protection",
+        "Flyback diode"
+      ]
+    },
+    {
+      "category": "Light Emission",
+      "description": "LEDs emit light when forward biased",
+      "examples": [
+        "Indicators",
+        "Displays",
+        "Lighting"
+      ]
+    }
+  ]
+}

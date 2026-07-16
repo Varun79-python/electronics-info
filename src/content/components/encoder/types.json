@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Binary",
+      "description": "N->log2 N.",
+      "applications": [
+        "Keys"
+      ]
+    },
+    {
+      "name": "Priority",
+      "description": "Highest wins.",
+      "applications": [
+        "Interrupts"
+      ]
+    },
+    {
+      "name": "Rotary",
+      "description": "Position code.",
+      "applications": [
+        "Knobs"
+      ]
+    },
+    {
+      "name": "Linear",
+      "description": "Position.",
+      "applications": [
+        "Sensors"
+      ]
+    }
+  ]
+}

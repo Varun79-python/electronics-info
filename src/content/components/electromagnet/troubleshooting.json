@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open Coil",
+      "symptoms": [
+        "No field"
+      ],
+      "causes": [
+        "Burnout"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Weak Field",
+      "symptoms": [
+        "Low pull"
+      ],
+      "causes": [
+        "Low V",
+        "Demag"
+      ],
+      "solution": "Check supply"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Smell"
+      ],
+      "causes": [
+        "Over duty"
+      ],
+      "solution": "Reduce on-time"
+    }
+  ]
+}

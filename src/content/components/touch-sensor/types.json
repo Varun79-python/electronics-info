@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Capacitive",
+      "description": "No force needed.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "Resistive",
+      "description": "Pressure based.",
+      "applications": [
+        "Industrial"
+      ]
+    },
+    {
+      "name": "Mutual Capacitance",
+      "description": "Grid (multi-touch).",
+      "applications": [
+        "Tablets"
+      ]
+    },
+    {
+      "name": "Self Capacitance",
+      "description": "Single pad.",
+      "applications": [
+        "Buttons"
+      ]
+    }
+  ]
+}

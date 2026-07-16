@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Op Amp Applications",
+      "author": "Analog Devices",
+      "year": 2020,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "Art of Electronics",
+      "author": "Horowitz & Hill",
+      "year": 2015,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "An error amplifier drives a pass transistor to keep the output equal to a reference times a divider ratio.",
+  "steps": [
+    "Output sampled by divider",
+    "Compared to reference",
+    "Error amplifier drives pass transistor",
+    "Adjusts pass device to hold V_out"
+  ],
+  "microscopicExplanation": "Feedback loop modulates the pass FET's resistance to regulate; dropout is the minimum Vin-Vout to stay in regulation."
+}

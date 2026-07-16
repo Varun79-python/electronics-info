@@ -1,0 +1,27 @@
+{
+  "applications": [
+    {
+      "category": "Clock Source",
+      "description": "Times microcontrollers",
+      "examples": [
+        "MCU",
+        "Remote controls"
+      ]
+    },
+    {
+      "category": "Oscillators",
+      "description": "Generates stable frequency",
+      "examples": [
+        "Toy electronics",
+        "Peripherals"
+      ]
+    },
+    {
+      "category": "Cost-sensitive Timing",
+      "description": "Where crystal precision unneeded",
+      "examples": [
+        "Consumer gadgets"
+      ]
+    }
+  ]
+}

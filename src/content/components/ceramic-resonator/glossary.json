@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Piezoelectric",
+      "definition": "Property of generating voltage under mechanical stress."
+    },
+    {
+      "term": "Resonance",
+      "definition": "Natural frequency of mechanical vibration."
+    },
+    {
+      "term": "Load Capacitance",
+      "definition": "Capacitance needed to set the exact frequency."
+    },
+    {
+      "term": "Three-terminal",
+      "definition": "Resonator with integrated load capacitors."
+    }
+  ]
+}

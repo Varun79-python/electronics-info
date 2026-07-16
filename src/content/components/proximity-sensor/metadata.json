@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "proximity-sensor",
+    "name": "Proximity Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 51,
+    "status": "published"
+  }
+}

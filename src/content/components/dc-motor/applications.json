@@ -1,0 +1,36 @@
+{
+  "applications": [
+    {
+      "category": "Motion",
+      "description": "Rotary actuation",
+      "examples": [
+        "Fans",
+        "Pumps"
+      ]
+    },
+    {
+      "category": "Robotics",
+      "description": "Wheel/arm drive",
+      "examples": [
+        "Cars",
+        "Arms"
+      ]
+    },
+    {
+      "category": "Appliances",
+      "description": "Everyday motion",
+      "examples": [
+        "Blenders",
+        "Washers"
+      ]
+    },
+    {
+      "category": "Automotive",
+      "description": "Accessories",
+      "examples": [
+        "Wipers",
+        "Windows"
+      ]
+    }
+  ]
+}

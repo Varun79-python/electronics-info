@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Conductive Ink",
+      "function": "Variable R",
+      "material": "Carbon"
+    },
+    {
+      "name": "Substrate",
+      "function": "Flexible",
+      "material": "Polyester"
+    },
+    {
+      "name": "Contacts",
+      "function": "Connect",
+      "material": "Silver"
+    },
+    {
+      "name": "Seal",
+      "function": "Protect",
+      "material": "Laminate"
+    }
+  ]
+}

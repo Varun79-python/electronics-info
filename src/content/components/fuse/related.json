@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "circuit-breaker",
+      "relationship": "Resettable alternative"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Current sense"
+    },
+    {
+      "id": "relay",
+      "relationship": "Load switch"
+    }
+  ]
+}

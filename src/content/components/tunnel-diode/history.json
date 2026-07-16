@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1957,
+    "inventor": "Leo Esaki",
+    "discovery": "Esaki discovered the tunneling effect in heavily doped junctions, earning the 1973 Nobel Prize.",
+    "evolution": [
+      {
+        "year": 1957,
+        "event": "Tunnel diode invented"
+      },
+      {
+        "year": 1973,
+        "event": "Nobel Prize to Esaki"
+      },
+      {
+        "year": 1980,
+        "event": "Largely superseded by transistors"
+      }
+    ]
+  }
+}

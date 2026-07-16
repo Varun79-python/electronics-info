@@ -1,0 +1,10 @@
+{
+  "advantages": [
+    "Precise open-loop position",
+    "Holds position when stopped",
+    "Good torque at low speed",
+    "Simple control",
+    "Repeatable",
+    "Rugged"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Piezo",
+      "definition": "Crystal that flexes with voltage."
+    },
+    {
+      "term": "Active Buzzer",
+      "definition": "Has internal oscillator; apply DC."
+    },
+    {
+      "term": "Passive Buzzer",
+      "definition": "Needs external AC drive."
+    },
+    {
+      "term": "SPL",
+      "definition": "Sound Pressure Level in decibels."
+    }
+  ]
+}

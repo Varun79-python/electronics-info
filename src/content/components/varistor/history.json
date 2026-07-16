@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1930,
+    "inventor": "Samuel Ruben (ZnO varistor 1960s)",
+    "discovery": "Early silicon-carbide varistors gave way to superior zinc-oxide types in the 1960s-70s.",
+    "evolution": [
+      {
+        "year": 1930,
+        "event": "Silicon carbide varistors developed"
+      },
+      {
+        "year": 1968,
+        "event": "ZnO varistor invented at GE"
+      },
+      {
+        "year": 1980,
+        "event": "MOVs become standard surge protection"
+      }
+    ]
+  }
+}

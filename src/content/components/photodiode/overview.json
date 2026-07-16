@@ -1,0 +1,11 @@
+{
+  "name": "Photodiode",
+  "id": "photodiode",
+  "category": "semiconductor",
+  "shortDescription": "A photodiode is a p-n junction that converts light into current when photons generate electron-hole pairs in the depletion region.",
+  "whatIsIt": "A photodiode is a p-n junction that converts light into current when photons generate electron-hole pairs in the depletion region.",
+  "whyExists": "Photodiodes provide fast, linear light detection for sensing, communication, and measurement.",
+  "whereUsed": "They are used in optical receivers, light meters, medical devices, and industrial sensors.",
+  "thumbnail": "/assets/images/components/photodiode/thumbnail.svg",
+  "schematic": "/assets/components/photodiode/schematic/symbol.svg"
+}

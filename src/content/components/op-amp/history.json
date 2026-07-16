@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1967,
+    "inventor": "Fairchild (µA741)",
+    "discovery": "The µA741 popularized the monolithic op-amp for analog design.",
+    "evolution": [
+      {
+        "year": 1967,
+        "event": "µA741"
+      },
+      {
+        "year": 1980,
+        "event": "CMOS/precise"
+      },
+      {
+        "year": 2000,
+        "event": "Rail-to-rail"
+      }
+    ]
+  }
+}

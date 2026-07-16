@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "SPST means:",
+      "options": [
+        "Single-pole single-throw",
+        "Single-pole double-throw",
+        "Double-pole",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One pole, one throw.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Switch controls:",
+      "options": [
+        "Current path",
+        "Voltage",
+        "Power source",
+        "Frequency"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Opens/closes circuit.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inductive loads cause:",
+      "options": [
+        "Arcing",
+        "No effect",
+        "Lower current",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Arc at break.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Contact bounce is:",
+      "options": [
+        "Multiple makes",
+        "Open always",
+        "Weld",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brief chatter.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Momentary returns:",
+      "options": [
+        "To rest",
+        "Stays",
+        "Off only",
+        "On only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Spring return.",
+      "difficulty": "beginner"
+    }
+  ]
+}

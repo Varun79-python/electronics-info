@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "High voltage; isolation required.",
+  "currentSafety": "High current; fusing and interlocks.",
+  "thermalSafety": "Heatsinks and cooling essential.",
+  "handling": "ESD and overvoltage care.",
+  "storage": "Anti-static, dry.",
+  "disposal": "E-waste rules."
+}

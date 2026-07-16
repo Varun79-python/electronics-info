@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Rated Current",
+      "typicalValues": "6A to 100A",
+      "notes": "Per pole"
+    },
+    {
+      "name": "Breaking Capacity",
+      "typicalValues": "6kA to 100kA",
+      "notes": "Fault clear"
+    },
+    {
+      "name": "Trip Type",
+      "typicalValues": "B/C/D",
+      "notes": "Curve"
+    },
+    {
+      "name": "Poles",
+      "typicalValues": "1P to 4P",
+      "notes": "Config"
+    }
+  ]
+}

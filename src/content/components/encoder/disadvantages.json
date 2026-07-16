@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "One-at-a-time (simple)",
+    "Priority ambiguity",
+    "Decoding",
+    "Power",
+    "Glitches"
+  ]
+}

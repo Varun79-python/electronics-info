@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a wirewound resistor?",
+      "answer": "A resistor made by winding resistive wire around a core; good for high power and precision."
+    },
+    {
+      "question": "Why use wirewound over film?",
+      "answer": "Higher power handling, tighter tolerance, and lower temperature coefficient."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is the downside of wirewound?",
+      "answer": "Parasitic inductance from the coil, limiting high-frequency use unless non-inductive wound."
+    },
+    {
+      "question": "What is manganin used for?",
+      "answer": "Precision shunts because of its extremely low TCR."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How do you make a wirewound resistor non-inductive?",
+      "answer": "Bifilar winding: fold the wire and wind both halves so currents oppose, canceling the magnetic field."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When would film beat wirewound?",
+      "answer": "At high frequencies or where small size and low inductance matter more than power."
+    }
+  ]
+}

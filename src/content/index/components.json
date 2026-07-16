@@ -1,10 +1,842 @@
 [
-  { "id": "resistor", "name": "Resistor", "category": "passive", "tags": ["resistance", "ohm", "passive", "current limiting"] },
-  { "id": "capacitor", "name": "Capacitor", "category": "passive", "tags": ["capacitance", "farad", "passive", "energy storage"] },
-  { "id": "diode", "name": "Diode", "category": "semiconductor", "tags": ["rectifier", "semiconductor", "pn-junction"] },
-  { "id": "transistor", "name": "Transistor", "category": "semiconductor", "tags": ["amplifier", "switch", "BJT"] },
-  { "id": "mosfet", "name": "MOSFET", "category": "semiconductor", "tags": ["fet", "field-effect", "switch"] },
-  { "id": "relay", "name": "Relay", "category": "electromechanical", "tags": ["switch", "electromagnet"] },
-  { "id": "transformer", "name": "Transformer", "category": "passive", "tags": ["induction", "voltage", "power"] },
-  { "id": "battery", "name": "Battery", "category": "energy-storage", "tags": ["power", "dc", "energy storage"] }
+  {
+    "id": "resistor",
+    "name": "Resistor",
+    "category": "passive",
+    "tags": [
+      "resistance",
+      "ohm",
+      "passive",
+      "current limiting"
+    ]
+  },
+  {
+    "id": "capacitor",
+    "name": "Capacitor",
+    "category": "passive",
+    "tags": [
+      "capacitance",
+      "farad",
+      "passive",
+      "energy storage"
+    ]
+  },
+  {
+    "id": "inductor",
+    "name": "Inductor",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "inductor"
+    ]
+  },
+  {
+    "id": "transformer",
+    "name": "Transformer",
+    "category": "passive",
+    "tags": [
+      "induction",
+      "voltage",
+      "power"
+    ]
+  },
+  {
+    "id": "potentiometer",
+    "name": "Potentiometer",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "potentiometer"
+    ]
+  },
+  {
+    "id": "varistor",
+    "name": "Varistor",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "varistor"
+    ]
+  },
+  {
+    "id": "thermistor",
+    "name": "Thermistor",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "thermistor"
+    ]
+  },
+  {
+    "id": "rheostat",
+    "name": "Rheostat",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "rheostat"
+    ]
+  },
+  {
+    "id": "trimmer",
+    "name": "Trimmer Potentiometer",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "trimmer",
+      "potentiometer"
+    ]
+  },
+  {
+    "id": "wirewound-resistor",
+    "name": "Wirewound Resistor",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "wirewound",
+      "resistor"
+    ]
+  },
+  {
+    "id": "ceramic-resonator",
+    "name": "Ceramic Resonator",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "ceramic",
+      "resonator"
+    ]
+  },
+  {
+    "id": "crystal-oscillator",
+    "name": "Crystal Oscillator",
+    "category": "passive",
+    "tags": [
+      "passive",
+      "crystal",
+      "oscillator"
+    ]
+  },
+  {
+    "id": "diode",
+    "name": "Diode",
+    "category": "semiconductor",
+    "tags": [
+      "rectifier",
+      "semiconductor",
+      "pn-junction"
+    ]
+  },
+  {
+    "id": "led",
+    "name": "Light Emitting Diode",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "light",
+      "emitting",
+      "diode"
+    ]
+  },
+  {
+    "id": "zener-diode",
+    "name": "Zener Diode",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "zener",
+      "diode"
+    ]
+  },
+  {
+    "id": "schottky-diode",
+    "name": "Schottky Diode",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "schottky",
+      "diode"
+    ]
+  },
+  {
+    "id": "photodiode",
+    "name": "Photodiode",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "photodiode"
+    ]
+  },
+  {
+    "id": "transistor",
+    "name": "Bipolar Transistor",
+    "category": "semiconductor",
+    "tags": [
+      "amplifier",
+      "switch",
+      "BJT",
+      "semiconductor"
+    ]
+  },
+  {
+    "id": "mosfet",
+    "name": "MOSFET",
+    "category": "semiconductor",
+    "tags": [
+      "fet",
+      "field-effect",
+      "switch",
+      "semiconductor"
+    ]
+  },
+  {
+    "id": "jfet",
+    "name": "JFET",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "jfet"
+    ]
+  },
+  {
+    "id": "igbt",
+    "name": "IGBT",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "igbt"
+    ]
+  },
+  {
+    "id": "thyristor",
+    "name": "Thyristor (SCR)",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "thyristor",
+      "scr"
+    ]
+  },
+  {
+    "id": "triac",
+    "name": "TRIAC",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "triac"
+    ]
+  },
+  {
+    "id": "diac",
+    "name": "DIAC",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "diac"
+    ]
+  },
+  {
+    "id": "phototransistor",
+    "name": "Phototransistor",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "phototransistor"
+    ]
+  },
+  {
+    "id": "ujt",
+    "name": "Unijunction Transistor",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "unijunction",
+      "transistor"
+    ]
+  },
+  {
+    "id": "tunnel-diode",
+    "name": "Tunnel Diode",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "tunnel",
+      "diode"
+    ]
+  },
+  {
+    "id": "varactor-diode",
+    "name": "Varactor Diode",
+    "category": "semiconductor",
+    "tags": [
+      "semiconductor",
+      "varactor",
+      "diode"
+    ]
+  },
+  {
+    "id": "voltage-regulator",
+    "name": "Voltage Regulator",
+    "category": "power-electronics",
+    "tags": [
+      "power-electronics",
+      "voltage",
+      "regulator"
+    ]
+  },
+  {
+    "id": "dc-power-supply",
+    "name": "DC Power Supply",
+    "category": "power-electronics",
+    "tags": [
+      "power-electronics",
+      "power",
+      "supply"
+    ]
+  },
+  {
+    "id": "ac-power-supply",
+    "name": "AC Power Supply",
+    "category": "power-electronics",
+    "tags": [
+      "power-electronics",
+      "power",
+      "supply"
+    ]
+  },
+  {
+    "id": "relay",
+    "name": "Relay",
+    "category": "electromechanical",
+    "tags": [
+      "switch",
+      "electromagnet",
+      "electromechanical"
+    ]
+  },
+  {
+    "id": "dc-motor",
+    "name": "DC Motor",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "motor"
+    ]
+  },
+  {
+    "id": "stepper-motor",
+    "name": "Stepper Motor",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "stepper",
+      "motor"
+    ]
+  },
+  {
+    "id": "servo-motor",
+    "name": "Servo Motor",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "servo",
+      "motor"
+    ]
+  },
+  {
+    "id": "speaker",
+    "name": "Loudspeaker",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "loudspeaker"
+    ]
+  },
+  {
+    "id": "buzzer",
+    "name": "Buzzer",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "buzzer"
+    ]
+  },
+  {
+    "id": "solenoid",
+    "name": "Solenoid",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "solenoid"
+    ]
+  },
+  {
+    "id": "contactor",
+    "name": "Contactor",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "contactor"
+    ]
+  },
+  {
+    "id": "switch",
+    "name": "Switch",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "switch"
+    ]
+  },
+  {
+    "id": "push-button",
+    "name": "Push Button",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "push",
+      "button"
+    ]
+  },
+  {
+    "id": "electromagnet",
+    "name": "Electromagnet",
+    "category": "electromechanical",
+    "tags": [
+      "electromechanical",
+      "electromagnet"
+    ]
+  },
+  {
+    "id": "fuse",
+    "name": "Fuse",
+    "category": "protection",
+    "tags": [
+      "protection",
+      "fuse"
+    ]
+  },
+  {
+    "id": "circuit-breaker",
+    "name": "Circuit Breaker",
+    "category": "protection",
+    "tags": [
+      "protection",
+      "circuit",
+      "breaker"
+    ]
+  },
+  {
+    "id": "temperature-sensor",
+    "name": "Temperature Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "temperature",
+      "sensor"
+    ]
+  },
+  {
+    "id": "pressure-sensor",
+    "name": "Pressure Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "pressure",
+      "sensor"
+    ]
+  },
+  {
+    "id": "ultrasonic-sensor",
+    "name": "Ultrasonic Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "ultrasonic",
+      "sensor"
+    ]
+  },
+  {
+    "id": "accelerometer",
+    "name": "Accelerometer",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "accelerometer"
+    ]
+  },
+  {
+    "id": "gyroscope",
+    "name": "Gyroscope",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "gyroscope"
+    ]
+  },
+  {
+    "id": "ldr",
+    "name": "Light Dependent Resistor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "light",
+      "dependent",
+      "resistor"
+    ]
+  },
+  {
+    "id": "proximity-sensor",
+    "name": "Proximity Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "proximity",
+      "sensor"
+    ]
+  },
+  {
+    "id": "humidity-sensor",
+    "name": "Humidity Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "humidity",
+      "sensor"
+    ]
+  },
+  {
+    "id": "gas-sensor",
+    "name": "Gas Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "gas",
+      "sensor"
+    ]
+  },
+  {
+    "id": "ir-sensor",
+    "name": "IR Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "sensor"
+    ]
+  },
+  {
+    "id": "hall-sensor",
+    "name": "Hall Effect Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "hall",
+      "effect",
+      "sensor"
+    ]
+  },
+  {
+    "id": "flex-sensor",
+    "name": "Flex Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "flex",
+      "sensor"
+    ]
+  },
+  {
+    "id": "touch-sensor",
+    "name": "Touch Sensor",
+    "category": "sensors",
+    "tags": [
+      "sensors",
+      "touch",
+      "sensor"
+    ]
+  },
+  {
+    "id": "op-amp",
+    "name": "Operational Amplifier",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "operational",
+      "amplifier"
+    ]
+  },
+  {
+    "id": "555-timer",
+    "name": "555 Timer",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "555",
+      "timer"
+    ]
+  },
+  {
+    "id": "adc",
+    "name": "Analog to Digital Converter",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "analog",
+      "digital",
+      "converter"
+    ]
+  },
+  {
+    "id": "dac",
+    "name": "Digital to Analog Converter",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "digital",
+      "analog",
+      "converter"
+    ]
+  },
+  {
+    "id": "comparator",
+    "name": "Comparator",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "comparator"
+    ]
+  },
+  {
+    "id": "ldo-regulator",
+    "name": "LDO Voltage Regulator",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "ldo",
+      "voltage",
+      "regulator"
+    ]
+  },
+  {
+    "id": "microcontroller",
+    "name": "Microcontroller",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "microcontroller"
+    ]
+  },
+  {
+    "id": "fpga",
+    "name": "FPGA",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "fpga"
+    ]
+  },
+  {
+    "id": "logic-gate-ic",
+    "name": "Logic Gate IC",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "audio-amplifier-ic",
+    "name": "Audio Amplifier IC",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "audio",
+      "amplifier"
+    ]
+  },
+  {
+    "id": "motor-driver-ic",
+    "name": "Motor Driver IC",
+    "category": "integrated-circuits",
+    "tags": [
+      "integrated-circuits",
+      "motor",
+      "driver"
+    ]
+  },
+  {
+    "id": "logic-gates",
+    "name": "Logic Gates",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "logic",
+      "gates"
+    ]
+  },
+  {
+    "id": "flip-flop",
+    "name": "Flip-Flop",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "flip",
+      "flop"
+    ]
+  },
+  {
+    "id": "counter",
+    "name": "Counter",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "counter"
+    ]
+  },
+  {
+    "id": "register",
+    "name": "Register",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "register"
+    ]
+  },
+  {
+    "id": "multiplexer",
+    "name": "Multiplexer",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "multiplexer"
+    ]
+  },
+  {
+    "id": "demultiplexer",
+    "name": "Demultiplexer",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "demultiplexer"
+    ]
+  },
+  {
+    "id": "encoder",
+    "name": "Encoder",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "encoder"
+    ]
+  },
+  {
+    "id": "decoder",
+    "name": "Decoder",
+    "category": "digital",
+    "tags": [
+      "digital",
+      "decoder"
+    ]
+  },
+  {
+    "id": "lcd",
+    "name": "Liquid Crystal Display",
+    "category": "displays",
+    "tags": [
+      "displays",
+      "liquid",
+      "crystal",
+      "display"
+    ]
+  },
+  {
+    "id": "oled",
+    "name": "OLED Display",
+    "category": "displays",
+    "tags": [
+      "displays",
+      "oled",
+      "display"
+    ]
+  },
+  {
+    "id": "7-segment",
+    "name": "Seven Segment Display",
+    "category": "displays",
+    "tags": [
+      "displays",
+      "seven",
+      "segment",
+      "display"
+    ]
+  },
+  {
+    "id": "led-matrix",
+    "name": "LED Matrix",
+    "category": "displays",
+    "tags": [
+      "displays",
+      "led",
+      "matrix"
+    ]
+  },
+  {
+    "id": "breadboard",
+    "name": "Breadboard",
+    "category": "prototyping",
+    "tags": [
+      "prototyping",
+      "breadboard"
+    ]
+  },
+  {
+    "id": "pcb",
+    "name": "Printed Circuit Board",
+    "category": "prototyping",
+    "tags": [
+      "prototyping",
+      "printed",
+      "circuit",
+      "board"
+    ]
+  },
+  {
+    "id": "jumper-wire",
+    "name": "Jumper Wire",
+    "category": "prototyping",
+    "tags": [
+      "prototyping",
+      "jumper",
+      "wire"
+    ]
+  },
+  {
+    "id": "connector",
+    "name": "Connector",
+    "category": "prototyping",
+    "tags": [
+      "prototyping",
+      "connector"
+    ]
+  },
+  {
+    "id": "antenna",
+    "name": "Antenna",
+    "category": "communication",
+    "tags": [
+      "communication",
+      "antenna"
+    ]
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "category": "energy-storage",
+    "tags": [
+      "power",
+      "dc",
+      "energy storage",
+      "electrochemical"
+    ]
+  }
 ]

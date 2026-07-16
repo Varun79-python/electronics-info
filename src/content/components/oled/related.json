@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "led",
+      "relationship": "Emissive cousin"
+    },
+    {
+      "id": "lcd",
+      "relationship": "Alternative"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Drives"
+    }
+  ]
+}

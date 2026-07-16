@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Memory",
+      "description": "Chip select",
+      "examples": [
+        "RAM"
+      ]
+    },
+    {
+      "category": "Display",
+      "description": "7-seg drive",
+      "examples": [
+        "Clocks"
+      ]
+    },
+    {
+      "category": "Control",
+      "description": "Select device",
+      "examples": [
+        "Buses"
+      ]
+    }
+  ]
+}

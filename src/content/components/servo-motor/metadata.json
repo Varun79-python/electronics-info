@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "servo-motor",
+    "name": "Servo Motor",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 35,
+    "status": "published"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Piezo Element",
+      "function": "Vibrates with voltage",
+      "material": "Piezoelectric ceramic"
+    },
+    {
+      "name": "Oscillator (active)",
+      "function": "Generates tone",
+      "material": "IC"
+    },
+    {
+      "name": "Housing/Cavity",
+      "function": "Amplifies",
+      "material": "Plastic"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect",
+      "material": "Tinned leads"
+    }
+  ]
+}

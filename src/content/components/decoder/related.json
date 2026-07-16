@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "encoder",
+      "relationship": "Inverse"
+    },
+    {
+      "id": "demultiplexer",
+      "relationship": "Similar"
+    },
+    {
+      "id": "7-segment",
+      "relationship": "Drives display"
+    }
+  ]
+}

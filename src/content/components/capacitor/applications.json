@@ -1,0 +1,44 @@
+{
+  "applications": [
+    {
+      "category": "Power Supply Filtering",
+      "description": "Removes voltage ripple from rectified AC",
+      "examples": [
+        "Smoothing capacitors",
+        "Bulk storage"
+      ]
+    },
+    {
+      "category": "Signal Coupling/Decoupling",
+      "description": "Passes AC signals while blocking DC",
+      "examples": [
+        "Audio coupling",
+        "Power supply decoupling"
+      ]
+    },
+    {
+      "category": "Timing Circuits",
+      "description": "RC networks control clock frequencies",
+      "examples": [
+        "555 timer",
+        "Oscillators"
+      ]
+    },
+    {
+      "category": "Tuning",
+      "description": "Selects desired frequencies in RF circuits",
+      "examples": [
+        "Radio tuning",
+        "Filters"
+      ]
+    },
+    {
+      "category": "Energy Storage",
+      "description": "Stores energy for flash photography and PFC",
+      "examples": [
+        "Camera flash",
+        "Power factor correction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "failureModes": [
+    {
+      "failure": "Intermittent Wiper",
+      "symptoms": [
+        "Crackling",
+        "Jumpy response"
+      ],
+      "causes": [
+        "Dirt",
+        "Wear"
+      ],
+      "solution": "Clean or replace"
+    },
+    {
+      "failure": "Open Track",
+      "symptoms": [
+        "No output in part of range"
+      ],
+      "causes": [
+        "Wear",
+        "Overload"
+      ],
+      "solution": "Replace pot"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Value changes with use"
+      ],
+      "causes": [
+        "Aging",
+        "Moisture"
+      ],
+      "solution": "Replace; use sealed type"
+    }
+  ]
+}

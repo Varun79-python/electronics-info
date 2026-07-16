@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "inductor",
+      "relationship": "A transformer is two coupled inductors"
+    },
+    {
+      "id": "rectifier",
+      "relationship": "Transforms then rectifies AC to DC"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Output capacitors smooth rectified DC"
+    },
+    {
+      "id": "voltage-regulator",
+      "relationship": "Regulates transformer output"
+    }
+  ]
+}

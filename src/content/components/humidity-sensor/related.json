@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "temperature-sensor",
+      "relationship": "Paired"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads"
+    },
+    {
+      "id": "adc",
+      "relationship": "Analog path"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage usually; safe.",
+  "currentSafety": "Stall current high; fuse.",
+  "thermalSafety": "Overload heats; ventilate.",
+  "handling": "Keep fingers clear of rotor.",
+  "storage": "Dry.",
+  "disposal": "E-waste; recycle magnets/copper."
+}

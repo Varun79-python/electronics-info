@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "resistor",
+      "relationship": "A potentiometer is a variable resistor"
+    },
+    {
+      "id": "rheostat",
+      "relationship": "Two-terminal variable resistor variant"
+    },
+    {
+      "id": "trimmer",
+      "relationship": "Miniature preset potentiometer"
+    },
+    {
+      "id": "op-amp",
+      "relationship": "Sets gain and bias via dividers"
+    }
+  ]
+}

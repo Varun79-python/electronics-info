@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage Rating",
+      "description": "V_DS > 1.5-2x max."
+    },
+    {
+      "step": 2,
+      "title": "R_DS(on)",
+      "description": "Minimize for efficiency."
+    },
+    {
+      "step": 3,
+      "title": "Gate Drive",
+      "description": "Ensure V_GS fully enhances."
+    },
+    {
+      "step": 4,
+      "title": "Thermal",
+      "description": "Heatsink for P_loss."
+    }
+  ],
+  "tips": [
+    "Use logic-level for MCU",
+    "Gate driver for fast switching",
+    "Watch body diode in bridges",
+    "ESD-protect the gate"
+  ]
+}

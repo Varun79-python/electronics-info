@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A thyristor latches on after:",
+      "options": [
+        "Gate pulse",
+        "Voltage rise",
+        "Temperature",
+        "Light"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gate triggers latching.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "It turns off when:",
+      "options": [
+        "Gate low",
+        "Current < holding",
+        "Voltage high",
+        "Light off"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Below holding current.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "SCR stands for:",
+      "options": [
+        "Silicon Controlled Rectifier",
+        "Switch Circuit Relay",
+        "Semi Conductor Resistor",
+        "Signal Control Reg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Silicon Controlled Rectifier.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Phase control varies:",
+      "options": [
+        "Frequency",
+        "Firing angle",
+        "Voltage only",
+        "Current only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Delay angle sets power.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Snubber limits:",
+      "options": [
+        "Current only",
+        "di/dt and dv/dt",
+        "Temperature",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Protects against fast transients.",
+      "difficulty": "advanced"
+    }
+  ]
+}

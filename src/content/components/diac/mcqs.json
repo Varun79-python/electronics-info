@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A DIAC is:",
+      "options": [
+        "Unidirectional",
+        "Bidirectional trigger",
+        "A transistor",
+        "A diode rectifier"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fires both polarities.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "It triggers a:",
+      "options": [
+        "MOSFET",
+        "TRIAC",
+        "BJT",
+        "LED"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Common TRIAC trigger.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Breakover is about:",
+      "options": [
+        "1V",
+        "30V",
+        "100V",
+        "1kV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Typical ~30V.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "DIAC has:",
+      "options": [
+        "A gate",
+        "No gate",
+        "Three terminals",
+        "Four layers only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two-terminal, no gate.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Power supplies",
+        "Dimmers",
+        "Radios",
+        "Clocks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "AC dimmer trigger.",
+      "difficulty": "beginner"
+    }
+  ]
+}

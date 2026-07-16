@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Coriolis",
+      "definition": "Force on moving mass in rotating frame."
+    },
+    {
+      "term": "Bias",
+      "definition": "Zero-rate offset."
+    },
+    {
+      "term": "IMU",
+      "definition": "Inertial measurement unit."
+    },
+    {
+      "term": "Angular Rate",
+      "definition": "Rotation speed (°/s)."
+    }
+  ]
+}

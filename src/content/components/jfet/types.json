@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "N-Channel JFET",
+      "description": "Electrons carry current.",
+      "applications": [
+        "Low-noise amps"
+      ]
+    },
+    {
+      "name": "P-Channel JFET",
+      "description": "Holes carry current.",
+      "applications": [
+        "Complementary"
+      ]
+    },
+    {
+      "name": "Dual JFET",
+      "description": "Matched pair.",
+      "applications": [
+        "Differential pairs"
+      ]
+    }
+  ]
+}

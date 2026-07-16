@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Piezoresistive",
+      "description": "Silicon strain.",
+      "applications": [
+        "Automotive"
+      ]
+    },
+    {
+      "name": "Capacitive",
+      "description": "Plate gap change.",
+      "applications": [
+        "Low pressure"
+      ]
+    },
+    {
+      "name": "Strain Gauge",
+      "description": "Metal foil bridge.",
+      "applications": [
+        "Industrial"
+      ]
+    },
+    {
+      "name": "Absolute/Gauge",
+      "description": "Referenced types.",
+      "applications": [
+        "Barometer"
+      ]
+    }
+  ]
+}

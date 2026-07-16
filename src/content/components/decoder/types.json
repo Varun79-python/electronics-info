@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "2:4 / 3:8",
+      "description": "Common sizes.",
+      "applications": [
+        "Select"
+      ]
+    },
+    {
+      "name": "BCD-7seg",
+      "description": "Drives display.",
+      "applications": [
+        "Meters"
+      ]
+    },
+    {
+      "name": "Address Decoder",
+      "description": "Memory select.",
+      "applications": [
+        "CPU"
+      ]
+    },
+    {
+      "name": "One-hot",
+      "description": "Single active.",
+      "applications": [
+        "Logic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Intrinsic Standoff η",
+      "definition": "Fraction of V_BB at which the emitter fires."
+    },
+    {
+      "term": "Relaxation Oscillator",
+      "definition": "Circuit charging/discharging a capacitor to make pulses."
+    },
+    {
+      "term": "PUT",
+      "definition": "Programmable UJT; adjustable parameters."
+    },
+    {
+      "term": "Negative Resistance",
+      "definition": "Emitter resistance drops as current rises."
+    }
+  ]
+}

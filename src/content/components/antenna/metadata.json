@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "antenna",
+    "name": "Antenna",
+    "category": "communication",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 85,
+    "status": "published"
+  }
+}

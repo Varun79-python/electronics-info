@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "igbt",
+    "name": "IGBT",
+    "category": "semiconductor",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 21,
+    "status": "published"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "Permanent Magnet",
+      "description": "Common, good torque.",
+      "applications": [
+        "Printers",
+        "CNC"
+      ]
+    },
+    {
+      "name": "Hybrid",
+      "definition": "High resolution.",
+      "description": "Combines PM and VR.",
+      "applications": [
+        "Precision"
+      ]
+    },
+    {
+      "name": "Variable Reluctance",
+      "description": "Soft iron rotor.",
+      "applications": [
+        "Legacy"
+      ]
+    }
+  ]
+}

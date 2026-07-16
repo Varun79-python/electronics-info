@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Semiconductor Layer",
+      "function": "Photoconductive",
+      "material": "CdS"
+    },
+    {
+      "name": "Electrodes",
+      "function": "Collect",
+      "material": "Metal comb"
+    },
+    {
+      "name": "Substrate",
+      "function": "Support",
+      "material": "Ceramic"
+    },
+    {
+      "name": "Encapsulation",
+      "function": "Protect",
+      "material": "Epoxy"
+    }
+  ]
+}

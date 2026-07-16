@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "JFET gate is:",
+      "options": [
+        "Forward biased",
+        "Reverse biased",
+        "Shorted",
+        "Floating"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reverse-biased junction.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "JFET input impedance is:",
+      "options": [
+        "Low",
+        "Very high",
+        "Medium",
+        "Zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reverse-biased gate → high Z.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "N-JFET is normally:",
+      "options": [
+        "Off",
+        "On",
+        "Broken",
+        "Reverse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conducts at V_GS=0.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Pinch-off voltage:",
+      "options": [
+        "Turns it on",
+        "Closes channel",
+        "Raises gain",
+        "Lowers V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Channel closes at pinch-off.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "JFET excels at:",
+      "options": [
+        "Power",
+        "Low-noise analog",
+        "Digital",
+        "RF power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Low-noise front-ends.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

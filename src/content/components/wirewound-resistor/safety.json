@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "High-power types can be at mains voltage; insulate.",
+  "currentSafety": "Exceeding rating causes burnout.",
+  "thermalSafety": "Surfaces get very hot; use heatsinks and spacing.",
+  "handling": "Avoid touching when hot.",
+  "storage": "Store dry.",
+  "disposal": "E-waste; metal recyclable."
+}

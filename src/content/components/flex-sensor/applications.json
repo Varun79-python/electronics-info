@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Wearables",
+      "description": "Gesture",
+      "examples": [
+        "Gloves"
+      ]
+    },
+    {
+      "category": "Robotics",
+      "description": "Joint angle",
+      "examples": [
+        "Limbs"
+      ]
+    },
+    {
+      "category": "HMI",
+      "description": "Bend input",
+      "examples": [
+        "Toys"
+      ]
+    }
+  ]
+}

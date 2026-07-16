@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "An H-bridge of four switches reverses polarity across the motor; PWM controls speed; drivers handle high current and flyback.",
+  "steps": [
+    "MCU sends direction/PWM",
+    "H-bridge switches polarity",
+    "Motor spins one way",
+    "Reverse switches -> other way",
+    "PWM sets speed"
+  ],
+  "microscopicExplanation": "Diagonal switch pairs conduct to set polarity; freewheeling diodes clamp inductive kickback."
+}

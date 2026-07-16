@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Swollen",
+      "symptoms": [
+        "Bulge"
+      ],
+      "causes": [
+        "Overcharge"
+      ],
+      "solution": "Replace safely"
+    },
+    {
+      "failure": "Dead",
+      "symptoms": [
+        "No V"
+      ],
+      "causes": [
+        "Deep discharge"
+      ],
+      "solution": "Recycle"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Hot"
+      ],
+      "causes": [
+        "Short"
+      ],
+      "solution": "Disconnect"
+    }
+  ]
+}

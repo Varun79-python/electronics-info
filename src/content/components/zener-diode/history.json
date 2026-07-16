@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1934,
+    "inventor": "Clarence Zener (theory), developed 1950s",
+    "discovery": "Zener described the breakdown theory in 1934; practical Zener diodes came in the 1950s.",
+    "evolution": [
+      {
+        "year": 1934,
+        "event": "Zener describes breakdown theory"
+      },
+      {
+        "year": 1950,
+        "event": "First Zener diodes produced"
+      },
+      {
+        "year": 1970,
+        "event": "Precision reference Zeners"
+      }
+    ]
+  }
+}

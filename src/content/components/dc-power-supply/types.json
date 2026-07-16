@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "Linear Supply",
+      "description": "Transformer + linear reg.",
+      "applications": [
+        "Bench",
+        "Audio"
+      ]
+    },
+    {
+      "name": "Switching Supply (SMPS)",
+      "description": "Efficient, compact.",
+      "applications": [
+        "Chargers",
+        "Computers"
+      ]
+    },
+    {
+      "name": "Bench Supply",
+      "description": "Adjustable, metered.",
+      "applications": [
+        "Lab"
+      ]
+    }
+  ]
+}

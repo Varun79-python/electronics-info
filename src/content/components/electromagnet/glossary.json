@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Flux",
+      "definition": "Magnetic field lines."
+    },
+    {
+      "term": "Soft Iron",
+      "definition": "Easily magnetized/demagnetized core."
+    },
+    {
+      "term": "Turns",
+      "definition": "Coil windings."
+    },
+    {
+      "term": "Residual Magnetism",
+      "definition": "Remaining field after off."
+    }
+  ]
+}

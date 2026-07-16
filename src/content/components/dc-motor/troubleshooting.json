@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Start",
+      "symptoms": [
+        "Hum, no spin"
+      ],
+      "causes": [
+        "Stuck",
+        "Open coil"
+      ],
+      "solution": "Free; replace"
+    },
+    {
+      "failure": "Brush Wear",
+      "symptoms": [
+        "Sparks, weak"
+      ],
+      "causes": [
+        "Age"
+      ],
+      "solution": "Replace brushes/motor"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Hot"
+      ],
+      "causes": [
+        "Stall",
+        "Overload"
+      ],
+      "solution": "Reduce load"
+    }
+  ]
+}

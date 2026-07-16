@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Schottky forward drop is about:",
+      "options": [
+        "0.7V",
+        "0.2V",
+        "1.5V",
+        "3V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Around 0.15-0.4V.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Key advantage over p-n:",
+      "options": [
+        "Higher voltage",
+        "No reverse recovery",
+        "Lower cost",
+        "Higher current"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Near-zero recovery time.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Schottky is made of:",
+      "options": [
+        "p-n junction",
+        "Metal-semiconductor",
+        "Two metals",
+        "Insulator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Metal-semiconductor junction.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Main weakness:",
+      "options": [
+        "Slow",
+        "High leakage/high temp",
+        "Large",
+        "Expensive always"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leakage rises with temperature.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Common use:",
+      "options": [
+        "High-voltage rectifier",
+        "Freewheeling in SMPS",
+        "Zener ref",
+        "LED"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freewheeling/rectification in supplies.",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A Zener diode operates in:",
+      "options": [
+        "Forward bias",
+        "Reverse breakdown",
+        "Cutoff",
+        "Saturation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It regulates in reverse breakdown.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Zener voltage near ___ has near-zero tempco.",
+      "options": [
+        "2V",
+        "5V",
+        "12V",
+        "24V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Around 5V tempco crosses zero.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Series resistor purpose:",
+      "options": [
+        "Boost voltage",
+        "Limit current",
+        "Filter",
+        "Amplify"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Limits Zener current.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Below 5V breakdown is mainly:",
+      "options": [
+        "Avalanche",
+        "Zener (tunneling)",
+        "Thermal",
+        "Capacitive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tunneling dominates below 5V.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Zener power is:",
+      "options": [
+        "V×I",
+        "V²/R",
+        "I²R",
+        "½CV²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "P = V_Z × I_Z.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

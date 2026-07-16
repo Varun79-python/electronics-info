@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "diode",
+      "relationship": "Specialized diode"
+    },
+    {
+      "id": "varactor-diode",
+      "relationship": "Another microwave diode"
+    },
+    {
+      "id": "transistor",
+      "relationship": "Superseded it for most uses"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Resonant tank element"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Brightness",
+      "formula": "L ∝ current density",
+      "description": "Drive sets lum.",
+      "variables": [
+        {
+          "symbol": "L",
+          "name": "Luminance",
+          "unit": "cd/m²"
+        }
+      ],
+      "example": "Per pixel"
+    },
+    {
+      "name": "Power",
+      "formula": "P = Σ pixel current × V",
+      "description": "Depends content.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "Black saves"
+    }
+  ]
+}

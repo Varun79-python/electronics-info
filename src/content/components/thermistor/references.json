@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Thermistor Handbook",
+      "author": "Murata",
+      "year": 2018,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "Temperature Measurement",
+      "author": "National Instruments",
+      "year": 2020,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

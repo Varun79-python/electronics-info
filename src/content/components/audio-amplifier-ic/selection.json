@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Power",
+      "description": "Match speaker."
+    },
+    {
+      "step": 2,
+      "title": "Class",
+      "description": "AB vs D."
+    },
+    {
+      "step": 3,
+      "title": "Supply",
+      "description": "Available V."
+    },
+    {
+      "step": 4,
+      "title": "Load",
+      "description": "Ohms."
+    }
+  ],
+  "tips": [
+    "Heatsink for AB",
+    "Filter Class D output",
+    "Stable load"
+  ]
+}

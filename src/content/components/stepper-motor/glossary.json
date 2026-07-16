@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Step Angle",
+      "definition": "Rotation per full step."
+    },
+    {
+      "term": "Microstepping",
+      "definition": "Fractional steps via current control."
+    },
+    {
+      "term": "Holding Torque",
+      "definition": "Torque at standstill with energized coils."
+    },
+    {
+      "term": "Bipolar",
+      "definition": "Driver reverses coil current for more torque."
+    }
+  ]
+}

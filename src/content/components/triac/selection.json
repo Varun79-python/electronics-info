@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage Rating",
+      "description": "Exceed peak AC with margin."
+    },
+    {
+      "step": 2,
+      "title": "Current Rating",
+      "description": "RMS load current with margin."
+    },
+    {
+      "step": 3,
+      "title": "Snubber",
+      "description": "Needed for inductive loads."
+    },
+    {
+      "step": 4,
+      "title": "Trigger",
+      "description": "Opto-triac or diac trigger."
+    }
+  ],
+  "tips": [
+    "Use snubberless for motors",
+    "Opto-isolate the gate",
+    "Mind commutating dv/dt",
+    "Filter EMI"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "relay",
+    "name": "Relay",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 32,
+    "status": "published"
+  }
+}

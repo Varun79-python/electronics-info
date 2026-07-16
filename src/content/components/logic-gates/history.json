@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1938,
+    "inventor": "Claude Shannon (Boolean)",
+    "discovery": "Shannon showed Boolean algebra maps to switching circuits, founding digital logic.",
+    "evolution": [
+      {
+        "year": 1938,
+        "event": "Boolean circuits"
+      },
+      {
+        "year": 1960,
+        "event": "IC gates"
+      },
+      {
+        "year": 2000,
+        "event": "Nanometer CMOS"
+      }
+    ]
+  }
+}

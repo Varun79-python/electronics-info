@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "AWG",
+      "definition": "Wire gauge standard."
+    },
+    {
+      "term": "M/M",
+      "definition": "Male-male ends."
+    },
+    {
+      "term": "Dupont",
+      "definition": "Common connector type."
+    },
+    {
+      "term": "Solid",
+      "definition": "Single stiff conductor."
+    }
+  ]
+}

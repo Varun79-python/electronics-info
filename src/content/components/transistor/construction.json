@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Emitter",
+      "function": "Injects carriers",
+      "material": "Heavily doped"
+    },
+    {
+      "name": "Base",
+      "function": "Controls transport",
+      "material": "Thin, lightly doped"
+    },
+    {
+      "name": "Collector",
+      "function": "Collects carriers",
+      "material": "Moderately doped"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect (B, C, E)",
+      "material": "Tinned leads"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Signal",
+      "symptoms": [
+        "Zero current"
+      ],
+      "causes": [
+        "No light",
+        "Wiring"
+      ],
+      "solution": "Check optics/wiring"
+    },
+    {
+      "failure": "High Noise",
+      "symptoms": [
+        "Jittery reading"
+      ],
+      "causes": [
+        "Ambient",
+        "Dark current"
+      ],
+      "solution": "Shield; cool"
+    },
+    {
+      "failure": "Saturation",
+      "symptoms": [
+        "Flat response"
+      ],
+      "causes": [
+        "Too bright"
+      ],
+      "solution": "Attenuate light"
+    }
+  ]
+}

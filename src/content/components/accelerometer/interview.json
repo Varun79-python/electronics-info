@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does it measure?",
+      "answer": "Acceleration including gravity (tilt)."
+    },
+    {
+      "question": "At rest reads?",
+      "answer": "About 1g from gravity."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why 1g at rest?",
+      "answer": "Gravity acts as acceleration on the mass."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "MEMS sensing method?",
+      "answer": "Capacitive change of moving mass vs fixed plates."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Reduce drift?",
+      "answer": "Calibrate offset/gain and temperature-compensate."
+    }
+  ]
+}

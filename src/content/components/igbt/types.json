@@ -1,0 +1,25 @@
+{
+  "types": [
+    {
+      "name": "Punch-Through (PT)",
+      "description": "Older, faster",
+      "applications": [
+        "Legacy drives"
+      ]
+    },
+    {
+      "name": "Non-Punch-Through (NPT)",
+      "description": "Robust, short-circuit rated",
+      "applications": [
+        "Industrial"
+      ]
+    },
+    {
+      "name": "Trench-Gate",
+      "description": "Lower V_CE(sat)",
+      "applications": [
+        "Modern inverters"
+      ]
+    }
+  ]
+}

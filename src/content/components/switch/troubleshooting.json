@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Burnt Contacts",
+      "symptoms": [
+        "No continuity"
+      ],
+      "causes": [
+        "Arcing/overload"
+      ],
+      "solution": "Replace switch"
+    },
+    {
+      "failure": "Stuck",
+      "symptoms": [
+        "Won't toggle"
+      ],
+      "causes": [
+        "Dirt/age"
+      ],
+      "solution": "Clean or replace"
+    },
+    {
+      "failure": "Bounce",
+      "symptoms": [
+        "Flicker"
+      ],
+      "causes": [
+        "Mechanical"
+      ],
+      "solution": "Debounce in logic"
+    }
+  ]
+}

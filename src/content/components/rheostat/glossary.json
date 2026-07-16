@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Rheostat",
+      "definition": "A two-terminal variable resistor for current control."
+    },
+    {
+      "term": "Wiper",
+      "definition": "The moving contact selecting resistance."
+    },
+    {
+      "term": "Wirewound",
+      "definition": "Resistive element made of resistance wire; handles high power."
+    },
+    {
+      "term": "Potentiometer",
+      "definition": "Three-terminal version used as a divider."
+    }
+  ]
+}

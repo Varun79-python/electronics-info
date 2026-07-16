@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Obsolete vs IC timers",
+    "Fixed η per device",
+    "Limited frequency range",
+    "Temperature drift",
+    "Not for precision",
+    "Large vs IC"
+  ]
+}

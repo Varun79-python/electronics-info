@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Mains/high voltage; qualified service.",
+  "currentSafety": "Arc flash risk; isolation required.",
+  "thermalSafety": "Overload causes fire; use protection.",
+  "handling": "Qualified only.",
+  "storage": "Dry.",
+  "disposal": "E-waste; recycle metals."
+}

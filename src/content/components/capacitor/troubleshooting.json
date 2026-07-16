@@ -1,0 +1,43 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open Circuit",
+      "symptoms": [
+        "No capacitance reading",
+        "Circuit fails to filter/decouple"
+      ],
+      "causes": [
+        "Overvoltage",
+        "Thermal stress",
+        "Ageing"
+      ],
+      "solution": "Replace with correct voltage rating"
+    },
+    {
+      "failure": "Short Circuit (Electrolytic)",
+      "symptoms": [
+        "Low resistance",
+        "Circuit draws excess current"
+      ],
+      "causes": [
+        "Reverse polarity",
+        "Overvoltage",
+        "Internal breakdown"
+      ],
+      "solution": "Replace immediately; check polarity"
+    },
+    {
+      "failure": "Increased ESR",
+      "symptoms": [
+        "Poor filtering",
+        "Excess heat",
+        "Ripple increases"
+      ],
+      "causes": [
+        "Ageing",
+        "High temperature"
+      ],
+      "solution": "Replace with low-ESR type"
+    }
+  ]
+}

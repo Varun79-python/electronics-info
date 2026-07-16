@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1888,
+    "inventor": "Heinrich Hertz (radio waves)",
+    "discovery": "Hertz demonstrated electromagnetic wave transmission, founding radio.",
+    "evolution": [
+      {
+        "year": 1888,
+        "event": "First antenna"
+      },
+      {
+        "year": 1900,
+        "event": "Marconi radio"
+      },
+      {
+        "year": 2000,
+        "event": "Integrated antennas"
+      }
+    ]
+  }
+}

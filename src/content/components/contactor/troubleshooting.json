@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "Coil Burnout",
+      "symptoms": [
+        "No pull-in"
+      ],
+      "causes": [
+        "Overvoltage"
+      ],
+      "solution": "Replace; check V"
+    },
+    {
+      "failure": "Welded Contacts",
+      "symptoms": [
+        "Stuck on"
+      ],
+      "causes": [
+        "Arc",
+        "Short"
+      ],
+      "solution": "Replace; protect"
+    },
+    {
+      "failure": "Chatter",
+      "symptoms": [
+        "Buzz, flicker"
+      ],
+      "causes": [
+        "Low coil V"
+      ],
+      "solution": "Raise voltage"
+    }
+  ]
+}

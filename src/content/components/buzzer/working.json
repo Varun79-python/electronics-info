@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "An electromagnetic buzzer uses a vibrating armature; a piezo buzzer uses a crystal that flexes when voltage is applied, both creating sound at a set frequency.",
+  "steps": [
+    "Voltage applied to the element",
+    "Piezo flexes or armature vibrates",
+    "Mechanical oscillation creates sound",
+    "Resonant cavity amplifies tone",
+    "Sound emitted at rated frequency"
+  ],
+  "microscopicExplanation": "Piezoelectric material changes shape with voltage, oscillating at its mechanical resonance; electromagnetic types use an AC-driven coil to vibrate a diaphragm."
+}

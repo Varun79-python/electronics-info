@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Piezoelectric",
+      "definition": "Generates charge under mechanical stress; used to vibrate quartz."
+    },
+    {
+      "term": "ppm",
+      "definition": "Parts per million; unit of frequency accuracy."
+    },
+    {
+      "term": "TCXO",
+      "definition": "Temperature-compensated crystal oscillator."
+    },
+    {
+      "term": "OCXO",
+      "definition": "Oven-controlled crystal oscillator; ultra-stable."
+    },
+    {
+      "term": "Load Capacitance",
+      "definition": "External capacitance that sets exact frequency."
+    }
+  ]
+}

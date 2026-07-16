@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Proof Mass",
+      "function": "Responds to a",
+      "material": "Silicon"
+    },
+    {
+      "name": "Spring",
+      "function": "Restores",
+      "material": "Silicon"
+    },
+    {
+      "name": "Sense Plates",
+      "function": "Capacitive sense",
+      "material": "Silicon"
+    },
+    {
+      "name": "ASIC",
+      "function": "Condition",
+      "material": "Silicon"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Wavelength",
+      "typicalValues": "850-940nm",
+      "notes": "Near IR"
+    },
+    {
+      "name": "Range",
+      "typicalValues": "2cm to 10m",
+      "notes": "By type"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "Digital/analog",
+      "notes": "Varied"
+    },
+    {
+      "name": "Field",
+      "typicalValues": "Narrow/wide",
+      "notes": "Lens"
+    }
+  ]
+}

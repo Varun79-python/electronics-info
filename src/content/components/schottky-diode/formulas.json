@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Forward Drop",
+      "formula": "V_F ≈ 0.15 to 0.4V",
+      "description": "Much lower than silicon p-n.",
+      "variables": [
+        {
+          "symbol": "V_F",
+          "name": "Forward voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "0.2V at low current"
+    },
+    {
+      "name": "Rectifier Loss",
+      "formula": "P_loss = V_F × I",
+      "description": "Lower V_F means less heat.",
+      "variables": [
+        {
+          "symbol": "P_loss",
+          "name": "Loss",
+          "unit": "W"
+        }
+      ],
+      "example": "0.2V × 1A = 0.2W"
+    }
+  ]
+}

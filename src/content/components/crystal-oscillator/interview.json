@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What does a crystal oscillator do?",
+      "answer": "It generates a highly stable clock frequency using a vibrating quartz crystal."
+    },
+    {
+      "question": "Why is a crystal stable?",
+      "answer": "The quartz's mechanical resonance has very high Q, giving low drift with temperature and time."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is load capacitance?",
+      "answer": "The external capacitance required to make the crystal oscillate at its marked frequency."
+    },
+    {
+      "question": "What is ppm?",
+      "answer": "Parts per million; a measure of frequency accuracy and stability."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What is a TCXO and when use it?",
+      "answer": "A temperature-compensated oscillator; use it where stability over a wide temperature range matters, like GPS."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Why limit crystal drive level?",
+      "answer": "Excess drive accelerates aging and can fracture the quartz, reducing long-term stability."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a jumper wire?",
+      "answer": "A short wire to connect points in a prototype."
+    },
+    {
+      "question": "M/F means?",
+      "answer": "One male pin, one female socket."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Current limit?",
+      "answer": "Thin wire ~1A; don't power heavy loads."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Solid vs stranded?",
+      "answer": "Solid fits breadboard; stranded flexes for modules."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Signal integrity?",
+      "answer": "Keep short; avoid loops in high-speed."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Current-driven (needs base current)",
+    "β varies with temp and batch",
+    "Lower input impedance than MOSFET",
+    "Storage-time switching delay",
+    "Power dissipation",
+    "Second-breakdown risk (bipolar)"
+  ]
+}

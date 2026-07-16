@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "MOS Gate",
+      "function": "Controls switching",
+      "material": "Poly/SiO2"
+    },
+    {
+      "name": "Drift Region",
+      "function": "Blocks high voltage",
+      "material": "N- silicon"
+    },
+    {
+      "name": "Collector/Emitter",
+      "function": "Power terminals",
+      "material": "Doped silicon"
+    },
+    {
+      "name": "Body Diode",
+      "function": "Freewheeling",
+      "material": "Parasitic"
+    }
+  ]
+}

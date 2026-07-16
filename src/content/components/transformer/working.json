@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "An alternating current in the primary coil creates a changing magnetic flux in the core, which induces a proportional voltage in the secondary coil (Faraday's law). The turns ratio sets the voltage ratio.",
+  "steps": [
+    "AC in the primary winding produces a changing magnetic flux",
+    "The core guides nearly all flux to the secondary winding",
+    "Changing flux induces a voltage in the secondary (N_s/N_p ratio)",
+    "Power is conserved (ideal): V_p × I_p = V_s × I_s",
+    "The secondary delivers transformed voltage/current to the load"
+  ],
+  "microscopicExplanation": "Mutual inductance between windings links their flux. In an ideal transformer, the core loss and leakage flux are zero, so voltage scales exactly with turns ratio and current inversely."
+}

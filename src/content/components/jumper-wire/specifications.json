@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Gauge",
+      "typicalValues": "22-26 AWG",
+      "notes": "Breadboard"
+    },
+    {
+      "name": "Length",
+      "typicalValues": "2-30cm",
+      "notes": "Varied"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "M/M, M/F, F/F",
+      "notes": "Ends"
+    },
+    {
+      "name": "Current",
+      "typicalValues": "~1A",
+      "notes": "Limit"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Range",
+      "typicalValues": "±2g to ±16g",
+      "notes": "Full scale"
+    },
+    {
+      "name": "Sensitivity",
+      "typicalValues": "mg/LSB",
+      "notes": "Resolution"
+    },
+    {
+      "name": "Bandwidth",
+      "typicalValues": "up to kHz",
+      "notes": "Response"
+    },
+    {
+      "name": "Axes",
+      "typicalValues": "1/2/3",
+      "notes": "Count"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Diaphragm",
+      "function": "Deflects",
+      "material": "Silicon/steel"
+    },
+    {
+      "name": "Strain Gauge",
+      "function": "Sense strain",
+      "material": "Piezoresistive"
+    },
+    {
+      "name": "ASIC",
+      "function": "Condition",
+      "material": "Silicon"
+    },
+    {
+      "name": "Port",
+      "function": "Pressure inlet",
+      "material": "Metal"
+    }
+  ]
+}

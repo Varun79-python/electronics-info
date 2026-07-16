@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Negative Resistance",
+      "definition": "Current falls as voltage rises in a region."
+    },
+    {
+      "term": "Tunneling",
+      "definition": "Quantum crossing of a barrier without energy gain."
+    },
+    {
+      "term": "Peak/Valley",
+      "definition": "Points bounding the negative-resistance region."
+    },
+    {
+      "term": "Esaki Diode",
+      "definition": "Another name for tunnel diode."
+    }
+  ]
+}

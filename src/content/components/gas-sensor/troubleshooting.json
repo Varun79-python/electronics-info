@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Response",
+      "symptoms": [
+        "Flat"
+      ],
+      "causes": [
+        "Dead heater"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Wrong"
+      ],
+      "causes": [
+        "Aging"
+      ],
+      "solution": "Recalibrate"
+    },
+    {
+      "failure": "False",
+      "symptoms": [
+        "Triggers"
+      ],
+      "causes": [
+        "Other gas"
+      ],
+      "solution": "Filter/select"
+    }
+  ]
+}

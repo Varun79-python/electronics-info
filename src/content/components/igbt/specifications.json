@@ -1,0 +1,29 @@
+{
+  "specifications": [
+    {
+      "name": "V_CES",
+      "typicalValues": "600V to 6500V",
+      "notes": "Collector-emitter rating"
+    },
+    {
+      "name": "I_C",
+      "typicalValues": "10A to 3600A",
+      "notes": "Module level"
+    },
+    {
+      "name": "V_CE(sat)",
+      "typicalValues": "1.5V to 3V",
+      "notes": "Low at high current"
+    },
+    {
+      "name": "Switching Speed",
+      "typicalValues": "kHz to tens of kHz",
+      "notes": "Slower than MOSFET"
+    },
+    {
+      "name": "Short-Circuit Withstand",
+      "typicalValues": "5 to 10 µs",
+      "notes": "Important for protection"
+    }
+  ]
+}

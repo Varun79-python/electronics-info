@@ -1,0 +1,49 @@
+{
+  "types": [
+    {
+      "name": "Ceramic Capacitor",
+      "description": "Small, cheap, useful for high frequency. Capacitance varies with voltage and temperature.",
+      "applications": [
+        "Decoupling",
+        "RF circuits",
+        "General purpose"
+      ]
+    },
+    {
+      "name": "Electrolytic Capacitor",
+      "description": "Aluminum or tantalum plate with oxide dielectric. Very high capacitance but poor tolerance.",
+      "applications": [
+        "Power supply filtering",
+        "Energy storage",
+        "Audio coupling"
+      ]
+    },
+    {
+      "name": "Film Capacitor",
+      "description": "Plastic film dielectric. Better stability and ageing than older dielectrics.",
+      "applications": [
+        "Timer circuits",
+        "Motor start",
+        "Power-factor correction"
+      ]
+    },
+    {
+      "name": "Supercapacitor",
+      "description": "Extremely high capacitance (up to 5 kF) using carbon aerogel or nanotubes.",
+      "applications": [
+        "Backup power",
+        "Energy storage",
+        "Battery replacement"
+      ]
+    },
+    {
+      "name": "Variable Capacitor",
+      "description": "Mechanically or electrically controlled capacitance (varactor).",
+      "applications": [
+        "Tuning circuits",
+        "Phase-locked loops",
+        "RF filters"
+      ]
+    }
+  ]
+}

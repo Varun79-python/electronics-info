@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Target Gas",
+      "typicalValues": "CO, CH₄, LPG",
+      "notes": "Specific"
+    },
+    {
+      "name": "Range",
+      "typicalValues": "ppm to %",
+      "notes": "By type"
+    },
+    {
+      "name": "Heater",
+      "typicalValues": "5V, ~100mA",
+      "notes": "MQ needs heat"
+    },
+    {
+      "name": "Response",
+      "typicalValues": "seconds-min",
+      "notes": "Warm-up"
+    }
+  ]
+}

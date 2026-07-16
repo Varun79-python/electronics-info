@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "It amplifies the difference between its inverting and non-inverting inputs with very high open-loop gain, set by feedback.",
+  "steps": [
+    "Two inputs compared",
+    "Difference amplified hugely",
+    "Feedback network sets gain",
+    "Output drives load"
+  ],
+  "microscopicExplanation": "Internal differential pair and gain stages give high gain; negative feedback forces V+ ≈ V- (virtual short)."
+}

@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Breakover Voltage",
+      "definition": "Voltage at which the DIAC switches on."
+    },
+    {
+      "term": "Negative Resistance",
+      "definition": "Voltage drops as current rises during switching."
+    },
+    {
+      "term": "SIDAC",
+      "definition": "Silicon bilateral switch with latch."
+    },
+    {
+      "term": "Symmetric",
+      "definition": "Same behavior in both polarities."
+    }
+  ]
+}

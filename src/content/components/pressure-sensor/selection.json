@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "Above max pressure."
+    },
+    {
+      "step": 2,
+      "title": "Media",
+      "description": "Compatible material."
+    },
+    {
+      "step": 3,
+      "title": "Output",
+      "description": "Voltage/current/digital."
+    },
+    {
+      "step": 4,
+      "title": "Accuracy",
+      "description": "Needed precision."
+    }
+  ],
+  "tips": [
+    "Add overpressure margin",
+    "Temperature-compensate",
+    "Use 4-20mA for long runs"
+  ]
+}

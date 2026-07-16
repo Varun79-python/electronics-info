@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Reflectance",
+      "formula": "V ∝ reflected IR",
+      "description": "Distance signal.",
+      "variables": [
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "Closer = stronger"
+    },
+    {
+      "name": "Stefan-Boltzmann",
+      "formula": "P = ε σ T⁴",
+      "description": "Emitted IR power.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W/m²"
+        },
+        {
+          "symbol": "T",
+          "name": "Temp",
+          "unit": "K"
+        }
+      ],
+      "example": "Body heat"
+    }
+  ]
+}

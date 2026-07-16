@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "EMF",
+      "definition": "Cell open-circuit voltage."
+    },
+    {
+      "term": "C-rate",
+      "definition": "Charge/discharge speed vs capacity."
+    },
+    {
+      "term": "BMS",
+      "definition": "Battery management system."
+    },
+    {
+      "term": "Capacity",
+      "definition": "Stored charge (Ah)."
+    }
+  ]
+}

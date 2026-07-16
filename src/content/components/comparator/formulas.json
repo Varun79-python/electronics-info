@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Decision",
+      "formula": "Out = high if V+ > V-",
+      "description": "Comparison rule.",
+      "variables": [
+        {
+          "symbol": "Out",
+          "name": "Output",
+          "unit": ""
+        }
+      ],
+      "example": "Simple"
+    },
+    {
+      "name": "Hysteresis",
+      "formula": "V_th = V_ref ± (R2/R1) V_out",
+      "description": "Schmitt thresholds.",
+      "variables": [
+        {
+          "symbol": "V_th",
+          "name": "Threshold",
+          "unit": "V"
+        }
+      ],
+      "example": "Two thresholds"
+    }
+  ]
+}

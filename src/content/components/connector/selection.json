@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Signal/Power",
+      "description": "Class."
+    },
+    {
+      "step": 2,
+      "title": "Current",
+      "description": "Per pin."
+    },
+    {
+      "step": 3,
+      "title": "Pitch",
+      "description": "Space."
+    },
+    {
+      "step": 4,
+      "title": "Mating",
+      "description": "Cycles/orientation."
+    }
+  ],
+  "tips": [
+    "Keyed to avoid reverse",
+    "Gold for signals",
+    "Strain relief"
+  ]
+}

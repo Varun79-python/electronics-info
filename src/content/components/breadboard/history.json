@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "Ronald Morrison (modern breadboard)",
+    "discovery": "The solderless breadboard made rapid prototyping accessible.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "Solderless board"
+      },
+      {
+        "year": 1990,
+        "event": "Standard 0.1in"
+      },
+      {
+        "year": 2010,
+        "event": "Mini boards"
+      }
+    ]
+  }
+}

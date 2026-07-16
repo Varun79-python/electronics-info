@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Types vary: inductive senses metal via eddy currents; capacitive senses any material; optical uses light; ultrasonic uses sound.",
+  "steps": [
+    "Emitter/sensor active",
+    "Field interacts with object",
+    "Change detected (eddy/light/capacitance)",
+    "Output toggles"
+  ],
+  "microscopicExplanation": "Inductive: oscillator's coil field induces eddy currents in metal, damping the oscillation when near."
+}

@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1860,
+    "inventor": "Evolved with control theory",
+    "discovery": "Servomechanisms date to 19th-century steam engine governors; modern servo motors matured mid-20th century.",
+    "evolution": [
+      {
+        "year": 1868,
+        "event": "Maxwell analyzes governors"
+      },
+      {
+        "year": 1940,
+        "event": "WWII servo systems"
+      },
+      {
+        "year": 1990,
+        "event": "Digital servo drives"
+      }
+    ]
+  }
+}

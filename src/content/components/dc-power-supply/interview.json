@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What does a DC supply do?",
+      "answer": "Converts AC to a stable DC voltage for circuits."
+    },
+    {
+      "question": "Why filter capacitor?",
+      "answer": "It smooths the rectified pulsating DC into steadier DC."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Linear vs SMPS?",
+      "answer": "Linear is simple/low-noise but inefficient; SMPS is efficient and compact."
+    },
+    {
+      "question": "What causes ripple?",
+      "answer": "The capacitor discharging between rectified peaks; larger C reduces it."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How reduce SMPS EMI?",
+      "answer": "Proper filtering, shielding, and layout with good grounding."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Design a low-noise analog supply?",
+      "answer": "Use an SMPS pre-regulator followed by an LDO for low ripple and good efficiency."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "invention": {
+    "year": 1745,
+    "inventor": "Ewald Georg von Kleist, Pieter van Musschenbroek",
+    "discovery": "The earliest forms of capacitors were created in the 1740s as Leyden jars — water-filled glass jars that stored electric charge.",
+    "evolution": [
+      {
+        "year": 1745,
+        "event": "Leyden jar invented, first practical capacitor"
+      },
+      {
+        "year": 1874,
+        "event": "Paper capacitor developed"
+      },
+      {
+        "year": 1899,
+        "event": "Mica capacitors introduced"
+      },
+      {
+        "year": 1960,
+        "event": "Multilayer ceramic capacitors (MLCC) developed"
+      },
+      {
+        "year": 1990,
+        "event": "Supercapacitors commercialized for energy storage"
+      }
+    ]
+  }
+}

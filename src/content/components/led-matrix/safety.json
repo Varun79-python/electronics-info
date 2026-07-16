@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage.",
+  "currentSafety": "Peak current limit.",
+  "thermalSafety": "None.",
+  "handling": "Standard.",
+  "storage": "Dry.",
+  "disposal": "E-waste."
+}

@@ -1,0 +1,25 @@
+{
+  "invention": {
+    "year": 1959,
+    "inventor": "Mohamed Atalla, Dawon Kahng",
+    "discovery": "The first MOSFET was invented at Bell Labs, later enabling CMOS and modern microchips.",
+    "evolution": [
+      {
+        "year": 1959,
+        "event": "First MOSFET demonstrated"
+      },
+      {
+        "year": 1963,
+        "event": "CMOS invented"
+      },
+      {
+        "year": 1971,
+        "event": "First microprocessor (MOS)"
+      },
+      {
+        "year": 2000,
+        "event": "Nobel Prize for MOSFET"
+      }
+    ]
+  }
+}

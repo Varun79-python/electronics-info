@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "D Flip-Flop",
+      "description": "Data latch.",
+      "applications": [
+        "Registers"
+      ]
+    },
+    {
+      "name": "JK",
+      "description": "Toggle capable.",
+      "applications": [
+        "Counters"
+      ]
+    },
+    {
+      "name": "T (Toggle)",
+      "description": "Flips each clock.",
+      "applications": [
+        "Divide"
+      ]
+    },
+    {
+      "name": "SR Latch",
+      "description": "Set/reset.",
+      "applications": [
+        "Basic"
+      ]
+    }
+  ]
+}

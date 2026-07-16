@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Conductive Plates",
+      "function": "Store opposite charges",
+      "material": "Aluminum, tantalum, or metal foil"
+    },
+    {
+      "name": "Dielectric",
+      "function": "Insulates plates and stores electric field",
+      "material": "Ceramic, plastic film, paper, mica, electrolyte, or air"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect to circuit",
+      "material": "Tinned wire or leads"
+    },
+    {
+      "name": "Encapsulation",
+      "function": "Protects internal structure",
+      "material": "Epoxy, plastic, or metal can"
+    }
+  ]
+}

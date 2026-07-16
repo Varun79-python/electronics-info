@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "RH is:",
+      "options": [
+        "Vapor/sat ×100%",
+        "Temp",
+        "Pressure",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Relative humidity.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Capacitive humidity uses:",
+      "options": [
+        "Dielectric change",
+        "Coil",
+        "Diode",
+        "Resistor only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Permittivity shift.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Condensation can:",
+      "options": [
+        "Damage film",
+        "Help",
+        "None",
+        "Cool"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Wets sensor.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Often paired with:",
+      "options": [
+        "Temperature",
+        "Pressure",
+        "Light",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For dew point.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Output often:",
+      "options": [
+        "I²C",
+        "Relay",
+        "AC",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Digital bus.",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A solid or stranded conductor with ends plugs into sockets/headers to complete a circuit path.",
+  "steps": [
+    "Insert end into point A",
+    "Insert other into point B",
+    "Completes connection",
+    "Reposition as needed"
+  ],
+  "microscopicExplanation": "The conductor's low resistance carries signal/power; insulation prevents shorts to neighbors."
+}

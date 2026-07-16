@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Terminal Strips",
+      "function": "Connect rows",
+      "material": "Spring metal"
+    },
+    {
+      "name": "Power Rails",
+      "function": "Common supply",
+      "material": "Metal"
+    },
+    {
+      "name": "Center Gap",
+      "function": "Split IC rows",
+      "material": "Plastic"
+    },
+    {
+      "name": "Base",
+      "function": "Insulate",
+      "material": "Plastic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Differential Pair",
+      "function": "Compare inputs",
+      "material": "BJT/MOS"
+    },
+    {
+      "name": "Gain Stage",
+      "function": "Amplify",
+      "material": "Silicon"
+    },
+    {
+      "name": "Output Stage",
+      "function": "Drive load",
+      "material": "Silicon"
+    },
+    {
+      "name": "Bias",
+      "function": "Set current",
+      "material": "Silicon"
+    }
+  ]
+}

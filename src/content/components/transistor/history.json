@@ -1,0 +1,25 @@
+{
+  "invention": {
+    "year": 1947,
+    "inventor": "John Bardeen, Walter Brattain, William Shockley",
+    "discovery": "The first point-contact transistor was demonstrated at Bell Labs in December 1947.",
+    "evolution": [
+      {
+        "year": 1947,
+        "event": "First transistor (point-contact)"
+      },
+      {
+        "year": 1948,
+        "event": "Bipolar junction transistor"
+      },
+      {
+        "year": 1956,
+        "event": "Nobel Prize to inventors"
+      },
+      {
+        "year": 1960,
+        "event": "Integrated circuits emerge"
+      }
+    ]
+  }
+}

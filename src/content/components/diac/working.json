@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Below the breakover voltage the DIAC is off (high resistance). Once exceeded, it switches to a low-voltage conducting state until current falls below holding.",
+  "steps": [
+    "Voltage rises across the DIAC",
+    "Below breakover it stays off",
+    "At breakover voltage it switches on",
+    "A trigger pulse flows to the TRIAC gate",
+    "Current drops after firing; DIAC resets"
+  ],
+  "microscopicExplanation": "The p-n-p-n symmetric structure has no gate; avalanche breakdown at the breakover voltage creates a negative-resistance region that snaps the device into conduction."
+}

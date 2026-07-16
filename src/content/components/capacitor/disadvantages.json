@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Real capacitors dissipate small amounts of energy",
+    "Electrolytic types have poor tolerance and leakage",
+    "Voltage-dependent capacitance in ceramics",
+    "Can degrade if unused (electrolytic)",
+    "Polarized types can fail catastrophically if reversed",
+    "Limited energy density compared to batteries"
+  ]
+}

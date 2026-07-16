@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Frequency",
+      "typicalValues": "MHz-GHz",
+      "notes": "Band"
+    },
+    {
+      "name": "Gain",
+      "typicalValues": "0-15 dBi",
+      "notes": "Directivity"
+    },
+    {
+      "name": "Impedance",
+      "typicalValues": "50Ω",
+      "notes": "Match"
+    },
+    {
+      "name": "Polarization",
+      "typicalValues": "Linear/circular",
+      "notes": "Orientation"
+    }
+  ]
+}

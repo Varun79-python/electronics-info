@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A photodiode converts:",
+      "options": [
+        "Light to current",
+        "Current to light",
+        "Heat to current",
+        "Sound to current"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Light generates photocurrent.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PIN photodiodes are faster due to:",
+      "options": [
+        "Gain",
+        "Wide depletion/low C",
+        "Larger area",
+        "Higher voltage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intrinsic layer lowers capacitance.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Responsivity unit:",
+      "options": [
+        "V/W",
+        "A/W",
+        "W/A",
+        "dB"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amperes per watt.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "APD provides:",
+      "options": [
+        "No gain",
+        "Internal gain",
+        "Higher V_F",
+        "Lower speed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Avalanche multiplication gives gain.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Dark current is minimized by:",
+      "options": [
+        "Heating",
+        "Cooling",
+        "More light",
+        "Bias increase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cooling reduces leakage.",
+      "difficulty": "advanced"
+    }
+  ]
+}

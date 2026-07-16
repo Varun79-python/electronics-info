@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a DEMUX?",
+      "answer": "Routes one input to one of many outputs by select code."
+    },
+    {
+      "question": "1:8 needs select?",
+      "answer": "3 lines."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "DEMUX in memory?",
+      "answer": "Decodes addresses to enable one chip/row."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Crosstalk concern?",
+      "answer": "Guard and decode to avoid leakage."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Display use?",
+      "answer": "Scans digits by enabling one at a time."
+    }
+  ]
+}

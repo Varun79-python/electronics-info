@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Torque/Speed",
+      "description": "Match mechanical need."
+    },
+    {
+      "step": 2,
+      "title": "Feedback",
+      "description": "Resolution adequate."
+    },
+    {
+      "step": 3,
+      "title": "Drive",
+      "description": "Compatible servo drive."
+    },
+    {
+      "step": 4,
+      "title": "Tuning",
+      "description": "PID for stability."
+    }
+  ],
+  "tips": [
+    "Tune PID carefully",
+    "Use BLDC for efficiency",
+    "Gear for torque",
+    "Shield encoder lines"
+  ]
+}

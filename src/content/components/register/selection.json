@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Width",
+      "description": "Bits needed."
+    },
+    {
+      "step": 2,
+      "title": "Mode",
+      "description": "Parallel/shift."
+    },
+    {
+      "step": 3,
+      "title": "Speed",
+      "description": "Clock rate."
+    },
+    {
+      "step": 4,
+      "title": "Interface",
+      "description": "Bus type."
+    }
+  ],
+  "tips": [
+    "Match width",
+    "Use enable",
+    "Clock carefully"
+  ]
+}

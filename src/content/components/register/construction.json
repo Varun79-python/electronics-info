@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Flip-Flops",
+      "function": "Store bits",
+      "material": "Silicon"
+    },
+    {
+      "name": "Clock/Enable",
+      "function": "Control",
+      "material": "Signal"
+    },
+    {
+      "name": "Mux",
+      "function": "Select mode",
+      "material": "Silicon"
+    },
+    {
+      "name": "I/O Buffers",
+      "function": "Drive",
+      "material": "Silicon"
+    }
+  ]
+}

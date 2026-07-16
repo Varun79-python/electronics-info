@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "touch-sensor",
+    "name": "Touch Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 57,
+    "status": "published"
+  }
+}

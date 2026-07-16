@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Gate oxide ESD fragile",
+    "Gate charge switching loss",
+    "Body diode parasitic",
+    "Threshold varies with temp",
+    "Drives need gate driver at speed",
+    "Avalanche limited"
+  ]
+}

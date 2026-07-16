@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Divide-by-2",
+      "formula": "f_out = f_clk / 2",
+      "description": "T-FF divides.",
+      "variables": [
+        {
+          "symbol": "f_out",
+          "name": "Output",
+          "unit": "Hz"
+        }
+      ],
+      "example": "Frequency halver"
+    },
+    {
+      "name": "Setup Time",
+      "formula": "t_su before clock",
+      "description": "Input stable.",
+      "variables": [
+        {
+          "symbol": "t_su",
+          "name": "Setup",
+          "unit": "ns"
+        }
+      ],
+      "example": "Few ns"
+    }
+  ]
+}

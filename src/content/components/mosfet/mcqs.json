@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A MOSFET is controlled by:",
+      "options": [
+        "Base current",
+        "Gate voltage",
+        "Light",
+        "Emitter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Voltage on the gate.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Conduction loss is:",
+      "options": [
+        "I×V",
+        "I²×R_DS(on)",
+        "½CV²",
+        "V²/R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P = I²R_DS(on).",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Gate draws:",
+      "options": [
+        "High DC current",
+        "Almost no DC current",
+        "Base current",
+        "Leakage only at MHz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Insulated gate, no DC current.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Parasitic element in MOSFET:",
+      "options": [
+        "Zener",
+        "Body diode",
+        "Inductor",
+        "Transformer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Source-drain body diode.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "MOSFETs enabled:",
+      "options": [
+        "Relays",
+        "Microprocessors",
+        "Tubes",
+        "Motors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CMOS chips are MOSFET-based.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

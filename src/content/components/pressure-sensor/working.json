@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "A diaphragm deflects under pressure; the deflection is sensed by strain gauges (Wheatstone bridge) or capacitive/piezoresistive elements.",
+  "steps": [
+    "Pressure acts on diaphragm",
+    "Diaphragm deflects",
+    "Strain changes resistance/capacitance",
+    "Bridge outputs proportional voltage"
+  ],
+  "microscopicExplanation": "Piezoresistive silicon changes resistivity with mechanical stress; bridge converts to voltage."
+}

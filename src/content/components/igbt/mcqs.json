@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "IGBT combines:",
+      "options": [
+        "BJT + JFET",
+        "MOSFET input + BJT output",
+        "Two diodes",
+        "SCR + MOS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MOS gate, bipolar output.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "IGBT is best for:",
+      "options": [
+        "Low voltage",
+        "High power <20kHz",
+        "RF",
+        "Audio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "High-power moderate frequency.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "On-state loss is roughly:",
+      "options": [
+        "I²R",
+        "V_CE(sat)×I",
+        "½CV²",
+        "V²/R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Near-constant V_CE(sat).",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Turn-off shows:",
+      "options": [
+        "No loss",
+        "Tail current",
+        "Instant off",
+        "Negative resistance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stored charge tail.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "IGBT gate is like a:",
+      "options": [
+        "BJT base",
+        "MOSFET gate",
+        "SCR gate",
+        "Diode"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Voltage-controlled MOS gate.",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Light Emitting Diode",
+  "id": "led",
+  "category": "semiconductor",
+  "shortDescription": "A light-emitting diode (LED) is a semiconductor diode that emits light when forward biased, through electroluminescence in a direct-bandgap material.",
+  "whatIsIt": "A light-emitting diode (LED) is a semiconductor diode that emits light when forward biased, through electroluminescence in a direct-bandgap material.",
+  "whyExists": "LEDs provide efficient, long-life, low-power illumination and indicators across the visible and infrared spectrum.",
+  "whereUsed": "They are used in displays, indicators, lighting, remote controls, and optical communication.",
+  "thumbnail": "/assets/images/components/led/thumbnail.svg",
+  "schematic": "/assets/components/led/schematic/symbol.svg"
+}

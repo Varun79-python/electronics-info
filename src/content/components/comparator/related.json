@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "op-amp",
+      "relationship": "Linear cousin"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Hysteresis"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads output"
+    }
+  ]
+}

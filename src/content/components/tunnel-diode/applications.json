@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Microwave Oscillator",
+      "description": "Generates GHz signals",
+      "examples": [
+        "Local oscillators"
+      ]
+    },
+    {
+      "category": "Amplifier",
+      "description": "Negative-resistance amp",
+      "examples": [
+        "Low-noise"
+      ]
+    },
+    {
+      "category": "High-Speed Switch",
+      "description": "Fast logic",
+      "examples": [
+        "Legacy"
+      ]
+    }
+  ]
+}

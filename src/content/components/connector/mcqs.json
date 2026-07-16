@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Connector provides:",
+      "options": [
+        "Detachable link",
+        "Amplify",
+        "Regulate",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Interconnect.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Pitch is:",
+      "options": [
+        "Contact spacing",
+        "Current",
+        "Voltage",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Distance.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Gold plating for:",
+      "options": [
+        "Low contact R",
+        "Color",
+        "Strength",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Stable contact.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "USB is:",
+      "options": [
+        "Data+power connector",
+        "Resistor",
+        "Cap",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Standard.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "RF connector needs:",
+      "options": [
+        "Impedance match",
+        "High R",
+        "No shield",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "50Ω coax.",
+      "difficulty": "advanced"
+    }
+  ]
+}

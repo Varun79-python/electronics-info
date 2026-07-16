@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "DEMUX",
+      "definition": "One-to-many router."
+    },
+    {
+      "term": "One-hot",
+      "definition": "Single line active."
+    },
+    {
+      "term": "Decoder",
+      "definition": "Select logic."
+    },
+    {
+      "term": "MUX",
+      "definition": "Inverse (many-to-one)."
+    }
+  ]
+}

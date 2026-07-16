@@ -1,0 +1,26 @@
+{
+  "types": [
+    {
+      "name": "Variac Supply",
+      "description": "Adjustable transformer.",
+      "applications": [
+        "Bench",
+        "Lamps"
+      ]
+    },
+    {
+      "name": "AC Inverter",
+      "description": "Synthesized sine.",
+      "applications": [
+        "Motor drives"
+      ]
+    },
+    {
+      "name": "Function/AC Source",
+      "description": "Precise V/f.",
+      "applications": [
+        "Test"
+      ]
+    }
+  ]
+}

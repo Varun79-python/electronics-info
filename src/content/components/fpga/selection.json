@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Logic Need",
+      "description": "LUT count."
+    },
+    {
+      "step": 2,
+      "title": "Speed",
+      "description": "Clock/I/O."
+    },
+    {
+      "step": 3,
+      "title": "DSP/RAM",
+      "description": "Math/memory."
+    },
+    {
+      "step": 4,
+      "title": "Tools",
+      "description": "Vendor flow."
+    }
+  ],
+  "tips": [
+    "Estimate utilization <70%",
+    "Plan timing early",
+    "Use IP cores"
+  ]
+}

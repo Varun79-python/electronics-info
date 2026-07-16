@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What does a fuse do?",
+      "answer": "It melts to break the circuit when current is too high."
+    },
+    {
+      "question": "Fuse vs breaker?",
+      "answer": "Fuse is one-time; breaker resets."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why slow-blow for motors?",
+      "answer": "Motors have high inrush that would blow a fast fuse."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What is breaking capacity?",
+      "answer": "Max fault current the fuse can safely interrupt."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Select fuse for inductive load?",
+      "answer": "Use time-delay type and rate above running current."
+    }
+  ]
+}

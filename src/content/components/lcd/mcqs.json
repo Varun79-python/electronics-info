@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "LCD emits light?",
+      "options": [
+        "No (backlight does)",
+        "Yes",
+        "Sometimes",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Modulates only.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "TFT switches:",
+      "options": [
+        "Pixels",
+        "Backlight",
+        "Color",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Per-pixel.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Backlight is:",
+      "options": [
+        "LED source",
+        "Crystal",
+        "Glass",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Illuminates.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "IPS better at:",
+      "options": [
+        "Viewing angle",
+        "Speed",
+        "Cost",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Color/angle.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Resolution =",
+      "options": [
+        "W×H",
+        "W+H",
+        "W/H",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pixel count.",
+      "difficulty": "beginner"
+    }
+  ]
+}

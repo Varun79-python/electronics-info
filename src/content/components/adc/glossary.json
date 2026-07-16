@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "LSB",
+      "definition": "Least significant bit step size."
+    },
+    {
+      "term": "SAR",
+      "definition": "Successive approximation register."
+    },
+    {
+      "term": "Quantization",
+      "definition": "Mapping to discrete steps."
+    },
+    {
+      "term": "Aliasing",
+      "definition": "Under-sampling artifact."
+    }
+  ]
+}

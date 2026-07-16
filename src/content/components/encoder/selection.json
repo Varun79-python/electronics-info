@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Inputs",
+      "description": "How many."
+    },
+    {
+      "step": 2,
+      "title": "Priority?",
+      "description": "Need resolve."
+    },
+    {
+      "step": 3,
+      "title": "Outputs",
+      "description": "Code width."
+    },
+    {
+      "step": 4,
+      "title": "Speed",
+      "description": "Prop delay."
+    }
+  ],
+  "tips": [
+    "Use priority for IRQs",
+    "Add valid flag",
+    "Debounce inputs"
+  ]
+}

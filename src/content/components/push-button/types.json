@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Momentary NO",
+      "description": "Normally open, closes on press.",
+      "applications": [
+        "Doorbell"
+      ]
+    },
+    {
+      "name": "Momentary NC",
+      "description": "Normally closed, opens on press.",
+      "applications": [
+        "Stop"
+      ]
+    },
+    {
+      "name": "Latching",
+      "description": "Toggles state each press.",
+      "applications": [
+        "Power"
+      ]
+    },
+    {
+      "name": "Illuminated",
+      "description": "Built-in LED.",
+      "applications": [
+        "Panels"
+      ]
+    }
+  ]
+}

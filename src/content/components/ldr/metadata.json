@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "ldr",
+    "name": "Light Dependent Resistor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 50,
+    "status": "published"
+  }
+}

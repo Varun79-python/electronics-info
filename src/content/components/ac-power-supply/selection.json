@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Voltage/Freq Range",
+      "description": "Match DUT."
+    },
+    {
+      "step": 2,
+      "title": "Power",
+      "description": "Exceed load VA."
+    },
+    {
+      "step": 3,
+      "title": "Waveform Quality",
+      "description": "Low THD for sensitive loads."
+    },
+    {
+      "step": 4,
+      "title": "Protection",
+      "description": "OVP/OCP/OTP."
+    }
+  ],
+  "tips": [
+    "Variac for simple needs",
+    "Inverter for V/f control",
+    "Check THD",
+    "Mind reactive loads"
+  ]
+}

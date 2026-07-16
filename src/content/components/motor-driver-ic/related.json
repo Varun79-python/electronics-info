@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "dc-motor",
+      "relationship": "Drives"
+    },
+    {
+      "id": "stepper-motor",
+      "relationship": "Drives"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Controls"
+    }
+  ]
+}

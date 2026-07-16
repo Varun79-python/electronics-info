@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "relay",
+      "relationship": "Coil actuates"
+    },
+    {
+      "id": "solenoid",
+      "relationship": "Linear electromagnet"
+    },
+    {
+      "id": "speaker",
+      "relationship": "Voice coil"
+    },
+    {
+      "id": "contactor",
+      "relationship": "Coil actuation"
+    }
+  ]
+}

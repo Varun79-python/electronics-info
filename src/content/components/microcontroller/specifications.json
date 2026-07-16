@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Clock",
+      "typicalValues": "8-300MHz",
+      "notes": "Core"
+    },
+    {
+      "name": "Flash",
+      "typicalValues": "8KB-2MB",
+      "notes": "Program"
+    },
+    {
+      "name": "GPIO",
+      "typicalValues": "8-100+",
+      "notes": "Pins"
+    },
+    {
+      "name": "Peripherals",
+      "typicalValues": "ADC/UART/SPI/I²C",
+      "notes": "Interfaces"
+    }
+  ]
+}

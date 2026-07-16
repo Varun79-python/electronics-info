@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Force",
+      "formula": "F ∝ (N×I)² / gap²",
+      "description": "Force vs current and air gap.",
+      "variables": [
+        {
+          "symbol": "N",
+          "name": "Turns",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "Force drops as gap closes"
+    },
+    {
+      "name": "Coil Power",
+      "formula": "P = V² / R",
+      "description": "Hold power.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "12V, 24Ω → 6W"
+    }
+  ]
+}

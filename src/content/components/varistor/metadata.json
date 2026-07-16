@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "varistor",
+    "name": "Varistor",
+    "category": "passive",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 6,
+    "status": "published"
+  }
+}

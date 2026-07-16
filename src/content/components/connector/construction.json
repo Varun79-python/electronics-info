@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Contacts",
+      "function": "Conduct",
+      "material": "Copper/gold"
+    },
+    {
+      "name": "Housing",
+      "function": "Align/insulate",
+      "material": "Plastic"
+    },
+    {
+      "name": "Latch",
+      "function": "Secure",
+      "material": "Plastic"
+    },
+    {
+      "name": "Shell",
+      "function": "Shield (RF)",
+      "material": "Metal"
+    }
+  ]
+}

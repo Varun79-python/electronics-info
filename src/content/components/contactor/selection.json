@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Current Rating",
+      "description": "Match load (AC3 for motors)."
+    },
+    {
+      "step": 2,
+      "title": "Coil Voltage",
+      "description": "Match control supply."
+    },
+    {
+      "step": 3,
+      "title": "Poles",
+      "description": "3-phase needs 3P."
+    },
+    {
+      "step": 4,
+      "title": "Protection",
+      "description": "Pair with overload relay."
+    }
+  ],
+  "tips": [
+    "Use overload relay with it",
+    "Snubber/RC for coil",
+    "Derate for harsh duty",
+    "Check utilization category"
+  ]
+}

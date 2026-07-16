@@ -1,0 +1,11 @@
+{
+  "name": "Comparator",
+  "id": "comparator",
+  "category": "integrated-circuits",
+  "shortDescription": "A comparator compares two voltages and outputs high or low depending on which is greater.",
+  "whatIsIt": "A comparator compares two voltages and outputs high or low depending on which is greater.",
+  "whyExists": "Comparators make fast digital decisions from analog levels (threshold detection).",
+  "whereUsed": "Used in zero-crossing, window detection, and oscillators.",
+  "thumbnail": "/assets/images/components/comparator/thumbnail.svg",
+  "schematic": "/assets/components/comparator/schematic/symbol.svg"
+}

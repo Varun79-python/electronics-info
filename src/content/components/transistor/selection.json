@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Choose Polarity",
+      "description": "NPN for low-side, PNP for high-side."
+    },
+    {
+      "step": 2,
+      "title": "Voltage/Current",
+      "description": "Exceed V_CEO and I_C with margin."
+    },
+    {
+      "step": 3,
+      "title": "Gain Need",
+      "description": "Pick β for the stage."
+    },
+    {
+      "step": 4,
+      "title": "Power/Thermal",
+      "description": "Ensure P_D and heatsink."
+    }
+  ],
+  "tips": [
+    "Use base resistor to set I_B",
+    "Saturate for switching",
+    "Darlington for high gain",
+    "Watch thermal runaway"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Sensing Element",
+      "function": "Reacts with gas",
+      "material": "SnO₂"
+    },
+    {
+      "name": "Heater",
+      "function": "Raises temp",
+      "material": "Platinum coil"
+    },
+    {
+      "name": "Electrodes",
+      "function": "Measure",
+      "material": "Gold"
+    },
+    {
+      "name": "Housing",
+      "function": "Vent",
+      "material": "Mesh/plastic"
+    }
+  ]
+}

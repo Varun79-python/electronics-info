@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Check V_R",
+      "description": "Ensure reverse rating exceeds peaks."
+    },
+    {
+      "step": 2,
+      "title": "Current Rating",
+      "description": "Match load with margin."
+    },
+    {
+      "step": 3,
+      "title": "Leakage Budget",
+      "description": "Verify acceptable at max temp."
+    },
+    {
+      "step": 4,
+      "title": "Thermal",
+      "description": "Low V_F helps but still heatsink."
+    }
+  ],
+  "tips": [
+    "Great for <40V rectification",
+    "Watch leakage at high temp",
+    "Use for freewheeling diodes",
+    "Avoid for high-voltage rectifiers"
+  ]
+}

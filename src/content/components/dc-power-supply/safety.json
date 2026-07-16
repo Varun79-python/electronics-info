@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Mains inside; qualified service only.",
+  "currentSafety": "OCP protects; still dangerous.",
+  "thermalSafety": "Heatsinks; ventilation.",
+  "handling": "Qualified only for internal repair.",
+  "storage": "Dry.",
+  "disposal": "E-waste; recycle metals."
+}

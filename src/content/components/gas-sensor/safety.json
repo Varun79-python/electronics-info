@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage.",
+  "currentSafety": "Heater current.",
+  "thermalSafety": "Element hot.",
+  "handling": "Avoid explosive atmospheres when testing.",
+  "storage": "Sealed.",
+  "disposal": "E-waste."
+}

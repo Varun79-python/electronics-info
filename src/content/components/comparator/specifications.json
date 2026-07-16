@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Response",
+      "typicalValues": "ns to µs",
+      "notes": "Speed"
+    },
+    {
+      "name": "Offset",
+      "typicalValues": "mV",
+      "notes": "Accuracy"
+    },
+    {
+      "name": "Supply",
+      "typicalValues": "2-36V",
+      "notes": "Wide"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "Open/PP",
+      "notes": "Type"
+    }
+  ]
+}

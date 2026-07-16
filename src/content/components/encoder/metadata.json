@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "encoder",
+    "name": "Encoder",
+    "category": "digital",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 75,
+    "status": "published"
+  }
+}

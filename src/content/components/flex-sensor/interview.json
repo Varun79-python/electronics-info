@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What changes when bent?",
+      "answer": "Resistance increases with bend angle."
+    },
+    {
+      "question": "How read it?",
+      "answer": "Use a voltage divider into an ADC."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why calibrate?",
+      "answer": "Response is nonlinear and varies per unit."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Failure mode?",
+      "answer": "Cracking the ink path causes open circuit."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Improve life?",
+      "answer": "Avoid sharp creases; use within rated bend."
+    }
+  ]
+}

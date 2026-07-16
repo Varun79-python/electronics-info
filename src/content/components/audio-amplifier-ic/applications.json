@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Consumer",
+      "description": "Sound",
+      "examples": [
+        "TVs"
+      ]
+    },
+    {
+      "category": "Portable",
+      "description": "Efficient",
+      "examples": [
+        "Phones"
+      ]
+    },
+    {
+      "category": "Pro",
+      "description": "Instruments",
+      "examples": [
+        "Amps"
+      ]
+    }
+  ]
+}

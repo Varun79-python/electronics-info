@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "transistor",
+      "relationship": "Current-controlled counterpart"
+    },
+    {
+      "id": "gate-driver",
+      "relationship": "Drives the gate"
+    },
+    {
+      "id": "diode",
+      "relationship": "Body diode / flyback"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Provides gate signal"
+    }
+  ]
+}

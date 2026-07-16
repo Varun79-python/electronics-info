@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "CPU Core",
+      "function": "Execute code",
+      "material": "Silicon"
+    },
+    {
+      "name": "Flash",
+      "function": "Store firmware",
+      "material": "Silicon"
+    },
+    {
+      "name": "RAM",
+      "function": "Runtime data",
+      "material": "Silicon"
+    },
+    {
+      "name": "Peripherals",
+      "function": "GPIO/ADC/UART",
+      "material": "Silicon"
+    }
+  ]
+}

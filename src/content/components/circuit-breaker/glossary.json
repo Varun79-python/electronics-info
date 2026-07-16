@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "MCB",
+      "definition": "Miniature circuit breaker."
+    },
+    {
+      "term": "RCCB",
+      "definition": "Residual current (earth-leakage) breaker."
+    },
+    {
+      "term": "Trip Curve",
+      "definition": "Time-current trip characteristic."
+    },
+    {
+      "term": "Breaking Capacity",
+      "definition": "Max fault it can clear."
+    }
+  ]
+}

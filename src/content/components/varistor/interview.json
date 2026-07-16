@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a varistor used for?",
+      "answer": "It protects circuits from voltage spikes by clamping overvoltage transients."
+    },
+    {
+      "question": "Is a varistor polarity sensitive?",
+      "answer": "No, it is bidirectional and works for either polarity."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "How does a ZnO varistor work?",
+      "answer": "Grain boundaries act as voltage-dependent barriers; above threshold they conduct, shunting surge current."
+    },
+    {
+      "question": "Why pair a varistor with a fuse?",
+      "answer": "Varistors can fail short-circuit after a large surge; the fuse disconnects them safely."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What is the main reliability concern?",
+      "answer": "Each surge slightly degrades the device (aging), lowering clamp voltage and raising leakage until failure."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How do you select a varistor for AC mains?",
+      "answer": "Choose varistor voltage ~1.2-1.5x the peak line voltage, with surge/energy rating above expected transients, and a series fuse."
+    }
+  ]
+}

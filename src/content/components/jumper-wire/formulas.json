@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Resistance",
+      "formula": "R = ρ L / A",
+      "description": "Wire resistance.",
+      "variables": [
+        {
+          "symbol": "R",
+          "name": "Resistance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "L",
+          "name": "Length",
+          "unit": "m"
+        }
+      ],
+      "example": "Negligible short"
+    },
+    {
+      "name": "Current",
+      "formula": "I_max by gauge",
+      "description": "AWG limit.",
+      "variables": [
+        {
+          "symbol": "I_max",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "22AWG ~1A"
+    }
+  ]
+}

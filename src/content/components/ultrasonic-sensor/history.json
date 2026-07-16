@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1912,
+    "inventor": "Echo sounding (sonar)",
+    "discovery": "Sonar used ultrasound for ranging; later miniaturized for industry.",
+    "evolution": [
+      {
+        "year": 1912,
+        "event": "Sonar"
+      },
+      {
+        "year": 1980,
+        "event": "Industrial ultrasonic"
+      },
+      {
+        "year": 2000,
+        "event": "Low-cost modules"
+      }
+    ]
+  }
+}

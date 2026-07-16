@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1821,
+    "inventor": "Thomas Johann Seebeck (thermocouple)",
+    "discovery": "Seebeck discovered the thermoelectric effect enabling temperature measurement by voltage.",
+    "evolution": [
+      {
+        "year": 1821,
+        "event": "Thermocouple effect"
+      },
+      {
+        "year": 1930,
+        "event": "Thermistors"
+      },
+      {
+        "year": 2000,
+        "event": "Digital IC sensors"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "7-seg shows:",
+      "options": [
+        "Digits",
+        "Graphics",
+        "Video",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Numeric.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Common anode shares:",
+      "options": [
+        "+ pin",
+        "GND",
+        "Clock",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Positive.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Needs:",
+      "options": [
+        "Current limit",
+        "Backlight",
+        "High V",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resistors.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Multiplex shares:",
+      "options": [
+        "Pins by scan",
+        "Power",
+        "Color",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Time-division.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Driven by:",
+      "options": [
+        "Decoder/MCU",
+        "Relay",
+        "Transformer",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Segment logic.",
+      "difficulty": "beginner"
+    }
+  ]
+}

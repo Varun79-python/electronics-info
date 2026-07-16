@@ -1,0 +1,10 @@
+{
+  "advantages": [
+    "Voltage controlled (no gate current)",
+    "Very fast switching",
+    "Low on-resistance",
+    "High input impedance",
+    "No thermal runaway (unlike BJT)",
+    "Scales to nanometer ICs"
+  ]
+}

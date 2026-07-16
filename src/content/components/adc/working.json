@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "It samples the input, compares it (via SAR, flash, or sigma-delta) to a reference, and outputs a binary code.",
+  "steps": [
+    "Sample and hold input",
+    "Compare to reference",
+    "Quantize to steps",
+    "Output digital code"
+  ],
+  "microscopicExplanation": "SAR binary-searches the voltage with a DAC; sigma-delta oversamples and filters for high resolution."
+}

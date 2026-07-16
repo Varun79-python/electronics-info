@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Dissipates power as heat, reducing energy efficiency",
+    "Generates thermal noise (Johnson-Nyquist noise)",
+    "Limited precision in standard types (±1% typical best)",
+    "Value can drift with temperature and age",
+    "Physically larger for high power ratings",
+    "Cannot provide voltage regulation or amplification"
+  ]
+}

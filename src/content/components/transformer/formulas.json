@@ -1,0 +1,58 @@
+{
+  "formulas": [
+    {
+      "name": "Turns Ratio",
+      "formula": "V_s / V_p = N_s / N_p",
+      "description": "Secondary-to-primary voltage ratio equals turns ratio.",
+      "variables": [
+        {
+          "symbol": "V",
+          "name": "Voltage",
+          "unit": "Volts (V)"
+        },
+        {
+          "symbol": "N",
+          "name": "Turns",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "10:1 turns → 120V becomes 12V"
+    },
+    {
+      "name": "Current Ratio",
+      "formula": "I_s / I_p = N_p / N_s",
+      "description": "Current is inversely proportional to turns ratio.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "Amperes (A)"
+        },
+        {
+          "symbol": "N",
+          "name": "Turns",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "Step-down 10:1 → current multiplies ~10x"
+    },
+    {
+      "name": "Impedance Ratio",
+      "formula": "Z_s / Z_p = (N_s / N_p)²",
+      "description": "Reflected impedance scales with turns ratio squared.",
+      "variables": [
+        {
+          "symbol": "Z",
+          "name": "Impedance",
+          "unit": "Ohms (Ω)"
+        },
+        {
+          "symbol": "N",
+          "name": "Turns",
+          "unit": "dimensionless"
+        }
+      ],
+      "example": "2:1 turns → 4:1 impedance"
+    }
+  ]
+}

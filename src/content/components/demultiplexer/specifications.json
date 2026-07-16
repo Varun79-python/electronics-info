@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Outputs",
+      "typicalValues": "2-16",
+      "notes": "Count"
+    },
+    {
+      "name": "Type",
+      "typicalValues": "Digital/analog",
+      "notes": "Signal"
+    },
+    {
+      "name": "Speed",
+      "typicalValues": "ns",
+      "notes": "Switch"
+    },
+    {
+      "name": "Drive",
+      "typicalValues": "mA",
+      "notes": "Output"
+    }
+  ]
+}

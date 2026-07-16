@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Astable",
+      "description": "Free-running oscillator.",
+      "applications": [
+        "Blink"
+      ]
+    },
+    {
+      "name": "Monostable",
+      "description": "One-shot pulse.",
+      "applications": [
+        "Delay"
+      ]
+    },
+    {
+      "name": "Bistable",
+      "description": "Latch/flip-flop.",
+      "applications": [
+        "Toggle"
+      ]
+    },
+    {
+      "name": "CMOS (7555)",
+      "description": "Low power.",
+      "applications": [
+        "Battery"
+      ]
+    }
+  ]
+}

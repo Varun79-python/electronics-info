@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Responsivity",
+      "formula": "R = I_ph / P_opt",
+      "description": "Current per optical power.",
+      "variables": [
+        {
+          "symbol": "R",
+          "name": "Responsivity",
+          "unit": "A/W"
+        },
+        {
+          "symbol": "I_ph",
+          "name": "Photocurrent",
+          "unit": "A"
+        },
+        {
+          "symbol": "P_opt",
+          "name": "Optical power",
+          "unit": "W"
+        }
+      ],
+      "example": "Silicon ~0.5 A/W at 850nm"
+    },
+    {
+      "name": "Transimpedance",
+      "formula": "V_out = I_ph × R_f",
+      "description": "Current-to-voltage conversion.",
+      "variables": [
+        {
+          "symbol": "R_f",
+          "name": "Feedback R",
+          "unit": "Ω"
+        }
+      ],
+      "example": "1µA × 1MΩ = 1V"
+    }
+  ]
+}

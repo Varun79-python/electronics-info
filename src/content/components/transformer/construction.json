@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Primary Winding",
+      "function": "Receives input AC and creates flux",
+      "material": "Copper wire"
+    },
+    {
+      "name": "Secondary Winding",
+      "function": "Delivers transformed output",
+      "material": "Copper wire"
+    },
+    {
+      "name": "Magnetic Core",
+      "function": "Channels flux between windings",
+      "material": "Laminated silicon steel or ferrite"
+    },
+    {
+      "name": "Insulation",
+      "function": "Separates windings and core",
+      "material": "Varish, tape, or resin"
+    }
+  ]
+}

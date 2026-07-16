@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "photodiode",
+      "relationship": "Faster, linear alternative"
+    },
+    {
+      "id": "transistor",
+      "relationship": "Same transistor physics"
+    },
+    {
+      "id": "led",
+      "relationship": "Paired in optocouplers"
+    },
+    {
+      "id": "ir-sensor",
+      "relationship": "Core of IR sensors"
+    }
+  ]
+}

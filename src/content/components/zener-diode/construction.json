@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Heavily Doped Junction",
+      "function": "Enables low breakdown",
+      "material": "Silicon"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect (cathode/anode)",
+      "material": "Tinned leads"
+    },
+    {
+      "name": "Package",
+      "function": "Protects",
+      "material": "DO-35/DO-41"
+    }
+  ]
+}

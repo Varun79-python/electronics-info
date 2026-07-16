@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Range",
+      "description": "Above max accel."
+    },
+    {
+      "step": 2,
+      "title": "Axes",
+      "description": "1/2/3 as needed."
+    },
+    {
+      "step": 3,
+      "title": "Interface",
+      "description": "Analog/I²C/SPI."
+    },
+    {
+      "step": 4,
+      "title": "Bandwidth",
+      "description": "Match signal."
+    }
+  ],
+  "tips": [
+    "Calibrate zero-g offset",
+    "Filter noise",
+    "Temperature-compensate"
+  ]
+}

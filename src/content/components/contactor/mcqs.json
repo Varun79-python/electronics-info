@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A contactor switches:",
+      "options": [
+        "Signals only",
+        "High-power loads",
+        "Data",
+        "Light only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Heavy loads.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Contactor vs relay:",
+      "options": [
+        "Same",
+        "Higher current + arc handling",
+        "Lower current",
+        "No coil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Heavy-duty relay.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "AC3 refers to:",
+      "options": [
+        "Voltage",
+        "Motor duty category",
+        "Coil type",
+        "Poles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Utilization category.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Arc is handled by:",
+      "options": [
+        "Spring",
+        "Arc chute",
+        "Coil",
+        "Frame"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quenches arc.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Often paired with:",
+      "options": [
+        "Capacitor",
+        "Overload relay",
+        "Diode",
+        "Resistor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Motor protection.",
+      "difficulty": "beginner"
+    }
+  ]
+}

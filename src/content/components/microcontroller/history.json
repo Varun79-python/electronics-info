@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1971,
+    "inventor": "Intel (4004 family)",
+    "discovery": "The first microprocessors led to single-chip microcontrollers for embedded control.",
+    "evolution": [
+      {
+        "year": 1971,
+        "event": "Microprocessor"
+      },
+      {
+        "year": 1980,
+        "event": "8051 MCU"
+      },
+      {
+        "year": 2000,
+        "event": "ARM Cortex-M"
+      }
+    ]
+  }
+}

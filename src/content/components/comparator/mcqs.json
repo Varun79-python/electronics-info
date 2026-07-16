@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Comparator outputs:",
+      "options": [
+        "High/Low",
+        "Analog",
+        "Gain",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Digital decision.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Hysteresis prevents:",
+      "options": [
+        "Chatter",
+        "Gain",
+        "Offset",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Noise bounce.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Open-collector needs:",
+      "options": [
+        "Pull-up",
+        "Pull-down",
+        "Cap",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "External resistor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Schmitt is:",
+      "options": [
+        "Comparator+hysteresis",
+        "Amplifier",
+        "Regulator",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Two thresholds.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Compares:",
+      "options": [
+        "Two voltages",
+        "Current",
+        "Power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "V+ vs V-.",
+      "difficulty": "beginner"
+    }
+  ]
+}

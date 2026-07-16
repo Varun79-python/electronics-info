@@ -1,0 +1,11 @@
+{
+  "name": "Transformer",
+  "id": "transformer",
+  "category": "passive",
+  "shortDescription": "A transformer is a passive device that transfers electrical energy between two or more circuits through electromagnetic induction.",
+  "whatIsIt": "A transformer is a passive device that transfers electrical energy between two or more circuits through electromagnetic induction. It consists of coupled coils sharing a magnetic core.",
+  "whyExists": "Transformers change voltage and current levels efficiently, provide isolation, and match impedances in AC systems.",
+  "whereUsed": "Transformers are everywhere in power grids, chargers, audio equipment, and isolation circuits.",
+  "thumbnail": "/assets/images/components/transformer/thumbnail.svg",
+  "schematic": "/assets/components/transformer/schematic/symbol.svg"
+}

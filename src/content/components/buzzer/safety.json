@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Low current.",
+  "thermalSafety": "Minimal.",
+  "handling": "Piezo brittle; careful.",
+  "storage": "Dry.",
+  "disposal": "E-waste rules."
+}

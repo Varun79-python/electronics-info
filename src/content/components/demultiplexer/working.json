@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Select lines choose which output receives the input via an internal decoder enabling one path.",
+  "steps": [
+    "Input applied",
+    "Select code applied",
+    "Decoder enables one output",
+    "Input appears there only"
+  ],
+  "microscopicExplanation": "A binary decoder turns select bits into a one-hot enable that connects input to the chosen output."
+}

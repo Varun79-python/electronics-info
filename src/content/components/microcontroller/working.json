@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "It fetches instructions from flash, executes them on the CPU, and interacts with the world via GPIO, ADC, timers, and communication peripherals.",
+  "steps": [
+    "Reset fetches vector",
+    "CPU runs firmware from flash",
+    "Reads inputs (GPIO/ADC)",
+    "Processes and writes outputs",
+    "Handles interrupts/timers"
+  ],
+  "microscopicExplanation": "A Harvard/Von Neumann core executes opcodes; peripherals are memory-mapped registers the firmware configures."
+}

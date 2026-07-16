@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A relay provides:",
+      "options": [
+        "Amplification",
+        "Isolation + switching",
+        "Rectification",
+        "Filtering"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Isolated switching.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Coil needs a:",
+      "options": [
+        "Flyback diode",
+        "Capacitor only",
+        "Resistor only",
+        "Nothing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clamps inductive spike.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "SPDT means:",
+      "options": [
+        "Single throw",
+        "Single-pole double-throw",
+        "Solid state",
+        "Slow turn-off"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One pole, two throws.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "EMR downside:",
+      "options": [
+        "No isolation",
+        "Wear/bounce",
+        "Leakage",
+        "Drop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mechanical wear and bounce.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Contacts switch:",
+      "options": [
+        "Only low voltage",
+        "High power/voltage",
+        "Only DC",
+        "Only signal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "High-power loads.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

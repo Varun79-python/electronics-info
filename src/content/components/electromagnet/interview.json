@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is an electromagnet?",
+      "answer": "A coil that makes a magnetic field when current flows."
+    },
+    {
+      "question": "Why iron core?",
+      "answer": "It concentrates and strengthens the field."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why flyback diode?",
+      "answer": "To clamp coil's inductive kick when switched off."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Force vs gap?",
+      "answer": "Force drops sharply as air gap increases."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Reduce heating?",
+      "answer": "Use higher voltage/fewer turns or intermittent duty."
+    }
+  ]
+}

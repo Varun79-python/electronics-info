@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Gain (Aol)",
+      "typicalValues": "100k to 10M",
+      "notes": "Open loop"
+    },
+    {
+      "name": "Input Offset",
+      "typicalValues": "µV to mV",
+      "notes": "Precision"
+    },
+    {
+      "name": "Bandwidth",
+      "typicalValues": "kHz to GHz",
+      "notes": "GBW"
+    },
+    {
+      "name": "Slew Rate",
+      "typicalValues": "0.1 to 100 V/µs",
+      "notes": "Speed"
+    }
+  ]
+}

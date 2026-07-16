@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Armature",
+      "function": "Rotating windings",
+      "material": "Copper on steel"
+    },
+    {
+      "name": "Stator Magnet/Field",
+      "function": "Provides field",
+      "material": "Permanent magnet or coil"
+    },
+    {
+      "name": "Commutator",
+      "function": "Switches current",
+      "material": "Copper segments"
+    },
+    {
+      "name": "Brushes",
+      "function": "Feed current",
+      "material": "Carbon"
+    }
+  ]
+}

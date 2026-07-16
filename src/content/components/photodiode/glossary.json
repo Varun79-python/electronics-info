@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Responsivity",
+      "definition": "Photocurrent produced per unit optical power (A/W)."
+    },
+    {
+      "term": "Dark Current",
+      "definition": "Leakage current with no light; adds noise."
+    },
+    {
+      "term": "Transimpedance",
+      "definition": "Amplifier converting current to voltage."
+    },
+    {
+      "term": "Photovoltaic",
+      "definition": "Mode generating voltage like a solar cell."
+    }
+  ]
+}

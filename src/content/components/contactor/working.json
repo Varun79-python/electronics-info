@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A control coil energizes, creating a magnetic field that closes heavy power contacts, connecting the load. A spring opens them when de-energized.",
+  "steps": [
+    "Control voltage energizes the coil",
+    "Magnetic field pulls the armature",
+    "Main contacts close, powering the load",
+    "Auxiliary contacts signal status",
+    "De-energize opens contacts (spring)"
+  ],
+  "microscopicExplanation": "Like a large relay, ampere-turns actuate the contacts; arc chutes quench the arc formed when breaking high-current inductive loads."
+}

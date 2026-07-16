@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "flex-sensor",
+    "name": "Flex Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 56,
+    "status": "published"
+  }
+}

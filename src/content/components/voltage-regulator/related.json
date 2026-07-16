@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "ldo-regulator",
+      "relationship": "Specific low-dropout type"
+    },
+    {
+      "id": "zener-diode",
+      "relationship": "Simple shunt regulator"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Stabilizing/output caps"
+    },
+    {
+      "id": "dc-power-supply",
+      "relationship": "Built from regulators"
+    }
+  ]
+}

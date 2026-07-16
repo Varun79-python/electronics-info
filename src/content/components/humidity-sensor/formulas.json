@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Relative Humidity",
+      "formula": "RH = (P_v / P_sat) × 100%",
+      "description": "Vapor vs saturation.",
+      "variables": [
+        {
+          "symbol": "RH",
+          "name": "Humidity",
+          "unit": "%"
+        },
+        {
+          "symbol": "P_v",
+          "name": "Vapor pressure",
+          "unit": "Pa"
+        }
+      ],
+      "example": "50% typical"
+    },
+    {
+      "name": "Capacitance",
+      "formula": "C = ε A / d",
+      "description": "Dielectric shift.",
+      "variables": [
+        {
+          "symbol": "C",
+          "name": "Capacitance",
+          "unit": "pF"
+        }
+      ],
+      "example": "Δ with RH"
+    }
+  ]
+}

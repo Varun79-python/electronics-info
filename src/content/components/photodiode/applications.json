@@ -1,0 +1,36 @@
+{
+  "applications": [
+    {
+      "category": "Light Sensing",
+      "description": "Measures intensity",
+      "examples": [
+        "Light meters",
+        "Proximity"
+      ]
+    },
+    {
+      "category": "Communication",
+      "description": "Receives optical signals",
+      "examples": [
+        "Fiber",
+        "IR links"
+      ]
+    },
+    {
+      "category": "Medical",
+      "description": "Pulse oximetry, imaging",
+      "examples": [
+        "SpO2",
+        "Scanners"
+      ]
+    },
+    {
+      "category": "Industrial",
+      "description": "Position and presence",
+      "examples": [
+        "Encoders",
+        "Counters"
+      ]
+    }
+  ]
+}

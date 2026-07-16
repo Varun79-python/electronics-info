@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Non-linear C-V",
+    "Limited Q at high freq",
+    "Sensitive to bias noise",
+    "Small capacitance",
+    "Reverse-bias only",
+    "Temperature drift"
+  ]
+}

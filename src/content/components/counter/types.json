@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Ripple",
+      "description": "Cascaded FFs.",
+      "applications": [
+        "Simple"
+      ]
+    },
+    {
+      "name": "Synchronous",
+      "description": "All update.",
+      "applications": [
+        "Fast"
+      ]
+    },
+    {
+      "name": "Up/Down",
+      "description": "Both directions.",
+      "applications": [
+        "Position"
+      ]
+    },
+    {
+      "name": "Johnson/Ring",
+      "description": "Shift patterns.",
+      "applications": [
+        "Sequencer"
+      ]
+    }
+  ]
+}

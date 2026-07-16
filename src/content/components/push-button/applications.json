@@ -1,0 +1,26 @@
+{
+  "applications": [
+    {
+      "category": "Input",
+      "description": "User command",
+      "examples": [
+        "Start",
+        "Reset"
+      ]
+    },
+    {
+      "category": "Signaling",
+      "description": "Indicate state",
+      "examples": [
+        "Panels"
+      ]
+    },
+    {
+      "category": "Safety",
+      "description": "Emergency stop",
+      "examples": [
+        "Machines"
+      ]
+    }
+  ]
+}

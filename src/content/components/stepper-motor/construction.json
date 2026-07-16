@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Stator Coils",
+      "function": "Create stepping field",
+      "material": "Copper"
+    },
+    {
+      "name": "Rotor",
+      "function": "Steps to field",
+      "material": "Permanent magnet"
+    },
+    {
+      "name": "Bearings/Shaft",
+      "function": "Output motion",
+      "material": "Steel"
+    }
+  ]
+}

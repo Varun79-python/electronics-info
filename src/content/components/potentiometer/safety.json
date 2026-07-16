@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Keep within rated voltage; high voltage across the track can arc.",
+  "currentSafety": "Limit current to the power rating to avoid burning the track.",
+  "thermalSafety": "Overload heats the element; ensure ventilation.",
+  "handling": "Avoid forcing the shaft beyond end stops.",
+  "storage": "Store in anti-dust packaging.",
+  "disposal": "Dispose per e-waste regulations."
+}

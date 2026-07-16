@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a tunnel diode?",
+      "answer": "A heavily doped diode with a negative-resistance region from quantum tunneling."
+    },
+    {
+      "question": "Why is it fast?",
+      "answer": "Tunneling is instantaneous; no carrier storage."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is negative resistance?",
+      "answer": "A region where increasing voltage decreases current, enabling oscillation."
+    },
+    {
+      "question": "Who discovered it?",
+      "answer": "Leo Esaki, who won a Nobel Prize for the tunneling effect."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why obsolete?",
+      "answer": "Modern transistors and MMICs handle GHz with more power and control."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How build an oscillator?",
+      "answer": "Bias in the negative-resistance region and add a resonant tank; the device sustains oscillation."
+    }
+  ]
+}

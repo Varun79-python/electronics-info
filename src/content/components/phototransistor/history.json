@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1950,
+    "inventor": "Evolved with photodiodes/transistors",
+    "discovery": "Phototransistors combined photodiode and transistor functions as optoelectronics matured.",
+    "evolution": [
+      {
+        "year": 1950,
+        "event": "Early phototransistors"
+      },
+      {
+        "year": 1970,
+        "event": "Common in sensors"
+      },
+      {
+        "year": 2000,
+        "event": "Miniature SMD types"
+      }
+    ]
+  }
+}

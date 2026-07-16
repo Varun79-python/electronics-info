@@ -1,0 +1,41 @@
+{
+  "failureModes": [
+    {
+      "failure": "Open Winding",
+      "symptoms": [
+        "No inductance",
+        "Circuit stops oscillating"
+      ],
+      "causes": [
+        "Overcurrent",
+        "Mechanical stress",
+        "Thermal damage"
+      ],
+      "solution": "Replace inductor"
+    },
+    {
+      "failure": "Shorted Turns",
+      "symptoms": [
+        "Reduced inductance",
+        "Excess heating"
+      ],
+      "causes": [
+        "Insulation breakdown",
+        "Overheating"
+      ],
+      "solution": "Replace with adequate rating"
+    },
+    {
+      "failure": "Core Saturation",
+      "symptoms": [
+        "Distorted waveform",
+        "Excess current"
+      ],
+      "causes": [
+        "Exceeding rated current",
+        "DC bias too high"
+      ],
+      "solution": "Use higher-current or gapped core"
+    }
+  ]
+}

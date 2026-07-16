@@ -1,0 +1,26 @@
+{
+  "applications": [
+    {
+      "category": "TRIAC Trigger",
+      "description": "Symmetric firing",
+      "examples": [
+        "Dimmers",
+        "Motor"
+      ]
+    },
+    {
+      "category": "Oscillators",
+      "description": "Relaxation oscillators",
+      "examples": [
+        "Timers"
+      ]
+    },
+    {
+      "category": "Protection",
+      "description": "Overvoltage crowbar",
+      "examples": [
+        "Surge"
+      ]
+    }
+  ]
+}

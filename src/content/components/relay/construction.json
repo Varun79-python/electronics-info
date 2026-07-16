@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Coil",
+      "function": "Creates magnetic field",
+      "material": "Copper wire"
+    },
+    {
+      "name": "Armature",
+      "function": "Moves contacts",
+      "material": "Ferromagnetic metal"
+    },
+    {
+      "name": "Contacts",
+      "function": "Switch the load",
+      "material": "Silver alloy"
+    },
+    {
+      "name": "Spring",
+      "function": "Returns armature",
+      "material": "Spring steel"
+    }
+  ]
+}

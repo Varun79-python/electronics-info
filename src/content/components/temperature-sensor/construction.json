@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Sensing Element",
+      "function": "Temperature to signal",
+      "material": "Semiconductor/metal"
+    },
+    {
+      "name": "Leads",
+      "function": "Connect",
+      "material": "Platinum"
+    },
+    {
+      "name": "Housing",
+      "function": "Protect",
+      "material": "Stainless/glass"
+    },
+    {
+      "name": "IC (digital)",
+      "function": "Condition",
+      "material": "Silicon"
+    }
+  ]
+}

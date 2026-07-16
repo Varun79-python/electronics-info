@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "PIR",
+      "definition": "Passive infrared motion sensor."
+    },
+    {
+      "term": "Pyroelectric",
+      "definition": "Charge from temperature change."
+    },
+    {
+      "term": "Near-IR",
+      "definition": "850-940nm band."
+    },
+    {
+      "term": "Modulation",
+      "definition": "Pulsing to reject ambient."
+    }
+  ]
+}

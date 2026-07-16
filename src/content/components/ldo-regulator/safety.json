@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage.",
+  "currentSafety": "Thermal limit.",
+  "thermalSafety": "Can overheat; use heatsink.",
+  "handling": "ESD sensitive.",
+  "storage": "Antistatic.",
+  "disposal": "E-waste."
+}

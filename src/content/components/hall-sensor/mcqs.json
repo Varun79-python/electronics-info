@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Hall voltage ∝",
+      "options": [
+        "B field",
+        "Light",
+        "Temp only",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Field strength.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Hall discovered by:",
+      "options": [
+        "Edwin Hall",
+        "Faraday",
+        "Ohm",
+        "Ampere"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1879.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Used for current by:",
+      "options": [
+        "Field around wire",
+        "Resistance",
+        "Voltage drop",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "B ∝ I.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Latch stays on with:",
+      "options": [
+        "Same pole until reverse",
+        "Any field",
+        "Light",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bistable.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Immune to:",
+      "options": [
+        "Light/dust",
+        "Magnet",
+        "Heat",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Magnetic only.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

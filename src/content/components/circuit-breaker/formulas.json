@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Trip Curve",
+      "formula": "I vs t characteristic",
+      "description": "Time to trip vs current.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "Type B/C/D"
+    },
+    {
+      "name": "Power",
+      "formula": "P = V I",
+      "description": "Protected load.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "230V x 16A"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "MCU Datasheet",
+      "author": "ST/ESP",
+      "year": 2021,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "Embedded Systems",
+      "author": "Textbook",
+      "year": 2019,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

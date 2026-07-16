@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Type",
+      "description": "Linear or switch."
+    },
+    {
+      "step": 2,
+      "title": "Field Range",
+      "description": "Match B."
+    },
+    {
+      "step": 3,
+      "title": "Output",
+      "description": "Analog/digital."
+    },
+    {
+      "step": 4,
+      "title": "Magnet",
+      "description": "Provide field."
+    }
+  ],
+  "tips": [
+    "Calibrate offset",
+    "Temperature-compensate",
+    "Shield EMI"
+  ]
+}

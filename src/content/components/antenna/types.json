@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Dipole",
+      "description": "Half-wave.",
+      "applications": [
+        "Wi-Fi"
+      ]
+    },
+    {
+      "name": "Monopole",
+      "description": "Quarter-wave.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "Patch",
+      "description": "Flat PCB.",
+      "applications": [
+        "GPS"
+      ]
+    },
+    {
+      "name": "Yagi",
+      "description": "Directional.",
+      "applications": [
+        "TV"
+      ]
+    }
+  ]
+}

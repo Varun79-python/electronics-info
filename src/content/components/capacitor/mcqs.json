@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What does a capacitor store?",
+      "options": [
+        "Magnetic field",
+        "Electric field",
+        "Heat",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A capacitor stores energy in an electric field between its plates.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The unit of capacitance is:",
+      "options": [
+        "Ohm",
+        "Farad",
+        "Henry",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Capacitance is measured in farads (F).",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Capacitive reactance is:",
+      "options": [
+        "Directly proportional to frequency",
+        "Inversely proportional to frequency",
+        "Independent of frequency",
+        "Equal to resistance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "X_C = 1/(2πfC), so it decreases as frequency increases.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Two 10µF capacitors in parallel give:",
+      "options": [
+        "5µF",
+        "10µF",
+        "20µF",
+        "100µF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Parallel capacitances add: 10 + 10 = 20µF",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which capacitor type has the highest capacitance density?",
+      "options": [
+        "Ceramic",
+        "Film",
+        "Electrolytic",
+        "Supercapacitor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Supercapacitors can reach thousands of farads using carbon aerogel or nanotubes.",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "voltage-regulator",
+      "relationship": "Core of the supply"
+    },
+    {
+      "id": "rectifier",
+      "relationship": "AC-DC conversion"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Filter smoothing"
+    },
+    {
+      "id": "transformer",
+      "relationship": "Voltage scaling/isolation"
+    }
+  ]
+}

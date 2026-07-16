@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Timing Fail",
+      "symptoms": [
+        "Unstable"
+      ],
+      "causes": [
+        "Slack"
+      ],
+      "solution": "Optimize"
+    },
+    {
+      "failure": "No Config",
+      "symptoms": [
+        "Dead"
+      ],
+      "causes": [
+        "Bad bitstream"
+      ],
+      "solution": "Reload"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Hot"
+      ],
+      "causes": [
+        "High util"
+      ],
+      "solution": "Cool/reduce"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Size/Res",
+      "description": "Match need."
+    },
+    {
+      "step": 2,
+      "title": "Interface",
+      "description": "SPI/MIPI."
+    },
+    {
+      "step": 3,
+      "title": "Type",
+      "description": "PM/AM."
+    },
+    {
+      "step": 4,
+      "title": "Lifetime",
+      "description": "Avoid burn-in."
+    }
+  ],
+  "tips": [
+    "Avoid static images",
+    "Seal from moisture",
+    "Use dimming"
+  ]
+}

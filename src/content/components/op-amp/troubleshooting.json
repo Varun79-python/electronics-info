@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Oscillation",
+      "symptoms": [
+        "Unstable"
+      ],
+      "causes": [
+        "Poor decoupling"
+      ],
+      "solution": "Add caps"
+    },
+    {
+      "failure": "Offset",
+      "symptoms": [
+        "Wrong V"
+      ],
+      "causes": [
+        "Temp"
+      ],
+      "solution": "Trim/calibrate"
+    },
+    {
+      "failure": "Saturation",
+      "symptoms": [
+        "Rails"
+      ],
+      "causes": [
+        "Over gain"
+      ],
+      "solution": "Reduce gain"
+    }
+  ]
+}

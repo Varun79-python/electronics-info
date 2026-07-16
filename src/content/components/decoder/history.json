@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1960,
+    "inventor": "Decoder IC evolution",
+    "discovery": "Integrated decoders enabled memory addressing and display driving.",
+    "evolution": [
+      {
+        "year": 1960,
+        "event": "Decoder ICs"
+      },
+      {
+        "year": 1980,
+        "event": "7-seg decoders"
+      },
+      {
+        "year": 2000,
+        "event": "CPLD/FPGA internal"
+      }
+    ]
+  }
+}

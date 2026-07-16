@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Channel",
+      "function": "Conducts current",
+      "material": "N or P silicon"
+    },
+    {
+      "name": "Gate Junction",
+      "function": "Controls channel",
+      "material": "Opposite doping"
+    },
+    {
+      "name": "Terminals",
+      "function": "Source, gate, drain",
+      "material": "Tinned leads"
+    }
+  ]
+}

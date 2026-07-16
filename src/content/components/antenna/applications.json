@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Wireless",
+      "description": "Wi-Fi/BT",
+      "examples": [
+        "Routers"
+      ]
+    },
+    {
+      "category": "Broadcast",
+      "description": "Radio/TV",
+      "examples": [
+        "Towers"
+      ]
+    },
+    {
+      "category": "Navigation",
+      "description": "GPS",
+      "examples": [
+        "Devices"
+      ]
+    },
+    {
+      "category": "IoT",
+      "description": "Connect",
+      "examples": [
+        "Sensors"
+      ]
+    }
+  ]
+}

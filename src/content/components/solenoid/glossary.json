@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Stroke",
+      "definition": "Linear travel of the plunger."
+    },
+    {
+      "term": "Duty Cycle",
+      "definition": "On-time fraction before overheating."
+    },
+    {
+      "term": "Latching",
+      "definition": "Holds position without continuous power."
+    },
+    {
+      "term": "Ampere-Turns",
+      "definition": "Coil current × turns; sets force."
+    }
+  ]
+}

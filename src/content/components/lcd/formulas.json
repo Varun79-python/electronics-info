@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Resolution",
+      "formula": "Pixels = W × H",
+      "description": "Total dots.",
+      "variables": [
+        {
+          "symbol": "Pixels",
+          "name": "Count",
+          "unit": ""
+        }
+      ],
+      "example": "1920x1080"
+    },
+    {
+      "name": "Contrast",
+      "formula": "L_on / L_off",
+      "description": "Brightness ratio.",
+      "variables": [
+        {
+          "symbol": "L_on",
+          "name": "On lum",
+          "unit": "cd/m²"
+        }
+      ],
+      "example": "1000:1"
+    }
+  ]
+}

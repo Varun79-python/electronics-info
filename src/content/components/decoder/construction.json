@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Input Buffers",
+      "function": "Clean code",
+      "material": "Silicon"
+    },
+    {
+      "name": "AND/NAND Array",
+      "function": "Decode",
+      "material": "Silicon"
+    },
+    {
+      "name": "Enable",
+      "function": "Gate all",
+      "material": "Signal"
+    },
+    {
+      "name": "Outputs",
+      "function": "Drive",
+      "material": "Silicon"
+    }
+  ]
+}

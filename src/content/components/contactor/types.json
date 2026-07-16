@@ -1,0 +1,26 @@
+{
+  "types": [
+    {
+      "name": "AC Contactor",
+      "description": "For AC loads/motors.",
+      "applications": [
+        "Motor starters"
+      ]
+    },
+    {
+      "name": "DC Contactor",
+      "description": "For DC power.",
+      "applications": [
+        "Battery",
+        "EV"
+      ]
+    },
+    {
+      "name": "Reversing Contactor",
+      "description": "Pair for direction.",
+      "applications": [
+        "Motor reverse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "failureModes": [
+    {
+      "failure": "Drift",
+      "symptoms": [
+        "Value changes"
+      ],
+      "causes": [
+        "Vibration",
+        "Moisture"
+      ],
+      "solution": "Reseal or replace"
+    },
+    {
+      "failure": "Open",
+      "symptoms": [
+        "No connection"
+      ],
+      "causes": [
+        "Crack",
+        "Overload"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "MEMS research (e.g., Draper)",
+    "discovery": "Micro-machined accelerometers enabled ubiquitous motion sensing.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "Early MEMS"
+      },
+      {
+        "year": 1990,
+        "event": "Automotive airbag"
+      },
+      {
+        "year": 2007,
+        "event": "Smartphone integration"
+      }
+    ]
+  }
+}

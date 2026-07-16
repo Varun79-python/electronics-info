@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Inverters have THD/EMI",
+    "Cost",
+    "Complex (synthesized)",
+    "Efficiency loss",
+    "Heavier (transformer)",
+    "Reactive load issues"
+  ]
+}

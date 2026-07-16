@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Counter counts:",
+      "options": [
+        "Clock pulses",
+        "Voltage",
+        "Current",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sequential.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4-bit modulus:",
+      "options": [
+        "16",
+        "8",
+        "4",
+        "32"
+      ],
+      "correctAnswer": 0,
+      "explanation": "2^4.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Ripple issue:",
+      "options": [
+        "Carry delay",
+        "No clock",
+        "Power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Skew.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "f_out = f_clk/M is:",
+      "options": [
+        "Division",
+        "Multiplication",
+        "None",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Divide by M.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Used in:",
+      "options": [
+        "Timers",
+        "Amplifiers",
+        "Regulators",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Counting.",
+      "difficulty": "beginner"
+    }
+  ]
+}

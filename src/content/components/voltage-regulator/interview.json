@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What does a regulator do?",
+      "answer": "It keeps output voltage constant despite input and load changes."
+    },
+    {
+      "question": "Linear vs switching?",
+      "answer": "Linear is simple/low-noise but inefficient; switching is efficient but noisier."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is dropout?",
+      "answer": "The minimum input-output voltage difference the regulator needs to regulate."
+    },
+    {
+      "question": "Why does a linear regulator heat up?",
+      "answer": "It dissipates (V_in - V_out) × I as heat."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "When choose an LDO?",
+      "answer": "When low noise/PSRR matters and efficiency is not critical (small headroom)."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How improve switcher stability?",
+      "answer": "Proper output caps with low ESR, good layout, and correct compensation."
+    }
+  ]
+}

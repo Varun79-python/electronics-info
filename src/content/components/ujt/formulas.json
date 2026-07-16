@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Standoff Voltage",
+      "formula": "V_P = η × V_BB + V_D",
+      "description": "Emitter firing threshold.",
+      "variables": [
+        {
+          "symbol": "η",
+          "name": "Intrinsic standoff",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "V_BB",
+          "name": "Interbase voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "η≈0.6 typical"
+    },
+    {
+      "name": "Oscillation Period",
+      "formula": "T ≈ R × C × ln(1/(1-η))",
+      "description": "Relaxation period.",
+      "variables": [
+        {
+          "symbol": "R",
+          "name": "Charge resistor",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "C",
+          "name": "Timing cap",
+          "unit": "F"
+        }
+      ],
+      "example": "Sets frequency"
+    }
+  ]
+}

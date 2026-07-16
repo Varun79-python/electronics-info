@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "High-power rheostats carry mains; insulate properly.",
+  "currentSafety": "Exceeding current rating causes burnout.",
+  "thermalSafety": "Gets hot; provide ventilation.",
+  "handling": "Avoid forcing the wiper.",
+  "storage": "Store dry.",
+  "disposal": "Recycle metal; e-waste rules."
+}

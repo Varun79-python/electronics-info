@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Size",
+      "typicalValues": "8x8 to large",
+      "notes": "Grid"
+    },
+    {
+      "name": "Color",
+      "typicalValues": "Mono/RGB",
+      "notes": "Type"
+    },
+    {
+      "name": "Scan Rate",
+      "typicalValues": "60+ Hz",
+      "notes": "No flicker"
+    },
+    {
+      "name": "Interface",
+      "typicalValues": "SPI/parallel",
+      "notes": "Signal"
+    }
+  ]
+}

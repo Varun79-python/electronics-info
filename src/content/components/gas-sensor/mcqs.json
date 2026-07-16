@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "MQ sensor uses:",
+      "options": [
+        "Heated metal-oxide",
+        "Coil only",
+        "Diode",
+        "Capacitor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "SnO₂ heated.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "R0 is:",
+      "options": [
+        "Clean-air resistance",
+        "Max R",
+        "Voltage",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Baseline.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "CO alarms often:",
+      "options": [
+        "Electrochemical",
+        "MQ",
+        "PIR",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Specific current.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Needs:",
+      "options": [
+        "Warm-up",
+        "Cooling",
+        "Light",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Heater stabilizes.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Cross-sensitivity means:",
+      "options": [
+        "Responds to other gases",
+        "None",
+        "High power",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Non-specific.",
+      "difficulty": "advanced"
+    }
+  ]
+}

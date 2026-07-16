@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Glue Logic",
+      "description": "Interconnect",
+      "examples": [
+        "Boards"
+      ]
+    },
+    {
+      "category": "Control",
+      "description": "Decode",
+      "examples": [
+        "Address"
+      ]
+    },
+    {
+      "category": "Interface",
+      "description": "Level shift",
+      "examples": [
+        "Buffers"
+      ]
+    }
+  ]
+}

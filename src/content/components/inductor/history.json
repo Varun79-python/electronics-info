@@ -1,0 +1,25 @@
+{
+  "invention": {
+    "year": 1831,
+    "inventor": "Michael Faraday, Joseph Henry",
+    "discovery": "Faraday and Henry independently discovered electromagnetic induction, the principle behind the inductor.",
+    "evolution": [
+      {
+        "year": 1831,
+        "event": "Faraday discovers electromagnetic induction"
+      },
+      {
+        "year": 1832,
+        "event": "Joseph Henry builds early practical inductors"
+      },
+      {
+        "year": 1891,
+        "event": "Tesla and Steinmetz develop AC inductors and transformers"
+      },
+      {
+        "year": 1950,
+        "event": "Ferrite cores enable compact high-frequency inductors"
+      }
+    ]
+  }
+}

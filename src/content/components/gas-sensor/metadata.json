@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "gas-sensor",
+    "name": "Gas Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 53,
+    "status": "published"
+  }
+}

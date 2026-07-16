@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Mains/high voltage; isolation required.",
+  "currentSafety": "High current; fusing.",
+  "thermalSafety": "Ventilation.",
+  "handling": "Qualified service.",
+  "storage": "Dry.",
+  "disposal": "E-waste rules."
+}

@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Photosensitive Base",
+      "function": "Converts light",
+      "material": "Silicon"
+    },
+    {
+      "name": "Collector/Emitter",
+      "function": "Amplify and output",
+      "material": "Doped silicon"
+    },
+    {
+      "name": "Lens/Window",
+      "function": "Focus light",
+      "material": "Epoxy"
+    }
+  ]
+}

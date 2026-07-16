@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a photodiode?",
+      "answer": "A junction that converts light into a proportional current."
+    },
+    {
+      "question": "Photoconductive vs photovoltaic?",
+      "answer": "Photoconductive is reverse-biased for speed; photovoltaic generates voltage with no bias."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why use a PIN structure?",
+      "answer": "The intrinsic layer widens the depletion region, lowering capacitance and speeding response."
+    },
+    {
+      "question": "What is responsivity?",
+      "answer": "The ratio of photocurrent to incident optical power, in A/W."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "When use an APD?",
+      "answer": "When the signal is weak and you need internal gain to overcome amplifier noise."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How minimize photodiode noise?",
+      "answer": "Cool the device, use a low-noise TIA, shield ambient light, and match bandwidth to the signal."
+    }
+  ]
+}

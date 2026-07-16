@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "Dynamic (Moving Coil)",
+      "description": "Most common.",
+      "applications": [
+        "Speakers",
+        "PA"
+      ]
+    },
+    {
+      "name": "Piezo",
+      "description": "Crystal-driven diaphragm.",
+      "applications": [
+        "Tweeters",
+        "Buzzers"
+      ]
+    },
+    {
+      "name": "Planar/Ribbon",
+      "description": "Light, detailed.",
+      "applications": [
+        "Hi-fi"
+      ]
+    }
+  ]
+}

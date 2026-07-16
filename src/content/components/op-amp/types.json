@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "General Purpose",
+      "description": "e.g., LM358.",
+      "applications": [
+        "Many"
+      ]
+    },
+    {
+      "name": "Precision",
+      "description": "Low offset.",
+      "applications": [
+        "Instrumentation"
+      ]
+    },
+    {
+      "name": "High-Speed",
+      "description": "Wide BW.",
+      "applications": [
+        "Video"
+      ]
+    },
+    {
+      "name": "Rail-to-Rail",
+      "description": "Full swing.",
+      "applications": [
+        "Single supply"
+      ]
+    }
+  ]
+}

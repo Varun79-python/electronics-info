@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Range",
+      "typicalValues": "-200°C to 1250°C",
+      "notes": "By type"
+    },
+    {
+      "name": "Accuracy",
+      "typicalValues": "±0.1°C to ±2°C",
+      "notes": "IC best"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "Analog/digital",
+      "notes": "R, V, I²C"
+    },
+    {
+      "name": "Response",
+      "typicalValues": "ms to s",
+      "notes": "Thermal mass"
+    }
+  ]
+}

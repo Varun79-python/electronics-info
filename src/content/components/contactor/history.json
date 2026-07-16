@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1900,
+    "inventor": "Evolved with industrial power",
+    "discovery": "Contactors developed alongside electric motors for safe industrial switching.",
+    "evolution": [
+      {
+        "year": 1900,
+        "event": "Early motor controllers"
+      },
+      {
+        "year": 1950,
+        "event": "Standardized contactors"
+      },
+      {
+        "year": 2000,
+        "event": "Compact, efficient coils"
+      }
+    ]
+  }
+}

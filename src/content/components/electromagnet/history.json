@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1825,
+    "inventor": "William Sturgeon",
+    "discovery": "Sturgeon built the first practical electromagnet, showing electricity could make magnetism.",
+    "evolution": [
+      {
+        "year": 1825,
+        "event": "Sturgeon's electromagnet"
+      },
+      {
+        "year": 1831,
+        "event": "Faraday's coils"
+      },
+      {
+        "year": 1900,
+        "event": "Industrial lifting magnets"
+      }
+    ]
+  }
+}

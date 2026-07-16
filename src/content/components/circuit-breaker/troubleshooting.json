@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Trips Often",
+      "symptoms": [
+        "Frequent off"
+      ],
+      "causes": [
+        "Overload"
+      ],
+      "solution": "Reduce load"
+    },
+    {
+      "failure": "Won't Reset",
+      "symptoms": [
+        "Stuck"
+      ],
+      "causes": [
+        "Fault present"
+      ],
+      "solution": "Find fault"
+    },
+    {
+      "failure": "No Trip",
+      "symptoms": [
+        "No protect"
+      ],
+      "causes": [
+        "Faulty"
+      ],
+      "solution": "Replace"
+    }
+  ]
+}

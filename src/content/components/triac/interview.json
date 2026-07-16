@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a TRIAC?",
+      "answer": "A bidirectional thyristor that switches AC in both directions with one gate."
+    },
+    {
+      "question": "TRIAC vs SCR?",
+      "answer": "TRIAC conducts both polarities; SCR only one."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why snubber for inductive loads?",
+      "answer": "Inductive current lags voltage, preventing natural commutation and causing dv/dt false triggering."
+    },
+    {
+      "question": "How control power?",
+      "answer": "By delaying the firing angle in each half-cycle (phase control)."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why not use TRIAC for motors always?",
+      "answer": "Commutation and EMI issues; IGBTs are better for precise motor control."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How reduce TRIAC EMI?",
+      "answer": "Use zero-crossing switching for resistive loads and snubbers plus filtering for phase control."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Safety",
+      "description": "Toxic detect",
+      "examples": [
+        "CO alarms"
+      ]
+    },
+    {
+      "category": "Air Quality",
+      "description": "VOC monitor",
+      "examples": [
+        "Homes"
+      ]
+    },
+    {
+      "category": "Industry",
+      "description": "Leak detect",
+      "examples": [
+        "Plants"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Slower than transistors",
+    "Harmonics and EMI",
+    "dv/dt sensitivity",
+    "Poor for inductive loads (snubber)",
+    "Gate current both polarities",
+    "Not for high frequency"
+  ]
+}

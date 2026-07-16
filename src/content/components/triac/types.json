@@ -1,0 +1,26 @@
+{
+  "types": [
+    {
+      "name": "Standard TRIAC",
+      "description": "General AC control.",
+      "applications": [
+        "Dimmers",
+        "Heaters"
+      ]
+    },
+    {
+      "name": "Snubberless TRIAC",
+      "description": "Tolerates high dv/dt.",
+      "applications": [
+        "Inductive loads"
+      ]
+    },
+    {
+      "name": "Logic-Level TRIAC",
+      "description": "Low gate trigger.",
+      "applications": [
+        "MCU control"
+      ]
+    }
+  ]
+}

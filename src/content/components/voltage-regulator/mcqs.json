@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A regulator keeps ___ constant.",
+      "options": [
+        "Current",
+        "Voltage",
+        "Frequency",
+        "Power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Output voltage.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Linear regulator efficiency is:",
+      "options": [
+        "V_out/V_in",
+        "V_in/V_out",
+        "100%",
+        "50% always"
+      ],
+      "correctAnswer": 0,
+      "explanation": "η = V_out/V_in.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "LDO means:",
+      "options": [
+        "Low dropout",
+        "Low density",
+        "Long delay",
+        "Low duty"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Low-dropout.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Switchers are better for:",
+      "options": [
+        "Low noise",
+        "Efficiency",
+        "Simplicity",
+        "No EMI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "High efficiency.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Dropout is the:",
+      "options": [
+        "Max voltage",
+        "Min V_in-V_out",
+        "Output current",
+        "Ripple"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Minimum headroom.",
+      "difficulty": "advanced"
+    }
+  ]
+}

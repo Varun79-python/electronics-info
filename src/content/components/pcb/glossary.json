@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Via",
+      "definition": "Hole connecting layers."
+    },
+    {
+      "term": "FR4",
+      "definition": "Common PCB substrate."
+    },
+    {
+      "term": "Silkscreen",
+      "definition": "Component labels."
+    },
+    {
+      "term": "Impedance",
+      "definition": "Controlled trace Z₀."
+    }
+  ]
+}

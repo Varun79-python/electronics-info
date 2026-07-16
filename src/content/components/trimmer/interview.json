@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a trimmer?",
+      "answer": "A small preset variable resistor used to calibrate a circuit."
+    },
+    {
+      "question": "Trimmer vs potentiometer?",
+      "answer": "Trimmers are adjusted rarely with a tool; pots are user-controlled frequently."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "When use a multiturn trimmer?",
+      "answer": "When fine, repeatable calibration is needed, such as precision instrument zeroing."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How prevent trimmer drift?",
+      "answer": "Use sealed types, apply locking lacquer, and avoid mechanical stress."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Why might you avoid trimmers in production?",
+      "answer": "They add cost, drift risk, and calibration labor; digital trim or fixed precision parts can eliminate them."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Schottky Diode Application",
+      "author": "STMicroelectronics",
+      "year": 2020,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "The Art of Electronics",
+      "author": "Paul Horowitz, Winfield Hill",
+      "year": 2015,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

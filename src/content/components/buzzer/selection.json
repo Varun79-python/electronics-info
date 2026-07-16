@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Active or Passive",
+      "description": "Active for simplicity."
+    },
+    {
+      "step": 2,
+      "title": "Voltage",
+      "description": "Match supply."
+    },
+    {
+      "step": 3,
+      "title": "Loudness",
+      "description": "dB at distance."
+    },
+    {
+      "step": 4,
+      "title": "Frequency",
+      "description": "Audible/preference."
+    }
+  ],
+  "tips": [
+    "Active buzzers need only DC",
+    "Passive needs square wave",
+    "Drive with transistor",
+    "Don't overdrive"
+  ]
+}

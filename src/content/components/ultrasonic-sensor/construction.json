@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Piezoelectric Transducer",
+      "function": "Emit/receive",
+      "material": "Ceramic"
+    },
+    {
+      "name": "Driver",
+      "function": "Pulse",
+      "material": "Silicon"
+    },
+    {
+      "name": "Housing",
+      "function": "Protect",
+      "material": "Plastic"
+    },
+    {
+      "name": "Receiver",
+      "function": "Echo",
+      "material": "Ceramic"
+    }
+  ]
+}

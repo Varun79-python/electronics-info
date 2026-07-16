@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Sound",
+      "symptoms": [
+        "Silent"
+      ],
+      "causes": [
+        "No input"
+      ],
+      "solution": "Check signal"
+    },
+    {
+      "failure": "Distortion",
+      "symptoms": [
+        "Clipping"
+      ],
+      "causes": [
+        "Overdrive"
+      ],
+      "solution": "Lower gain"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Hot"
+      ],
+      "causes": [
+        "Low load"
+      ],
+      "solution": "Check ohms"
+    }
+  ]
+}

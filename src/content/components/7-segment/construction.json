@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Segments (a-g)",
+      "function": "Form digits",
+      "material": "LED"
+    },
+    {
+      "name": "Decimal Point",
+      "function": "Fraction",
+      "material": "LED"
+    },
+    {
+      "name": "Common Pin",
+      "function": "Anode/Cathode",
+      "material": "Metal"
+    },
+    {
+      "name": "Housing",
+      "function": "Diffuse",
+      "material": "Plastic"
+    }
+  ]
+}

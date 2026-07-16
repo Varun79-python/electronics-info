@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Range",
+      "typicalValues": "2cm to 10m",
+      "notes": "By model"
+    },
+    {
+      "name": "Frequency",
+      "typicalValues": "40kHz common",
+      "notes": "Higher = shorter"
+    },
+    {
+      "name": "Beam Angle",
+      "typicalValues": "5° to 30°",
+      "notes": "Cone"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "Analog/PWM/serial",
+      "notes": "Varied"
+    }
+  ]
+}

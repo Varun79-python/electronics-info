@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Current Rating",
+      "typicalValues": "0.1A to 10A",
+      "notes": "Signal to power"
+    },
+    {
+      "name": "Voltage Rating",
+      "typicalValues": "12V to 250V",
+      "notes": "AC/DC"
+    },
+    {
+      "name": "Contact Form",
+      "typicalValues": "NO/NC",
+      "notes": "Config"
+    },
+    {
+      "name": "Life",
+      "typicalValues": "10^5 to 10^7 cycles",
+      "notes": "Actuations"
+    }
+  ]
+}

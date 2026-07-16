@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Resistive Element",
+      "function": "Provides variable resistance",
+      "material": "Carbon, cermet, or conductive plastic"
+    },
+    {
+      "name": "Wiper",
+      "function": "Sliding contact that taps the element",
+      "material": "Phosphor bronze or spring metal"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect to circuit (3 terminals)",
+      "material": "Tinned leads"
+    },
+    {
+      "name": "Housing",
+      "function": "Protects and guides the wiper",
+      "material": "Plastic or metal"
+    }
+  ]
+}

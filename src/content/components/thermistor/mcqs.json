@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "An NTC thermistor's resistance:",
+      "options": [
+        "Rises with temperature",
+        "Falls with temperature",
+        "Is constant",
+        "Depends on light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NTC = negative temperature coefficient.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Steinhart-Hart equation relates:",
+      "options": [
+        "V and I",
+        "R and T",
+        "C and V",
+        "L and I"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It maps resistance to temperature.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "PTC thermistors are used for:",
+      "options": [
+        "Sensing",
+        "Overcurrent protection",
+        "Filtering",
+        "Tuning"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PTC rises with heat, limiting current.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Self-heating is caused by:",
+      "options": [
+        "Ambient heat",
+        "Measurement current",
+        "Light",
+        "Magnetic field"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Excitation current warms the device.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Common nominal value at 25°C is:",
+      "options": [
+        "10Ω",
+        "10kΩ",
+        "10MΩ",
+        "1Ω"
+      ],
+      "correctAnswer": 1,
+      "explanation": "10kΩ NTC is very common.",
+      "difficulty": "beginner"
+    }
+  ]
+}

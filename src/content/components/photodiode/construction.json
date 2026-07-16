@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "p-n Junction",
+      "function": "Converts light to current",
+      "material": "Silicon or InGaAs"
+    },
+    {
+      "name": "Window/Optics",
+      "function": "Admits light",
+      "material": "Glass or filter"
+    },
+    {
+      "name": "Terminals",
+      "function": "Output",
+      "material": "Tinned leads"
+    }
+  ]
+}

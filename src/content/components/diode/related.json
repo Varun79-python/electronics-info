@@ -1,0 +1,24 @@
+{
+  "relatedComponents": [
+    {
+      "id": "transistor",
+      "relationship": "Diodes form the basis of transistor junctions"
+    },
+    {
+      "id": "mosfet",
+      "relationship": "Body diode is parasitic in MOSFETs"
+    },
+    {
+      "id": "rectifier",
+      "relationship": "Multiple diodes form rectifier bridges"
+    },
+    {
+      "id": "voltage-regulator",
+      "relationship": "Zener diodes regulate voltage"
+    },
+    {
+      "id": "led",
+      "relationship": "LED is a light-emitting diode variant"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Tuning Range",
+      "description": "Pick C range and ratio."
+    },
+    {
+      "step": 2,
+      "title": "Q and Loss",
+      "description": "Higher Q for low phase noise."
+    },
+    {
+      "step": 3,
+      "title": "Bias Circuit",
+      "description": "Clean, filtered control voltage."
+    }
+  ],
+  "tips": [
+    "Use hyperabrupt for linear tuning",
+    "Filter the control line",
+    "Keep reverse biased",
+    "Match to tank"
+  ]
+}

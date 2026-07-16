@@ -1,0 +1,36 @@
+{
+  "types": [
+    {
+      "name": "SPXO",
+      "description": "Simple packaged crystal oscillator.",
+      "applications": [
+        "Clocks",
+        "MCUs"
+      ]
+    },
+    {
+      "name": "TCXO",
+      "description": "Temperature-compensated for stability.",
+      "applications": [
+        "GPS",
+        "Radios"
+      ]
+    },
+    {
+      "name": "OCXO",
+      "description": "Oven-controlled, ultra-stable.",
+      "applications": [
+        "Base stations",
+        "Metrology"
+      ]
+    },
+    {
+      "name": "VCXO",
+      "description": "Voltage-tunable.",
+      "applications": [
+        "PLLs",
+        "Synth"
+      ]
+    }
+  ]
+}

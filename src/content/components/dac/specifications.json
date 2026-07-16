@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Resolution",
+      "typicalValues": "8 to 20 bits",
+      "notes": "Precision"
+    },
+    {
+      "name": "Settling",
+      "typicalValues": "µs to ns",
+      "notes": "Speed"
+    },
+    {
+      "name": "Output",
+      "typicalValues": "Voltage/current",
+      "notes": "Type"
+    },
+    {
+      "name": "INL",
+      "typicalValues": "±LSB",
+      "notes": "Linearity"
+    }
+  ]
+}

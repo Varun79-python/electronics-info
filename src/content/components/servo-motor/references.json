@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Servo System Design",
+      "author": "Yaskawa",
+      "year": 2020,
+      "url": "",
+      "type": "datasheet"
+    },
+    {
+      "title": "Electric Machinery",
+      "author": "Fitzgerald",
+      "year": 2013,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

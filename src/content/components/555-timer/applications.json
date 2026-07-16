@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Timing",
+      "description": "Delays",
+      "examples": [
+        "Relays"
+      ]
+    },
+    {
+      "category": "Oscillator",
+      "description": "Clocks",
+      "examples": [
+        "Tone"
+      ]
+    },
+    {
+      "category": "PWM",
+      "description": "Dim/control",
+      "examples": [
+        "LED"
+      ]
+    },
+    {
+      "category": "Education",
+      "description": "Learn timing",
+      "examples": [
+        "Labs"
+      ]
+    }
+  ]
+}

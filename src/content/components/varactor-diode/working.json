@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Under reverse bias the depletion region widens as voltage increases, reducing junction capacitance (C ∝ 1/√(V + V0)). This makes the diode a voltage-tuned capacitor.",
+  "steps": [
+    "Diode is reverse biased",
+    "Reverse voltage widens the depletion region",
+    "Wider region lowers junction capacitance",
+    "Capacitance tracks the control voltage",
+    "Used in resonant tanks for tuning"
+  ],
+  "microscopicExplanation": "The reverse-biased junction forms a voltage-dependent capacitor; the depletion width sets the plate separation, so C decreases with reverse voltage following the abrupt/junction grading law."
+}

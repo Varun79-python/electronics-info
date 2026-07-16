@@ -1,0 +1,35 @@
+{
+  "failureModes": [
+    {
+      "failure": "Oscillation",
+      "symptoms": [
+        "Vibration"
+      ],
+      "causes": [
+        "Bad tuning"
+      ],
+      "solution": "Retune PID"
+    },
+    {
+      "failure": "Encoder Fault",
+      "symptoms": [
+        "Position error"
+      ],
+      "causes": [
+        "Noise",
+        "Damage"
+      ],
+      "solution": "Check wiring/shield"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Trip"
+      ],
+      "causes": [
+        "Overload"
+      ],
+      "solution": "Reduce load"
+    }
+  ]
+}

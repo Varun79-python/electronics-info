@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Capacitive touch senses:",
+      "options": [
+        "Capacitance change",
+        "Pressure only",
+        "Light",
+        "Heat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ΔC from finger.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Multi-touch uses:",
+      "options": [
+        "Mutual cap grid",
+        "Single pad",
+        "Resistor",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cross-points.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Water causes:",
+      "options": [
+        "False touch",
+        "None",
+        "Cooling",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Like a finger.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Resistive needs:",
+      "options": [
+        "Pressure",
+        "Field",
+        "Light",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Layers short.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "ITO is:",
+      "options": [
+        "Transparent conductor",
+        "Metal",
+        "Plastic",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Indium tin oxide.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

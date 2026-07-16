@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "photodiode",
+      "relationship": "Receiver"
+    },
+    {
+      "id": "led",
+      "relationship": "IR emitter"
+    },
+    {
+      "id": "proximity-sensor",
+      "relationship": "Similar use"
+    }
+  ]
+}

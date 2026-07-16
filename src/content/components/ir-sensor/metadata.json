@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "ir-sensor",
+    "name": "IR Sensor",
+    "category": "sensors",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 54,
+    "status": "published"
+  }
+}

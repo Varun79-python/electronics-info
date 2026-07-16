@@ -1,0 +1,27 @@
+{
+  "applications": [
+    {
+      "category": "Light Dimming",
+      "description": "Controls lamp brightness",
+      "examples": [
+        "Dimmers",
+        "Mood lighting"
+      ]
+    },
+    {
+      "category": "Motor Speed",
+      "description": "Fan and pump control",
+      "examples": [
+        "Ceiling fans"
+      ]
+    },
+    {
+      "category": "Heating",
+      "description": "Variable AC heat",
+      "examples": [
+        "Soldering",
+        "Ovens"
+      ]
+    }
+  ]
+}

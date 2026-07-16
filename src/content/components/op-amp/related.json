@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "comparator",
+      "relationship": "No feedback cousin"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Sets gain"
+    },
+    {
+      "id": "adc",
+      "relationship": "Drives conversion"
+    }
+  ]
+}

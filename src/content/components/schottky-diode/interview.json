@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a Schottky diode?",
+      "answer": "A metal-semiconductor diode with low forward drop and very fast switching."
+    },
+    {
+      "question": "Why is it fast?",
+      "answer": "No minority-carrier storage, so no reverse-recovery time."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Where use a Schottky?",
+      "answer": "Low-voltage, high-frequency rectification and freewheeling where low V_F matters."
+    },
+    {
+      "question": "Main drawback vs p-n?",
+      "answer": "Lower reverse voltage rating and higher leakage, especially when hot."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Why does leakage matter?",
+      "answer": "At high temperature Schottky leakage can rival load current, wasting power and heating."
+    }
+  ],
+  "expert": [
+    {
+      "question": "How choose between Schottky and synchronous rectification?",
+      "answer": "Schottky for simplicity/low cost; synchronous MOSFET rectification for highest efficiency at very low V_out."
+    }
+  ]
+}

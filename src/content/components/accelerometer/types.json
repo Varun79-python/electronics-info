@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "1-Axis",
+      "description": "Single direction.",
+      "applications": [
+        "Tilt"
+      ]
+    },
+    {
+      "name": "3-Axis",
+      "description": "X/Y/Z.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "Analog",
+      "description": "Voltage out.",
+      "applications": [
+        "Simple"
+      ]
+    },
+    {
+      "name": "Digital (I²C)",
+      "description": "Bus output.",
+      "applications": [
+        "MCU"
+      ]
+    }
+  ]
+}

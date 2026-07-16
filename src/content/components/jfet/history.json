@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1952,
+    "inventor": "Julius Lilienfeld (concept), Shockley 1952",
+    "discovery": "Shockley published the field-effect transistor theory leading to the JFET.",
+    "evolution": [
+      {
+        "year": 1952,
+        "event": "JFET theory and devices"
+      },
+      {
+        "year": 1960,
+        "event": "Used in early analog ICs"
+      },
+      {
+        "year": 1980,
+        "event": "Low-noise JFETs mature"
+      }
+    ]
+  }
+}

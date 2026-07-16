@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Photon Energy",
+      "formula": "E = h × c / λ",
+      "description": "Energy relates to wavelength.",
+      "variables": [
+        {
+          "symbol": "E",
+          "name": "Energy",
+          "unit": "eV"
+        },
+        {
+          "symbol": "λ",
+          "name": "Wavelength",
+          "unit": "nm"
+        },
+        {
+          "symbol": "h",
+          "name": "Planck constant",
+          "unit": "J·s"
+        }
+      ],
+      "example": "Red ~620nm → ~2eV"
+    },
+    {
+      "name": "Forward Drop",
+      "formula": "V_F ≈ 1.8V (red) to 3.3V (blue)",
+      "description": "Typical forward voltage by color.",
+      "variables": [
+        {
+          "symbol": "V_F",
+          "name": "Forward voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "Blue LEDs need higher V"
+    }
+  ]
+}

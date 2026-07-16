@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Current Rating",
+      "description": "125% of normal load."
+    },
+    {
+      "step": 2,
+      "title": "Voltage",
+      "description": "Above circuit max."
+    },
+    {
+      "step": 3,
+      "title": "Speed",
+      "description": "Slow-blow for inrush."
+    },
+    {
+      "step": 4,
+      "title": "Breaking Capacity",
+      "description": "Above fault current."
+    }
+  ],
+  "tips": [
+    "Never oversize too much",
+    "Match characteristic to load",
+    "Use certified types"
+  ]
+}

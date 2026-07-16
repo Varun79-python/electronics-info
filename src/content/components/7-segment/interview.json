@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "How show a digit?",
+      "answer": "Light the segment combination for that number."
+    },
+    {
+      "question": "CA vs CC?",
+      "answer": "Common anode shares +; cathode shares ground."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why multiplex?",
+      "answer": "Share driver pins across digits by scanning."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Current limit?",
+      "answer": "Each segment needs a series resistor."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Flicker fix?",
+      "answer": "Increase multiplex refresh rate."
+    }
+  ]
+}

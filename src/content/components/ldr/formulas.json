@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Resistance vs Light",
+      "formula": "R ∝ 1 / L^γ",
+      "description": "Light-dependent.",
+      "variables": [
+        {
+          "symbol": "R",
+          "name": "Resistance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "L",
+          "name": "Light",
+          "unit": "lux"
+        }
+      ],
+      "example": "kΩ in dark, Ω in light"
+    },
+    {
+      "name": "Voltage Divider",
+      "formula": "V_out = V (R2/(R1+R2))",
+      "description": "Read as voltage.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Voltage",
+          "unit": "V"
+        }
+      ],
+      "example": "With fixed R"
+    }
+  ]
+}

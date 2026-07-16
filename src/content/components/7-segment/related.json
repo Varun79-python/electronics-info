@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "led",
+      "relationship": "Segment LEDs"
+    },
+    {
+      "id": "decoder",
+      "relationship": "Drives segments"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Current limit"
+    }
+  ]
+}

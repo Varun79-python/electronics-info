@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Float",
+      "symptoms": [
+        "Erratic"
+      ],
+      "causes": [
+        "Open"
+      ],
+      "solution": "Tie off"
+    },
+    {
+      "failure": "Stuck",
+      "symptoms": [
+        "Fixed"
+      ],
+      "causes": [
+        "Bad"
+      ],
+      "solution": "Replace"
+    },
+    {
+      "failure": "Slow",
+      "symptoms": [
+        "Delay"
+      ],
+      "causes": [
+        "Load"
+      ],
+      "solution": "Buffer"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "led",
+      "relationship": "Pixel element"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Current limit"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Drives scan"
+    }
+  ]
+}

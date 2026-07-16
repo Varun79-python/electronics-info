@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a battery?",
+      "answer": "A chemical store of electrical energy."
+    },
+    {
+      "question": "Primary vs secondary?",
+      "answer": "Primary single-use; secondary rechargeable."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "C-rate meaning?",
+      "answer": "Discharge current relative to capacity (1C = 1h drain)."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Li-ion risk?",
+      "answer": "Thermal runaway if punctured or overcharged."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Why BMS?",
+      "answer": "Balances cells and prevents over/under charge."
+    }
+  ]
+}

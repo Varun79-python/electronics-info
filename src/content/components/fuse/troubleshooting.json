@@ -1,0 +1,34 @@
+{
+  "failureModes": [
+    {
+      "failure": "Blown",
+      "symptoms": [
+        "No power"
+      ],
+      "causes": [
+        "Overload/short"
+      ],
+      "solution": "Replace; find cause"
+    },
+    {
+      "failure": "Nuisance Blow",
+      "symptoms": [
+        "Frequent"
+      ],
+      "causes": [
+        "Undersized"
+      ],
+      "solution": "Upsize/check"
+    },
+    {
+      "failure": "Won't Blow",
+      "symptoms": [
+        "No protect"
+      ],
+      "causes": [
+        "Oversized"
+      ],
+      "solution": "Correct rating"
+    }
+  ]
+}

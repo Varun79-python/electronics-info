@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1940,
+    "inventor": "Connector standardization",
+    "discovery": "Standard connectors enabled interchangeable electronic equipment.",
+    "evolution": [
+      {
+        "year": 1940,
+        "event": "Early connectors"
+      },
+      {
+        "year": 1990,
+        "event": "USB"
+      },
+      {
+        "year": 2010,
+        "event": "USB-C/compact"
+      }
+    ]
+  }
+}

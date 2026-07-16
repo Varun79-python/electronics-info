@@ -1,0 +1,30 @@
+{
+  "formulas": [
+    {
+      "name": "Coil Power",
+      "formula": "P = V² / R",
+      "description": "Control power.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        }
+      ],
+      "example": "24V coil ~10W"
+    },
+    {
+      "name": "Making/Breaking",
+      "formula": "I_rated (AC3 duty)",
+      "description": "Motor duty rating.",
+      "variables": [
+        {
+          "symbol": "I_rated",
+          "name": "Rated current",
+          "unit": "A"
+        }
+      ],
+      "example": "AC3 for motors"
+    }
+  ]
+}

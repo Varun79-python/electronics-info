@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Ceramic resonators are mainly used as:",
+      "options": [
+        "Filters",
+        "Clock sources",
+        "Sensors",
+        "Amplifiers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "They provide timing clocks.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Compared to crystals, resonators are:",
+      "options": [
+        "More accurate",
+        "Cheaper/less accurate",
+        "More stable",
+        "Higher frequency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cheaper but less precise.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A 3-terminal resonator includes:",
+      "options": [
+        "Crystal",
+        "Load capacitors",
+        "Inductor",
+        "Battery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Built-in load caps.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Based on the:",
+      "options": [
+        "Piezoelectric",
+        "Photoelectric",
+        "Thermoelectric",
+        "Magnetic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piezoelectric ceramic resonance.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Choose a crystal instead when:",
+      "options": [
+        "Cost matters",
+        "Precision timing needed",
+        "Size matters",
+        "Shock resistance needed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Crystals give better accuracy.",
+      "difficulty": "advanced"
+    }
+  ]
+}

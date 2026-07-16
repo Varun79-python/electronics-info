@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Terminal Strip",
+      "definition": "Row of connected clips."
+    },
+    {
+      "term": "Power Rail",
+      "definition": "Common supply bus."
+    },
+    {
+      "term": "Center Gap",
+      "definition": "Splits IC rows."
+    },
+    {
+      "term": "Pitch",
+      "definition": "2.54mm lead spacing."
+    }
+  ]
+}

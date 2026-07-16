@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "A trimmer is primarily used for:",
+      "options": [
+        "User volume",
+        "Calibration",
+        "Power control",
+        "Tuning radio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trimmers calibrate circuits.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Multiturn trimmers offer:",
+      "options": [
+        "Higher power",
+        "Finer adjustment",
+        "Lower cost",
+        "No wiper"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple turns give fine control.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Trimmers are adjusted with:",
+      "options": [
+        "Finger",
+        "Screwdriver",
+        "Light",
+        "Heat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A tool sets the value.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Main drift cause:",
+      "options": [
+        "Light",
+        "Vibration/moisture",
+        "Sound",
+        "Magnetism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mechanical and environmental stress.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Common material for precision trimmers:",
+      "options": [
+        "Carbon",
+        "Cermet",
+        "Wire",
+        "Air"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cermet is stable and precise.",
+      "difficulty": "intermediate"
+    }
+  ]
+}

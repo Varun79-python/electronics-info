@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "magnetometer-ish",
+      "relationship": "Field sensing"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads"
+    },
+    {
+      "id": "adc",
+      "relationship": "Analog"
+    }
+  ]
+}

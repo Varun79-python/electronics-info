@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "TFT",
+      "definition": "Thin-film transistor pixel switch."
+    },
+    {
+      "term": "TN/IPS",
+      "definition": "LCD panel technologies."
+    },
+    {
+      "term": "Backlight",
+      "definition": "Light source behind LCD."
+    },
+    {
+      "term": "Polarizer",
+      "definition": "Filters light orientation."
+    }
+  ]
+}

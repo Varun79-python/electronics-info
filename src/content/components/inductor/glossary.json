@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Henry",
+      "definition": "The SI unit of inductance. One henry induces 1 volt when current changes at 1 ampere per second."
+    },
+    {
+      "term": "Back-EMF",
+      "definition": "Voltage induced by a changing magnetic field that opposes the change in current."
+    },
+    {
+      "term": "Saturation",
+      "definition": "When a core cannot store more magnetic flux, inductance collapses."
+    },
+    {
+      "term": "Q Factor",
+      "definition": "Ratio of reactance to resistance; higher means lower loss."
+    },
+    {
+      "term": "Self-Resonant Frequency",
+      "definition": "Frequency above which parasitic capacitance dominates and the part acts capacitive."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "adc",
+      "relationship": "Converts signal"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads"
+    },
+    {
+      "id": "temperature-sensor",
+      "relationship": "Often co-packaged"
+    }
+  ]
+}

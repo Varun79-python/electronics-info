@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1965,
+    "inventor": "Touch tech evolution (e.g., Johnson)",
+    "discovery": "Early capacitive touch paved the way for modern multi-touch interfaces.",
+    "evolution": [
+      {
+        "year": 1965,
+        "event": "Capacitive touch"
+      },
+      {
+        "year": 2007,
+        "event": "Multi-touch phones"
+      },
+      {
+        "year": 2015,
+        "event": "In-display fingerprint"
+      }
+    ]
+  }
+}

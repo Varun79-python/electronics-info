@@ -1,0 +1,19 @@
+{
+  "internalParts": [
+    {
+      "name": "Dual p-n-p-n",
+      "function": "Bidirectional switch",
+      "material": "Silicon"
+    },
+    {
+      "name": "Gate",
+      "function": "Common trigger",
+      "material": "Tinned lead"
+    },
+    {
+      "name": "MT1/MT2",
+      "function": "Main terminals",
+      "material": "Doped silicon"
+    }
+  ]
+}

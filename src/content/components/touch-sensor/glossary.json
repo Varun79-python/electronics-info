@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "ΔC",
+      "definition": "Change in capacitance from touch."
+    },
+    {
+      "term": "Mutual Cap",
+      "definition": "Cross-point grid sensing."
+    },
+    {
+      "term": "ITO",
+      "definition": "Indium tin oxide transparent conductor."
+    },
+    {
+      "term": "Threshold",
+      "definition": "Detection limit."
+    }
+  ]
+}

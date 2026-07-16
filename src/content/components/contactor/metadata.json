@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "contactor",
+    "name": "Contactor",
+    "category": "electromechanical",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 39,
+    "status": "published"
+  }
+}

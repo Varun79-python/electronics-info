@@ -1,0 +1,32 @@
+{
+  "applications": [
+    {
+      "category": "Portable",
+      "description": "Devices",
+      "examples": [
+        "Phones"
+      ]
+    },
+    {
+      "category": "Transport",
+      "description": "EVs",
+      "examples": [
+        "Cars"
+      ]
+    },
+    {
+      "category": "Backup",
+      "description": "UPS",
+      "examples": [
+        "Servers"
+      ]
+    },
+    {
+      "category": "Grid",
+      "description": "Storage",
+      "examples": [
+        "Solar"
+      ]
+    }
+  ]
+}

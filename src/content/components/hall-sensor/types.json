@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Linear",
+      "description": "V ∝ B.",
+      "applications": [
+        "Current sense"
+      ]
+    },
+    {
+      "name": "Latch/Switch",
+      "description": "Digital on/off.",
+      "applications": [
+        "RPM"
+      ]
+    },
+    {
+      "name": "Omnipolar",
+      "description": "Either pole.",
+      "applications": [
+        "Proximity"
+      ]
+    },
+    {
+      "name": "3D",
+      "description": "Vector field.",
+      "applications": [
+        "Joystick"
+      ]
+    }
+  ]
+}

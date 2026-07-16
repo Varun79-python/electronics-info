@@ -1,0 +1,11 @@
+{
+  "name": "Tunnel Diode",
+  "id": "tunnel-diode",
+  "category": "semiconductor",
+  "shortDescription": "A tunnel diode (Esaki diode) is a heavily doped p-n junction exhibiting negative resistance due to quantum tunneling, enabling very high-frequency oscillators.",
+  "whatIsIt": "A tunnel diode (Esaki diode) is a heavily doped p-n junction exhibiting negative resistance due to quantum tunneling, enabling very high-frequency oscillators.",
+  "whyExists": "Its negative-resistance region allows ultra-fast oscillators and amplifiers at microwave frequencies.",
+  "whereUsed": "They are used in microwave oscillators, amplifiers, and high-speed switching.",
+  "thumbnail": "/assets/images/components/tunnel-diode/thumbnail.svg",
+  "schematic": "/assets/components/tunnel-diode/schematic/symbol.svg"
+}

@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "voltage-regulator",
+      "relationship": "Regulates battery"
+    },
+    {
+      "id": "ldo-regulator",
+      "relationship": "Low-noise rail"
+    },
+    {
+      "id": "connector",
+      "relationship": "Battery terminal"
+    }
+  ]
+}

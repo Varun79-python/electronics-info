@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Degrades with each surge (aging)",
+    "Has leakage current at operating voltage",
+    "Can fail short-circuit (catastrophic)",
+    "Limited energy lifetime",
+    "Capacitance affects fast signals",
+    "Not precise clamping"
+  ]
+}

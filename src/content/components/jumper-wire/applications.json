@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Prototyping",
+      "description": "Connect",
+      "examples": [
+        "Breadboard"
+      ]
+    },
+    {
+      "category": "Test",
+      "description": "Patch",
+      "examples": [
+        "Bench"
+      ]
+    },
+    {
+      "category": "Modules",
+      "description": "Link",
+      "examples": [
+        "Sensors"
+      ]
+    }
+  ]
+}

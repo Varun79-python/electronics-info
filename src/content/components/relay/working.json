@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Current through the coil creates a magnetic field that pulls a ferromagnetic armature, moving the contacts to make or break the load circuit.",
+  "steps": [
+    "Control current energizes the coil",
+    "Magnetic field attracts the armature",
+    "Armature moves the contacts",
+    "Load circuit is connected or disconnected",
+    "Removing current releases the armature (spring return)"
+  ],
+  "microscopicExplanation": "The coil's ampere-turns magnetize the core; the resulting force overcomes spring tension to actuate the contact, a classic electromechanical energy conversion."
+}

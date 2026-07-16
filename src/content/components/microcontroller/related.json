@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "adc",
+      "relationship": "Reads analog"
+    },
+    {
+      "id": "sensor",
+      "relationship": "Interfaces"
+    },
+    {
+      "id": "led",
+      "relationship": "Drives output"
+    }
+  ]
+}

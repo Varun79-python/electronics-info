@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "dc-motor",
+      "relationship": "Often the prime mover"
+    },
+    {
+      "id": "encoder",
+      "relationship": "Position feedback"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Runs control loop"
+    },
+    {
+      "id": "stepper-motor",
+      "relationship": "Open-loop alternative"
+    }
+  ]
+}

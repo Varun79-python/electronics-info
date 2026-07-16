@@ -1,0 +1,17 @@
+{
+  "formulas": [
+    {
+      "name": "Phase Control",
+      "formula": "P_avg ∝ (1 + cos α)/2",
+      "description": "Average power vs firing angle.",
+      "variables": [
+        {
+          "symbol": "α",
+          "name": "Firing angle",
+          "unit": "°"
+        }
+      ],
+      "example": "α=90° → 50% power"
+    }
+  ]
+}

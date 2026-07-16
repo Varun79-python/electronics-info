@@ -1,0 +1,36 @@
+{
+  "failureModes": [
+    {
+      "failure": "Latch-up",
+      "symptoms": [
+        "Destructive on"
+      ],
+      "causes": [
+        "dV/dt",
+        "Overcurrent"
+      ],
+      "solution": "Snubber; protect"
+    },
+    {
+      "failure": "Short",
+      "symptoms": [
+        "No switching"
+      ],
+      "causes": [
+        "Overvoltage",
+        "Overheat"
+      ],
+      "solution": "Replace module"
+    },
+    {
+      "failure": "Overheat",
+      "symptoms": [
+        "Thermal trip"
+      ],
+      "causes": [
+        "High loss"
+      ],
+      "solution": "Better cooling"
+    }
+  ]
+}

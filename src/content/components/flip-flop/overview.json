@@ -1,0 +1,11 @@
+{
+  "name": "Flip-Flop",
+  "id": "flip-flop",
+  "category": "digital",
+  "shortDescription": "A flip-flop is a bistable sequential circuit that stores one bit of state, changing on a clock or control edge.",
+  "whatIsIt": "A flip-flop is a bistable sequential circuit that stores one bit of state, changing on a clock or control edge.",
+  "whyExists": "State storage is essential for memory, registers, and sequential logic.",
+  "whereUsed": "Used in counters, registers, and every digital memory.",
+  "thumbnail": "/assets/images/components/flip-flop/thumbnail.svg",
+  "schematic": "/assets/components/flip-flop/schematic/symbol.svg"
+}

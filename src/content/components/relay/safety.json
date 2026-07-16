@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Contacts switch mains; isolate properly.",
+  "currentSafety": "Arc risk; rate contacts.",
+  "thermalSafety": "Overload welds contacts.",
+  "handling": "Avoid coil overvoltage.",
+  "storage": "Dry.",
+  "disposal": "E-waste rules."
+}

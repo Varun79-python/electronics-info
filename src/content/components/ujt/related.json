@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "555-timer",
+      "relationship": "Modern replacement"
+    },
+    {
+      "id": "thyristor",
+      "relationship": "Triggered by UJT"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Timing capacitor"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Timing/charge resistor"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1960,
+    "inventor": "Encoder IC evolution",
+    "discovery": "Encoders compressed parallel inputs into coded outputs for keyboards and logic.",
+    "evolution": [
+      {
+        "year": 1960,
+        "event": "Encoder ICs"
+      },
+      {
+        "year": 1980,
+        "event": "Priority encoders"
+      },
+      {
+        "year": 2000,
+        "event": "Integrated with MCU"
+      }
+    ]
+  }
+}

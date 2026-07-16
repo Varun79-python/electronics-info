@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Segment Current",
+      "formula": "I = (V_cc - V_led) / R",
+      "description": "Limit per LED.",
+      "variables": [
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        },
+        {
+          "symbol": "R",
+          "name": "Resistor",
+          "unit": "Ω"
+        }
+      ],
+      "example": "10mA"
+    },
+    {
+      "name": "Multiplex",
+      "formula": "Duty = 1/N digits",
+      "description": "Scan sharing.",
+      "variables": [
+        {
+          "symbol": "Duty",
+          "name": "Duty",
+          "unit": ""
+        }
+      ],
+      "example": "4 digits 25%"
+    }
+  ]
+}

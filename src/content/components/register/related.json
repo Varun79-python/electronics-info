@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "flip-flop",
+      "relationship": "Building block"
+    },
+    {
+      "id": "counter",
+      "relationship": "Sequential"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Contains registers"
+    }
+  ]
+}

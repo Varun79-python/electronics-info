@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Zener Effect",
+      "definition": "Quantum tunneling causing reverse breakdown at low voltages."
+    },
+    {
+      "term": "Avalanche Breakdown",
+      "definition": "Impact ionization at higher reverse voltages."
+    },
+    {
+      "term": "Knee Voltage",
+      "definition": "The voltage where breakdown (regulation) begins."
+    },
+    {
+      "term": "Dynamic Resistance",
+      "definition": "Small-signal resistance in breakdown; lower is better."
+    }
+  ]
+}

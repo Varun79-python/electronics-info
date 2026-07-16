@@ -1,0 +1,11 @@
+{
+  "name": "Electromagnet",
+  "id": "electromagnet",
+  "category": "electromechanical",
+  "shortDescription": "An electromagnet is a coil of wire that produces a magnetic field when current flows, controllable by electricity.",
+  "whatIsIt": "An electromagnet is a coil of wire that produces a magnetic field when current flows, controllable by electricity.",
+  "whyExists": "Electromagnets give switchable, variable magnetism impossible with permanent magnets.",
+  "whereUsed": "Used in relays, motors, speakers, MRI, and lifting magnets.",
+  "thumbnail": "/assets/images/components/electromagnet/thumbnail.svg",
+  "schematic": "/assets/components/electromagnet/schematic/symbol.svg"
+}

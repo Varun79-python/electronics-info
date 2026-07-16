@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Non-linear response",
+    "Narrow accurate range",
+    "Self-heating errors",
+    "Requires curve fitting",
+    "Fragile bead construction",
+    "Aging/drift over time"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "LDO",
+      "definition": "Low-dropout linear regulator."
+    },
+    {
+      "term": "PSRR",
+      "definition": "Power Supply Rejection Ratio; ripple rejection."
+    },
+    {
+      "term": "Dropout",
+      "definition": "Minimum input-output voltage difference."
+    },
+    {
+      "term": "Line Regulation",
+      "definition": "Output change with input variation."
+    },
+    {
+      "term": "Load Regulation",
+      "definition": "Output change with load variation."
+    }
+  ]
+}

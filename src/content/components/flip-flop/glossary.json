@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Bistable",
+      "definition": "Two stable states."
+    },
+    {
+      "term": "Edge-triggered",
+      "definition": "Acts on clock edge."
+    },
+    {
+      "term": "Metastability",
+      "definition": "Indeterminate state from violation."
+    },
+    {
+      "term": "Setup Time",
+      "definition": "Input stable before clock."
+    }
+  ]
+}

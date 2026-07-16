@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "photodiode",
+      "relationship": "Faster alternative"
+    },
+    {
+      "id": "resistor",
+      "relationship": "Divider partner"
+    },
+    {
+      "id": "adc",
+      "relationship": "Reads voltage"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "id": "voltage-regulator",
+    "name": "Voltage Regulator",
+    "category": "power-electronics",
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "order": 29,
+    "status": "published"
+  }
+}

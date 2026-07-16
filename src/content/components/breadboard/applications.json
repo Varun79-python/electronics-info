@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "category": "Prototyping",
+      "description": "Test circuits",
+      "examples": [
+        "Labs"
+      ]
+    },
+    {
+      "category": "Education",
+      "description": "Learn",
+      "examples": [
+        "Schools"
+      ]
+    },
+    {
+      "category": "Debug",
+      "description": "Try ideas",
+      "examples": [
+        "Hobby"
+      ]
+    }
+  ]
+}

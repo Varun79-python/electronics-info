@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "speaker",
+      "relationship": "Larger audio transducer"
+    },
+    {
+      "id": "transistor",
+      "relationship": "Drives the buzzer"
+    },
+    {
+      "id": "555-timer",
+      "relationship": "Tone generator"
+    },
+    {
+      "id": "electromagnet",
+      "relationship": "EM buzzer principle"
+    }
+  ]
+}

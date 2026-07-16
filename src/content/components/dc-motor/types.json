@@ -1,0 +1,27 @@
+{
+  "types": [
+    {
+      "name": "Brushed DC",
+      "description": "Simple, cheap.",
+      "applications": [
+        "Toys",
+        "Tools"
+      ]
+    },
+    {
+      "name": "Brushless DC (BLDC)",
+      "description": "Electronic commutation.",
+      "applications": [
+        "Drones",
+        "Appliances"
+      ]
+    },
+    {
+      "name": "Coreless",
+      "description": "Low inertia.",
+      "applications": [
+        "Precision"
+      ]
+    }
+  ]
+}

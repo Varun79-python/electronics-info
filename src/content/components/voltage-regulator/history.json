@@ -1,0 +1,21 @@
+{
+  "invention": {
+    "year": 1970,
+    "inventor": "Linear Technology, National Semiconductor era",
+    "discovery": "Integrated voltage regulators like the 78xx series standardized power in the 1970s.",
+    "evolution": [
+      {
+        "year": 1970,
+        "event": "78xx/79xx three-terminal regulators"
+      },
+      {
+        "year": 1980,
+        "event": "LDO regulators"
+      },
+      {
+        "year": 1990,
+        "event": "High-efficiency switchers"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "types": [
+    {
+      "name": "Linear Flex",
+      "description": "Strip bends.",
+      "applications": [
+        "Gloves"
+      ]
+    },
+    {
+      "name": "Angular",
+      "description": "Hinge type.",
+      "applications": [
+        "Robotics"
+      ]
+    }
+  ]
+}

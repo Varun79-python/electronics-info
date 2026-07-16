@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "AC3",
+      "definition": "Utilization category for motor starting."
+    },
+    {
+      "term": "Arc Chute",
+      "definition": "Device that extinguishes switching arc."
+    },
+    {
+      "term": "Auxiliary Contact",
+      "definition": "Low-power contact for feedback."
+    },
+    {
+      "term": "Overload Relay",
+      "definition": "Protects motor from overcurrent."
+    }
+  ]
+}

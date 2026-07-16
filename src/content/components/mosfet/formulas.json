@@ -1,0 +1,45 @@
+{
+  "formulas": [
+    {
+      "name": "On-Resistance Loss",
+      "formula": "P = I² × R_DS(on)",
+      "description": "Conduction loss.",
+      "variables": [
+        {
+          "symbol": "P",
+          "name": "Power",
+          "unit": "W"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        },
+        {
+          "symbol": "R_DS(on)",
+          "name": "On resistance",
+          "unit": "Ω"
+        }
+      ],
+      "example": "10A, 10mΩ → 1W"
+    },
+    {
+      "name": "Gate Charge Loss",
+      "formula": "P_sw = ½ × Q_g × V_GS × f",
+      "description": "Switching loss.",
+      "variables": [
+        {
+          "symbol": "Q_g",
+          "name": "Gate charge",
+          "unit": "C"
+        },
+        {
+          "symbol": "f",
+          "name": "Frequency",
+          "unit": "Hz"
+        }
+      ],
+      "example": "Higher f → more loss"
+    }
+  ]
+}

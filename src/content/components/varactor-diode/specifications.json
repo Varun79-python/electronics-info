@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Capacitance Range",
+      "typicalValues": "1pF to 100pF",
+      "notes": "At bias"
+    },
+    {
+      "name": "Tuning Ratio",
+      "typicalValues": "2:1 to 10:1",
+      "notes": "C_max/C_min"
+    },
+    {
+      "name": "Q Factor",
+      "typicalValues": "High at RF",
+      "notes": "Low loss"
+    },
+    {
+      "name": "Reverse Voltage",
+      "typicalValues": "Up to 30V",
+      "notes": "Max bias"
+    }
+  ]
+}

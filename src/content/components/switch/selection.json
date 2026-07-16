@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Current/Voltage",
+      "description": "Match the load rating."
+    },
+    {
+      "step": 2,
+      "title": "Poles/Throws",
+      "description": "Match the circuit."
+    },
+    {
+      "step": 3,
+      "title": "AC/DC",
+      "description": "Ratings differ."
+    },
+    {
+      "step": 4,
+      "title": "Environment",
+      "description": "IP rating for dust/wet."
+    }
+  ],
+  "tips": [
+    "Derate for inductive loads",
+    "Use snubber for coils",
+    "Sealed type for wet areas"
+  ]
+}

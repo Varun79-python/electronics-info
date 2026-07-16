@@ -1,0 +1,40 @@
+{
+  "formulas": [
+    {
+      "name": "Hall Voltage",
+      "formula": "V_H = (I B) / (n e t)",
+      "description": "Field proportional.",
+      "variables": [
+        {
+          "symbol": "V_H",
+          "name": "Hall V",
+          "unit": "V"
+        },
+        {
+          "symbol": "B",
+          "name": "Field",
+          "unit": "T"
+        },
+        {
+          "symbol": "I",
+          "name": "Current",
+          "unit": "A"
+        }
+      ],
+      "example": "mV range"
+    },
+    {
+      "name": "Current Sense",
+      "formula": "B = μ₀ I / (2π r)",
+      "description": "From conductor.",
+      "variables": [
+        {
+          "symbol": "B",
+          "name": "Field",
+          "unit": "T"
+        }
+      ],
+      "example": "Clamp meter"
+    }
+  ]
+}

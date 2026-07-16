@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Linear wastes power as heat",
+    "Needs headroom (dropout)",
+    "Switchers have ripple/EMI",
+    "More parts (switcher)",
+    "Cost",
+    "Thermal management"
+  ]
+}

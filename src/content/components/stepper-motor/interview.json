@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a stepper motor?",
+      "answer": "A motor that moves in discrete steps for precise positioning."
+    },
+    {
+      "question": "Open-loop means?",
+      "answer": "Position is known from step count without feedback (encoder)."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is microstepping?",
+      "answer": "Varying coil currents sinusoidally to achieve fractional steps and smoother motion."
+    },
+    {
+      "question": "Why lose steps?",
+      "answer": "If load torque exceeds motor torque at speed, rotor slips and position drifts."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "How avoid resonance?",
+      "answer": "Use microstepping, higher supply voltage, or mechanical damping."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When add closed-loop?",
+      "answer": "When load varies or missed steps are unacceptable; encoders correct position."
+    }
+  ]
+}

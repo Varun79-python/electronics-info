@@ -1,0 +1,16 @@
+{
+  "relatedComponents": [
+    {
+      "id": "gyroscope",
+      "relationship": "Rotation pair"
+    },
+    {
+      "id": "microcontroller",
+      "relationship": "Reads"
+    },
+    {
+      "id": "adc",
+      "relationship": "Analog path"
+    }
+  ]
+}

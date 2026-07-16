@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Capacity",
+      "description": "mAh/Ah needed."
+    },
+    {
+      "step": 2,
+      "title": "Voltage",
+      "description": "Cell count."
+    },
+    {
+      "step": 3,
+      "title": "Chemistry",
+      "description": "Li/NiMH."
+    },
+    {
+      "step": 4,
+      "title": "Protection",
+      "description": "BMS for Li."
+    }
+  ],
+  "tips": [
+    "Use BMS",
+    "Avoid over-discharge",
+    "Temperature limits"
+  ]
+}

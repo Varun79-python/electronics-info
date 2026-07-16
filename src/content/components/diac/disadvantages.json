@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Fixed breakover",
+    "Limited current",
+    "Not a power switch",
+    "Temperature drift",
+    "Only a trigger",
+    "Slow vs digital"
+  ]
+}

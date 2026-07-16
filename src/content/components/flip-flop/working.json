@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "Cross-coupled gates form a latch; a clock edge transfers the input (D) to the output (Q) and holds it until the next edge.",
+  "steps": [
+    "Clock edge arrives",
+    "Input sampled",
+    "Output updates to Q",
+    "State held until next edge"
+  ],
+  "microscopicExplanation": "Master-slave or edge-triggered structures prevent race conditions during the transition."
+}

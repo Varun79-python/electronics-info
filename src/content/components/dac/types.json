@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "R-2R Ladder",
+      "description": "Common, precise.",
+      "applications": [
+        "General"
+      ]
+    },
+    {
+      "name": "String",
+      "description": "Simple, fast.",
+      "applications": [
+        "LCD bias"
+      ]
+    },
+    {
+      "name": "Sigma-Delta",
+      "description": "High res, oversampled.",
+      "applications": [
+        "Audio"
+      ]
+    },
+    {
+      "name": "PWM+Filter",
+      "description": "MCU software DAC.",
+      "applications": [
+        "Simple"
+      ]
+    }
+  ]
+}

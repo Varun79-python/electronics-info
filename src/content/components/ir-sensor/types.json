@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Active (reflective)",
+      "description": "Emitter+receiver.",
+      "applications": [
+        "Proximity"
+      ]
+    },
+    {
+      "name": "PIR",
+      "description": "Motion/heat.",
+      "applications": [
+        "Security"
+      ]
+    },
+    {
+      "name": "IR Receiver",
+      "description": "Decodes remote.",
+      "applications": [
+        "TV"
+      ]
+    },
+    {
+      "name": "Thermal Array",
+      "description": "Temperature map.",
+      "applications": [
+        "Imaging"
+      ]
+    }
+  ]
+}

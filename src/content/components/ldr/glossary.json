@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Photoconductivity",
+      "definition": "Conductance change with light."
+    },
+    {
+      "term": "CdS",
+      "definition": "Cadmium sulfide LDR material."
+    },
+    {
+      "term": "Lux",
+      "definition": "Unit of illuminance."
+    },
+    {
+      "term": "Hysteresis",
+      "definition": "Lag between light/dark response."
+    }
+  ]
+}

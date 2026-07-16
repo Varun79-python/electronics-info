@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Forward Voltage",
+      "typicalValues": "1.8V to 3.6V",
+      "notes": "By color"
+    },
+    {
+      "name": "Forward Current",
+      "typicalValues": "5mA to 1A+",
+      "notes": "20mA typical indicator"
+    },
+    {
+      "name": "Luminous Intensity",
+      "typicalValues": "mcd to kcd",
+      "notes": "Brightness"
+    },
+    {
+      "name": "Wavelength",
+      "typicalValues": "400nm to 700nm",
+      "notes": "Color"
+    },
+    {
+      "name": "Viewing Angle",
+      "typicalValues": "15° to 120°",
+      "notes": "Beam width"
+    },
+    {
+      "name": "Power",
+      "typicalValues": "mW to W",
+      "notes": "High-power for lighting"
+    }
+  ]
+}

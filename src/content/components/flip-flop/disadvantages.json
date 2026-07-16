@@ -1,0 +1,9 @@
+{
+  "disadvantages": [
+    "Timing critical",
+    "Metastability",
+    "Power (clock)",
+    "Complex",
+    "Clock needed"
+  ]
+}

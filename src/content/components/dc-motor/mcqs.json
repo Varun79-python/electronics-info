@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "DC motor torque depends on:",
+      "options": [
+        "Voltage only",
+        "Current",
+        "Frequency",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "τ = k_t × I.",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Back-EMF increases with:",
+      "options": [
+        "Current",
+        "Speed",
+        "Temperature",
+        "Load"
+      ],
+      "correctAnswer": 1,
+      "explanation": "E = k_e × ω.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Commutator's job:",
+      "options": [
+        "Reduce speed",
+        "Reverse current direction",
+        "Cool motor",
+        "Filter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Keeps torque unidirectional.",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "BLDC uses:",
+      "options": [
+        "Brushes",
+        "Electronic commutation",
+        "No magnet",
+        "AC only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electronic switching.",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Stall current is:",
+      "options": [
+        "Zero",
+        "Very high",
+        "Normal",
+        "Negative"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No back-EMF → high current.",
+      "difficulty": "advanced"
+    }
+  ]
+}

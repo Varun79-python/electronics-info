@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Pick Frequency",
+      "description": "Match MCU requirement."
+    },
+    {
+      "step": 2,
+      "title": "Two vs Three Terminal",
+      "description": "Three-terminal simplifies layout."
+    },
+    {
+      "step": 3,
+      "title": "Check Tolerance",
+      "description": "Ensure adequate for the application."
+    },
+    {
+      "step": 4,
+      "title": "Verify Load",
+      "description": "Match built-in or external caps."
+    }
+  ],
+  "tips": [
+    "Use for non-critical timing",
+    "Crystal for UART/USB precision",
+    "Keep traces short",
+    "Avoid over-driving"
+  ]
+}

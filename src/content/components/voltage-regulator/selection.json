@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Linear or Switching?",
+      "description": "Low noise vs efficiency."
+    },
+    {
+      "step": 2,
+      "title": "Voltage/Current",
+      "description": "Match output needs."
+    },
+    {
+      "step": 3,
+      "title": "Dropout",
+      "description": "Ensure V_in headroom (LDO)."
+    },
+    {
+      "step": 4,
+      "title": "Thermal",
+      "description": "P_diss = (V_in-V_out)×I."
+    }
+  ],
+  "tips": [
+    "LDO for analog/RF",
+    "Switcher for efficiency",
+    "Check PSRR",
+    "Heatsink for linear power"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Common Anode",
+      "description": "V+ common, sink segments.",
+      "applications": [
+        "MCU"
+      ]
+    },
+    {
+      "name": "Common Cathode",
+      "description": "GND common, source.",
+      "applications": [
+        "Logic"
+      ]
+    },
+    {
+      "name": "Single/Dual",
+      "description": "1-2 digits.",
+      "applications": [
+        "Meters"
+      ]
+    },
+    {
+      "name": "RGB",
+      "description": "Color.",
+      "applications": [
+        "Fancy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "references": [
+    {
+      "title": "Antenna Handbook",
+      "author": "ARRL",
+      "year": 2020,
+      "url": "",
+      "type": "book"
+    },
+    {
+      "title": "RF Design",
+      "author": "Textbook",
+      "year": 2019,
+      "url": "",
+      "type": "book"
+    }
+  ]
+}

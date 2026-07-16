@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Hysteresis",
+      "definition": "Two-threshold noise immunity."
+    },
+    {
+      "term": "Schmitt Trigger",
+      "definition": "Comparator with hysteresis."
+    },
+    {
+      "term": "Open-Collector",
+      "definition": "Needs external pull-up."
+    },
+    {
+      "term": "Offset",
+      "definition": "Input mismatch voltage."
+    }
+  ]
+}

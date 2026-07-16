@@ -1,0 +1,35 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "title": "Set Clamp Voltage",
+      "description": "Varistor voltage should exceed peak line voltage by 10-20%."
+    },
+    {
+      "step": 2,
+      "title": "Check Surge Rating",
+      "description": "Match energy and peak current to expected transients."
+    },
+    {
+      "step": 3,
+      "title": "Verify Continuous Rating",
+      "description": "Must handle normal AC/DC continuously."
+    },
+    {
+      "step": 4,
+      "title": "Consider Capacitance",
+      "description": "Low capacitance for signal lines."
+    },
+    {
+      "step": 5,
+      "title": "Add Backup",
+      "description": "Use fuse so failed-short varistor is disconnected."
+    }
+  ],
+  "tips": [
+    "Always pair with a fuse",
+    "Replace after major surges",
+    "Use MOVs for mains, MLVs for signals",
+    "Account for aging margin"
+  ]
+}

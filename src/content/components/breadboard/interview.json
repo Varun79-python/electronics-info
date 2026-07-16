@@ -1,0 +1,30 @@
+{
+  "beginner": [
+    {
+      "question": "What is a breadboard?",
+      "answer": "A solderless board to prototype circuits."
+    },
+    {
+      "question": "Pitch?",
+      "answer": "2.54mm standard DIP spacing."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why not for final?",
+      "answer": "Loose contacts and parasitics; make a PCB."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Current limit?",
+      "answer": "Clips handle ~1A; not for power."
+    }
+  ],
+  "expert": [
+    {
+      "question": "Parasitics issue?",
+      "answer": "Stray L/C affect high-speed circuits."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "disadvantages": [
+    "Lower reverse voltage",
+    "Higher leakage current",
+    "Leakage rises with temp",
+    "More expensive than p-n",
+    "ESD sensitive",
+    "Limited high-voltage use"
+  ]
+}

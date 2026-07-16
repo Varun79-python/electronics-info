@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "category": "Power Supplies",
+      "description": "Stable rails",
+      "examples": [
+        "PCB",
+        "Modules"
+      ]
+    },
+    {
+      "category": "Reference",
+      "description": "Clean voltage",
+      "examples": [
+        "ADC",
+        "Sensors"
+      ]
+    },
+    {
+      "category": "Battery Systems",
+      "description": "Constant output",
+      "examples": [
+        "Portable"
+      ]
+    },
+    {
+      "category": "Protection",
+      "description": "Overvoltage/overcurrent",
+      "examples": [
+        "Loads"
+      ]
+    }
+  ]
+}

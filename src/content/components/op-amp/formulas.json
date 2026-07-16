@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "name": "Inverting Gain",
+      "formula": "V_out = -Rf/Rin · V_in",
+      "description": "Gain set by resistors.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Output",
+          "unit": "V"
+        },
+        {
+          "symbol": "Rf",
+          "name": "Feedback",
+          "unit": "Ω"
+        }
+      ],
+      "example": "Gain 10"
+    },
+    {
+      "name": "Non-inverting",
+      "formula": "V_out = (1 + Rf/Rin) V_in",
+      "description": "Positive gain.",
+      "variables": [
+        {
+          "symbol": "V_out",
+          "name": "Output",
+          "unit": "V"
+        }
+      ],
+      "example": "Buffer = 1"
+    }
+  ]
+}

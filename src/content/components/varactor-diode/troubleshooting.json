@@ -1,0 +1,25 @@
+{
+  "failureModes": [
+    {
+      "failure": "No Tuning",
+      "symptoms": [
+        "Fixed freq"
+      ],
+      "causes": [
+        "Forward biased",
+        "Open"
+      ],
+      "solution": "Check bias"
+    },
+    {
+      "failure": "Phase Noise",
+      "symptoms": [
+        "Jittery"
+      ],
+      "causes": [
+        "Bias noise"
+      ],
+      "solution": "Filter control"
+    }
+  ]
+}

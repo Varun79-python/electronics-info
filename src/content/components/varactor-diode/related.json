@@ -1,0 +1,20 @@
+{
+  "relatedComponents": [
+    {
+      "id": "diode",
+      "relationship": "Specialized junction"
+    },
+    {
+      "id": "capacitor",
+      "relationship": "Voltage-controlled version"
+    },
+    {
+      "id": "555-timer",
+      "relationship": "VCO applications"
+    },
+    {
+      "id": "crystal-oscillator",
+      "relationship": "Alternative frequency source"
+    }
+  ]
+}

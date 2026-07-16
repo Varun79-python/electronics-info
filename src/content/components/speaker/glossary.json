@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "Impedance",
+      "definition": "AC resistance the amplifier drives."
+    },
+    {
+      "term": "Sensitivity",
+      "definition": "Loudness per input power."
+    },
+    {
+      "term": "Crossover",
+      "definition": "Splits bands to drivers."
+    },
+    {
+      "term": "Fs",
+      "definition": "Resonant frequency of the driver."
+    }
+  ]
+}

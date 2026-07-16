@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "I²t",
+      "definition": "Melting energy integral."
+    },
+    {
+      "term": "Breaking Capacity",
+      "definition": "Max fault current it can clear."
+    },
+    {
+      "term": "Slow-Blow",
+      "definition": "Tolerates inrush current."
+    },
+    {
+      "term": "Inrush",
+      "definition": "Initial surge current."
+    }
+  ]
+}

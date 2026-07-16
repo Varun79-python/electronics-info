@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Current in the coil magnetizes the core, pulling a ferromagnetic plunger into the coil center; spring return restores it when de-energized.",
+  "steps": [
+    "Coil energized with current",
+    "Magnetic field pulls the plunger",
+    "Plunger moves linearly (stroke)",
+    "Mechanical work done at the end",
+    "Spring returns plunger when off"
+  ],
+  "microscopicExplanation": "Ampere-turns create flux that minimizes reluctance by drawing the plunger into the high-field region, converting electrical energy to mechanical work."
+}

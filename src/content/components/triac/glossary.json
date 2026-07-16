@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {
+      "term": "TRIAC",
+      "definition": "Triode for Alternating Current; bidirectional thyristor."
+    },
+    {
+      "term": "MT1/MT2",
+      "definition": "Main terminals of a TRIAC."
+    },
+    {
+      "term": "Commutation",
+      "definition": "Turn-off at current zero-crossing."
+    },
+    {
+      "term": "Snubberless",
+      "definition": "Tolerates high dv/dt without snubber."
+    }
+  ]
+}

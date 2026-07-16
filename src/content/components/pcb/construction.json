@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Substrate",
+      "function": "Insulate",
+      "material": "FR4"
+    },
+    {
+      "name": "Copper Layers",
+      "function": "Conduct",
+      "material": "Copper"
+    },
+    {
+      "name": "Solder Mask",
+      "function": "Protect",
+      "material": "Polymer"
+    },
+    {
+      "name": "Silkscreen",
+      "function": "Label",
+      "material": "Ink"
+    }
+  ]
+}

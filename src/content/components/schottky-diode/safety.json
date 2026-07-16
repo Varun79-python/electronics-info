@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Limit within rating.",
+  "thermalSafety": "Can heat; provide cooling.",
+  "handling": "ESD sensitive.",
+  "storage": "Anti-static, dry.",
+  "disposal": "E-waste rules."
+}

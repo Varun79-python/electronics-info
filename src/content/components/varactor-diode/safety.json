@@ -1,0 +1,8 @@
+{
+  "voltageSafety": "Low voltage; safe.",
+  "currentSafety": "Keep reverse biased; limit current.",
+  "thermalSafety": "Minimal.",
+  "handling": "ESD care.",
+  "storage": "Dry.",
+  "disposal": "E-waste rules."
+}

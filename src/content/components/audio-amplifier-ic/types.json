@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "name": "Class AB",
+      "description": "Good fidelity.",
+      "applications": [
+        "Hi-fi"
+      ]
+    },
+    {
+      "name": "Class D",
+      "description": "PWM, efficient.",
+      "applications": [
+        "Portable"
+      ]
+    },
+    {
+      "name": "Headphone",
+      "description": "Low power.",
+      "applications": [
+        "Phones"
+      ]
+    },
+    {
+      "name": "Mono/Stereo",
+      "description": "Channels.",
+      "applications": [
+        "TV"
+      ]
+    }
+  ]
+}

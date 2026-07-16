@@ -1,0 +1,24 @@
+{
+  "specifications": [
+    {
+      "name": "Rated Current",
+      "typicalValues": "0.1A to 100A+",
+      "notes": "Blows above"
+    },
+    {
+      "name": "Voltage Rating",
+      "typicalValues": "32V to 1000V",
+      "notes": "Max interrupt"
+    },
+    {
+      "name": "Breaking Capacity",
+      "typicalValues": "35A to 100kA",
+      "notes": "Max fault"
+    },
+    {
+      "name": "Speed",
+      "typicalValues": "FF, F, T, TT",
+      "notes": "Characteristic"
+    }
+  ]
+}

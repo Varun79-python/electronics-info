@@ -1,0 +1,14 @@
+{
+  "internalParts": [
+    {
+      "name": "Heavily Doped Junction",
+      "function": "Enables tunneling",
+      "material": "Ge, GaAs, or Si"
+    },
+    {
+      "name": "Terminals",
+      "function": "Connect",
+      "material": "Tinned leads"
+    }
+  ]
+}

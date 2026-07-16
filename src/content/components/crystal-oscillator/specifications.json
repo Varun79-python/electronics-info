@@ -1,0 +1,34 @@
+{
+  "specifications": [
+    {
+      "name": "Frequency",
+      "typicalValues": "32kHz to 100MHz+",
+      "notes": "32.768kHz for RTC"
+    },
+    {
+      "name": "Frequency Tolerance",
+      "typicalValues": "±10 to ±50 ppm",
+      "notes": "At 25°C"
+    },
+    {
+      "name": "Temperature Stability",
+      "typicalValues": "±5 to ±30 ppm",
+      "notes": "TCXO better"
+    },
+    {
+      "name": "Aging",
+      "typicalValues": "±1 to ±5 ppm/year",
+      "notes": "Long-term drift"
+    },
+    {
+      "name": "Load Capacitance",
+      "typicalValues": "8 to 20pF",
+      "notes": "Must match circuit"
+    },
+    {
+      "name": "Drive Level",
+      "typicalValues": "1 to 100µW",
+      "notes": "Excess shortens life"
+    }
+  ]
+}

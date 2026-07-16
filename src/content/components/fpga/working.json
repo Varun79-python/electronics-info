@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "Configurable logic blocks (LUTs), flip-flops, and routing are programmed via a bitstream to implement any digital circuit.",
+  "steps": [
+    "Write HDL (Verilog/VHDL)",
+    "Synthesize to netlist",
+    "Place and route",
+    "Load bitstream into fabric",
+    "Circuit behaves as described"
+  ],
+  "microscopicExplanation": "LUTs implement combinational logic; flip-flops store state; programmable switches connect blocks per the bitstream."
+}

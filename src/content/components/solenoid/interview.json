@@ -1,0 +1,34 @@
+{
+  "beginner": [
+    {
+      "question": "What is a solenoid?",
+      "answer": "A coil that creates linear motion by pulling a plunger into its magnetic field."
+    },
+    {
+      "question": "Why flyback diode?",
+      "answer": "The coil is inductive; the diode clamps turn-off spike."
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Why duty cycle matters?",
+      "answer": "Continuous holding dissipates coil power as heat; exceeding duty overheats."
+    },
+    {
+      "question": "How reduce hold power?",
+      "answer": "Use PWM or a lower hold voltage after pull-in."
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Force vs gap?",
+      "answer": "Force is roughly inversely proportional to the square of the air gap; strongest near closed."
+    }
+  ],
+  "expert": [
+    {
+      "question": "When use latching solenoid?",
+      "answer": "When the actuator must hold position without continuous power, saving energy."
+    }
+  ]
+}

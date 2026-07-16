@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Pass Transistor",
+      "function": "Drops voltage",
+      "material": "MOSFET"
+    },
+    {
+      "name": "Error Amp",
+      "function": "Compare",
+      "material": "Silicon"
+    },
+    {
+      "name": "Bandgap Ref",
+      "function": "Stable Vref",
+      "material": "Silicon"
+    },
+    {
+      "name": "Feedback Divider",
+      "function": "Set ratio",
+      "material": "Resistors"
+    }
+  ]
+}

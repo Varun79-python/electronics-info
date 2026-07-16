@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Hall Plate",
+      "function": "Senses field",
+      "material": "GaAs/Si"
+    },
+    {
+      "name": "Current Source",
+      "function": "Drives",
+      "material": "Silicon"
+    },
+    {
+      "name": "Amplifier",
+      "function": "Boost V_H",
+      "material": "Silicon"
+    },
+    {
+      "name": "Comparator",
+      "function": "Digital out",
+      "material": "Silicon"
+    }
+  ]
+}

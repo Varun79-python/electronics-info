@@ -1,0 +1,24 @@
+{
+  "internalParts": [
+    {
+      "name": "Cross-coupled Gates",
+      "function": "Store",
+      "material": "Silicon"
+    },
+    {
+      "name": "Clock Gate",
+      "function": "Trigger",
+      "material": "Silicon"
+    },
+    {
+      "name": "Set/Reset",
+      "function": "Force state",
+      "material": "Silicon"
+    },
+    {
+      "name": "Output Buffer",
+      "function": "Drive",
+      "material": "Silicon"
+    }
+  ]
+}

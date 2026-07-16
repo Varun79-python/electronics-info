@@ -1,0 +1,11 @@
+{
+  "workingPrinciple": "A MOS gate controls a bipolar transistor; when on, conductivity modulation by a wide-base PNP greatly reduces on-state voltage compared with a MOSFET at high voltage.",
+  "steps": [
+    "Gate voltage turns on the MOS structure",
+    "This injects carriers into the drift region",
+    "Conductivity modulation lowers on-resistance",
+    "Low V_CE(sat) results at high current",
+    "Gate controls switching like a MOSFET"
+  ],
+  "microscopicExplanation": "The MOS channel triggers a parasitic PNP transistor; minority-carrier injection into the drift layer drastically reduces its resistance, giving low saturation voltage."
+}

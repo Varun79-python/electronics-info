@@ -1,0 +1,10 @@
+{
+  "workingPrinciple": "An oscillating current in the antenna creates a radiating electromagnetic field; incoming waves induce a current.",
+  "steps": [
+    "RF signal applied",
+    "Current oscillates in element",
+    "EM wave radiates",
+    "Reverse for receive"
+  ],
+  "microscopicExplanation": "Accelerating charges radiate; the element length set to a fraction of wavelength resonates efficiently."
+}

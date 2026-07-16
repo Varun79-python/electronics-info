@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "NTC Thermistor",
+      "name": "Negative Temperature Coefficient Thermistor (NTC) Thermistor",
       "description": "Resistance decreases with temperature.",
       "applications": [
         "Temperature sensing",
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "name": "PTC Thermistor",
+      "name": "Positive Temperature Coefficient Thermistor (PTC) Thermistor",
       "description": "Resistance increases with temperature.",
       "applications": [
         "Overcurrent protection",

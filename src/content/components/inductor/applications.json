@@ -10,7 +10,7 @@
     },
     {
       "category": "Filtering",
-      "description": "Blocks AC ripple while passing DC",
+      "description": "Blocks Alternating Current (AC) ripple while passing Direct Current (DC)",
       "examples": [
         "LC filters",
         "Chokes"
@@ -28,7 +28,7 @@
       "category": "Energy Storage",
       "description": "Buffers energy in converters",
       "examples": [
-        "SMPS",
+        "Switched-Mode Power Supply (SMPS)",
         "Ballasts"
       ]
     }

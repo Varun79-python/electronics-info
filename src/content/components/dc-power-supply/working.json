@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "AC is stepped (via transformer), rectified to pulsating DC, smoothed by capacitors, and regulated to a steady DC level.",
+  "workingPrinciple": "Alternating Current (AC) is stepped (via transformer), rectified to pulsating Direct Current (DC), smoothed by capacitors, and regulated to a steady DC level.",
   "steps": [
     "Transformer sets the voltage level",
     "Rectifier converts AC to pulsating DC",

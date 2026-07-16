@@ -4,7 +4,7 @@
     "Higher leakage current",
     "Leakage rises with temp",
     "More expensive than p-n",
-    "ESD sensitive",
+    "Electrostatic Discharge (ESD) sensitive",
     "Limited high-voltage use"
   ]
 }

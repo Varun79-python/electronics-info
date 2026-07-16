@@ -2,7 +2,7 @@
   "voltageSafety": "High reverse voltages can cause breakdown. Ensure V_BR rating exceeds circuit peaks.",
   "currentSafety": "Exceeding I_F causes thermal runaway and failure. Use current-limiting resistors.",
   "thermalSafety": "Power diodes generate heat. Use heatsinks for currents above 1A.",
-  "handling": "ESD can damage sensitive diodes. Use anti-static handling.",
+  "handling": "Electrostatic Discharge (ESD) can damage sensitive diodes. Use anti-static handling.",
   "storage": "Store in anti-static packaging away from moisture.",
   "disposal": "Dispose according to e-waste regulations."
 }

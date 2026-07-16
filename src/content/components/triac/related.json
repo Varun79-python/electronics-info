@@ -6,11 +6,11 @@
     },
     {
       "id": "diac",
-      "relationship": "Common TRIAC trigger"
+      "relationship": "Common Triode for Alternating Current (TRIAC) trigger"
     },
     {
       "id": "igbt",
-      "relationship": "Alternative AC switch"
+      "relationship": "Alternative Alternating Current (AC) switch"
     },
     {
       "id": "resistor",

@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "Standard DIAC",
+      "name": "Standard Diode for Alternating Current (DIAC)",
       "description": "≈30-40V breakover.",
       "applications": [
         "Dimmers"

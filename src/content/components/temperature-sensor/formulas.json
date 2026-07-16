@@ -1,7 +1,7 @@
 {
   "formulas": [
     {
-      "name": "NTC Resistance",
+      "name": "Negative Temperature Coefficient Thermistor (NTC) Resistance",
       "formula": "R = R₀ e^(B(1/T - 1/T₀))",
       "description": "Steinhart relation.",
       "variables": [

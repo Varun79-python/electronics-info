@@ -1,7 +1,7 @@
 {
   "metadata": {
     "id": "thyristor",
-    "name": "Thyristor (SCR)",
+    "name": "Silicon Controlled Rectifier (SCR)",
     "category": "semiconductor",
     "difficulty": "beginner",
     "prerequisites": [],

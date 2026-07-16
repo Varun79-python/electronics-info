@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "N-Channel JFET",
+      "name": "N-Channel Junction Field-Effect Transistor (JFET)",
       "description": "Electrons carry current.",
       "applications": [
         "Low-noise amps"

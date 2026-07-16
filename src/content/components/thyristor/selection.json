@@ -24,7 +24,7 @@
   "tips": [
     "Use snubber networks",
     "Mind surge current",
-    "Natural commutation at AC zero",
+    "Natural commutation at Alternating Current (AC) zero",
     "GTO for forced turn-off"
   ]
 }

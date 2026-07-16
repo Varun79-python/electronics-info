@@ -13,7 +13,7 @@
     {
       "name": "Dropout Voltage",
       "typicalValues": "0.1V to 2V",
-      "notes": "LDO very low"
+      "notes": "Low Dropout (LDO) very low"
     },
     {
       "name": "Line/Load Regulation",

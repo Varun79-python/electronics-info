@@ -51,7 +51,7 @@
     {
       "question": "Driven by:",
       "options": [
-        "Decoder/MCU",
+        "Decoder/Microcontroller Unit (MCU)",
         "Relay",
         "Transformer",
         "None"

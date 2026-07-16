@@ -1,7 +1,7 @@
 {
   "disadvantages": [
     "Power hungry",
-    "Cost (vs MCU)",
+    "Cost (vs Microcontroller Unit (MCU))",
     "Hard to design",
     "Tool cost",
     "Bitstream volatile"

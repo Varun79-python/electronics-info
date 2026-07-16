@@ -1,8 +1,8 @@
 {
-  "name": "MOSFET",
+  "name": "Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)",
   "id": "mosfet",
   "category": "semiconductor",
-  "shortDescription": "A MOSFET (metal-oxide-semiconductor field-effect transistor) is a voltage-controlled switch/amplifier where the gate voltage creates a conductive channel bet...",
+  "shortDescription": "A Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET) (metal-oxide-semiconductor field-effect transistor) is a voltage-controlled switch/amplifier where the gate voltage creates a conductive channel bet...",
   "whatIsIt": "A MOSFET (metal-oxide-semiconductor field-effect transistor) is a voltage-controlled switch/amplifier where the gate voltage creates a conductive channel between source and drain.",
   "whyExists": "MOSFETs offer very high input impedance, fast switching, and low on-resistance, ideal for digital logic and power conversion.",
   "whereUsed": "They are the backbone of microprocessors, power supplies, motor drivers, and switching regulators.",

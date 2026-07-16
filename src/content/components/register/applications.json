@@ -4,7 +4,7 @@
       "category": "Computing",
       "description": "Hold data",
       "examples": [
-        "CPU"
+        "Central Processing Unit (CPU)"
       ]
     },
     {
@@ -18,7 +18,7 @@
       "category": "Comms",
       "description": "Serialize",
       "examples": [
-        "SPI"
+        "Serial Peripheral Interface (SPI)"
       ]
     }
   ]

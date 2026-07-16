@@ -1,10 +1,10 @@
 {
   "questions": [
     {
-      "question": "FPGA is:",
+      "question": "Field-Programmable Gate Array (FPGA) is:",
       "options": [
         "Reconfigurable hardware",
-        "Fixed MCU",
+        "Fixed Microcontroller Unit (MCU)",
         "Memory",
         "None"
       ],

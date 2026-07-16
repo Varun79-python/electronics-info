@@ -26,7 +26,7 @@
         "Jitter"
       ],
       "causes": [
-        "EMI"
+        "Electromagnetic Interference (EMI)"
       ],
       "solution": "Filter"
     }

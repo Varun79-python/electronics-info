@@ -27,7 +27,7 @@
   ],
   "expert": [
     {
-      "question": "When choose BJT over MOSFET?",
+      "question": "When choose Bipolar Junction Transistor (BJT) over Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)?",
       "answer": "For analog linearity, low-noise amplification, and where a current-driven device suits the design."
     }
   ]

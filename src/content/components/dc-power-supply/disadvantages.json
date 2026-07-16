@@ -1,7 +1,7 @@
 {
   "disadvantages": [
     "Linear supplies heavy/inefficient",
-    "SMPS has EMI",
+    "Switched-Mode Power Supply (SMPS) has Electromagnetic Interference (EMI)",
     "Cost",
     "Heat",
     "Ripple (if poor)",

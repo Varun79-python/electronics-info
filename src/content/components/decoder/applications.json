@@ -4,7 +4,7 @@
       "category": "Memory",
       "description": "Chip select",
       "examples": [
-        "RAM"
+        "Random Access Memory (RAM)"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "relatedComponents": [
     {
       "id": "diode",
-      "relationship": "LED is a light-emitting diode"
+      "relationship": "Light Emitting Diode (LED) is a light-emitting diode"
     },
     {
       "id": "resistor",

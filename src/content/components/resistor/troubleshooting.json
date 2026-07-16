@@ -34,7 +34,7 @@
       ],
       "causes": [
         "Physical impact",
-        "PCB flexing",
+        "Printed Circuit Board (PCB) flexing",
         "Excessive lead bending"
       ],
       "solution": "Replace and ensure proper mechanical strain relief"

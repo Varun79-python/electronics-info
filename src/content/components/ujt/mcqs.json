@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "A UJT has:",
+      "question": "A Unijunction Transistor (UJT) has:",
       "options": [
         "One base",
         "Two bases",
@@ -57,7 +57,7 @@
         "Relay"
       ],
       "correctAnswer": 1,
-      "explanation": "IC timers.",
+      "explanation": "Integrated Circuit (IC) timers.",
       "difficulty": "advanced"
     }
   ]

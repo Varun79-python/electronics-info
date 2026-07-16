@@ -1,7 +1,7 @@
 {
   "workingPrinciple": "Current in the armature within a stator field produces torque (F = BIL); a commutator switches current direction to keep torque in the same rotational direction.",
   "steps": [
-    "DC applied to armature via brushes",
+    "Direct Current (DC) applied to armature via brushes",
     "Current in windings creates force in the field",
     "Rotor experiences torque and spins",
     "Commutator reverses current each half-turn",

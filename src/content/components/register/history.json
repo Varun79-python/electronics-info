@@ -10,11 +10,11 @@
       },
       {
         "year": 1970,
-        "event": "IC registers"
+        "event": "Integrated Circuit (IC) registers"
       },
       {
         "year": 2000,
-        "event": "CPU registers"
+        "event": "Central Processing Unit (CPU) registers"
       }
     ]
   }

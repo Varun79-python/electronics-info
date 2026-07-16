@@ -23,12 +23,12 @@
     {
       "step": 5,
       "title": "Choose Core",
-      "description": "Ferrite for size, iron powder for high current, air for RF."
+      "description": "Ferrite for size, iron powder for high current, air for Radio Frequency (RF)."
     }
   ],
   "tips": [
     "Derate current by 20-30% for reliability",
-    "Use shielded types to reduce EMI",
+    "Use shielded types to reduce Electromagnetic Interference (EMI)",
     "Toroids minimize radiated noise",
     "Verify temperature rise under load"
   ]

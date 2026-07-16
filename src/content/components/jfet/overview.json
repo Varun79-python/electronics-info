@@ -1,8 +1,8 @@
 {
-  "name": "JFET",
+  "name": "Junction Field-Effect Transistor (JFET)",
   "id": "jfet",
   "category": "semiconductor",
-  "shortDescription": "A JFET (junction field-effect transistor) is a voltage-controlled device where a reverse-biased p-n junction gate depletes a channel to control current.",
+  "shortDescription": "A Junction Field-Effect Transistor (JFET) (junction field-effect transistor) is a voltage-controlled device where a reverse-biased p-n junction gate depletes a channel to control current.",
   "whatIsIt": "A JFET (junction field-effect transistor) is a voltage-controlled device where a reverse-biased p-n junction gate depletes a channel to control current.",
   "whyExists": "JFETs offer very high input impedance and low noise, useful for analog front-ends and switches.",
   "whereUsed": "They are used in low-noise amplifiers, buffers, and analog switches.",

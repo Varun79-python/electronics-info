@@ -31,7 +31,7 @@
         "Buzz"
       ],
       "causes": [
-        "DC bias",
+        "Direct Current (DC) bias",
         "Overload"
       ],
       "solution": "Reduce load; remove DC component"

@@ -7,7 +7,7 @@
     },
     {
       "name": "Feed Point",
-      "function": "Connect RF",
+      "function": "Connect Radio Frequency (RF)",
       "material": "Metal"
     },
     {

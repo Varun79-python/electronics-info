@@ -1,6 +1,6 @@
 {
   "voltageSafety": "Low at antenna (RF).",
-  "currentSafety": "RF exposure limits.",
+  "currentSafety": "Radio Frequency (RF) exposure limits.",
   "thermalSafety": "None typical.",
   "handling": "Standard.",
   "storage": "Dry.",

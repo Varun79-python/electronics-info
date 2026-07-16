@@ -18,7 +18,7 @@
     {
       "name": "Switching Speed",
       "typicalValues": "kHz to tens of kHz",
-      "notes": "Slower than MOSFET"
+      "notes": "Slower than Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)"
     },
     {
       "name": "Short-Circuit Withstand",

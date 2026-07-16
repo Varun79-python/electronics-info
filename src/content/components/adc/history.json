@@ -1,7 +1,7 @@
 {
   "invention": {
     "year": 1970,
-    "inventor": "ADC evolution",
+    "inventor": "Analog-to-Digital Converter (ADC) evolution",
     "discovery": "Successive-approximation and sigma-delta techniques enabled practical digitization.",
     "evolution": [
       {

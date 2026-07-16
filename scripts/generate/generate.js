@@ -16,6 +16,7 @@ import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import COMPONENTS from './component-list.js'
 import { COMPONENT_DATA } from './component-data.js'
+import { expandAllStrings } from './expand-strings.js'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, '..', '..') // electronics-hub
@@ -29,7 +30,34 @@ function deriveShortDescription(whatIsIt) {
 }
 
 function writeJSON(dir, name, obj) {
-  writeFileSync(join(dir, `${name}.json`), JSON.stringify(obj, null, 2) + '\n', 'utf8')
+  // Single-pass expansion: the expandAllStrings function creates ONE seen set
+  // per call, so we pass the whole object at once for per-file tracking.
+  // The name field is expanded normally (first-occurrence tracking).
+  const expanded = expandAllStrings(obj)
+  writeFileSync(join(dir, `${name}.json`), JSON.stringify(expanded, null, 2) + '\n', 'utf8')
+}
+
+// Manually expanded names for index display
+const EXPANDED_NAMES = {
+  'MOSFET': 'Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)',
+  'JFET': 'Junction Field-Effect Transistor (JFET)',
+  'IGBT': 'Insulated-Gate Bipolar Transistor (IGBT)',
+  'TRIAC': 'Triode for Alternating Current (TRIAC)',
+  'DIAC': 'Diode for Alternating Current (DIAC)',
+  'Thyristor (SCR)': 'Silicon Controlled Rectifier (SCR)',
+  'DC Power Supply': 'Direct Current (DC) Power Supply',
+  'AC Power Supply': 'Alternating Current (AC) Power Supply',
+  'DC Motor': 'Direct Current (DC) Motor',
+  'LDO Voltage Regulator': 'Low Dropout (LDO) Voltage Regulator',
+  'FPGA': 'Field-Programmable Gate Array (FPGA)',
+  'OLED Display': 'Organic Light Emitting Diode (OLED) Display',
+  'IR Sensor': 'Infrared (IR) Sensor',
+  'Logic Gate IC': 'Logic Gate Integrated Circuit (IC)',
+  'Audio Amplifier IC': 'Audio Amplifier Integrated Circuit (IC)',
+  'Motor Driver IC': 'Motor Driver Integrated Circuit (IC)',
+  'Analog to Digital Converter': 'Analog-to-Digital Converter (ADC)',
+  'Digital to Analog Converter': 'Digital-to-Analog Converter (DAC)',
+  '555 Timer': '555 Timer Integrated Circuit (IC)',
 }
 
 function buildFiles(comp, data = {}) {
@@ -40,12 +68,13 @@ function buildFiles(comp, data = {}) {
 
   const thumb = `/assets/images/components/${id}/thumbnail.svg`
   const schematic = `/assets/components/${id}/schematic/symbol.svg`
+  const displayName = EXPANDED_NAMES[name] || name
 
   // metadata
   writeJSON(dir, 'metadata', {
     metadata: {
       id,
-      name,
+      name: displayName,
       category,
       difficulty: data.difficulty || 'beginner',
       prerequisites: data.prerequisites || [],
@@ -57,7 +86,7 @@ function buildFiles(comp, data = {}) {
   // overview
   const ov = data.overview || {}
   writeJSON(dir, 'overview', {
-    name,
+    name: displayName,
     id,
     category,
     shortDescription: ov.shortDescription || deriveShortDescription(ov.whatIsIt),

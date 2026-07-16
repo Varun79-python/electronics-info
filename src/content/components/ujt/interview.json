@@ -1,7 +1,7 @@
 {
   "beginner": [
     {
-      "question": "What is a UJT?",
+      "question": "What is a Unijunction Transistor (UJT)?",
       "answer": "A three-terminal device used mainly as a relaxation oscillator and trigger."
     },
     {
@@ -16,12 +16,12 @@
     },
     {
       "question": "Why largely obsolete?",
-      "answer": "IC timers like the 555 are more flexible and precise."
+      "answer": "Integrated Circuit (IC) timers like the 555 are more flexible and precise."
     }
   ],
   "advanced": [
     {
-      "question": "How trigger an SCR with UJT?",
+      "question": "How trigger an Silicon Controlled Rectifier (SCR) with UJT?",
       "answer": "The UJT pulse at base1 drives the SCR gate through a pulse transformer or resistor."
     }
   ],

@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "NTC resistance:",
+      "question": "Negative Temperature Coefficient Thermistor (NTC) resistance:",
       "options": [
         "Falls with heat",
         "Rises with heat",
@@ -25,7 +25,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "RTD element often:",
+      "question": "Resistance Temperature Detector (RTD) element often:",
       "options": [
         "Platinum",
         "Copper",
@@ -49,7 +49,7 @@
       "difficulty": "advanced"
     },
     {
-      "question": "Digital temp IC outputs:",
+      "question": "Digital temp Integrated Circuit (IC) outputs:",
       "options": [
         "I²C/1-Wire",
         "Only analog",

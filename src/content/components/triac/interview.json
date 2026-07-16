@@ -1,11 +1,11 @@
 {
   "beginner": [
     {
-      "question": "What is a TRIAC?",
-      "answer": "A bidirectional thyristor that switches AC in both directions with one gate."
+      "question": "What is a Triode for Alternating Current (TRIAC)?",
+      "answer": "A bidirectional thyristor that switches Alternating Current (AC) in both directions with one gate."
     },
     {
-      "question": "TRIAC vs SCR?",
+      "question": "TRIAC vs Silicon Controlled Rectifier (SCR)?",
       "answer": "TRIAC conducts both polarities; SCR only one."
     }
   ],
@@ -22,7 +22,7 @@
   "advanced": [
     {
       "question": "Why not use TRIAC for motors always?",
-      "answer": "Commutation and EMI issues; IGBTs are better for precise motor control."
+      "answer": "Commutation and Electromagnetic Interference (EMI) issues; IGBTs are better for precise motor control."
     }
   ],
   "expert": [

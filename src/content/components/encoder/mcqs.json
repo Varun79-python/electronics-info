@@ -52,7 +52,7 @@
       "question": "Inverse of encoder:",
       "options": [
         "Decoder",
-        "MUX",
+        "Multiplexer (MUX)",
         "Counter",
         "None"
       ],

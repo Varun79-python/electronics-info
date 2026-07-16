@@ -1,11 +1,11 @@
 {
   "terms": [
     {
-      "term": "NTC",
+      "term": "Negative Temperature Coefficient Thermistor (NTC)",
       "definition": "Negative Temperature Coefficient: resistance falls as temperature rises."
     },
     {
-      "term": "PTC",
+      "term": "Positive Temperature Coefficient Thermistor (PTC)",
       "definition": "Positive Temperature Coefficient: resistance rises with temperature."
     },
     {

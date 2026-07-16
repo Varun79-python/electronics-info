@@ -3,17 +3,17 @@
     {
       "step": 1,
       "title": "Breakover Match",
-      "description": "Match TRIAC gate need."
+      "description": "Match Triode for Alternating Current (TRIAC) gate need."
     },
     {
       "step": 2,
       "title": "Series Resistor",
-      "description": "Limit DIAC current."
+      "description": "Limit Diode for Alternating Current (DIAC) current."
     },
     {
       "step": 3,
       "title": "Symmetry",
-      "description": "Use for balanced AC firing."
+      "description": "Use for balanced Alternating Current (AC) firing."
     }
   ],
   "tips": [

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "id": "fpga",
-    "name": "FPGA",
+    "name": "Field-Programmable Gate Array (FPGA)",
     "category": "integrated-circuits",
     "difficulty": "beginner",
     "prerequisites": [],

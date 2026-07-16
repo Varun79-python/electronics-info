@@ -34,7 +34,7 @@
           "unit": "K"
         }
       ],
-      "example": "Common for NTC"
+      "example": "Common for Negative Temperature Coefficient Thermistor (NTC)"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "Acceleration acts on proof mass",
     "Mass deflects against spring",
     "Capacitance/charge changes",
-    "ASIC outputs acceleration"
+    "Application-Specific Integrated Circuit (ASIC) outputs acceleration"
   ],
-  "microscopicExplanation": "MEMS: etched silicon mass and fixed plates form a variable capacitor; ΔC ∝ displacement."
+  "microscopicExplanation": "Microelectromechanical Systems (MEMS): etched silicon mass and fixed plates form a variable capacitor; ΔC ∝ displacement."
 }

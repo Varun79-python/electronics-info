@@ -1,7 +1,7 @@
 {
   "disadvantages": [
     "Fixed function",
-    "Power (vs MCU)",
+    "Power (vs Microcontroller Unit (MCU))",
     "Board space",
     "Limited",
     "Static sensitive"

@@ -2,11 +2,11 @@
   "relatedComponents": [
     {
       "id": "battery",
-      "relationship": "DC source"
+      "relationship": "Direct Current (DC) source"
     },
     {
       "id": "transistor",
-      "relationship": "PWM driver"
+      "relationship": "Pulse Width Modulation (PWM) driver"
     },
     {
       "id": "electromagnet",

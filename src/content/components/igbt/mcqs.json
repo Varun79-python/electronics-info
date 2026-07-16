@@ -1,12 +1,12 @@
 {
   "questions": [
     {
-      "question": "IGBT combines:",
+      "question": "Insulated-Gate Bipolar Transistor (IGBT) combines:",
       "options": [
-        "BJT + JFET",
-        "MOSFET input + BJT output",
+        "Bipolar Junction Transistor (BJT) + Junction Field-Effect Transistor (JFET)",
+        "Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET) input + BJT output",
         "Two diodes",
-        "SCR + MOS"
+        "Silicon Controlled Rectifier (SCR) + MOS"
       ],
       "correctAnswer": 1,
       "explanation": "MOS gate, bipolar output.",
@@ -17,7 +17,7 @@
       "options": [
         "Low voltage",
         "High power <20kHz",
-        "RF",
+        "Radio Frequency (RF)",
         "Audio"
       ],
       "correctAnswer": 1,

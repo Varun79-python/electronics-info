@@ -2,10 +2,10 @@
   "terms": [
     {
       "term": "Ripple",
-      "definition": "Residual AC variation on the DC output."
+      "definition": "Residual Alternating Current (AC) variation on the Direct Current (DC) output."
     },
     {
-      "term": "SMPS",
+      "term": "Switched-Mode Power Supply (SMPS)",
       "definition": "Switched-mode power supply; efficient."
     },
     {

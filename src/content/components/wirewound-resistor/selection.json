@@ -13,7 +13,7 @@
     {
       "step": 3,
       "title": "Inductance Needs",
-      "description": "Use non-inductive for AC/RF."
+      "description": "Use non-inductive for Alternating Current (AC)/Radio Frequency (RF)."
     },
     {
       "step": 4,

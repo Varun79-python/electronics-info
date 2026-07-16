@@ -1,8 +1,8 @@
 {
-  "name": "OLED Display",
+  "name": "Organic Light Emitting Diode (OLED) Display",
   "id": "oled",
   "category": "displays",
-  "shortDescription": "An OLED (Organic LED) display uses organic compounds that emit light when current flows, pixel by pixel.",
+  "shortDescription": "An Organic Light Emitting Diode (OLED) (Organic Light Emitting Diode (LED)) display uses organic compounds that emit light when current flows, pixel by pixel.",
   "whatIsIt": "An OLED (Organic LED) display uses organic compounds that emit light when current flows, pixel by pixel.",
   "whyExists": "OLEDs give true black, thin, flexible, high-contrast displays without a backlight.",
   "whereUsed": "Used in premium phones, wearables, and TVs.",

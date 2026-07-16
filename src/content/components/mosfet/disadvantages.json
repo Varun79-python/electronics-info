@@ -1,6 +1,6 @@
 {
   "disadvantages": [
-    "Gate oxide ESD fragile",
+    "Gate oxide Electrostatic Discharge (ESD) fragile",
     "Gate charge switching loss",
     "Body diode parasitic",
     "Threshold varies with temp",

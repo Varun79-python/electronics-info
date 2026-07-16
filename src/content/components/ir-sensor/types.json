@@ -15,7 +15,7 @@
       ]
     },
     {
-      "name": "IR Receiver",
+      "name": "Infrared (IR) Receiver",
       "description": "Decodes remote.",
       "applications": [
         "TV"

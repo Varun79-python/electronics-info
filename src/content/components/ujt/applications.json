@@ -9,7 +9,7 @@
       ]
     },
     {
-      "category": "SCR Trigger",
+      "category": "Silicon Controlled Rectifier (SCR) Trigger",
       "description": "Fires thyristors",
       "examples": [
         "Phase control"

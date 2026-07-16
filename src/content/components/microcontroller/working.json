@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "It fetches instructions from flash, executes them on the CPU, and interacts with the world via GPIO, ADC, timers, and communication peripherals.",
+  "workingPrinciple": "It fetches instructions from flash, executes them on the Central Processing Unit (CPU), and interacts with the world via GPIO, Analog-to-Digital Converter (ADC), timers, and communication peripherals.",
   "steps": [
     "Reset fetches vector",
     "CPU runs firmware from flash",

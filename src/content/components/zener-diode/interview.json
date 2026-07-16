@@ -21,7 +21,7 @@
   ],
   "advanced": [
     {
-      "question": "When use a Zener vs a regulator IC?",
+      "question": "When use a Zener vs a regulator Integrated Circuit (IC)?",
       "answer": "Zener for simple low-current refs; IC regulators for higher current and better regulation."
     }
   ],

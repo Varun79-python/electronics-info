@@ -29,7 +29,7 @@
       "causes": [
         "Inductive load"
       ],
-      "solution": "Snubberless TRIAC"
+      "solution": "Snubberless Triode for Alternating Current (TRIAC)"
     }
   ]
 }

@@ -6,7 +6,7 @@
     },
     {
       "id": "thyristor",
-      "relationship": "Triggered by UJT"
+      "relationship": "Triggered by Unijunction Transistor (UJT)"
     },
     {
       "id": "capacitor",

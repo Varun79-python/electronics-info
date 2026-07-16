@@ -13,7 +13,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "MEMS gyro uses:",
+      "question": "Microelectromechanical Systems (MEMS) gyro uses:",
       "options": [
         "Coriolis",
         "Hall",
@@ -52,7 +52,7 @@
       "question": "Common with accel as:",
       "options": [
         "IMU",
-        "ADC",
+        "Analog-to-Digital Converter (ADC)",
         "Relay",
         "None"
       ],

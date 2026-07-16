@@ -30,6 +30,6 @@
     "Use log taper for volume controls",
     "Avoid using as variable resistor if possible",
     "Clean contacts in dusty environments",
-    "Digital pots for MCU control"
+    "Digital pots for Microcontroller Unit (MCU) control"
   ]
 }

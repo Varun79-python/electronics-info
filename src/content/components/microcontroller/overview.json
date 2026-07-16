@@ -2,10 +2,10 @@
   "name": "Microcontroller",
   "id": "microcontroller",
   "category": "integrated-circuits",
-  "shortDescription": "A microcontroller (MCU) is a self-contained computer on a chip with CPU, memory, and peripherals for embedded control.",
+  "shortDescription": "A microcontroller (MCU) is a self-contained computer on a chip with Central Processing Unit (CPU), memory, and peripherals for embedded control.",
   "whatIsIt": "A microcontroller (MCU) is a self-contained computer on a chip with CPU, memory, and peripherals for embedded control.",
   "whyExists": "MCUs provide programmable, low-cost control for countless electronic devices.",
-  "whereUsed": "Used in appliances, cars, IoT, and virtually every smart device.",
+  "whereUsed": "Used in appliances, cars, Internet of Things (IoT), and virtually every smart device.",
   "thumbnail": "/assets/images/components/microcontroller/thumbnail.svg",
   "schematic": "/assets/components/microcontroller/schematic/symbol.svg"
 }

@@ -11,11 +11,11 @@
       "name": "4:1 / 8:1",
       "description": "More inputs.",
       "applications": [
-        "ADC mux"
+        "Analog-to-Digital Converter (ADC) mux"
       ]
     },
     {
-      "name": "Analog MUX",
+      "name": "Analog Multiplexer (MUX)",
       "description": "Passes analog.",
       "applications": [
         "Sensors"
@@ -25,7 +25,7 @@
       "name": "Bus MUX",
       "description": "Data select.",
       "applications": [
-        "CPU"
+        "Central Processing Unit (CPU)"
       ]
     }
   ]

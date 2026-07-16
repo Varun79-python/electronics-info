@@ -4,8 +4,8 @@
   "category": "communication",
   "shortDescription": "An antenna is a transducer that converts electrical signals to electromagnetic waves (and vice versa) for radio communication.",
   "whatIsIt": "An antenna is a transducer that converts electrical signals to electromagnetic waves (and vice versa) for radio communication.",
-  "whyExists": "Antennas enable wireless transmission and reception of RF energy.",
-  "whereUsed": "Used in Wi-Fi, phones, radio, GPS, and IoT.",
+  "whyExists": "Antennas enable wireless transmission and reception of Radio Frequency (RF) energy.",
+  "whereUsed": "Used in Wi-Fi, phones, radio, Global Positioning System (GPS), and Internet of Things (IoT).",
   "thumbnail": "/assets/images/components/antenna/thumbnail.svg",
   "schematic": "/assets/components/antenna/schematic/symbol.svg"
 }

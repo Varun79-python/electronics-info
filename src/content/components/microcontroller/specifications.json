@@ -17,7 +17,7 @@
     },
     {
       "name": "Peripherals",
-      "typicalValues": "ADC/UART/SPI/I²C",
+      "typicalValues": "Analog-to-Digital Converter (ADC)/Universal Asynchronous Receiver-Transmitter (UART)/Serial Peripheral Interface (SPI)/I²C",
       "notes": "Interfaces"
     }
   ]

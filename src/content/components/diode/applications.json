@@ -2,7 +2,7 @@
   "applications": [
     {
       "category": "Rectification",
-      "description": "Converts AC to DC in power supplies",
+      "description": "Converts Alternating Current (AC) to Direct Current (DC) in power supplies",
       "examples": [
         "Bridge rectifier",
         "Half-wave rectifier"

@@ -6,7 +6,7 @@
     },
     {
       "question": "How read it?",
-      "answer": "Use a voltage divider into an ADC."
+      "answer": "Use a voltage divider into an Analog-to-Digital Converter (ADC)."
     }
   ],
   "intermediate": [

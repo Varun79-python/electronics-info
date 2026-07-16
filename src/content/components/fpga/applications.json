@@ -1,7 +1,7 @@
 {
   "applications": [
     {
-      "category": "DSP",
+      "category": "Digital Signal Processing (DSP)",
       "description": "Filtering",
       "examples": [
         "Radio"
@@ -9,7 +9,7 @@
     },
     {
       "category": "Prototyping",
-      "description": "ASIC emulation",
+      "description": "Application-Specific Integrated Circuit (ASIC) emulation",
       "examples": [
         "Chips"
       ]

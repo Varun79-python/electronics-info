@@ -2,7 +2,7 @@
   "types": [
     {
       "name": "Air-Core Inductor",
-      "description": "No magnetic core; used at RF to avoid core losses.",
+      "description": "No magnetic core; used at Radio Frequency (RF) to avoid core losses.",
       "applications": [
         "RF circuits",
         "Filters"
@@ -13,7 +13,7 @@
       "description": "Ferrite core gives high inductance in small size.",
       "applications": [
         "Power supplies",
-        "EMI filters"
+        "Electromagnetic Interference (EMI) filters"
       ]
     },
     {

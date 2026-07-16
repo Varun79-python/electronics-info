@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "JFET gate is:",
+      "question": "Junction Field-Effect Transistor (JFET) gate is:",
       "options": [
         "Forward biased",
         "Reverse biased",
@@ -54,7 +54,7 @@
         "Power",
         "Low-noise analog",
         "Digital",
-        "RF power"
+        "Radio Frequency (RF) power"
       ],
       "correctAnswer": 1,
       "explanation": "Low-noise front-ends.",

@@ -15,10 +15,10 @@
       ]
     },
     {
-      "category": "PWM",
+      "category": "Pulse Width Modulation (PWM)",
       "description": "Dim/control",
       "examples": [
-        "LED"
+        "Light Emitting Diode (LED)"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "A voltage on the insulated gate builds an electric field that attracts carriers, forming a channel. Above the threshold voltage, current flows; the gate draws almost no DC current.",
+  "workingPrinciple": "A voltage on the insulated gate builds an electric field that attracts carriers, forming a channel. Above the threshold voltage, current flows; the gate draws almost no Direct Current (DC) current.",
   "steps": [
     "Gate voltage is applied relative to source",
     "Electric field forms a conductive channel",

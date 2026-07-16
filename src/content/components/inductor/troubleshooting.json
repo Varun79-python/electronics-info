@@ -33,7 +33,7 @@
       ],
       "causes": [
         "Exceeding rated current",
-        "DC bias too high"
+        "Direct Current (DC) bias too high"
       ],
       "solution": "Use higher-current or gapped core"
     }

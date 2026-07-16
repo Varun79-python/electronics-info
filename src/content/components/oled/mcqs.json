@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "OLED is:",
+      "question": "Organic Light Emitting Diode (OLED) is:",
       "options": [
         "Self-emissive",
         "Backlit",
@@ -41,7 +41,7 @@
       "options": [
         "Active matrix",
         "Passive",
-        "LCD",
+        "Liquid Crystal Display (LCD)",
         "None"
       ],
       "correctAnswer": 0,

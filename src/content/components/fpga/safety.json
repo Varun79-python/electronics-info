@@ -2,7 +2,7 @@
   "voltageSafety": "Low voltage (core 1V).",
   "currentSafety": "Can be high total.",
   "thermalSafety": "Needs cooling at load.",
-  "handling": "ESD sensitive.",
+  "handling": "Electrostatic Discharge (ESD) sensitive.",
   "storage": "Antistatic.",
   "disposal": "E-waste."
 }

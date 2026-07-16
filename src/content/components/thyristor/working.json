@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "A gate pulse turns on the device; internal positive feedback between the two transistors latches it on. It stays conducting until the anode current drops below the holding current (at AC zero-crossing).",
+  "workingPrinciple": "A gate pulse turns on the device; internal positive feedback between the two transistors latches it on. It stays conducting until the anode current drops below the holding current (at Alternating Current (AC) zero-crossing).",
   "steps": [
     "Forward voltage applied across anode-cathode",
     "A gate pulse triggers conduction",

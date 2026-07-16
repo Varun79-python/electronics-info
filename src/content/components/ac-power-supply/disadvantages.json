@@ -1,6 +1,6 @@
 {
   "disadvantages": [
-    "Inverters have THD/EMI",
+    "Inverters have THD/Electromagnetic Interference (EMI)",
     "Cost",
     "Complex (synthesized)",
     "Efficiency loss",

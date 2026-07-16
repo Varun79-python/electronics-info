@@ -18,12 +18,12 @@
   "advanced": [
     {
       "question": "Temperature compensation?",
-      "answer": "ASIC corrects thermal drift of bridge."
+      "answer": "Application-Specific Integrated Circuit (ASIC) corrects thermal drift of bridge."
     }
   ],
   "expert": [
     {
-      "question": "MEMS advantage?",
+      "question": "Microelectromechanical Systems (MEMS) advantage?",
       "answer": "Tiny, cheap, integrated signal conditioning."
     }
   ]

@@ -11,6 +11,29 @@ import { fileURLToPath } from 'node:url'
 import COMPONENTS from './component-list.js'
 import { COMPONENT_DATA } from './component-data.js'
 
+// Manually expanded names for index display
+const EXPANDED_NAMES = {
+  'MOSFET': 'Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)',
+  'JFET': 'Junction Field-Effect Transistor (JFET)',
+  'IGBT': 'Insulated-Gate Bipolar Transistor (IGBT)',
+  'TRIAC': 'Triode for Alternating Current (TRIAC)',
+  'DIAC': 'Diode for Alternating Current (DIAC)',
+  'Thyristor (SCR)': 'Silicon Controlled Rectifier (SCR)',
+  'DC Power Supply': 'Direct Current (DC) Power Supply',
+  'AC Power Supply': 'Alternating Current (AC) Power Supply',
+  'DC Motor': 'Direct Current (DC) Motor',
+  'LDO Voltage Regulator': 'Low Dropout (LDO) Voltage Regulator',
+  'FPGA': 'Field-Programmable Gate Array (FPGA)',
+  'OLED Display': 'Organic Light Emitting Diode (OLED) Display',
+  'IR Sensor': 'Infrared (IR) Sensor',
+  'Logic Gate IC': 'Logic Gate Integrated Circuit (IC)',
+  'Audio Amplifier IC': 'Audio Amplifier Integrated Circuit (IC)',
+  'Motor Driver IC': 'Motor Driver Integrated Circuit (IC)',
+  'Analog to Digital Converter': 'Analog-to-Digital Converter (ADC)',
+  'Digital to Analog Converter': 'Digital-to-Analog Converter (DAC)',
+  '555 Timer': '555 Timer Integrated Circuit (IC)',
+}
+
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, '..', '..') // electronics-hub
 
@@ -71,14 +94,15 @@ const jsonList = []
 for (const comp of COMPONENTS) {
   const description = deriveDescription(comp.id)
   const tags = deriveTags(comp)
+  const displayName = EXPANDED_NAMES[comp.name] || comp.name
   index[comp.id] = {
     id: comp.id,
-    name: comp.name,
+    name: displayName,
     category: comp.category,
     description,
     tags,
   }
-  jsonList.push({ id: comp.id, name: comp.name, category: comp.category, tags })
+  jsonList.push({ id: comp.id, name: displayName, category: comp.category, tags })
 }
 
 // Write constants/components.js
@@ -89,7 +113,7 @@ for (const comp of COMPONENTS) {
   const descStr = `'${e.description.replace(/'/g, "\\'")}'`
   constLines.push(`  '${e.id}': {`)
   constLines.push(`    id: '${e.id}',`)
-  constLines.push(`    name: '${e.name.replace(/'/g, "\\'")}',`)
+    constLines.push(`    name: '${e.name.replace(/'/g, "\\'")}',`)
   constLines.push(`    category: '${e.category}',`)
   constLines.push(`    description: ${descStr},`)
   constLines.push(`    tags: ${tagsStr},`)

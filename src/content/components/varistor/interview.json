@@ -27,7 +27,7 @@
   ],
   "expert": [
     {
-      "question": "How do you select a varistor for AC mains?",
+      "question": "How do you select a varistor for Alternating Current (AC) mains?",
       "answer": "Choose varistor voltage ~1.2-1.5x the peak line voltage, with surge/energy rating above expected transients, and a series fuse."
     }
   ]

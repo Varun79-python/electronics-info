@@ -16,7 +16,7 @@
       "material": "Metal can or ceramic"
     },
     {
-      "name": "Oscillator IC (XO)",
+      "name": "Oscillator Integrated Circuit (IC) (XO)",
       "function": "Drives the crystal",
       "material": "Silicon"
     }

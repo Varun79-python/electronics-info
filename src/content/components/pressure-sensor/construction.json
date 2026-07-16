@@ -11,7 +11,7 @@
       "material": "Piezoresistive"
     },
     {
-      "name": "ASIC",
+      "name": "Application-Specific Integrated Circuit (ASIC)",
       "function": "Condition",
       "material": "Silicon"
     },

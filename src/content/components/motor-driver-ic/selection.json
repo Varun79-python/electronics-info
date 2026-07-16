@@ -8,12 +8,12 @@
     {
       "step": 2,
       "title": "Type",
-      "description": "DC/stepper/BLDC."
+      "description": "Direct Current (DC)/stepper/BLDC."
     },
     {
       "step": 3,
       "title": "Interface",
-      "description": "PWM/step-dir."
+      "description": "Pulse Width Modulation (PWM)/step-dir."
     },
     {
       "step": 4,

@@ -27,8 +27,8 @@
     {
       "question": "74HC is:",
       "options": [
-        "CMOS",
-        "TTL",
+        "Complementary Metal–Oxide–Semiconductor (CMOS)",
+        "Transistor–Transistor Logic (TTL)",
         "ECL",
         "None"
       ],

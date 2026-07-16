@@ -7,5 +7,5 @@
     "Feedback continuously corrects deviations",
     "Load/input changes are rejected"
   ],
-  "microscopicExplanation": "A bandgap reference provides a stable voltage; the feedback loop adjusts the series pass device (BJT/MOSFET) or the duty cycle to keep V_out fixed."
+  "microscopicExplanation": "A bandgap reference provides a stable voltage; the feedback loop adjusts the series pass device (Bipolar Junction Transistor (BJT)/Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)) or the duty cycle to keep V_out fixed."
 }

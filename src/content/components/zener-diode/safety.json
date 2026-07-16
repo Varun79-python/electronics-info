@@ -2,7 +2,7 @@
   "voltageSafety": "Low voltage; safe.",
   "currentSafety": "Series resistor mandatory to limit current.",
   "thermalSafety": "Overcurrent causes heating.",
-  "handling": "ESD sensitive.",
+  "handling": "Electrostatic Discharge (ESD) sensitive.",
   "storage": "Anti-static, dry.",
   "disposal": "E-waste rules."
 }

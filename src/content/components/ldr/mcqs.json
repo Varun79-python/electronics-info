@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "LDR resistance with light:",
+      "question": "Light Dependent Resistor (LDR) resistance with light:",
       "options": [
         "Decreases",
         "Increases",
@@ -28,7 +28,7 @@
       "question": "Read via:",
       "options": [
         "Voltage divider",
-        "Direct ADC current",
+        "Direct Analog-to-Digital Converter (ADC) current",
         "Relay",
         "None"
       ],

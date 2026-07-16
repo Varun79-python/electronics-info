@@ -15,7 +15,7 @@
       ]
     },
     {
-      "name": "SoC FPGA",
+      "name": "SoC Field-Programmable Gate Array (FPGA)",
       "description": "With ARM core.",
       "applications": [
         "Complex"

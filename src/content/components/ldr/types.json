@@ -11,7 +11,7 @@
       "name": "PbS Cell",
       "description": "Infrared.",
       "applications": [
-        "IR detect"
+        "Infrared (IR) detect"
       ]
     },
     {

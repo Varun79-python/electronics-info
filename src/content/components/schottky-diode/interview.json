@@ -28,7 +28,7 @@
   "expert": [
     {
       "question": "How choose between Schottky and synchronous rectification?",
-      "answer": "Schottky for simplicity/low cost; synchronous MOSFET rectification for highest efficiency at very low V_out."
+      "answer": "Schottky for simplicity/low cost; synchronous Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET) rectification for highest efficiency at very low V_out."
     }
   ]
 }

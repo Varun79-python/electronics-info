@@ -19,7 +19,7 @@
       "causes": [
         "100% duty"
       ],
-      "solution": "Reduce duty/PWM"
+      "solution": "Reduce duty/Pulse Width Modulation (PWM)"
     },
     {
       "failure": "Weak",

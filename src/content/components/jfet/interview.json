@@ -1,8 +1,8 @@
 {
   "beginner": [
     {
-      "question": "What is a JFET?",
-      "answer": "A voltage-controlled FET using a reverse-biased gate junction to modulate a channel."
+      "question": "What is a Junction Field-Effect Transistor (JFET)?",
+      "answer": "A voltage-controlled Field-Effect Transistor (FET) using a reverse-biased gate junction to modulate a channel."
     },
     {
       "question": "Why high input impedance?",
@@ -11,7 +11,7 @@
   ],
   "intermediate": [
     {
-      "question": "JFET vs MOSFET?",
+      "question": "JFET vs Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)?",
       "answer": "JFET has no oxide (robust) and is normally on; MOSFET has insulated gate and is normally off."
     },
     {

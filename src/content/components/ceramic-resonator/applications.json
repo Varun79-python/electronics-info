@@ -4,7 +4,7 @@
       "category": "Clock Source",
       "description": "Times microcontrollers",
       "examples": [
-        "MCU",
+        "Microcontroller Unit (MCU)",
         "Remote controls"
       ]
     },

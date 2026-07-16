@@ -24,7 +24,7 @@
   "expert": [
     {
       "question": "What replaces rheostats today?",
-      "answer": "PWM and electronic drivers offer efficient control with no heat loss."
+      "answer": "Pulse Width Modulation (PWM) and electronic drivers offer efficient control with no heat loss."
     }
   ]
 }

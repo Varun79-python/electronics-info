@@ -3,7 +3,7 @@
     {
       "name": "Resistance at 25°C",
       "typicalValues": "1kΩ to 1MΩ",
-      "notes": "Common 10kΩ NTC"
+      "notes": "Common 10kΩ Negative Temperature Coefficient Thermistor (NTC)"
     },
     {
       "name": "Beta Constant",

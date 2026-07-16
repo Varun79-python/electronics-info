@@ -3,7 +3,7 @@
     {
       "name": "Voltage",
       "typicalValues": "5V to 24V",
-      "notes": "DC common"
+      "notes": "Direct Current (DC) common"
     },
     {
       "name": "Stroke",

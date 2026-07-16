@@ -27,7 +27,7 @@
     {
       "question": "32.768kHz crystals are used for:",
       "options": [
-        "CPU",
+        "Central Processing Unit (CPU)",
         "RTC",
         "Radio",
         "Audio"

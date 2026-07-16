@@ -2,7 +2,7 @@
   "relatedComponents": [
     {
       "id": "thermistor",
-      "relationship": "NTC type"
+      "relationship": "Negative Temperature Coefficient Thermistor (NTC) type"
     },
     {
       "id": "microcontroller",

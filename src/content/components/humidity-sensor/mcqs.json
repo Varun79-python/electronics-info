@@ -53,7 +53,7 @@
       "options": [
         "I²C",
         "Relay",
-        "AC",
+        "Alternating Current (AC)",
         "None"
       ],
       "correctAnswer": 0,

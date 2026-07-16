@@ -24,6 +24,6 @@
   "tips": [
     "Calibrate offset",
     "Temperature-compensate",
-    "Shield EMI"
+    "Shield Electromagnetic Interference (EMI)"
   ]
 }

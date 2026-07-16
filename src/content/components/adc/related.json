@@ -6,7 +6,7 @@
     },
     {
       "id": "microcontroller",
-      "relationship": "Uses ADC"
+      "relationship": "Uses Analog-to-Digital Converter (ADC)"
     },
     {
       "id": "op-amp",

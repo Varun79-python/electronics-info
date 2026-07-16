@@ -1,8 +1,8 @@
 {
-  "name": "DC Motor",
+  "name": "Direct Current (DC) Motor",
   "id": "dc-motor",
   "category": "electromechanical",
-  "shortDescription": "A DC motor converts electrical DC energy into rotational mechanical energy using magnetic fields and commutation.",
+  "shortDescription": "A Direct Current (DC) motor converts electrical DC energy into rotational mechanical energy using magnetic fields and commutation.",
   "whatIsIt": "A DC motor converts electrical DC energy into rotational mechanical energy using magnetic fields and commutation.",
   "whyExists": "DC motors provide simple, controllable torque and speed for countless mechanical tasks.",
   "whereUsed": "They are used in toys, appliances, power tools, robots, and automotive accessories.",

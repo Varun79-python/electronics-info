@@ -6,7 +6,7 @@
     },
     {
       "question": "Hobby servo signal?",
-      "answer": "A PWM pulse width sets the angle (e.g., 1-2ms)."
+      "answer": "A Pulse Width Modulation (PWM) pulse width sets the angle (e.g., 1-2ms)."
     }
   ],
   "intermediate": [
@@ -27,7 +27,7 @@
   ],
   "expert": [
     {
-      "question": "When choose AC servo over DC?",
+      "question": "When choose Alternating Current (AC) servo over Direct Current (DC)?",
       "answer": "For higher power, speed, and maintenance-free operation in industrial settings."
     }
   ]

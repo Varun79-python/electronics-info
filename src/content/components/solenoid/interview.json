@@ -16,7 +16,7 @@
     },
     {
       "question": "How reduce hold power?",
-      "answer": "Use PWM or a lower hold voltage after pull-in."
+      "answer": "Use Pulse Width Modulation (PWM) or a lower hold voltage after pull-in."
     }
   ],
   "advanced": [

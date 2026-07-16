@@ -21,12 +21,12 @@
       "description": "Maximizes power transfer",
       "examples": [
         "Audio amplifiers",
-        "RF"
+        "Radio Frequency (RF)"
       ]
     },
     {
       "category": "Signal Coupling",
-      "description": "Transfers AC while blocking DC",
+      "description": "Transfers Alternating Current (AC) while blocking Direct Current (DC)",
       "examples": [
         "Microphone transformers",
         "Modems"

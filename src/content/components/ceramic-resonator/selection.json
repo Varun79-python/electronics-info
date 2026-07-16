@@ -3,7 +3,7 @@
     {
       "step": 1,
       "title": "Pick Frequency",
-      "description": "Match MCU requirement."
+      "description": "Match Microcontroller Unit (MCU) requirement."
     },
     {
       "step": 2,
@@ -23,7 +23,7 @@
   ],
   "tips": [
     "Use for non-critical timing",
-    "Crystal for UART/USB precision",
+    "Crystal for Universal Asynchronous Receiver-Transmitter (UART)/Universal Serial Bus (USB) precision",
     "Keep traces short",
     "Avoid over-driving"
   ]

@@ -1,9 +1,9 @@
 {
   "questions": [
     {
-      "question": "MCU contains:",
+      "question": "Microcontroller Unit (MCU) contains:",
       "options": [
-        "CPU+mem+IO",
+        "Central Processing Unit (CPU)+mem+IO",
         "CPU only",
         "Memory only",
         "None"
@@ -16,7 +16,7 @@
       "question": "Flash stores:",
       "options": [
         "Firmware",
-        "RAM data",
+        "Random Access Memory (RAM) data",
         "Cache",
         "None"
       ],
@@ -53,7 +53,7 @@
       "options": [
         "32-bit MCU core",
         "8-bit",
-        "FPGA",
+        "Field-Programmable Gate Array (FPGA)",
         "None"
       ],
       "correctAnswer": 0,

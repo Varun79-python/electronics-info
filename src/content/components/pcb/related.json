@@ -2,7 +2,7 @@
   "relatedComponents": [
     {
       "id": "connector",
-      "relationship": "Mounted on PCB"
+      "relationship": "Mounted on Printed Circuit Board (PCB)"
     },
     {
       "id": "breadboard",

@@ -9,7 +9,7 @@
       ]
     },
     {
-      "name": "AC Inverter",
+      "name": "Alternating Current (AC) Inverter",
       "description": "Synthesized sine.",
       "applications": [
         "Motor drives"

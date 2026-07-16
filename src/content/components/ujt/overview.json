@@ -2,10 +2,10 @@
   "name": "Unijunction Transistor",
   "id": "ujt",
   "category": "semiconductor",
-  "shortDescription": "A UJT (unijunction transistor) is a three-terminal device with one emitter and two bases, used mainly as a relaxation oscillator and trigger.",
+  "shortDescription": "A Unijunction Transistor (UJT) (unijunction transistor) is a three-terminal device with one emitter and two bases, used mainly as a relaxation oscillator and trigger.",
   "whatIsIt": "A UJT (unijunction transistor) is a three-terminal device with one emitter and two bases, used mainly as a relaxation oscillator and trigger.",
   "whyExists": "UJTs provide a simple, stable way to generate timing pulses and trigger thyristors.",
-  "whereUsed": "They are used in oscillator circuits, timers, and SCR/TRIAC trigger generators.",
+  "whereUsed": "They are used in oscillator circuits, timers, and Silicon Controlled Rectifier (SCR)/Triode for Alternating Current (TRIAC) trigger generators.",
   "thumbnail": "/assets/images/components/ujt/thumbnail.svg",
   "schematic": "/assets/components/ujt/schematic/symbol.svg"
 }

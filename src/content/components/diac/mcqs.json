@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "A DIAC is:",
+      "question": "A Diode for Alternating Current (DIAC) is:",
       "options": [
         "Unidirectional",
         "Bidirectional trigger",
@@ -15,10 +15,10 @@
     {
       "question": "It triggers a:",
       "options": [
-        "MOSFET",
-        "TRIAC",
-        "BJT",
-        "LED"
+        "Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)",
+        "Triode for Alternating Current (TRIAC)",
+        "Bipolar Junction Transistor (BJT)",
+        "Light Emitting Diode (LED)"
       ],
       "correctAnswer": 1,
       "explanation": "Common TRIAC trigger.",
@@ -57,7 +57,7 @@
         "Clocks"
       ],
       "correctAnswer": 1,
-      "explanation": "AC dimmer trigger.",
+      "explanation": "Alternating Current (AC) dimmer trigger.",
       "difficulty": "beginner"
     }
   ]

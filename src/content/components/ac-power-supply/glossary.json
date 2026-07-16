@@ -2,7 +2,7 @@
   "terms": [
     {
       "term": "Variac",
-      "definition": "Adjustable autotransformer for AC voltage."
+      "definition": "Adjustable autotransformer for Alternating Current (AC) voltage."
     },
     {
       "term": "THD",
@@ -10,7 +10,7 @@
     },
     {
       "term": "Inverter",
-      "definition": "Converts DC to AC."
+      "definition": "Converts Direct Current (DC) to AC."
     },
     {
       "term": "Power Factor",

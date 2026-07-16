@@ -2,7 +2,7 @@
   "formulas": [
     {
       "name": "Reflectance",
-      "formula": "V ∝ reflected IR",
+      "formula": "V ∝ reflected Infrared (IR)",
       "description": "Distance signal.",
       "variables": [
         {

@@ -1,7 +1,7 @@
 {
   "beginner": [
     {
-      "question": "What is a MUX?",
+      "question": "What is a Multiplexer (MUX)?",
       "answer": "A selector that routes one of many inputs to one output."
     },
     {
@@ -23,7 +23,7 @@
   ],
   "expert": [
     {
-      "question": "Use in ADC?",
+      "question": "Use in Analog-to-Digital Converter (ADC)?",
       "answer": "To sequence multiple sensor channels."
     }
   ]

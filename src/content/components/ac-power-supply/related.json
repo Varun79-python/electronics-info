@@ -10,7 +10,7 @@
     },
     {
       "id": "dc-power-supply",
-      "relationship": "DC counterpart"
+      "relationship": "Direct Current (DC) counterpart"
     },
     {
       "id": "voltage-regulator",

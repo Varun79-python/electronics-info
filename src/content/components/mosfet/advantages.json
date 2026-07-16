@@ -4,7 +4,7 @@
     "Very fast switching",
     "Low on-resistance",
     "High input impedance",
-    "No thermal runaway (unlike BJT)",
+    "No thermal runaway (unlike Bipolar Junction Transistor (BJT))",
     "Scales to nanometer ICs"
   ]
 }

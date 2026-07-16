@@ -2,7 +2,7 @@
   "relatedComponents": [
     {
       "id": "triac",
-      "relationship": "Triggered by DIAC"
+      "relationship": "Triggered by Diode for Alternating Current (DIAC)"
     },
     {
       "id": "thyristor",

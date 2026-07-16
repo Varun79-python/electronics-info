@@ -14,7 +14,7 @@
     },
     {
       "id": "ir-sensor",
-      "relationship": "Core of IR sensors"
+      "relationship": "Core of Infrared (IR) sensors"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "beginner": [
     {
-      "question": "What is an FPGA?",
+      "question": "What is an Field-Programmable Gate Array (FPGA)?",
       "answer": "A reconfigurable chip you program as custom hardware."
     },
     {
-      "question": "FPGA vs MCU?",
+      "question": "FPGA vs Microcontroller Unit (MCU)?",
       "answer": "FPGA is parallel hardware; MCU is sequential software."
     }
   ],
@@ -24,7 +24,7 @@
   "expert": [
     {
       "question": "When choose FPGA?",
-      "answer": "When parallelism, latency, or I/O speed beat an MCU/ASIC tradeoff."
+      "answer": "When parallelism, latency, or I/O speed beat an MCU/Application-Specific Integrated Circuit (ASIC) tradeoff."
     }
   ]
 }

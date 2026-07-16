@@ -4,7 +4,7 @@
       "category": "Power Supplies",
       "description": "Stable rails",
       "examples": [
-        "PCB",
+        "Printed Circuit Board (PCB)",
         "Modules"
       ]
     },
@@ -12,7 +12,7 @@
       "category": "Reference",
       "description": "Clean voltage",
       "examples": [
-        "ADC",
+        "Analog-to-Digital Converter (ADC)",
         "Sensors"
       ]
     },

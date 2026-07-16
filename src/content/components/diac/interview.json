@@ -1,18 +1,18 @@
 {
   "beginner": [
     {
-      "question": "What is a DIAC?",
+      "question": "What is a Diode for Alternating Current (DIAC)?",
       "answer": "A bidirectional trigger diode that fires at a symmetric breakover voltage."
     },
     {
-      "question": "DIAC vs TRIAC?",
+      "question": "DIAC vs Triode for Alternating Current (TRIAC)?",
       "answer": "DIAC only triggers; TRIAC switches the load."
     }
   ],
   "intermediate": [
     {
       "question": "Why use a DIAC with a TRIAC?",
-      "answer": "It gives symmetric breakover firing in both AC half-cycles for even control."
+      "answer": "It gives symmetric breakover firing in both Alternating Current (AC) half-cycles for even control."
     }
   ],
   "advanced": [

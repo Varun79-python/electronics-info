@@ -52,7 +52,7 @@
       "question": "Digital pots are controlled by:",
       "options": [
         "Shaft",
-        "Digital signals/MCU",
+        "Digital signals/Microcontroller Unit (MCU)",
         "Light",
         "Temperature"
       ],

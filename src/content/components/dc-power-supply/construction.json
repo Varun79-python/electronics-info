@@ -7,7 +7,7 @@
     },
     {
       "name": "Rectifier",
-      "function": "AC to DC",
+      "function": "Alternating Current (AC) to Direct Current (DC)",
       "material": "Diodes"
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "Regulator",
       "function": "Stabilizes output",
-      "material": "IC"
+      "material": "Integrated Circuit (IC)"
     }
   ]
 }

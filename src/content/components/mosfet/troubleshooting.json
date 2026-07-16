@@ -6,7 +6,7 @@
         "Short S-D"
       ],
       "causes": [
-        "ESD",
+        "Electrostatic Discharge (ESD)",
         "Overvoltage"
       ],
       "solution": "Replace; add protection"
@@ -31,7 +31,7 @@
         "High R_DS",
         "No sink"
       ],
-      "solution": "Better MOSFET/heatsink"
+      "solution": "Better Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)/heatsink"
     }
   ]
 }

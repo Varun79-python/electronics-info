@@ -21,7 +21,7 @@
         "None"
       ],
       "correctAnswer": 0,
-      "explanation": "Ambient IR.",
+      "explanation": "Ambient Infrared (IR).",
       "difficulty": "intermediate"
     },
     {
@@ -51,7 +51,7 @@
     {
       "question": "Active IR uses:",
       "options": [
-        "LED+photodiode",
+        "Light Emitting Diode (LED)+photodiode",
         "Coil",
         "Mic",
         "None"

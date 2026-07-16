@@ -1,11 +1,11 @@
 {
   "beginner": [
     {
-      "question": "What is an MCU?",
-      "answer": "A tiny computer on a chip with CPU, memory, and I/O."
+      "question": "What is an Microcontroller Unit (MCU)?",
+      "answer": "A tiny computer on a chip with Central Processing Unit (CPU), memory, and I/O."
     },
     {
-      "question": "Flash vs RAM?",
+      "question": "Flash vs Random Access Memory (RAM)?",
       "answer": "Flash stores code; RAM holds runtime data."
     }
   ],

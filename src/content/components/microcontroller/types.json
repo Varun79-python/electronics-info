@@ -11,7 +11,7 @@
       "name": "32-bit (ARM)",
       "description": "Powerful, common.",
       "applications": [
-        "IoT"
+        "Internet of Things (IoT)"
       ]
     },
     {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "name": "DSP/RT",
+      "name": "Digital Signal Processing (DSP)/RT",
       "description": "Real-time.",
       "applications": [
         "Control"

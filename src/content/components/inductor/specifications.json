@@ -16,7 +16,7 @@
       "notes": "Exceeding causes saturation"
     },
     {
-      "name": "DC Resistance (DCR)",
+      "name": "Direct Current (DC) Resistance (DCR)",
       "typicalValues": "mΩ to Ω",
       "notes": "Lower is better for efficiency"
     },

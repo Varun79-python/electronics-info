@@ -1,7 +1,7 @@
 {
   "beginner": [
     {
-      "question": "Why matrix not one LED each?",
+      "question": "Why matrix not one Light Emitting Diode (LED) each?",
       "answer": "Multiplexing saves many pins."
     },
     {
@@ -23,7 +23,7 @@
   ],
   "expert": [
     {
-      "question": "Driver IC benefit?",
+      "question": "Driver Integrated Circuit (IC) benefit?",
       "answer": "Handles scan/current (e.g., MAX7219)."
     }
   ]

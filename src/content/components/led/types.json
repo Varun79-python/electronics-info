@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "Standard LED",
+      "name": "Standard Light Emitting Diode (LED)",
       "description": "Visible indicator, various colors.",
       "applications": [
         "Status lights",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "name": "IR LED",
+      "name": "Infrared (IR) LED",
       "description": "Infrared emission.",
       "applications": [
         "Remote controls",

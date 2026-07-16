@@ -8,7 +8,7 @@
     {
       "name": "V_P (Pinch-off)",
       "typicalValues": "-0.5V to -10V",
-      "notes": "Negative for N-JFET"
+      "notes": "Negative for N-Junction Field-Effect Transistor (JFET)"
     },
     {
       "name": "Input Impedance",

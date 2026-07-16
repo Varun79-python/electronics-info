@@ -3,7 +3,7 @@
     {
       "name": "Backlight",
       "function": "Illuminate",
-      "material": "LED"
+      "material": "Light Emitting Diode (LED)"
     },
     {
       "name": "Glass Substrate",

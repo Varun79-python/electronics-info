@@ -25,7 +25,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "BJT is controlled by:",
+      "question": "Bipolar Junction Transistor (BJT) is controlled by:",
       "options": [
         "Voltage",
         "Current",
@@ -39,7 +39,7 @@
     {
       "question": "Thermal runaway is a risk in:",
       "options": [
-        "MOSFET",
+        "Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)",
         "BJT",
         "Diode",
         "Resistor"

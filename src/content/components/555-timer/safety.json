@@ -2,7 +2,7 @@
   "voltageSafety": "Low voltage.",
   "currentSafety": "Output current limit.",
   "thermalSafety": "None.",
-  "handling": "ESD sensitive.",
+  "handling": "Electrostatic Discharge (ESD) sensitive.",
   "storage": "Antistatic.",
   "disposal": "E-waste."
 }

@@ -53,7 +53,7 @@
       "options": [
         "Only low voltage",
         "High power/voltage",
-        "Only DC",
+        "Only Direct Current (DC)",
         "Only signal"
       ],
       "correctAnswer": 1,

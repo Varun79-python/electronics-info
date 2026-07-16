@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "DC Driver",
+      "name": "Direct Current (DC) Driver",
       "description": "Single H-bridge.",
       "applications": [
         "Toys"

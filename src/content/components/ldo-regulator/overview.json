@@ -1,5 +1,5 @@
 {
-  "name": "LDO Voltage Regulator",
+  "name": "Low Dropout (LDO) Voltage Regulator",
   "id": "ldo-regulator",
   "category": "integrated-circuits",
   "shortDescription": "A Low-Dropout (LDO) regulator provides a stable output voltage with very small difference between input and output.",

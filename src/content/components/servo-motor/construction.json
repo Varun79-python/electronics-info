@@ -3,7 +3,7 @@
     {
       "name": "Motor",
       "function": "Produces motion",
-      "material": "BLDC/AC"
+      "material": "BLDC/Alternating Current (AC)"
     },
     {
       "name": "Encoder/Resolver",

@@ -2,7 +2,7 @@
   "voltageSafety": "High-voltage MOSFETs need isolation.",
   "currentSafety": "Exceeding I_D or P_D destroys them.",
   "thermalSafety": "Heatsinks required for power.",
-  "handling": "ESD extremely sensitive; ground wrist strap.",
+  "handling": "Electrostatic Discharge (ESD) extremely sensitive; ground wrist strap.",
   "storage": "Conductive foam; anti-static.",
   "disposal": "E-waste rules."
 }

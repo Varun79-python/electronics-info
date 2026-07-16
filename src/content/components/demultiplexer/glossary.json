@@ -1,7 +1,7 @@
 {
   "terms": [
     {
-      "term": "DEMUX",
+      "term": "Demultiplexer (DEMUX)",
       "definition": "One-to-many router."
     },
     {
@@ -13,7 +13,7 @@
       "definition": "Select logic."
     },
     {
-      "term": "MUX",
+      "term": "Multiplexer (MUX)",
       "definition": "Inverse (many-to-one)."
     }
   ]

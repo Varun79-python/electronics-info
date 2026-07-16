@@ -2,7 +2,7 @@
   "name": "Contactor",
   "id": "contactor",
   "category": "electromechanical",
-  "shortDescription": "A contactor is a heavy-duty relay designed to switch large electrical loads, especially high-current AC motors and power circuits.",
+  "shortDescription": "A contactor is a heavy-duty relay designed to switch large electrical loads, especially high-current Alternating Current (AC) motors and power circuits.",
   "whatIsIt": "A contactor is a heavy-duty relay designed to switch large electrical loads, especially high-current AC motors and power circuits.",
   "whyExists": "Contactors safely control high-power equipment from a low-power control signal with isolation.",
   "whereUsed": "They are used in motor starters, HVAC, elevators, and industrial power distribution.",

@@ -5,7 +5,7 @@
       "answer": "A passive component that stores energy in a magnetic field and opposes changes in current."
     },
     {
-      "question": "What happens to an ideal inductor with DC?",
+      "question": "What happens to an ideal inductor with Direct Current (DC)?",
       "answer": "At steady DC it acts like a short circuit because di/dt = 0, so no induced voltage."
     }
   ],
@@ -27,7 +27,7 @@
   ],
   "expert": [
     {
-      "question": "How do you minimize EMI from power inductors?",
+      "question": "How do you minimize Electromagnetic Interference (EMI) from power inductors?",
       "answer": "Use shielded or toroidal cores, proper layout with ground planes, and snubbers; keep loops small."
     }
   ]

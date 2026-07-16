@@ -18,7 +18,7 @@
     },
     {
       "term": "Digital Pot",
-      "definition": "An IC that mimics a potentiometer using switches and resistors."
+      "definition": "An Integrated Circuit (IC) that mimics a potentiometer using switches and resistors."
     }
   ]
 }

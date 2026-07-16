@@ -7,5 +7,5 @@
     "Resonant cavity amplifies tone",
     "Sound emitted at rated frequency"
   ],
-  "microscopicExplanation": "Piezoelectric material changes shape with voltage, oscillating at its mechanical resonance; electromagnetic types use an AC-driven coil to vibrate a diaphragm."
+  "microscopicExplanation": "Piezoelectric material changes shape with voltage, oscillating at its mechanical resonance; electromagnetic types use an Alternating Current (AC)-driven coil to vibrate a diaphragm."
 }

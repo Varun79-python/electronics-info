@@ -16,7 +16,7 @@
     },
     {
       "name": "GaAs Varactor",
-      "description": "Low loss at RF.",
+      "description": "Low loss at Radio Frequency (RF).",
       "applications": [
         "Microwave"
       ]

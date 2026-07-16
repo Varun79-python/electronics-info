@@ -4,7 +4,7 @@
   "category": "digital",
   "shortDescription": "A demultiplexer (DEMUX) takes one input and routes it to one of many outputs based on a select code.",
   "whatIsIt": "A demultiplexer (DEMUX) takes one input and routes it to one of many outputs based on a select code.",
-  "whyExists": "DEMUX distributes a single signal to many destinations, saving lines.",
+  "whyExists": "Demultiplexer (DEMUX) distributes a single signal to many destinations, saving lines.",
   "whereUsed": "Used in memory addressing, display driving, and bus distribution.",
   "thumbnail": "/assets/images/components/demultiplexer/thumbnail.svg",
   "schematic": "/assets/components/demultiplexer/schematic/symbol.svg"

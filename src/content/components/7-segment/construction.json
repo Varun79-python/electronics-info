@@ -3,7 +3,7 @@
     {
       "name": "Segments (a-g)",
       "function": "Form digits",
-      "material": "LED"
+      "material": "Light Emitting Diode (LED)"
     },
     {
       "name": "Decimal Point",

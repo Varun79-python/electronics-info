@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "MUX is:",
+      "question": "Multiplexer (MUX) is:",
       "options": [
         "Many-to-one",
         "One-to-many",
@@ -51,7 +51,7 @@
     {
       "question": "Used in:",
       "options": [
-        "ADC channel select",
+        "Analog-to-Digital Converter (ADC) channel select",
         "Power",
         "Audio",
         "None"

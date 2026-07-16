@@ -5,7 +5,7 @@
       "answer": "An H-bridge swaps the polarity across it."
     },
     {
-      "question": "PWM controls?",
+      "question": "Pulse Width Modulation (PWM) controls?",
       "answer": "The average voltage, hence speed."
     }
   ],

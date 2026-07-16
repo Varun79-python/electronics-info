@@ -2,7 +2,7 @@
   "invention": {
     "year": 1971,
     "inventor": "Hans Camenzind (Signetics)",
-    "discovery": "Camenzind designed the 555, becoming the best-selling IC of its era.",
+    "discovery": "Camenzind designed the 555, becoming the best-selling Integrated Circuit (IC) of its era.",
     "evolution": [
       {
         "year": 1971,
@@ -10,7 +10,7 @@
       },
       {
         "year": 1978,
-        "event": "CMOS 7555"
+        "event": "Complementary Metal–Oxide–Semiconductor (CMOS) 7555"
       },
       {
         "year": 2000,

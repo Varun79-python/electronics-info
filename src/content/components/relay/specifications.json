@@ -3,7 +3,7 @@
     {
       "name": "Coil Voltage",
       "typicalValues": "5V, 12V, 24V",
-      "notes": "DC common"
+      "notes": "Direct Current (DC) common"
     },
     {
       "name": "Contact Rating",

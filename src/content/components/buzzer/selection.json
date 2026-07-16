@@ -22,7 +22,7 @@
     }
   ],
   "tips": [
-    "Active buzzers need only DC",
+    "Active buzzers need only Direct Current (DC)",
     "Passive needs square wave",
     "Drive with transistor",
     "Don't overdrive"

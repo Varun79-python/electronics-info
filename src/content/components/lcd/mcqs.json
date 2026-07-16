@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "LCD emits light?",
+      "question": "Liquid Crystal Display (LCD) emits light?",
       "options": [
         "No (backlight does)",
         "Yes",
@@ -27,7 +27,7 @@
     {
       "question": "Backlight is:",
       "options": [
-        "LED source",
+        "Light Emitting Diode (LED) source",
         "Crystal",
         "Glass",
         "None"

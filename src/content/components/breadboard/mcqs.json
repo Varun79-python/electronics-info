@@ -5,7 +5,7 @@
       "options": [
         "Solderless",
         "Soldered",
-        "PCB",
+        "Printed Circuit Board (PCB)",
         "None"
       ],
       "correctAnswer": 0,
@@ -27,7 +27,7 @@
     {
       "question": "Center gap for:",
       "options": [
-        "IC rows",
+        "Integrated Circuit (IC) rows",
         "Power",
         "Ground",
         "None"

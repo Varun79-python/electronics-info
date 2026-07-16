@@ -1,12 +1,12 @@
 {
   "beginner": [
     {
-      "question": "What is an AC supply?",
+      "question": "What is an Alternating Current (AC) supply?",
       "answer": "A source providing adjustable alternating voltage, often variable frequency."
     },
     {
       "question": "Variac vs inverter?",
-      "answer": "Variac transforms mains; inverter synthesizes AC from DC."
+      "answer": "Variac transforms mains; inverter synthesizes AC from Direct Current (DC)."
     }
   ],
   "intermediate": [
@@ -22,7 +22,7 @@
   "advanced": [
     {
       "question": "How synthesize a clean sine?",
-      "answer": "PWM H-bridge plus LC filter, with feedback for low THD."
+      "answer": "Pulse Width Modulation (PWM) H-bridge plus LC filter, with feedback for low THD."
     }
   ],
   "expert": [

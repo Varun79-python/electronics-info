@@ -25,10 +25,10 @@
     },
     {
       "name": "Digital Potentiometer",
-      "description": "IC that emulates a pot via switches.",
+      "description": "Integrated Circuit (IC) that emulates a pot via switches.",
       "applications": [
         "Auto-calibration",
-        "MCU control"
+        "Microcontroller Unit (MCU) control"
       ]
     }
   ]

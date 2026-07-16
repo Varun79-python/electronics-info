@@ -2,7 +2,7 @@
   "specifications": [
     {
       "name": "Coil Voltage",
-      "typicalValues": "24V, 110V, 230V AC/DC",
+      "typicalValues": "24V, 110V, 230V Alternating Current (AC)/Direct Current (DC)",
       "notes": "Control"
     },
     {

@@ -14,7 +14,7 @@
     },
     {
       "term": "BLDC",
-      "definition": "Brushless DC motor with electronic commutation."
+      "definition": "Brushless Direct Current (DC) motor with electronic commutation."
     }
   ]
 }

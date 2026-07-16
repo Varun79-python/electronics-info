@@ -2,11 +2,11 @@
   "invention": {
     "year": 1960,
     "inventor": "Developed alongside TRIACs",
-    "discovery": "DIACs emerged as trigger devices for AC power control in the 1960s.",
+    "discovery": "DIACs emerged as trigger devices for Alternating Current (AC) power control in the 1960s.",
     "evolution": [
       {
         "year": 1960,
-        "event": "DIAC developed"
+        "event": "Diode for Alternating Current (DIAC) developed"
       },
       {
         "year": 1970,

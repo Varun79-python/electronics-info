@@ -1,7 +1,7 @@
 {
   "beginner": [
     {
-      "question": "NTC means?",
+      "question": "Negative Temperature Coefficient Thermistor (NTC) means?",
       "answer": "Resistance decreases as temperature rises."
     },
     {
@@ -17,7 +17,7 @@
   ],
   "advanced": [
     {
-      "question": "RTD vs thermistor accuracy?",
+      "question": "Resistance Temperature Detector (RTD) vs thermistor accuracy?",
       "answer": "RTD more stable/linear; thermistor cheaper but nonlinear."
     }
   ],

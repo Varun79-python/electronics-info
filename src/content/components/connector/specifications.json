@@ -17,7 +17,7 @@
     },
     {
       "name": "Type",
-      "typicalValues": "Signal/power/RF",
+      "typicalValues": "Signal/power/Radio Frequency (RF)",
       "notes": "Class"
     }
   ]

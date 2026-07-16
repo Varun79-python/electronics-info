@@ -6,5 +6,5 @@
     "Quantize to steps",
     "Output digital code"
   ],
-  "microscopicExplanation": "SAR binary-searches the voltage with a DAC; sigma-delta oversamples and filters for high resolution."
+  "microscopicExplanation": "SAR binary-searches the voltage with a Digital-to-Analog Converter (DAC); sigma-delta oversamples and filters for high resolution."
 }

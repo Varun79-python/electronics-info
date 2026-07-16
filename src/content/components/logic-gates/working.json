@@ -6,5 +6,5 @@
     "Boolean result computed",
     "Output driven"
   ],
-  "microscopicExplanation": "CMOS pairs pull the output high or low; the function is the Boolean combination of inputs."
+  "microscopicExplanation": "Complementary Metal–Oxide–Semiconductor (CMOS) pairs pull the output high or low; the function is the Boolean combination of inputs."
 }

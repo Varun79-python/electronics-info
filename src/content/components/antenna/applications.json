@@ -16,13 +16,13 @@
     },
     {
       "category": "Navigation",
-      "description": "GPS",
+      "description": "Global Positioning System (GPS)",
       "examples": [
         "Devices"
       ]
     },
     {
-      "category": "IoT",
+      "category": "Internet of Things (IoT)",
       "description": "Connect",
       "examples": [
         "Sensors"

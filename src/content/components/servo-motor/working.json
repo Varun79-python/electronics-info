@@ -7,5 +7,5 @@
     "Motor driven to reduce error",
     "Loop maintains accuracy dynamically"
   ],
-  "microscopicExplanation": "The feedback loop continuously corrects error; the motor (DC, BLDC, or AC) plus encoder forms a closed system that holds or tracks the setpoint."
+  "microscopicExplanation": "The feedback loop continuously corrects error; the motor (Direct Current (DC), BLDC, or Alternating Current (AC)) plus encoder forms a closed system that holds or tracks the setpoint."
 }

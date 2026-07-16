@@ -10,7 +10,7 @@
     },
     {
       "id": "antenna",
-      "relationship": "RF connect"
+      "relationship": "Radio Frequency (RF) connect"
     }
   ]
 }

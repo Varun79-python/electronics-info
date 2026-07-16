@@ -14,7 +14,7 @@
       "description": "Sets bias and reference voltages",
       "examples": [
         "Comparator threshold",
-        "DAC trim"
+        "Digital-to-Analog Converter (DAC) trim"
       ]
     },
     {

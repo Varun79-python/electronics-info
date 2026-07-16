@@ -3,7 +3,7 @@
     {
       "failure": "No Oscillation",
       "symptoms": [
-        "MCU won't start"
+        "Microcontroller Unit (MCU) won't start"
       ],
       "causes": [
         "Wrong load",

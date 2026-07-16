@@ -6,7 +6,7 @@
     },
     {
       "id": "led",
-      "relationship": "IR emitter"
+      "relationship": "Infrared (IR) emitter"
     },
     {
       "id": "proximity-sensor",

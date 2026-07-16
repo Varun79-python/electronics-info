@@ -4,7 +4,7 @@
       "category": "Power Switching",
       "description": "Efficient switches",
       "examples": [
-        "SMPS",
+        "Switched-Mode Power Supply (SMPS)",
         "Inverters"
       ]
     },
@@ -18,7 +18,7 @@
     },
     {
       "category": "Digital Logic",
-      "description": "CMOS gates",
+      "description": "Complementary Metal–Oxide–Semiconductor (CMOS) gates",
       "examples": [
         "Microprocessors"
       ]

@@ -1,11 +1,11 @@
 {
-  "workingPrinciple": "Two antiparallel SCR structures share a gate; a trigger pulse turns the device on in whichever direction current is flowing, latching until current crosses zero.",
+  "workingPrinciple": "Two antiparallel Silicon Controlled Rectifier (SCR) structures share a gate; a trigger pulse turns the device on in whichever direction current is flowing, latching until current crosses zero.",
   "steps": [
-    "AC voltage applied across MT1-MT2",
+    "Alternating Current (AC) voltage applied across MT1-MT2",
     "Gate pulse triggers conduction",
     "Conducts in the present polarity",
     "At current zero it turns off",
     "Next half-cycle triggers again as needed"
   ],
-  "microscopicExplanation": "The TRIAC is effectively two SCRs in inverse parallel; the gate triggers the conducting quadrant, and the device commutates off at each AC zero-crossing."
+  "microscopicExplanation": "The Triode for Alternating Current (TRIAC) is effectively two SCRs in inverse parallel; the gate triggers the conducting quadrant, and the device commutates off at each AC zero-crossing."
 }

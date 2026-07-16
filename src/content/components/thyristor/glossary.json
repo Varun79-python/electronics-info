@@ -1,7 +1,7 @@
 {
   "terms": [
     {
-      "term": "SCR",
+      "term": "Silicon Controlled Rectifier (SCR)",
       "definition": "Silicon Controlled Rectifier; a thyristor."
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "term": "Firing Angle",
-      "definition": "Delay before triggering in AC control."
+      "definition": "Delay before triggering in Alternating Current (AC) control."
     }
   ]
 }

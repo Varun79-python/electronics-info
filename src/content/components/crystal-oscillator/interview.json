@@ -22,7 +22,7 @@
   "advanced": [
     {
       "question": "What is a TCXO and when use it?",
-      "answer": "A temperature-compensated oscillator; use it where stability over a wide temperature range matters, like GPS."
+      "answer": "A temperature-compensated oscillator; use it where stability over a wide temperature range matters, like Global Positioning System (GPS)."
     }
   ],
   "expert": [

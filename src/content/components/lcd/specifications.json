@@ -12,7 +12,7 @@
     },
     {
       "name": "Interface",
-      "typicalValues": "RGB/SPI/HDMI",
+      "typicalValues": "RGB/Serial Peripheral Interface (SPI)/High-Definition Multimedia Interface (HDMI)",
       "notes": "Signal"
     },
     {

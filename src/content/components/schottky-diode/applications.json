@@ -4,7 +4,7 @@
       "category": "Rectification",
       "description": "Efficient low-voltage rectifier",
       "examples": [
-        "SMPS",
+        "Switched-Mode Power Supply (SMPS)",
         "Solar"
       ]
     },
@@ -12,12 +12,12 @@
       "category": "Freewheeling",
       "description": "Flyback diode",
       "examples": [
-        "DC-DC",
+        "Direct Current (DC)-DC",
         "Motor"
       ]
     },
     {
-      "category": "RF Detection",
+      "category": "Radio Frequency (RF) Detection",
       "description": "Envelope detector",
       "examples": [
         "Receivers"
@@ -27,7 +27,7 @@
       "category": "OR-ing",
       "description": "Power path selection",
       "examples": [
-        "Battery/USB"
+        "Battery/Universal Serial Bus (USB)"
       ]
     }
   ]

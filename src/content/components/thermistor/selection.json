@@ -3,7 +3,7 @@
     {
       "step": 1,
       "title": "Choose Type",
-      "description": "NTC for sensing, PTC for protection."
+      "description": "Negative Temperature Coefficient Thermistor (NTC) for sensing, Positive Temperature Coefficient Thermistor (PTC) for protection."
     },
     {
       "step": 2,

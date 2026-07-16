@@ -1,7 +1,7 @@
 {
   "internalParts": [
     {
-      "name": "LED Grid",
+      "name": "Light Emitting Diode (LED) Grid",
       "function": "Pixels",
       "material": "LED"
     },

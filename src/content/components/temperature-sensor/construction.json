@@ -16,7 +16,7 @@
       "material": "Stainless/glass"
     },
     {
-      "name": "IC (digital)",
+      "name": "Integrated Circuit (IC) (digital)",
       "function": "Condition",
       "material": "Silicon"
     }

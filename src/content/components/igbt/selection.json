@@ -3,7 +3,7 @@
     {
       "step": 1,
       "title": "Voltage Rating",
-      "description": "V_CES > 2x DC bus."
+      "description": "V_CES > 2x Direct Current (DC) bus."
     },
     {
       "step": 2,
@@ -13,7 +13,7 @@
     {
       "step": 3,
       "title": "Switching Frequency",
-      "description": "IGBT for <20kHz typically."
+      "description": "Insulated-Gate Bipolar Transistor (IGBT) for <20kHz typically."
     },
     {
       "step": 4,

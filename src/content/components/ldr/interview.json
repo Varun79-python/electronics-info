@@ -1,12 +1,12 @@
 {
   "beginner": [
     {
-      "question": "LDR resistance with light?",
+      "question": "Light Dependent Resistor (LDR) resistance with light?",
       "answer": "It decreases as light increases."
     },
     {
       "question": "How read it?",
-      "answer": "Use a voltage divider into an ADC."
+      "answer": "Use a voltage divider into an Analog-to-Digital Converter (ADC)."
     }
   ],
   "intermediate": [

@@ -22,7 +22,7 @@
     }
   ],
   "tips": [
-    "Use flyback diode on DC coil",
+    "Use flyback diode on Direct Current (DC) coil",
     "Derate for heat",
     "Soft iron core for fast response"
   ]

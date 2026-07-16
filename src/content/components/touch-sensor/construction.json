@@ -6,7 +6,7 @@
       "material": "ITO/copper"
     },
     {
-      "name": "Controller IC",
+      "name": "Controller Integrated Circuit (IC)",
       "function": "Measure ΔC",
       "material": "Silicon"
     },

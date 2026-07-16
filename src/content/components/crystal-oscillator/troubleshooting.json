@@ -4,7 +4,7 @@
       "failure": "No Start",
       "symptoms": [
         "No clock",
-        "MCU dead"
+        "Microcontroller Unit (MCU) dead"
       ],
       "causes": [
         "Wrong load C",

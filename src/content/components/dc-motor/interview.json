@@ -1,7 +1,7 @@
 {
   "beginner": [
     {
-      "question": "How does a DC motor spin?",
+      "question": "How does a Direct Current (DC) motor spin?",
       "answer": "Current in a magnetic field produces torque; the commutator keeps it unidirectional."
     },
     {
@@ -12,7 +12,7 @@
   "intermediate": [
     {
       "question": "How control speed?",
-      "answer": "Vary voltage or use PWM; speed roughly tracks applied voltage minus losses."
+      "answer": "Vary voltage or use Pulse Width Modulation (PWM); speed roughly tracks applied voltage minus losses."
     },
     {
       "question": "Brushed vs BLDC?",

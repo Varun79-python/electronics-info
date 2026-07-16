@@ -30,7 +30,7 @@
         "Standard p–n",
         "Zener",
         "Schottky",
-        "LED"
+        "Light Emitting Diode (LED)"
       ],
       "correctAnswer": 2,
       "explanation": "Schottky diodes have negligible reverse recovery time.",

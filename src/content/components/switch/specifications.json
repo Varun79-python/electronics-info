@@ -8,7 +8,7 @@
     {
       "name": "Voltage Rating",
       "typicalValues": "12V to 600V",
-      "notes": "AC/DC differ"
+      "notes": "Alternating Current (AC)/Direct Current (DC) differ"
     },
     {
       "name": "Poles/Throws",

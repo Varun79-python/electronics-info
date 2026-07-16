@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "A MOSFET is controlled by:",
+      "question": "A Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET) is controlled by:",
       "options": [
         "Base current",
         "Gate voltage",
@@ -27,7 +27,7 @@
     {
       "question": "Gate draws:",
       "options": [
-        "High DC current",
+        "High Direct Current (DC) current",
         "Almost no DC current",
         "Base current",
         "Leakage only at MHz"
@@ -57,7 +57,7 @@
         "Motors"
       ],
       "correctAnswer": 1,
-      "explanation": "CMOS chips are MOSFET-based.",
+      "explanation": "Complementary Metal–Oxide–Semiconductor (CMOS) chips are MOSFET-based.",
       "difficulty": "intermediate"
     }
   ]

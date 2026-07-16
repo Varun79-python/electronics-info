@@ -8,7 +8,7 @@
       ]
     },
     {
-      "category": "RF",
+      "category": "Radio Frequency (RF)",
       "description": "Controlled impedance",
       "examples": [
         "Antennas"

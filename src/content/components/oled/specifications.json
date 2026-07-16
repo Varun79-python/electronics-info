@@ -12,7 +12,7 @@
     },
     {
       "name": "Interface",
-      "typicalValues": "SPI/I²C/MIPI",
+      "typicalValues": "Serial Peripheral Interface (SPI)/I²C/MIPI",
       "notes": "Signal"
     },
     {

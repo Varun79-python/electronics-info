@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "Rows and columns are scanned; an LED lights when its row is driven and column is sunk, building an image over time (persistence of vision).",
+  "workingPrinciple": "Rows and columns are scanned; an Light Emitting Diode (LED) lights when its row is driven and column is sunk, building an image over time (persistence of vision).",
   "steps": [
     "Select a row",
     "Drive column data",

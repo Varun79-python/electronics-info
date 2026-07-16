@@ -8,7 +8,7 @@
       ]
     },
     {
-      "name": "RF Schottky",
+      "name": "Radio Frequency (RF) Schottky",
       "description": "Fast detector diode.",
       "applications": [
         "Mixers",

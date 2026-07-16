@@ -2,7 +2,7 @@
   "relatedComponents": [
     {
       "id": "connector",
-      "relationship": "RF feed"
+      "relationship": "Radio Frequency (RF) feed"
     },
     {
       "id": "pcb",

@@ -1,14 +1,14 @@
 {
   "types": [
     {
-      "name": "DC Electromagnet",
+      "name": "Direct Current (DC) Electromagnet",
       "description": "Steady field with DC.",
       "applications": [
         "Relays"
       ]
     },
     {
-      "name": "AC Electromagnet",
+      "name": "Alternating Current (AC) Electromagnet",
       "description": "Pulsating field with AC.",
       "applications": [
         "Buzzers"

@@ -3,7 +3,7 @@
     {
       "name": "Wavelength Range",
       "typicalValues": "400nm to 1100nm (Si)",
-      "notes": "InGaAs for IR"
+      "notes": "InGaAs for Infrared (IR)"
     },
     {
       "name": "Responsivity",

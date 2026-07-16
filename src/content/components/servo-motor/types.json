@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "DC Servo",
+      "name": "Direct Current (DC) Servo",
       "description": "Brushed with encoder.",
       "applications": [
         "Hobby",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "AC Servo",
+      "name": "Alternating Current (AC) Servo",
       "description": "High power.",
       "applications": [
         "Industrial"
@@ -24,7 +24,7 @@
     },
     {
       "name": "Hobby Servo",
-      "description": "Position by PWM pulse.",
+      "description": "Position by Pulse Width Modulation (PWM) pulse.",
       "applications": [
         "RC",
         "Small bots"

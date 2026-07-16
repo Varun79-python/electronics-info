@@ -52,9 +52,9 @@
       "question": "Common use:",
       "options": [
         "High-voltage rectifier",
-        "Freewheeling in SMPS",
+        "Freewheeling in Switched-Mode Power Supply (SMPS)",
         "Zener ref",
-        "LED"
+        "Light Emitting Diode (LED)"
       ],
       "correctAnswer": 1,
       "explanation": "Freewheeling/rectification in supplies.",

@@ -2,8 +2,8 @@
   "advantages": [
     "High current",
     "Direction control",
-    "PWM speed",
+    "Pulse Width Modulation (PWM) speed",
     "Protection",
-    "Easy MCU link"
+    "Easy Microcontroller Unit (MCU) link"
   ]
 }

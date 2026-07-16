@@ -4,7 +4,7 @@
       "category": "Data",
       "description": "Select source",
       "examples": [
-        "ADC"
+        "Analog-to-Digital Converter (ADC)"
       ]
     },
     {

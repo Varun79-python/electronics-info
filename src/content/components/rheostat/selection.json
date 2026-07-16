@@ -25,6 +25,6 @@
     "Derate power for reliability",
     "Use heat sink for high power",
     "Avoid for precision current",
-    "Consider PWM instead for efficiency"
+    "Consider Pulse Width Modulation (PWM) instead for efficiency"
   ]
 }

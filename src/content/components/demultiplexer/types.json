@@ -15,7 +15,7 @@
       ]
     },
     {
-      "name": "Analog DEMUX",
+      "name": "Analog Demultiplexer (DEMUX)",
       "description": "Route analog.",
       "applications": [
         "Sampling"
@@ -25,7 +25,7 @@
       "name": "Bus DEMUX",
       "description": "Distribute.",
       "applications": [
-        "CPU"
+        "Central Processing Unit (CPU)"
       ]
     }
   ]

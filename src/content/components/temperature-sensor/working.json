@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "Different technologies: thermistors change resistance with temperature; thermocouples generate voltage from a junction; IC sensors output proportional voltage/digital.",
+  "workingPrinciple": "Different technologies: thermistors change resistance with temperature; thermocouples generate voltage from a junction; Integrated Circuit (IC) sensors output proportional voltage/digital.",
   "steps": [
     "Sensor exposed to temperature",
     "Physical property changes (R or V)",

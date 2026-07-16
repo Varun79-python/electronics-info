@@ -13,7 +13,7 @@
       "description": "Receives optical signals",
       "examples": [
         "Fiber",
-        "IR links"
+        "Infrared (IR) links"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "relatedComponents": [
     {
       "id": "logic-gate-ic",
-      "relationship": "Physical IC"
+      "relationship": "Physical Integrated Circuit (IC)"
     },
     {
       "id": "flip-flop",

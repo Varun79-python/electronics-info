@@ -22,7 +22,7 @@
     }
   ],
   "tips": [
-    "Use divider + ADC",
+    "Use divider + Analog-to-Digital Converter (ADC)",
     "Avoid CdS if RoHS strict",
     "Average for stability"
   ]

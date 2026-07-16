@@ -1,7 +1,7 @@
 {
   "metadata": {
     "id": "ldo-regulator",
-    "name": "LDO Voltage Regulator",
+    "name": "Low Dropout (LDO) Voltage Regulator",
     "category": "integrated-circuits",
     "difficulty": "beginner",
     "prerequisites": [],

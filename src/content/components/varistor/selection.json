@@ -13,7 +13,7 @@
     {
       "step": 3,
       "title": "Verify Continuous Rating",
-      "description": "Must handle normal AC/DC continuously."
+      "description": "Must handle normal Alternating Current (AC)/Direct Current (DC) continuously."
     },
     {
       "step": 4,

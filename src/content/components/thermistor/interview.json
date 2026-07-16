@@ -5,7 +5,7 @@
       "answer": "A temperature-sensitive resistor whose resistance changes with temperature."
     },
     {
-      "question": "What is the difference between NTC and PTC?",
+      "question": "What is the difference between Negative Temperature Coefficient Thermistor (NTC) and Positive Temperature Coefficient Thermistor (PTC)?",
       "answer": "NTC resistance falls with temperature; PTC resistance rises with temperature."
     }
   ],

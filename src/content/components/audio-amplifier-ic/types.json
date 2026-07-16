@@ -9,7 +9,7 @@
     },
     {
       "name": "Class D",
-      "description": "PWM, efficient.",
+      "description": "Pulse Width Modulation (PWM), efficient.",
       "applications": [
         "Portable"
       ]

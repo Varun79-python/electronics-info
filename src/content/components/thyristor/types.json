@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "SCR (Phase Control)",
+      "name": "Silicon Controlled Rectifier (SCR) (Phase Control)",
       "description": "Half/full-wave control.",
       "applications": [
         "Dimmers",

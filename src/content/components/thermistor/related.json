@@ -10,7 +10,7 @@
     },
     {
       "id": "microcontroller",
-      "relationship": "Reads thermistor via ADC"
+      "relationship": "Reads thermistor via Analog-to-Digital Converter (ADC)"
     },
     {
       "id": "ldr",

@@ -4,7 +4,7 @@
       "category": "Indicators",
       "description": "Status and signal lights",
       "examples": [
-        "Power LED",
+        "Power Light Emitting Diode (LED)",
         "Keypad"
       ]
     },
@@ -28,7 +28,7 @@
       "category": "Communication",
       "description": "Optical signaling",
       "examples": [
-        "IR remote",
+        "Infrared (IR) remote",
         "Fiber"
       ]
     }

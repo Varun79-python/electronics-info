@@ -20,6 +20,6 @@
     "Use as constant-current source",
     "Self-biasing with source resistor",
     "Great for audio front-ends",
-    "Robust vs ESD compared to MOS"
+    "Robust vs Electrostatic Discharge (ESD) compared to MOS"
   ]
 }

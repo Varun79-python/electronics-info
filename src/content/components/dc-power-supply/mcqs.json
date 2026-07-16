@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "question": "A DC supply outputs:",
+      "question": "A Direct Current (DC) supply outputs:",
       "options": [
-        "AC",
+        "Alternating Current (AC)",
         "Stable DC",
-        "RF",
+        "Radio Frequency (RF)",
         "Pulse"
       ],
       "correctAnswer": 1,
@@ -25,7 +25,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "SMPS is:",
+      "question": "Switched-Mode Power Supply (SMPS) is:",
       "options": [
         "Inefficient",
         "Efficient",

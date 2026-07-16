@@ -6,5 +6,5 @@
     "Error amplifier drives pass transistor",
     "Adjusts pass device to hold V_out"
   ],
-  "microscopicExplanation": "Feedback loop modulates the pass FET's resistance to regulate; dropout is the minimum Vin-Vout to stay in regulation."
+  "microscopicExplanation": "Feedback loop modulates the pass Field-Effect Transistor (FET)'s resistance to regulate; dropout is the minimum Vin-Vout to stay in regulation."
 }

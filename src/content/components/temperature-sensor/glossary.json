@@ -1,11 +1,11 @@
 {
   "terms": [
     {
-      "term": "NTC",
+      "term": "Negative Temperature Coefficient Thermistor (NTC)",
       "definition": "Negative temperature coefficient (R falls with T)."
     },
     {
-      "term": "RTD",
+      "term": "Resistance Temperature Detector (RTD)",
       "definition": "Resistance temperature detector."
     },
     {

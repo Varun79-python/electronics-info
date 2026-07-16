@@ -15,7 +15,7 @@
     {
       "question": "Speed by:",
       "options": [
-        "PWM duty",
+        "Pulse Width Modulation (PWM) duty",
         "Voltage only",
         "Frequency",
         "None"
@@ -52,7 +52,7 @@
       "question": "Drives:",
       "options": [
         "Motor",
-        "LED",
+        "Light Emitting Diode (LED)",
         "Sensor",
         "None"
       ],

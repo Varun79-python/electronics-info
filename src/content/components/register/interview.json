@@ -23,7 +23,7 @@
   ],
   "expert": [
     {
-      "question": "CPU register role?",
+      "question": "Central Processing Unit (CPU) register role?",
       "answer": "Fastest operand storage for the ALU."
     }
   ]

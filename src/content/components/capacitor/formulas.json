@@ -49,7 +49,7 @@
     {
       "name": "Capacitive Reactance",
       "formula": "X_C = 1 / (2π × f × C)",
-      "description": "Opposition to AC current flow. Decreases with frequency.",
+      "description": "Opposition to Alternating Current (AC) current flow. Decreases with frequency.",
       "variables": [
         {
           "symbol": "X_C",

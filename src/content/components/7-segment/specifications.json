@@ -8,7 +8,7 @@
     {
       "name": "Color",
       "typicalValues": "Red/green/blue",
-      "notes": "LED"
+      "notes": "Light Emitting Diode (LED)"
     },
     {
       "name": "Forward V",

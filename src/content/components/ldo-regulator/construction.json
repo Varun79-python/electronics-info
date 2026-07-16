@@ -3,7 +3,7 @@
     {
       "name": "Pass Transistor",
       "function": "Drops voltage",
-      "material": "MOSFET"
+      "material": "Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)"
     },
     {
       "name": "Error Amp",

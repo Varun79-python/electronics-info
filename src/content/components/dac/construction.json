@@ -8,7 +8,7 @@
     {
       "name": "Switches",
       "function": "Select bits",
-      "material": "CMOS"
+      "material": "Complementary Metal–Oxide–Semiconductor (CMOS)"
     },
     {
       "name": "Summing Amp",

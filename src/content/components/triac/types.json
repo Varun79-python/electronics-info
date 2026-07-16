@@ -1,8 +1,8 @@
 {
   "types": [
     {
-      "name": "Standard TRIAC",
-      "description": "General AC control.",
+      "name": "Standard Triode for Alternating Current (TRIAC)",
+      "description": "General Alternating Current (AC) control.",
       "applications": [
         "Dimmers",
         "Heaters"
@@ -19,7 +19,7 @@
       "name": "Logic-Level TRIAC",
       "description": "Low gate trigger.",
       "applications": [
-        "MCU control"
+        "Microcontroller Unit (MCU) control"
       ]
     }
   ]

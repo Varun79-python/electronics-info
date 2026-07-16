@@ -5,7 +5,7 @@
       "description": "Small, cheap, useful for high frequency. Capacitance varies with voltage and temperature.",
       "applications": [
         "Decoupling",
-        "RF circuits",
+        "Radio Frequency (RF) circuits",
         "General purpose"
       ]
     },

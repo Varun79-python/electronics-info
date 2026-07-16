@@ -17,7 +17,7 @@
     },
     {
       "category": "Heating",
-      "description": "Variable AC heat",
+      "description": "Variable Alternating Current (AC) heat",
       "examples": [
         "Soldering",
         "Ovens"

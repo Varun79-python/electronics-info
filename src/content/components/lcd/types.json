@@ -15,7 +15,7 @@
       ]
     },
     {
-      "name": "Character LCD",
+      "name": "Character Liquid Crystal Display (LCD)",
       "description": "Text (16x2).",
       "applications": [
         "Hobby"

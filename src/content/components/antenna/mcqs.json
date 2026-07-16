@@ -3,8 +3,8 @@
     {
       "question": "Antenna converts:",
       "options": [
-        "RF <-> waves",
-        "DC->AC",
+        "Radio Frequency (RF) <-> waves",
+        "Direct Current (DC)->Alternating Current (AC)",
         "V->I",
         "None"
       ],

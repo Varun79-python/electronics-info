@@ -24,7 +24,7 @@
   "expert": [
     {
       "question": "How use in an optocoupler?",
-      "answer": "LED on the input side, phototransistor on the output side, with isolation between."
+      "answer": "Light Emitting Diode (LED) on the input side, phototransistor on the output side, with isolation between."
     }
   ]
 }

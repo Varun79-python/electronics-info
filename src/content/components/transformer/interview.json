@@ -2,10 +2,10 @@
   "beginner": [
     {
       "question": "What does a transformer do?",
-      "answer": "It transfers AC energy between circuits, changing voltage and current by the turns ratio while providing isolation."
+      "answer": "It transfers Alternating Current (AC) energy between circuits, changing voltage and current by the turns ratio while providing isolation."
     },
     {
-      "question": "Why doesn't a transformer work with DC?",
+      "question": "Why doesn't a transformer work with Direct Current (DC)?",
       "answer": "DC produces constant flux, so no induced voltage in the secondary; only a brief spike occurs at switch-on/off."
     }
   ],
@@ -28,7 +28,7 @@
   "expert": [
     {
       "question": "How do you minimize transformer inrush current?",
-      "answer": "Use soft-start, NTC inrush limiters, or controlled switching at voltage zero-crossing."
+      "answer": "Use soft-start, Negative Temperature Coefficient Thermistor (NTC) inrush limiters, or controlled switching at voltage zero-crossing."
     }
   ]
 }

@@ -15,17 +15,17 @@
       ]
     },
     {
-      "name": "RTD (Pt100)",
+      "name": "Resistance Temperature Detector (RTD) (Pt100)",
       "description": "Stable resistance.",
       "applications": [
         "Industry"
       ]
     },
     {
-      "name": "IC (LM35)",
+      "name": "Integrated Circuit (IC) (LM35)",
       "description": "Linear voltage out.",
       "applications": [
-        "MCU"
+        "Microcontroller Unit (MCU)"
       ]
     }
   ]

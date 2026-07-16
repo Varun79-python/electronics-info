@@ -1,5 +1,5 @@
 {
-  "name": "Digital to Analog Converter",
+  "name": "Digital-to-Analog Converter (DAC)",
   "id": "dac",
   "category": "integrated-circuits",
   "shortDescription": "A Digital-to-Analog Converter (DAC) converts digital codes into proportional analog voltages or currents.",

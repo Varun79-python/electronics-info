@@ -3,7 +3,7 @@
     {
       "name": "Coil Voltage",
       "typicalValues": "5V to 240V",
-      "notes": "DC/AC"
+      "notes": "Direct Current (DC)/Alternating Current (AC)"
     },
     {
       "name": "Pull Force",

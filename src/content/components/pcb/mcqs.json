@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "PCB connects via:",
+      "question": "Printed Circuit Board (PCB) connects via:",
       "options": [
         "Copper traces",
         "Wires only",

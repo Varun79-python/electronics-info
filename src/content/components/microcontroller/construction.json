@@ -1,7 +1,7 @@
 {
   "internalParts": [
     {
-      "name": "CPU Core",
+      "name": "Central Processing Unit (CPU) Core",
       "function": "Execute code",
       "material": "Silicon"
     },
@@ -11,13 +11,13 @@
       "material": "Silicon"
     },
     {
-      "name": "RAM",
+      "name": "Random Access Memory (RAM)",
       "function": "Runtime data",
       "material": "Silicon"
     },
     {
       "name": "Peripherals",
-      "function": "GPIO/ADC/UART",
+      "function": "GPIO/Analog-to-Digital Converter (ADC)/Universal Asynchronous Receiver-Transmitter (UART)",
       "material": "Silicon"
     }
   ]

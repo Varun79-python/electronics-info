@@ -18,7 +18,7 @@
     {
       "step": 4,
       "title": "Driver",
-      "description": "PWM for speed control."
+      "description": "Pulse Width Modulation (PWM) for speed control."
     }
   ],
   "tips": [

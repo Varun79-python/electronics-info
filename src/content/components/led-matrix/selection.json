@@ -8,7 +8,7 @@
     {
       "step": 2,
       "title": "Interface",
-      "description": "SPI/driver."
+      "description": "Serial Peripheral Interface (SPI)/driver."
     },
     {
       "step": 3,
@@ -24,6 +24,6 @@
   "tips": [
     "Refresh >60Hz",
     "Current limit",
-    "Use driver IC (MAX7219)"
+    "Use driver Integrated Circuit (IC) (MAX7219)"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "When the emitter voltage exceeds a fraction (η) of the interbase voltage, the UJT switches on, lowering emitter resistance and discharging a capacitor in a relaxation oscillator.",
+  "workingPrinciple": "When the emitter voltage exceeds a fraction (η) of the interbase voltage, the Unijunction Transistor (UJT) switches on, lowering emitter resistance and discharging a capacitor in a relaxation oscillator.",
   "steps": [
     "Capacitor charges through a resistor",
     "Emitter voltage rises with the capacitor",

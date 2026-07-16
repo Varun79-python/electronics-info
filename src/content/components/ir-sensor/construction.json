@@ -1,7 +1,7 @@
 {
   "internalParts": [
     {
-      "name": "IR LED",
+      "name": "Infrared (IR) Light Emitting Diode (LED)",
       "function": "Emit",
       "material": "GaAs"
     },

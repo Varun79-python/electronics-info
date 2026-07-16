@@ -11,7 +11,7 @@
       "material": "Silicon"
     },
     {
-      "name": "DAC",
+      "name": "Digital-to-Analog Converter (DAC)",
       "function": "Reference",
       "material": "Silicon"
     },

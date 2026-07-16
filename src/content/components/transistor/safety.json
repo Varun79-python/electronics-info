@@ -2,7 +2,7 @@
   "voltageSafety": "High-voltage transistors need isolation.",
   "currentSafety": "Exceeding I_C or P_D destroys them.",
   "thermalSafety": "Heatsinks required for power use.",
-  "handling": "ESD sensitive.",
+  "handling": "Electrostatic Discharge (ESD) sensitive.",
   "storage": "Anti-static, dry.",
   "disposal": "E-waste rules."
 }

@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "question": "ADC converts:",
+      "question": "Analog-to-Digital Converter (ADC) converts:",
       "options": [
         "Analog to digital",
         "Digital to analog",
-        "AC to DC",
+        "Alternating Current (AC) to Direct Current (DC)",
         "None"
       ],
       "correctAnswer": 0,

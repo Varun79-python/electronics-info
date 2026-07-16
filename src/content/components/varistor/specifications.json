@@ -7,7 +7,7 @@
     },
     {
       "name": "Maximum Continuous Voltage",
-      "typicalValues": "AC/DC ratings",
+      "typicalValues": "Alternating Current (AC)/Direct Current (DC) ratings",
       "notes": "Must exceed line voltage"
     },
     {

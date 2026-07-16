@@ -11,7 +11,7 @@
           "unit": "V"
         }
       ],
-      "example": "Used to fire TRIAC"
+      "example": "Used to fire Triode for Alternating Current (TRIAC)"
     }
   ]
 }

@@ -21,7 +21,7 @@
   ],
   "advanced": [
     {
-      "question": "When choose an LDO?",
+      "question": "When choose an Low Dropout (LDO)?",
       "answer": "When low noise/PSRR matters and efficiency is not critical (small headroom)."
     }
   ],

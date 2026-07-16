@@ -3,7 +3,7 @@
     {
       "name": "Differential Pair",
       "function": "Compare inputs",
-      "material": "BJT/MOS"
+      "material": "Bipolar Junction Transistor (BJT)/MOS"
     },
     {
       "name": "Gain Stage",

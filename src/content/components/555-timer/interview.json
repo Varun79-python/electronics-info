@@ -2,7 +2,7 @@
   "beginner": [
     {
       "question": "What is a 555?",
-      "answer": "A timer IC for pulses, delays, and oscillations."
+      "answer": "A timer Integrated Circuit (IC) for pulses, delays, and oscillations."
     },
     {
       "question": "Astable does?",
@@ -24,7 +24,7 @@
   "expert": [
     {
       "question": "Improve accuracy?",
-      "answer": "Use stable components and CMOS variant; or use a crystal reference."
+      "answer": "Use stable components and Complementary Metal–Oxide–Semiconductor (CMOS) variant; or use a crystal reference."
     }
   ]
 }

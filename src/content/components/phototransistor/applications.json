@@ -18,7 +18,7 @@
     },
     {
       "category": "Optical Isolation",
-      "description": "Coupled with LED",
+      "description": "Coupled with Light Emitting Diode (LED)",
       "examples": [
         "Optocouplers"
       ]

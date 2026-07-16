@@ -15,8 +15,8 @@
     {
       "question": "Active buzzer needs:",
       "options": [
-        "AC tone",
-        "Just DC",
+        "Alternating Current (AC) tone",
+        "Just Direct Current (DC)",
         "High voltage",
         "Nothing"
       ],

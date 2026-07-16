@@ -1,7 +1,7 @@
 {
   "workingPrinciple": "Like a potentiometer, a wiper taps a resistive element, but the adjustment is made by a screw or slot and then left fixed during normal operation.",
   "steps": [
-    "A small resistive element is mounted on the PCB",
+    "A small resistive element is mounted on the Printed Circuit Board (PCB)",
     "A screw or slot moves the wiper",
     "Technician adjusts to set the desired value",
     "Once set, it remains stable in operation",

@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "DEMUX is:",
+      "question": "Demultiplexer (DEMUX) is:",
       "options": [
         "One-to-many",
         "Many-to-one",
@@ -27,7 +27,7 @@
     {
       "question": "Inverse of DEMUX:",
       "options": [
-        "MUX",
+        "Multiplexer (MUX)",
         "Counter",
         "Register",
         "None"

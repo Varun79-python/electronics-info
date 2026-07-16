@@ -1,8 +1,8 @@
 {
-  "name": "555 Timer",
+  "name": "555 Timer Integrated Circuit (IC)",
   "id": "555-timer",
   "category": "integrated-circuits",
-  "shortDescription": "The 555 timer is a versatile IC for generating pulses, delays, and oscillations.",
+  "shortDescription": "The 555 timer is a versatile Integrated Circuit (IC) for generating pulses, delays, and oscillations.",
   "whatIsIt": "The 555 timer is a versatile IC for generating pulses, delays, and oscillations.",
   "whyExists": "It provides simple, reliable timing and waveform generation without a microcontroller.",
   "whereUsed": "Used in blinking LEDs, buzzers, and pulse generators.",

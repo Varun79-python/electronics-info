@@ -3,7 +3,7 @@
     {
       "step": 1,
       "title": "Voltage Rating",
-      "description": "Exceed peak AC with margin."
+      "description": "Exceed peak Alternating Current (AC) with margin."
     },
     {
       "step": 2,
@@ -25,6 +25,6 @@
     "Use snubberless for motors",
     "Opto-isolate the gate",
     "Mind commutating dv/dt",
-    "Filter EMI"
+    "Filter Electromagnetic Interference (EMI)"
   ]
 }

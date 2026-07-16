@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "question": "AC supply provides:",
+      "question": "Alternating Current (AC) supply provides:",
       "options": [
-        "DC",
+        "Direct Current (DC)",
         "Alternating voltage",
-        "RF",
+        "Radio Frequency (RF)",
         "Pulse"
       ],
       "correctAnswer": 1,

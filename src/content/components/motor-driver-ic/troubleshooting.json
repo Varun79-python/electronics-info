@@ -16,9 +16,9 @@
         "Still"
       ],
       "causes": [
-        "No PWM"
+        "No Pulse Width Modulation (PWM)"
       ],
-      "solution": "Check MCU"
+      "solution": "Check Microcontroller Unit (MCU)"
     },
     {
       "failure": "Overheat",

@@ -1,8 +1,8 @@
 {
-  "name": "Logic Gate IC",
+  "name": "Logic Gate Integrated Circuit (IC)",
   "id": "logic-gate-ic",
   "category": "integrated-circuits",
-  "shortDescription": "A logic-gate IC integrates several basic logic gates (AND, OR, NOT, etc.) in one package.",
+  "shortDescription": "A logic-gate Integrated Circuit (IC) integrates several basic logic gates (AND, OR, NOT, etc.) in one package.",
   "whatIsIt": "A logic-gate IC integrates several basic logic gates (AND, OR, NOT, etc.) in one package.",
   "whyExists": "Logic ICs implement combinational and sequential digital functions compactly.",
   "whereUsed": "Used in control, interfacing, and glue logic everywhere digital.",

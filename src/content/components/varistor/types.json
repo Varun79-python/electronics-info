@@ -4,7 +4,7 @@
       "name": "Metal Oxide Varistor (MOV)",
       "description": "Zinc-oxide based; most common surge protector.",
       "applications": [
-        "AC line protection",
+        "Alternating Current (AC) line protection",
         "Power supplies"
       ]
     },
@@ -20,7 +20,7 @@
       "description": "SMD, low capacitance.",
       "applications": [
         "Signal lines",
-        "RF"
+        "Radio Frequency (RF)"
       ]
     }
   ]

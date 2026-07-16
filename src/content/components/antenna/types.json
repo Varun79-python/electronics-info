@@ -16,9 +16,9 @@
     },
     {
       "name": "Patch",
-      "description": "Flat PCB.",
+      "description": "Flat Printed Circuit Board (PCB).",
       "applications": [
-        "GPS"
+        "Global Positioning System (GPS)"
       ]
     },
     {

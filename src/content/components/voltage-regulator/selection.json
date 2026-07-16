@@ -22,7 +22,7 @@
     }
   ],
   "tips": [
-    "LDO for analog/RF",
+    "Low Dropout (LDO) for analog/Radio Frequency (RF)",
     "Switcher for efficiency",
     "Check PSRR",
     "Heatsink for linear power"

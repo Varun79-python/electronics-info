@@ -1,10 +1,10 @@
 {
-  "name": "DIAC",
+  "name": "Diode for Alternating Current (DIAC)",
   "id": "diac",
   "category": "semiconductor",
-  "shortDescription": "A DIAC is a bidirectional trigger diode that conducts abruptly when its breakover voltage is exceeded in either direction, used to trigger TRIACs.",
+  "shortDescription": "A Diode for Alternating Current (DIAC) is a bidirectional trigger diode that conducts abruptly when its breakover voltage is exceeded in either direction, used to trigger TRIACs.",
   "whatIsIt": "A DIAC is a bidirectional trigger diode that conducts abruptly when its breakover voltage is exceeded in either direction, used to trigger TRIACs.",
-  "whyExists": "DIACs provide a symmetric trigger point, improving TRIAC firing symmetry in AC controllers.",
+  "whyExists": "DIACs provide a symmetric trigger point, improving Triode for Alternating Current (TRIAC) firing symmetry in Alternating Current (AC) controllers.",
   "whereUsed": "They are used in lamp dimmers and motor speed controls as TRIAC gate triggers.",
   "thumbnail": "/assets/images/components/diac/thumbnail.svg",
   "schematic": "/assets/components/diac/schematic/symbol.svg"

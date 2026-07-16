@@ -1,7 +1,7 @@
 {
   "metadata": {
     "id": "ir-sensor",
-    "name": "IR Sensor",
+    "name": "Infrared (IR) Sensor",
     "category": "sensors",
     "difficulty": "beginner",
     "prerequisites": [],

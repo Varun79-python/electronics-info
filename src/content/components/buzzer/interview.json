@@ -2,7 +2,7 @@
   "beginner": [
     {
       "question": "Active vs passive buzzer?",
-      "answer": "Active has a built-in oscillator (apply DC); passive needs an external AC tone."
+      "answer": "Active has a built-in oscillator (apply Direct Current (DC)); passive needs an external Alternating Current (AC) tone."
     },
     {
       "question": "How does a piezo buzzer work?",
@@ -18,7 +18,7 @@
   "advanced": [
     {
       "question": "Drive a passive buzzer?",
-      "answer": "Use a square wave from a timer/MCU through a transistor."
+      "answer": "Use a square wave from a timer/Microcontroller Unit (MCU) through a transistor."
     }
   ],
   "expert": [

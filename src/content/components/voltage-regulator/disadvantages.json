@@ -2,7 +2,7 @@
   "disadvantages": [
     "Linear wastes power as heat",
     "Needs headroom (dropout)",
-    "Switchers have ripple/EMI",
+    "Switchers have ripple/Electromagnetic Interference (EMI)",
     "More parts (switcher)",
     "Cost",
     "Thermal management"

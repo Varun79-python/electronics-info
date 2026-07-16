@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "An NTC thermistor's resistance:",
+      "question": "An Negative Temperature Coefficient Thermistor (NTC) thermistor's resistance:",
       "options": [
         "Rises with temperature",
         "Falls with temperature",
@@ -25,7 +25,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "PTC thermistors are used for:",
+      "question": "Positive Temperature Coefficient Thermistor (PTC) thermistors are used for:",
       "options": [
         "Sensing",
         "Overcurrent protection",

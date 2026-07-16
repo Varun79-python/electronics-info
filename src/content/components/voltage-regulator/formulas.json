@@ -34,7 +34,7 @@
           "unit": "V"
         }
       ],
-      "example": "LDO ~0.2V"
+      "example": "Low Dropout (LDO) ~0.2V"
     }
   ]
 }

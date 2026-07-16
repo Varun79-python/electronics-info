@@ -3,7 +3,7 @@
     {
       "name": "H-Bridge",
       "function": "Reverse polarity",
-      "material": "MOSFET"
+      "material": "Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)"
     },
     {
       "name": "Gate Drive",

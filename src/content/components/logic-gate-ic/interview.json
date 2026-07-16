@@ -12,7 +12,7 @@
   "intermediate": [
     {
       "question": "HC vs LS?",
-      "answer": "HC is CMOS (low power); LS is older TTL."
+      "answer": "HC is Complementary Metal–Oxide–Semiconductor (CMOS) (low power); LS is older Transistor–Transistor Logic (TTL)."
     }
   ],
   "advanced": [

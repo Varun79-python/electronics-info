@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "LDO dropout is:",
+      "question": "Low Dropout (LDO) dropout is:",
       "options": [
         "Vin-Vout min",
         "Vout-Vin",

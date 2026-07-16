@@ -2,7 +2,7 @@
   "voltageSafety": "High voltage; isolation and interlocks required.",
   "currentSafety": "Lethal currents; proper fusing.",
   "thermalSafety": "Large heat; forced cooling.",
-  "handling": "ESD sensitive gate.",
+  "handling": "Electrostatic Discharge (ESD) sensitive gate.",
   "storage": "Anti-static, dry.",
   "disposal": "E-waste; contains materials to recycle."
 }

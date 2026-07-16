@@ -1,7 +1,7 @@
 {
   "invention": {
     "year": 1880,
-    "inventor": "Evolved with AC systems",
+    "inventor": "Evolved with Alternating Current (AC) systems",
     "discovery": "AC supplies grew with the AC power grid and test equipment needs.",
     "evolution": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "year": 1990,
-        "event": "DSP-based AC sources"
+        "event": "Digital Signal Processing (DSP)-based AC sources"
       }
     ]
   }

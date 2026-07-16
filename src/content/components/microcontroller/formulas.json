@@ -21,7 +21,7 @@
     {
       "name": "Baud Rate",
       "formula": "Bits/s = f / divisor",
-      "description": "UART speed.",
+      "description": "Universal Asynchronous Receiver-Transmitter (UART) speed.",
       "variables": [
         {
           "symbol": "Bits/s",

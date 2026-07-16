@@ -4,8 +4,8 @@
       "category": "System Clock",
       "description": "Times digital logic",
       "examples": [
-        "MCU",
-        "CPU"
+        "Microcontroller Unit (MCU)",
+        "Central Processing Unit (CPU)"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "description": "Stable source",
       "examples": [
         "Test gear",
-        "GPS"
+        "Global Positioning System (GPS)"
       ]
     }
   ]

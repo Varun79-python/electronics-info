@@ -2,7 +2,7 @@
   "types": [
     {
       "name": "Rectifier Diode",
-      "description": "General-purpose diode for AC to DC conversion.",
+      "description": "General-purpose diode for Alternating Current (AC) to Direct Current (DC) conversion.",
       "applications": [
         "Power supplies",
         "Rectification"
@@ -21,11 +21,11 @@
       "description": "Metal-semiconductor junction with low forward voltage and fast switching.",
       "applications": [
         "Switch-mode power supplies",
-        "RF detection"
+        "Radio Frequency (RF) detection"
       ]
     },
     {
-      "name": "LED (Light Emitting Diode)",
+      "name": "Light Emitting Diode (LED) (Light Emitting Diode)",
       "description": "Emits light when forward biased.",
       "applications": [
         "Indicators",

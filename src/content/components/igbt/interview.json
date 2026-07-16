@@ -1,11 +1,11 @@
 {
   "beginner": [
     {
-      "question": "What is an IGBT?",
+      "question": "What is an Insulated-Gate Bipolar Transistor (IGBT)?",
       "answer": "A device with a MOS gate and bipolar output for high-power switching."
     },
     {
-      "question": "IGBT vs MOSFET?",
+      "question": "IGBT vs Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)?",
       "answer": "IGBT handles higher voltage with lower conduction loss but switches slower."
     }
   ],

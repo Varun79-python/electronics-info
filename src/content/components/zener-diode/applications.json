@@ -12,7 +12,7 @@
       "category": "Reference",
       "description": "Stable voltage source",
       "examples": [
-        "ADC ref",
+        "Analog-to-Digital Converter (ADC) ref",
         "Meters"
       ]
     },

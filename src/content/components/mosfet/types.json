@@ -16,10 +16,10 @@
       ]
     },
     {
-      "name": "Power MOSFET",
+      "name": "Power Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)",
       "description": "Low R_DS(on), fast.",
       "applications": [
-        "SMPS",
+        "Switched-Mode Power Supply (SMPS)",
         "Motor"
       ]
     },
@@ -27,7 +27,7 @@
       "name": "Logic-Level MOSFET",
       "description": "Fully on at 5V/3.3V.",
       "applications": [
-        "MCU drive"
+        "Microcontroller Unit (MCU) drive"
       ]
     }
   ]

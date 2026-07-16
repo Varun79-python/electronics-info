@@ -22,7 +22,7 @@
     }
   ],
   "tips": [
-    "Use PWM to reduce hold current",
+    "Use Pulse Width Modulation (PWM) to reduce hold current",
     "Flyback diode essential",
     "Mind duty cycle",
     "Latching saves power"

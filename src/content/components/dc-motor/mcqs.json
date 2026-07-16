@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "DC motor torque depends on:",
+      "question": "Direct Current (DC) motor torque depends on:",
       "options": [
         "Voltage only",
         "Current",
@@ -42,7 +42,7 @@
         "Brushes",
         "Electronic commutation",
         "No magnet",
-        "AC only"
+        "Alternating Current (AC) only"
       ],
       "correctAnswer": 1,
       "explanation": "Electronic switching.",

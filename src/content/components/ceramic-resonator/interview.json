@@ -18,7 +18,7 @@
   "advanced": [
     {
       "question": "When would you avoid a resonator?",
-      "answer": "For UART, USB, or any timing where ±0.5% accuracy and low drift are required; use a crystal."
+      "answer": "For Universal Asynchronous Receiver-Transmitter (UART), Universal Serial Bus (USB), or any timing where ±0.5% accuracy and low drift are required; use a crystal."
     }
   ],
   "expert": [

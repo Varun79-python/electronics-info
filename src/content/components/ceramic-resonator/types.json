@@ -4,7 +4,7 @@
       "name": "Two-terminal Resonator",
       "description": "Used with external capacitors.",
       "applications": [
-        "MCU clocks"
+        "Microcontroller Unit (MCU) clocks"
       ]
     },
     {

@@ -18,7 +18,7 @@
     },
     {
       "id": "led",
-      "relationship": "LED is a light-emitting diode variant"
+      "relationship": "Light Emitting Diode (LED) is a light-emitting diode variant"
     }
   ]
 }

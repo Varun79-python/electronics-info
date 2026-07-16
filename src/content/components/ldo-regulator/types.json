@@ -16,7 +16,7 @@
     },
     {
       "name": "Low-Noise",
-      "description": "For RF/ADC.",
+      "description": "For Radio Frequency (RF)/Analog-to-Digital Converter (ADC).",
       "applications": [
         "Sensitive"
       ]

@@ -30,7 +30,7 @@
       "name": "Surface Mount (SMD) Resistor",
       "description": "Designed for surface-mount technology. Compact and suitable for automated assembly.",
       "applications": [
-        "PCB assemblies",
+        "Printed Circuit Board (PCB) assemblies",
         "Mobile devices",
         "Compact electronics"
       ]

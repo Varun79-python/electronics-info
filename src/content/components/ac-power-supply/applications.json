@@ -17,7 +17,7 @@
     },
     {
       "category": "Lamp/Heater",
-      "description": "Variable AC",
+      "description": "Variable Alternating Current (AC)",
       "examples": [
         "Dimming"
       ]

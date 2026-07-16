@@ -3,6 +3,6 @@
   "currentSafety": "Trace limits.",
   "thermalSafety": "Solder heat.",
   "handling": "Standard.",
-  "storage": "Dry, ESD for assemblies.",
+  "storage": "Dry, Electrostatic Discharge (ESD) for assemblies.",
   "disposal": "Recycle (lead-free preferred)."
 }

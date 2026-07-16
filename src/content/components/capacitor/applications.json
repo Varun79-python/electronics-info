@@ -2,7 +2,7 @@
   "applications": [
     {
       "category": "Power Supply Filtering",
-      "description": "Removes voltage ripple from rectified AC",
+      "description": "Removes voltage ripple from rectified Alternating Current (AC)",
       "examples": [
         "Smoothing capacitors",
         "Bulk storage"
@@ -10,7 +10,7 @@
     },
     {
       "category": "Signal Coupling/Decoupling",
-      "description": "Passes AC signals while blocking DC",
+      "description": "Passes AC signals while blocking Direct Current (DC)",
       "examples": [
         "Audio coupling",
         "Power supply decoupling"
@@ -26,7 +26,7 @@
     },
     {
       "category": "Tuning",
-      "description": "Selects desired frequencies in RF circuits",
+      "description": "Selects desired frequencies in Radio Frequency (RF) circuits",
       "examples": [
         "Radio tuning",
         "Filters"

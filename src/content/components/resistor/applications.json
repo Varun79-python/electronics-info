@@ -4,7 +4,7 @@
       "category": "Current Limiting",
       "description": "Limits current to protect LEDs and other sensitive components",
       "examples": [
-        "LED current limiting",
+        "Light Emitting Diode (LED) current limiting",
         "Transistor base biasing"
       ]
     },
@@ -40,7 +40,7 @@
       "description": "Matches impedance to prevent signal reflections",
       "examples": [
         "Transmission line termination",
-        "RF circuits",
+        "Radio Frequency (RF) circuits",
         "High-speed digital"
       ]
     }

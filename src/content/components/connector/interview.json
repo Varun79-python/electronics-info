@@ -23,7 +23,7 @@
   ],
   "expert": [
     {
-      "question": "RF connector concern?",
+      "question": "Radio Frequency (RF) connector concern?",
       "answer": "Impedance and shielding to avoid reflections."
     }
   ]

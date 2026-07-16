@@ -3,7 +3,7 @@
     {
       "name": "Segment Current",
       "formula": "I = (V_cc - V_led) / R",
-      "description": "Limit per LED.",
+      "description": "Limit per Light Emitting Diode (LED).",
       "variables": [
         {
           "symbol": "I",

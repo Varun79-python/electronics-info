@@ -1,7 +1,7 @@
 {
   "beginner": [
     {
-      "question": "What is a MOSFET?",
+      "question": "What is a Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)?",
       "answer": "A voltage-controlled transistor where gate voltage creates a conductive channel."
     },
     {
@@ -11,7 +11,7 @@
   ],
   "intermediate": [
     {
-      "question": "MOSFET vs BJT key difference?",
+      "question": "MOSFET vs Bipolar Junction Transistor (BJT) key difference?",
       "answer": "MOSFET is voltage-controlled with high input impedance; BJT is current-controlled."
     },
     {
@@ -28,7 +28,7 @@
   "expert": [
     {
       "question": "How minimize MOSFET switching loss?",
-      "answer": "Use a strong gate driver, minimize loop inductance, and select low-Q_g devices; balance against EMI."
+      "answer": "Use a strong gate driver, minimize loop inductance, and select low-Q_g devices; balance against Electromagnetic Interference (EMI)."
     }
   ]
 }

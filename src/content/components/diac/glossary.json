@@ -2,7 +2,7 @@
   "terms": [
     {
       "term": "Breakover Voltage",
-      "definition": "Voltage at which the DIAC switches on."
+      "definition": "Voltage at which the Diode for Alternating Current (DIAC) switches on."
     },
     {
       "term": "Negative Resistance",

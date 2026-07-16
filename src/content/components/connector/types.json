@@ -8,7 +8,7 @@
       ]
     },
     {
-      "name": "USB",
+      "name": "Universal Serial Bus (USB)",
       "description": "Data/power.",
       "applications": [
         "Devices"
@@ -16,13 +16,13 @@
     },
     {
       "name": "Barrel Jack",
-      "description": "DC power.",
+      "description": "Direct Current (DC) power.",
       "applications": [
         "Adapters"
       ]
     },
     {
-      "name": "RF (SMA)",
+      "name": "Radio Frequency (RF) (SMA)",
       "description": "Coax.",
       "applications": [
         "Antenna"

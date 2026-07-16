@@ -1,7 +1,7 @@
 {
   "formulas": [
     {
-      "name": "PWM Speed",
+      "name": "Pulse Width Modulation (PWM) Speed",
       "formula": "V_avg = D × V_supply",
       "description": "Duty sets speed.",
       "variables": [

@@ -3,7 +3,7 @@
     {
       "name": "Rated Voltage",
       "typicalValues": "3V to 12V",
-      "notes": "DC common"
+      "notes": "Direct Current (DC) common"
     },
     {
       "name": "Frequency",

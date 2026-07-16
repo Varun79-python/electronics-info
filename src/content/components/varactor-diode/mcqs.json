@@ -30,7 +30,7 @@
         "VCO",
         "Rectifier",
         "Amplifier",
-        "LED"
+        "Light Emitting Diode (LED)"
       ],
       "correctAnswer": 0,
       "explanation": "Tuning oscillators.",

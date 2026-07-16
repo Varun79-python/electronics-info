@@ -3,7 +3,7 @@
     {
       "name": "Wavelength",
       "typicalValues": "850-940nm",
-      "notes": "Near IR"
+      "notes": "Near Infrared (IR)"
     },
     {
       "name": "Range",

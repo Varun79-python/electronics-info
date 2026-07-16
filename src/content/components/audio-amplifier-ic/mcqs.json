@@ -4,7 +4,7 @@
       "question": "Audio amp drives:",
       "options": [
         "Speaker",
-        "LED",
+        "Light Emitting Diode (LED)",
         "Relay",
         "None"
       ],
@@ -15,7 +15,7 @@
     {
       "question": "Class D is:",
       "options": [
-        "PWM efficient",
+        "Pulse Width Modulation (PWM) efficient",
         "Linear",
         "Transformer",
         "None"

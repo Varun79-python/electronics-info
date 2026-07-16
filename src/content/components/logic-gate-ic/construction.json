@@ -1,7 +1,7 @@
 {
   "internalParts": [
     {
-      "name": "CMOS Cells",
+      "name": "Complementary Metal–Oxide–Semiconductor (CMOS) Cells",
       "function": "Implement gates",
       "material": "Silicon"
     },
@@ -11,7 +11,7 @@
       "material": "Silicon"
     },
     {
-      "name": "ESD Diodes",
+      "name": "Electrostatic Discharge (ESD) Diodes",
       "function": "Protect",
       "material": "Silicon"
     },

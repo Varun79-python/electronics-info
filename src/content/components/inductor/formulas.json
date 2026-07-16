@@ -31,7 +31,7 @@
     {
       "name": "Inductive Reactance",
       "formula": "X_L = 2π × f × L",
-      "description": "Opposition to AC current; rises with frequency.",
+      "description": "Opposition to Alternating Current (AC) current; rises with frequency.",
       "variables": [
         {
           "symbol": "X_L",

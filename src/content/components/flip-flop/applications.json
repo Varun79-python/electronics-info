@@ -4,7 +4,7 @@
       "category": "Memory",
       "description": "Store bits",
       "examples": [
-        "RAM"
+        "Random Access Memory (RAM)"
       ]
     },
     {
@@ -18,7 +18,7 @@
       "category": "Sync",
       "description": "Pipeline",
       "examples": [
-        "CPU"
+        "Central Processing Unit (CPU)"
       ]
     }
   ]

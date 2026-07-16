@@ -2,7 +2,7 @@
   "voltageSafety": "Mains voltage; isolation required.",
   "currentSafety": "High current; fusing.",
   "thermalSafety": "Heatsink for power.",
-  "handling": "ESD care.",
+  "handling": "Electrostatic Discharge (ESD) care.",
   "storage": "Anti-static, dry.",
   "disposal": "E-waste rules."
 }

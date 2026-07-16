@@ -1,7 +1,7 @@
 {
   "disadvantages": [
     "Slower than transistors",
-    "Harmonics and EMI",
+    "Harmonics and Electromagnetic Interference (EMI)",
     "dv/dt sensitivity",
     "Poor for inductive loads (snubber)",
     "Gate current both polarities",

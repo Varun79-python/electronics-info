@@ -18,7 +18,7 @@
     {
       "name": "Supply",
       "typicalValues": "3-24V",
-      "notes": "DC"
+      "notes": "Direct Current (DC)"
     }
   ]
 }

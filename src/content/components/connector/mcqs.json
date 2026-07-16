@@ -37,7 +37,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "USB is:",
+      "question": "Universal Serial Bus (USB) is:",
       "options": [
         "Data+power connector",
         "Resistor",
@@ -49,7 +49,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "RF connector needs:",
+      "question": "Radio Frequency (RF) connector needs:",
       "options": [
         "Impedance match",
         "High R",

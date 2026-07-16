@@ -27,8 +27,8 @@
     {
       "question": "Transformers do NOT work with:",
       "options": [
-        "AC",
-        "DC",
+        "Alternating Current (AC)",
+        "Direct Current (DC)",
         "50Hz",
         "60Hz"
       ],

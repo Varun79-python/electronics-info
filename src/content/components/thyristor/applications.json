@@ -2,7 +2,7 @@
   "applications": [
     {
       "category": "Phase Control",
-      "description": "Adjusts AC power",
+      "description": "Adjusts Alternating Current (AC) power",
       "examples": [
         "Lamp dimmer",
         "Heater"
@@ -10,7 +10,7 @@
     },
     {
       "category": "Rectification",
-      "description": "Controlled DC",
+      "description": "Controlled Direct Current (DC)",
       "examples": [
         "Battery charger",
         "Plating"

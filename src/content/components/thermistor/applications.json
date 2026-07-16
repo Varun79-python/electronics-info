@@ -10,7 +10,7 @@
     },
     {
       "category": "Inrush Current Limiting",
-      "description": "NTC limits surge at power-on",
+      "description": "Negative Temperature Coefficient Thermistor (NTC) limits surge at power-on",
       "examples": [
         "Power supplies",
         "Motor starters"
@@ -18,7 +18,7 @@
     },
     {
       "category": "Over-temperature Protection",
-      "description": "PTC cuts off on overheat",
+      "description": "Positive Temperature Coefficient Thermistor (PTC) cuts off on overheat",
       "examples": [
         "Battery packs",
         "Motors"

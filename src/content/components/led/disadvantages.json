@@ -4,7 +4,7 @@
     "Heat shortens life (high-power)",
     "Requires current limiting",
     "Color shifts with temperature",
-    "ESD sensitive",
+    "Electrostatic Discharge (ESD) sensitive",
     "Not omnidirectional naturally"
   ]
 }

@@ -6,5 +6,5 @@
     "Boolean function computed",
     "Output driven to rail"
   ],
-  "microscopicExplanation": "CMOS pairs of MOSFETs pull the output high or low based on input states, with no DC path when static."
+  "microscopicExplanation": "Complementary Metal–Oxide–Semiconductor (CMOS) pairs of MOSFETs pull the output high or low based on input states, with no Direct Current (DC) path when static."
 }

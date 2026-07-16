@@ -28,7 +28,7 @@
   "expert": [
     {
       "question": "How does reverse recovery time affect switching power supplies?",
-      "answer": "During reverse recovery, the diode conducts reverse current briefly, causing switching losses and EMI. Fast-recovery or Schottky diodes minimize this."
+      "answer": "During reverse recovery, the diode conducts reverse current briefly, causing switching losses and Electromagnetic Interference (EMI). Fast-recovery or Schottky diodes minimize this."
     }
   ]
 }

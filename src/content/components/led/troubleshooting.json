@@ -29,7 +29,7 @@
       ],
       "causes": [
         "Overcurrent",
-        "ESD"
+        "Electrostatic Discharge (ESD)"
       ],
       "solution": "Replace; add protection"
     }

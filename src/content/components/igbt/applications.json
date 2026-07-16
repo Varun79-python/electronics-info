@@ -2,7 +2,7 @@
   "applications": [
     {
       "category": "Motor Drives",
-      "description": "VFDs for AC motors",
+      "description": "VFDs for Alternating Current (AC) motors",
       "examples": [
         "Industrial",
         "HVAC"
@@ -10,10 +10,10 @@
     },
     {
       "category": "Inverters",
-      "description": "DC-AC conversion",
+      "description": "Direct Current (DC)-AC conversion",
       "examples": [
         "Solar",
-        "UPS"
+        "Uninterruptible Power Supply (UPS)"
       ]
     },
     {

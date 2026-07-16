@@ -1,5 +1,5 @@
 {
-  "name": "LED Matrix",
+  "name": "Light Emitting Diode (LED) Matrix",
   "id": "led-matrix",
   "category": "displays",
   "shortDescription": "An LED matrix arranges LEDs in a grid (rows/columns) to display text, icons, or video.",

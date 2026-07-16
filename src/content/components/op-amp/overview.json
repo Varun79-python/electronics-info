@@ -2,7 +2,7 @@
   "name": "Operational Amplifier",
   "id": "op-amp",
   "category": "integrated-circuits",
-  "shortDescription": "An operational amplifier is a high-gain DC-coupled differential amplifier used for analog signal conditioning.",
+  "shortDescription": "An operational amplifier is a high-gain Direct Current (DC)-coupled differential amplifier used for analog signal conditioning.",
   "whatIsIt": "An operational amplifier is a high-gain DC-coupled differential amplifier used for analog signal conditioning.",
   "whyExists": "Op-amps provide configurable gain, filtering, and math operations on analog signals.",
   "whereUsed": "Used in sensors, audio, filters, and control systems.",

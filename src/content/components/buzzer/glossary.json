@@ -6,11 +6,11 @@
     },
     {
       "term": "Active Buzzer",
-      "definition": "Has internal oscillator; apply DC."
+      "definition": "Has internal oscillator; apply Direct Current (DC)."
     },
     {
       "term": "Passive Buzzer",
-      "definition": "Needs external AC drive."
+      "definition": "Needs external Alternating Current (AC) drive."
     },
     {
       "term": "SPL",

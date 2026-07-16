@@ -5,7 +5,7 @@
       "description": "Boosts signals",
       "examples": [
         "Audio amps",
-        "RF"
+        "Radio Frequency (RF)"
       ]
     },
     {
@@ -20,7 +20,7 @@
       "category": "Current Source",
       "description": "Constant current",
       "examples": [
-        "LED drivers",
+        "Light Emitting Diode (LED) drivers",
         "Sensors"
       ]
     },

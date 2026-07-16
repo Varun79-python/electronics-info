@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "name": "Standard UJT",
+      "name": "Standard Unijunction Transistor (UJT)",
       "description": "Relaxation oscillator.",
       "applications": [
         "Timers",

@@ -22,7 +22,7 @@
       ]
     },
     {
-      "name": "CMOS (7555)",
+      "name": "Complementary Metal–Oxide–Semiconductor (CMOS) (7555)",
       "description": "Low power.",
       "applications": [
         "Battery"

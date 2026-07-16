@@ -9,20 +9,20 @@
     },
     {
       "category": "Power",
-      "description": "DC in",
+      "description": "Direct Current (DC) in",
       "examples": [
         "Adapters"
       ]
     },
     {
       "category": "Data",
-      "description": "USB/etc",
+      "description": "Universal Serial Bus (USB)/etc",
       "examples": [
         "Comms"
       ]
     },
     {
-      "category": "RF",
+      "category": "Radio Frequency (RF)",
       "description": "Coax",
       "examples": [
         "Antenna"

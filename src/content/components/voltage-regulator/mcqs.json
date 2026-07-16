@@ -25,7 +25,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "LDO means:",
+      "question": "Low Dropout (LDO) means:",
       "options": [
         "Low dropout",
         "Low density",
@@ -42,7 +42,7 @@
         "Low noise",
         "Efficiency",
         "Simplicity",
-        "No EMI"
+        "No Electromagnetic Interference (EMI)"
       ],
       "correctAnswer": 1,
       "explanation": "High efficiency.",

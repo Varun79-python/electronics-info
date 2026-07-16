@@ -13,7 +13,7 @@
     {
       "step": 3,
       "title": "Interface",
-      "description": "Analog/I²C/SPI."
+      "description": "Analog/I²C/Serial Peripheral Interface (SPI)."
     },
     {
       "step": 4,

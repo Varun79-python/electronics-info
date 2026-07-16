@@ -6,7 +6,7 @@
     },
     {
       "question": "Class D benefit?",
-      "answer": "High efficiency via PWM switching."
+      "answer": "High efficiency via Pulse Width Modulation (PWM) switching."
     }
   ],
   "intermediate": [
@@ -23,8 +23,8 @@
   ],
   "expert": [
     {
-      "question": "Class D EMI?",
-      "answer": "Switching creates RF; needs output filter and layout care."
+      "question": "Class D Electromagnetic Interference (EMI)?",
+      "answer": "Switching creates Radio Frequency (RF); needs output filter and layout care."
     }
   ]
 }

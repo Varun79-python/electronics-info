@@ -8,7 +8,7 @@
     {
       "name": "Voltage Rating",
       "typicalValues": "12V to 250V",
-      "notes": "AC/DC"
+      "notes": "Alternating Current (AC)/Direct Current (DC)"
     },
     {
       "name": "Contact Form",

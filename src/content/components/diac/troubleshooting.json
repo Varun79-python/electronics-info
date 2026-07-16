@@ -3,10 +3,10 @@
     {
       "failure": "No Trigger",
       "symptoms": [
-        "TRIAC won't fire"
+        "Triode for Alternating Current (TRIAC) won't fire"
       ],
       "causes": [
-        "Open DIAC"
+        "Open Diode for Alternating Current (DIAC)"
       ],
       "solution": "Replace"
     },

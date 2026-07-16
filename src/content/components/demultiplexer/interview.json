@@ -1,7 +1,7 @@
 {
   "beginner": [
     {
-      "question": "What is a DEMUX?",
+      "question": "What is a Demultiplexer (DEMUX)?",
       "answer": "Routes one input to one of many outputs by select code."
     },
     {

@@ -1,8 +1,8 @@
 {
   "beginner": [
     {
-      "question": "What does a DC supply do?",
-      "answer": "Converts AC to a stable DC voltage for circuits."
+      "question": "What does a Direct Current (DC) supply do?",
+      "answer": "Converts Alternating Current (AC) to a stable DC voltage for circuits."
     },
     {
       "question": "Why filter capacitor?",
@@ -11,7 +11,7 @@
   ],
   "intermediate": [
     {
-      "question": "Linear vs SMPS?",
+      "question": "Linear vs Switched-Mode Power Supply (SMPS)?",
       "answer": "Linear is simple/low-noise but inefficient; SMPS is efficient and compact."
     },
     {
@@ -21,14 +21,14 @@
   ],
   "advanced": [
     {
-      "question": "How reduce SMPS EMI?",
+      "question": "How reduce SMPS Electromagnetic Interference (EMI)?",
       "answer": "Proper filtering, shielding, and layout with good grounding."
     }
   ],
   "expert": [
     {
       "question": "Design a low-noise analog supply?",
-      "answer": "Use an SMPS pre-regulator followed by an LDO for low ripple and good efficiency."
+      "answer": "Use an SMPS pre-regulator followed by an Low Dropout (LDO) for low ripple and good efficiency."
     }
   ]
 }

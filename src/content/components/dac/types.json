@@ -11,7 +11,7 @@
       "name": "String",
       "description": "Simple, fast.",
       "applications": [
-        "LCD bias"
+        "Liquid Crystal Display (LCD) bias"
       ]
     },
     {
@@ -22,8 +22,8 @@
       ]
     },
     {
-      "name": "PWM+Filter",
-      "description": "MCU software DAC.",
+      "name": "Pulse Width Modulation (PWM)+Filter",
+      "description": "Microcontroller Unit (MCU) software Digital-to-Analog Converter (DAC).",
       "applications": [
         "Simple"
       ]

@@ -40,7 +40,7 @@
       "question": "Hobby servo angle set by:",
       "options": [
         "Voltage",
-        "PWM pulse width",
+        "Pulse Width Modulation (PWM) pulse width",
         "Current",
         "Frequency only"
       ],

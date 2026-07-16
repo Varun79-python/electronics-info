@@ -1,6 +1,6 @@
 {
   "disadvantages": [
-    "Only works with AC, not DC",
+    "Only works with Alternating Current (AC), not Direct Current (DC)",
     "Bulky and heavy at low frequency",
     "Core losses (hysteresis, eddy current)",
     "Can be expensive for custom ratios",

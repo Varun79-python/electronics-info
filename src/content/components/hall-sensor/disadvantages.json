@@ -3,7 +3,7 @@
     "Temperature drift",
     "Offset",
     "Needs magnet",
-    "EMI sensitive",
+    "Electromagnetic Interference (EMI) sensitive",
     "Limited bandwidth"
   ]
 }

@@ -2,13 +2,13 @@
   "internalParts": [
     {
       "name": "Transformer/Variac",
-      "function": "Adjusts AC voltage",
+      "function": "Adjusts Alternating Current (AC) voltage",
       "material": "Copper/steel"
     },
     {
       "name": "Inverter Bridge",
-      "function": "DC to AC (synthesized)",
-      "material": "MOSFET/IGBT"
+      "function": "Direct Current (DC) to AC (synthesized)",
+      "material": "Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)/Insulated-Gate Bipolar Transistor (IGBT)"
     },
     {
       "name": "Output Filter",
@@ -18,7 +18,7 @@
     {
       "name": "Control",
       "function": "Sets V/f",
-      "material": "MCU"
+      "material": "Microcontroller Unit (MCU)"
     }
   ]
 }

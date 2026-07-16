@@ -3,7 +3,7 @@
     {
       "name": "RMS",
       "formula": "V_rms = V_peak / √2",
-      "description": "AC RMS value.",
+      "description": "Alternating Current (AC) RMS value.",
       "variables": [
         {
           "symbol": "V_rms",

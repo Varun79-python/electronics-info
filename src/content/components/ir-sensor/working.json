@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "Active IR uses an LED and photodiode with reflected light; PIR detects body heat via pyroelectric elements.",
+  "workingPrinciple": "Active Infrared (IR) uses an Light Emitting Diode (LED) and photodiode with reflected light; PIR detects body heat via pyroelectric elements.",
   "steps": [
     "IR LED emits (active)",
     "Object reflects IR",

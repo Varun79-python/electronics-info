@@ -6,7 +6,7 @@
     },
     {
       "id": "rectifier",
-      "relationship": "Transforms then rectifies AC to DC"
+      "relationship": "Transforms then rectifies Alternating Current (AC) to Direct Current (DC)"
     },
     {
       "id": "capacitor",

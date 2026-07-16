@@ -1,7 +1,7 @@
 {
   "applications": [
     {
-      "category": "TRIAC Trigger",
+      "category": "Triode for Alternating Current (TRIAC) Trigger",
       "description": "Symmetric firing",
       "examples": [
         "Dimmers",

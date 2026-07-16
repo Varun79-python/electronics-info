@@ -11,12 +11,12 @@
       "notes": "Speed"
     },
     {
-      "name": "Block RAM",
+      "name": "Block Random Access Memory (RAM)",
       "typicalValues": "Kb to Mb",
       "notes": "Memory"
     },
     {
-      "name": "DSP Slices",
+      "name": "Digital Signal Processing (DSP) Slices",
       "typicalValues": "tens to thousands",
       "notes": "Math"
     }

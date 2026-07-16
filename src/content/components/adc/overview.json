@@ -1,5 +1,5 @@
 {
-  "name": "Analog to Digital Converter",
+  "name": "Analog-to-Digital Converter (ADC)",
   "id": "adc",
   "category": "integrated-circuits",
   "shortDescription": "An Analog-to-Digital Converter (ADC) converts continuous analog voltage into digital numbers.",

@@ -1,7 +1,7 @@
 {
   "invention": {
     "year": 1970,
-    "inventor": "DAC evolution",
+    "inventor": "Digital-to-Analog Converter (DAC) evolution",
     "discovery": "Resistor-ladder DACs enabled practical digital-to-analog output.",
     "evolution": [
       {

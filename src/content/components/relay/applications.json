@@ -12,7 +12,7 @@
       "category": "Isolation",
       "description": "Separate control/load",
       "examples": [
-        "MCU to mains"
+        "Microcontroller Unit (MCU) to mains"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "workingPrinciple": "Each segment is an LED; a decoder or MCU lights the right combination to form digits 0-9 (and some letters).",
+  "workingPrinciple": "Each segment is an Light Emitting Diode (LED); a decoder or Microcontroller Unit (MCU) lights the right combination to form digits 0-9 (and some letters).",
   "steps": [
     "Digit value computed",
     "Decoder/MCU picks segments",

@@ -29,7 +29,7 @@
       "options": [
         "Low power",
         "High power",
-        "RF",
+        "Radio Frequency (RF)",
         "Audio"
       ],
       "correctAnswer": 1,
@@ -51,7 +51,7 @@
     {
       "question": "Modern replacement is:",
       "options": [
-        "PWM",
+        "Pulse Width Modulation (PWM)",
         "Relay",
         "Fuse",
         "Capacitor"

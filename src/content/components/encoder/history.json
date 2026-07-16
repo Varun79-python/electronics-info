@@ -1,7 +1,7 @@
 {
   "invention": {
     "year": 1960,
-    "inventor": "Encoder IC evolution",
+    "inventor": "Encoder Integrated Circuit (IC) evolution",
     "discovery": "Encoders compressed parallel inputs into coded outputs for keyboards and logic.",
     "evolution": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "year": 2000,
-        "event": "Integrated with MCU"
+        "event": "Integrated with Microcontroller Unit (MCU)"
       }
     ]
   }

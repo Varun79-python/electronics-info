@@ -2,14 +2,14 @@
   "types": [
     {
       "name": "74HC",
-      "description": "CMOS, fast.",
+      "description": "Complementary Metal–Oxide–Semiconductor (CMOS), fast.",
       "applications": [
         "General"
       ]
     },
     {
       "name": "74LS",
-      "description": "TTL, legacy.",
+      "description": "Transistor–Transistor Logic (TTL), legacy.",
       "applications": [
         "Older"
       ]

@@ -5,8 +5,8 @@
       "answer": "A latching four-layer switch triggered by a gate pulse, conducting until current stops."
     },
     {
-      "question": "Can you turn off an SCR with the gate?",
-      "answer": "No; the gate only turns it on. It turns off when current falls below holding (e.g., AC zero-crossing)."
+      "question": "Can you turn off an Silicon Controlled Rectifier (SCR) with the gate?",
+      "answer": "No; the gate only turns it on. It turns off when current falls below holding (e.g., Alternating Current (AC) zero-crossing)."
     }
   ],
   "intermediate": [
@@ -27,7 +27,7 @@
   ],
   "expert": [
     {
-      "question": "When choose thyristor over IGBT?",
+      "question": "When choose thyristor over Insulated-Gate Bipolar Transistor (IGBT)?",
       "answer": "At very high power and where line-commutated control suffices; thyristors remain cheaper at multi-MW."
     }
   ]

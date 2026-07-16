@@ -2,7 +2,7 @@
   "internalParts": [
     {
       "name": "Primary Winding",
-      "function": "Receives input AC and creates flux",
+      "function": "Receives input Alternating Current (AC) and creates flux",
       "material": "Copper wire"
     },
     {

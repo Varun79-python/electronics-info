@@ -5,7 +5,7 @@
       "answer": "Minimum input-output voltage difference to stay regulated."
     },
     {
-      "question": "LDO vs switching?",
+      "question": "Low Dropout (LDO) vs switching?",
       "answer": "LDO is simpler/quiet but less efficient."
     }
   ],

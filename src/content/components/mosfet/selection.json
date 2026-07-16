@@ -22,9 +22,9 @@
     }
   ],
   "tips": [
-    "Use logic-level for MCU",
+    "Use logic-level for Microcontroller Unit (MCU)",
     "Gate driver for fast switching",
     "Watch body diode in bridges",
-    "ESD-protect the gate"
+    "Electrostatic Discharge (ESD)-protect the gate"
   ]
 }

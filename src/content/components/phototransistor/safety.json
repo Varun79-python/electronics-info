@@ -2,7 +2,7 @@
   "voltageSafety": "Low voltage; safe.",
   "currentSafety": "Low current.",
   "thermalSafety": "Minimal.",
-  "handling": "ESD care.",
+  "handling": "Electrostatic Discharge (ESD) care.",
   "storage": "Anti-static, dry.",
   "disposal": "E-waste rules."
 }

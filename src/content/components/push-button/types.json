@@ -23,7 +23,7 @@
     },
     {
       "name": "Illuminated",
-      "description": "Built-in LED.",
+      "description": "Built-in Light Emitting Diode (LED).",
       "applications": [
         "Panels"
       ]

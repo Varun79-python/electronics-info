@@ -8,7 +8,7 @@
     {
       "name": "Accuracy",
       "typicalValues": "±0.1°C to ±2°C",
-      "notes": "IC best"
+      "notes": "Integrated Circuit (IC) best"
     },
     {
       "name": "Output",

@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "question": "DAC converts:",
+      "question": "Digital-to-Analog Converter (DAC) converts:",
       "options": [
         "Digital to analog",
         "Analog to digital",
-        "AC to DC",
+        "Alternating Current (AC) to Direct Current (DC)",
         "None"
       ],
       "correctAnswer": 0,

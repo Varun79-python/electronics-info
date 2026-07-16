@@ -29,7 +29,7 @@
       "example": "Bigger C → less ripple"
     },
     {
-      "name": "DC Output (Bridge)",
+      "name": "Direct Current (DC) Output (Bridge)",
       "formula": "V_dc ≈ 1.414 × V_rms - 2V_F",
       "description": "Peak minus diode drops.",
       "variables": [

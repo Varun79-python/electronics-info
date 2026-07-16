@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "question": "LED matrix uses:",
+      "question": "Light Emitting Diode (LED) matrix uses:",
       "options": [
         "Multiplex",
         "Backlight",
-        "LCD",
+        "Liquid Crystal Display (LCD)",
         "None"
       ],
       "correctAnswer": 0,

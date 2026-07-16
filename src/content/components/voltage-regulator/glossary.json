@@ -1,7 +1,7 @@
 {
   "terms": [
     {
-      "term": "LDO",
+      "term": "Low Dropout (LDO)",
       "definition": "Low-dropout linear regulator."
     },
     {

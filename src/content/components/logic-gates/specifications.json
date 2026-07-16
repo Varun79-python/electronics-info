@@ -2,7 +2,7 @@
   "specifications": [
     {
       "name": "Family",
-      "typicalValues": "CMOS/TTL",
+      "typicalValues": "Complementary Metal–Oxide–Semiconductor (CMOS)/Transistor–Transistor Logic (TTL)",
       "notes": "Tech"
     },
     {

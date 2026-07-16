@@ -17,7 +17,7 @@
     }
   ],
   "tips": [
-    "Use with IR LED for slotted sensors",
+    "Use with Infrared (IR) Light Emitting Diode (LED) for slotted sensors",
     "Add ambient shielding",
     "Darlington for faint light",
     "Photodiode for speed"

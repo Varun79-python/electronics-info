@@ -12,7 +12,7 @@
       "name": "TCXO",
       "description": "Temperature-compensated for stability.",
       "applications": [
-        "GPS",
+        "Global Positioning System (GPS)",
         "Radios"
       ]
     },

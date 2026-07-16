@@ -1,5 +1,5 @@
 {
-  "name": "electronics-hub",
+  "name": "electronics-info",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -14,6 +14,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.3.2",
     "clsx": "^2.1.1",
     "framer-motion": "^12.42.2",
     "html2canvas": "^1.4.1",

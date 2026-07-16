@@ -17,7 +17,7 @@ export default function BottomNav() {
   return (
     <nav className={cn(
       'fixed bottom-0 left-0 right-0 z-50 h-16 md:hidden',
-      'glass border-t border-[var(--color-border)]',
+      'bg-[var(--color-bg)] border-t border-[var(--color-border)]',
       'flex items-center justify-around px-2'
     )}>
       {navItems.map(({ path, icon: Icon, label }) => {
@@ -27,11 +27,11 @@ export default function BottomNav() {
             key={path}
             onClick={() => navigate(path)}
             className={cn(
-              'flex flex-col items-center gap-0.5 p-2 rounded-lg transition-colors cursor-pointer',
+              'flex flex-col items-center gap-0.5 p-2 rounded-[var(--radius-md)] transition-colors cursor-pointer',
               'min-w-[56px]',
               isActive
-                ? 'text-[var(--color-accent)]'
-                : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
+                ? 'text-[var(--color-active)]'
+                : 'text-[var(--color-text-muted)] hover:text-[var(--color-text-secondary)]'
             )}
             aria-label={label}
           >

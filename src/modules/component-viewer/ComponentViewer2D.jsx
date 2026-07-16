@@ -63,7 +63,7 @@ export default function ComponentViewer2D({ componentId, bands, className }) {
               onClick={() => setViewMode(mode)}
               className={cn(
                 'px-2 py-1 text-xs rounded transition-colors cursor-pointer capitalize',
-                viewMode === mode ? 'bg-[var(--color-accent)] text-white' : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
+                viewMode === mode ? 'bg-[var(--color-text)] text-[var(--color-bg)]' : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
               )}
             >
               {mode}
@@ -71,12 +71,12 @@ export default function ComponentViewer2D({ componentId, bands, className }) {
           ))}
         </div>
         <div className="flex gap-1">
-          <button onClick={() => setZoom((z) => Math.min(z + 0.25, 3))} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer">+</button>
-          <button onClick={() => setZoom((z) => Math.max(z - 0.25, 0.5))} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer">−</button>
-          <button onClick={() => setShowGrid(!showGrid)} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer">
+          <button onClick={() => setZoom((z) => Math.min(z + 0.25, 3))} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer text-[var(--color-text-secondary)]">+</button>
+          <button onClick={() => setZoom((z) => Math.max(z - 0.25, 0.5))} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer text-[var(--color-text-secondary)]">−</button>
+          <button onClick={() => setShowGrid(!showGrid)} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer text-[var(--color-text-secondary)]">
             {showGrid ? 'Hide Grid' : 'Grid'}
           </button>
-          <button onClick={() => setShowLabels(!showLabels)} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer">
+          <button onClick={() => setShowLabels(!showLabels)} className="px-2 py-1 text-xs rounded hover:bg-[var(--color-elevated)] cursor-pointer text-[var(--color-text-secondary)]">
             {showLabels ? 'Hide Labels' : 'Labels'}
           </button>
         </div>

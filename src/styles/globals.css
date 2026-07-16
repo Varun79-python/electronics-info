@@ -21,11 +21,19 @@
     margin: 0;
     padding: 0;
     font-family: var(--font-body);
+    font-size: var(--text-body);
+    line-height: var(--leading-body);
+    letter-spacing: var(--tracking-body);
     background-color: var(--color-bg);
     color: var(--color-text);
-    line-height: 1.6;
     transition: background-color 0.3s, color 0.3s;
     overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    line-height: var(--leading-heading);
+    letter-spacing: var(--tracking-heading);
   }
 
   #root {
@@ -35,13 +43,13 @@
   }
 
   a {
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     text-decoration: none;
-    transition: opacity 0.2s;
+    transition: color var(--transition-fast);
   }
 
   a:hover {
-    opacity: 0.8;
+    color: var(--color-text);
   }
 
   img {
@@ -49,15 +57,46 @@
     height: auto;
   }
 
+  /* ── Focus-visible ring ── */
   :focus-visible {
     outline: 2px solid var(--color-accent);
     outline-offset: 2px;
     border-radius: 4px;
   }
 
+  button:focus-visible,
+  a:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+
   ::selection {
     background: var(--color-accent);
-    color: var(--color-bg);
+    color: #ffffff;
+  }
+
+  /* ── Scrollbar styling ── */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: 3px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-text-secondary);
   }
 
   @media (prefers-reduced-motion: reduce) {

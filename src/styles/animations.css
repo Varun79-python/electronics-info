@@ -9,7 +9,7 @@
 }
 
 @keyframes slideDown {
-  from { opacity: 0; transform: translateY(-20px); }
+  from { opacity: 0; transform: translateY(-10px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
@@ -28,30 +28,9 @@
   to { opacity: 1; transform: scale(1); }
 }
 
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-@keyframes shimmer {
-  0% { background-position: -200% 0; }
-  100% { background-position: 200% 0; }
-}
-
-@keyframes electronFlow {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(100%); }
-}
-
 .animate-fade-in { animation: fadeIn var(--transition-normal) ease forwards; }
 .animate-slide-up { animation: slideUp var(--transition-normal) ease forwards; }
 .animate-slide-down { animation: slideDown var(--transition-normal) ease forwards; }
 .animate-slide-in-left { animation: slideInLeft var(--transition-normal) ease forwards; }
 .animate-slide-in-right { animation: slideInRight var(--transition-normal) ease forwards; }
 .animate-scale-in { animation: scaleIn var(--transition-normal) ease forwards; }
-.animate-shimmer { animation: shimmer 2s linear infinite; background: linear-gradient(90deg, transparent, rgba(108, 92, 231, 0.1), transparent); background-size: 200% 100%; }

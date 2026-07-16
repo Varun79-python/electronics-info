@@ -5,7 +5,7 @@ export default function InterviewSection({ questions, level }) {
 
   return (
     <div>
-      <h3 className="text-sm font-medium capitalize mb-2 text-[var(--color-accent)]">{level}</h3>
+      <h3 className="text-sm font-medium capitalize mb-2 text-[var(--color-text)]">{level}</h3>
       <Accordion
         items={questions.map((q) => ({
           title: q.question,

@@ -3,10 +3,10 @@ import { cn } from '../../utils'
 export default function Button({ children, variant = 'primary', size = 'md', className, ...props }) {
   const variants = {
     primary: 'bg-[var(--color-accent)] text-white hover:bg-[var(--color-accent-hover)]',
-    secondary: 'bg-[var(--color-elevated)] text-[var(--color-text)] hover:bg-[var(--color-border)]',
+    secondary: 'bg-transparent text-[var(--color-text)] border border-[var(--color-border)] hover:border-[var(--color-text)] hover:bg-[var(--color-elevated)]',
     ghost: 'bg-transparent text-[var(--color-text-secondary)] hover:text-[var(--color-text)] hover:bg-[var(--color-elevated)]',
-    glass: 'glass text-[var(--color-text)] hover:bg-[var(--color-elevated)]',
-    text: 'bg-transparent text-[var(--color-accent)] hover:underline p-0',
+    danger: 'bg-[var(--color-error-bg)] text-[var(--color-error)] border border-[var(--color-error)]/30 hover:bg-[var(--color-error)]/20',
+    success: 'bg-[var(--color-success-bg)] text-[var(--color-success)] border border-[var(--color-success)]/30 hover:bg-[var(--color-success)]/20',
   }
 
   const sizes = {
@@ -18,8 +18,7 @@ export default function Button({ children, variant = 'primary', size = 'md', cla
   return (
     <button
       className={cn(
-        'inline-flex items-center justify-center gap-2 rounded-lg font-medium transition-all cursor-pointer',
-        'focus-visible:outline-2 focus-visible:outline-[var(--color-accent)]',
+        'inline-flex items-center justify-center gap-2 rounded-[var(--radius-md)] font-medium transition-all cursor-pointer',
         'disabled:opacity-50 disabled:cursor-not-allowed',
         variants[variant],
         sizes[size],

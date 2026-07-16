@@ -11,7 +11,7 @@ export default function AITutor({ componentId, query }) {
       {query && (
         <div className="mt-3 p-3 rounded-lg bg-[var(--color-elevated)]">
           <p className="text-xs text-[var(--color-text-secondary)]">Query: {query}</p>
-          <p className="text-sm mt-1 text-[var(--color-accent)]">AI response will appear here.</p>
+          <p className="text-sm mt-1 text-[var(--color-text-secondary)]">AI response will appear here.</p>
         </div>
       )}
     </div>

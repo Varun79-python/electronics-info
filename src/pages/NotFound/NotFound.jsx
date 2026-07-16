@@ -9,7 +9,7 @@ export default function NotFound() {
       <SEOHead title="Page Not Found" />
       <div className="min-h-screen flex items-center justify-center px-4 pt-16 pb-24">
         <div className="text-center max-w-md">
-          <div className="text-8xl font-bold text-[var(--color-accent)] mb-4">404</div>
+          <div className="text-8xl font-bold text-[var(--color-text)] mb-4">404</div>
           <h1 className="text-2xl font-bold mb-2">Page Not Found</h1>
           <p className="text-[var(--color-text-secondary)] mb-8">
             The page you're looking for doesn't exist or has been moved.
@@ -19,7 +19,7 @@ export default function NotFound() {
               <Button variant="primary">Go Home</Button>
             </Link>
             <Link to="/search">
-              <Button variant="glass">
+              <Button variant="secondary">
                 <Search size={16} />
                 Search
               </Button>

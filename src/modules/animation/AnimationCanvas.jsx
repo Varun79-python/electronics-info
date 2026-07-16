@@ -21,14 +21,14 @@ export default function AnimationCanvas({ componentId, animationId }) {
         <div className="flex gap-2">
           <button
             onClick={() => setPlaying(!playing)}
-            className="p-1.5 rounded hover:bg-[var(--color-elevated)] cursor-pointer"
+            className="p-1.5 rounded hover:bg-[var(--color-elevated)] cursor-pointer text-[var(--color-text-secondary)]"
             aria-label={playing ? 'Pause' : 'Play'}
           >
             {playing ? <Pause size={16} /> : <Play size={16} />}
           </button>
           <button
             onClick={() => setPlaying(false)}
-            className="p-1.5 rounded hover:bg-[var(--color-elevated)] cursor-pointer"
+            className="p-1.5 rounded hover:bg-[var(--color-elevated)] cursor-pointer text-[var(--color-text-secondary)]"
             aria-label="Reset"
           >
             <RotateCcw size={16} />
@@ -41,7 +41,7 @@ export default function AnimationCanvas({ componentId, animationId }) {
               onClick={() => setSpeed(s)}
               className={cn(
                 'px-2 py-0.5 text-xs rounded transition-colors cursor-pointer',
-                speed === s ? 'bg-[var(--color-accent)] text-white' : 'text-[var(--color-text-secondary)]'
+                speed === s ? 'bg-[var(--color-text)] text-[var(--color-bg)]' : 'text-[var(--color-text-secondary)] hover:bg-[var(--color-elevated)]'
               )}
             >
               {s}×

@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import { Calculator as CalculatorIcon, RotateCcw } from 'lucide-react'
 import SEOHead from '../../shared/seo/SEOHead'
-import { Card, Badge } from '../../shared/components/common'
+import { Card } from '../../shared/components/common'
 import { cn } from '../../shared/utils'
 
 const COLORS = [
@@ -44,9 +43,9 @@ export default function Calculator() {
     : (band1 * 100 + band2 * 10 + band3) * (Math.pow(10, multiplier))
 
   const formatResistance = (val) => {
-    if (val >= 1000000) return (val / 1000000).toFixed(1) + ' MΩ'
-    if (val >= 1000) return (val / 1000).toFixed(1) + ' kΩ'
-    return val + ' Ω'
+    if (val >= 1000000) return (val / 1000000).toFixed(1) + ' M\u2126'
+    if (val >= 1000) return (val / 1000).toFixed(1) + ' k\u2126'
+    return val + ' \u2126'
   }
 
   const tolValue = TOLERANCE_COLORS[tolerance].tolerance
@@ -54,22 +53,19 @@ export default function Calculator() {
     <>
       <SEOHead title="Resistor Calculator" path="/calculator" />
       <div className="min-h-screen pt-24 pb-24 px-4 max-w-2xl mx-auto">
-        <div className="flex items-center gap-3 mb-6">
-          <CalculatorIcon size={28} className="text-[var(--color-accent)]" />
-          <h1 className="text-3xl font-bold">Resistor Calculator</h1>
-        </div>
+        <h1 className="text-2xl md:text-3xl font-bold mb-6">Resistor Calculator</h1>
 
-        <Card variant="elevated" className="mb-6">
+        <Card variant="flat" className="mb-6">
           <div className="flex gap-2 mb-6">
             {[3, 4, 5, 6].map((n) => (
               <button
                 key={n}
                 onClick={() => setBandCount(n)}
                 className={cn(
-                  'px-3 py-1.5 text-sm rounded-lg transition-colors cursor-pointer',
-                  bandCount === n
+                  'px-3 py-1.5 text-sm rounded-[var(--radius-md)] transition-all cursor-pointer',
+                    bandCount === n
                     ? 'bg-[var(--color-accent)] text-white'
-                    : 'bg-[var(--color-elevated)] text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
+                    : 'bg-[var(--color-elevated)] border border-[var(--color-border)] text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
                 )}
               >
                 {n}-Band
@@ -77,34 +73,34 @@ export default function Calculator() {
             ))}
           </div>
 
-          <div className="h-20 rounded-lg bg-[var(--color-surface)] mb-6 flex items-center overflow-hidden">
+          <div className="h-20 rounded-[var(--radius-md)] bg-[var(--color-elevated)] mb-6 flex items-center overflow-hidden border border-[var(--color-border)]">
             {bands.map((b, i) => (
               <div
                 key={i}
-                className="flex-1 h-full flex items-center justify-center"
+                className="flex-1 h-full flex items-center justify-center transition-all"
                 style={{ backgroundColor: b.hex, color: [0, 1, 3, 4].includes(i) && b.name === 'White' ? '#000' : '#fff' }}
               >
-                <span className="text-xs font-bold opacity-0 group-hover:opacity-100">{b.name}</span>
+                <span className="text-[10px] font-bold opacity-70">{b.name}</span>
               </div>
             ))}
           </div>
 
           <div className="text-center mb-6">
-            <div className="text-3xl font-bold text-[var(--color-accent)]">{formatResistance(resistance)}</div>
-            <div className="text-sm text-[var(--color-text-secondary)]">±{tolValue}%</div>
+            <div className="text-3xl font-bold text-[var(--color-text)]">{formatResistance(resistance)}</div>
+            <div className="text-sm text-[var(--color-text-muted)]">\u00B1{tolValue}%</div>
           </div>
 
           <div className="space-y-4">
             <div>
-              <label className="text-xs font-medium mb-1 block">Band 1 (First Digit)</label>
+              <label className="text-xs font-medium mb-1.5 block text-[var(--color-text)]">Band 1 (First Digit)</label>
               <div className="flex flex-wrap gap-1">
                 {COLORS.slice(0, 10).map((c, i) => (
                   <button
                     key={i}
                     onClick={() => setBand1(i)}
                     className={cn(
-                      'w-8 h-8 rounded border cursor-pointer transition-all',
-                      band1 === i ? 'border-[var(--color-accent)] scale-110' : 'border-transparent'
+                      'w-8 h-8 rounded border-2 cursor-pointer transition-all',
+                      band1 === i ? 'border-[var(--color-accent)] scale-110' : 'border-[var(--color-border)]'
                     )}
                     style={{ backgroundColor: c.hex }}
                     title={c.name}
@@ -113,15 +109,15 @@ export default function Calculator() {
               </div>
             </div>
             <div>
-              <label className="text-xs font-medium mb-1 block">Band 2 (Second Digit)</label>
+              <label className="text-xs font-medium mb-1.5 block text-[var(--color-text)]">Band 2 (Second Digit)</label>
               <div className="flex flex-wrap gap-1">
                 {COLORS.slice(0, 10).map((c, i) => (
                   <button
                     key={i}
                     onClick={() => setBand2(i)}
                     className={cn(
-                      'w-8 h-8 rounded border cursor-pointer transition-all',
-                      band2 === i ? 'border-[var(--color-accent)] scale-110' : 'border-transparent'
+                      'w-8 h-8 rounded border-2 cursor-pointer transition-all',
+                      band2 === i ? 'border-[var(--color-accent)] scale-110' : 'border-[var(--color-border)]'
                     )}
                     style={{ backgroundColor: c.hex }}
                     title={c.name}
@@ -131,15 +127,15 @@ export default function Calculator() {
             </div>
             {bandCount >= 5 && (
               <div>
-                <label className="text-xs font-medium mb-1 block">Band 3 (Third Digit)</label>
+                <label className="text-xs font-medium mb-1.5 block text-[var(--color-text)]">Band 3 (Third Digit)</label>
                 <div className="flex flex-wrap gap-1">
                   {COLORS.slice(0, 10).map((c, i) => (
                     <button
                       key={i}
                       onClick={() => setBand3(i)}
                       className={cn(
-                        'w-8 h-8 rounded border cursor-pointer transition-all',
-                        band3 === i ? 'border-[var(--color-accent)] scale-110' : 'border-transparent'
+                        'w-8 h-8 rounded border-2 cursor-pointer transition-all',
+                        band3 === i ? 'border-[var(--color-accent)] scale-110' : 'border-[var(--color-border)]'
                       )}
                       style={{ backgroundColor: c.hex }}
                       title={c.name}
@@ -149,53 +145,53 @@ export default function Calculator() {
               </div>
             )}
             <div>
-              <label className="text-xs font-medium mb-1 block">Multiplier</label>
+              <label className="text-xs font-medium mb-1.5 block text-[var(--color-text)]">Multiplier</label>
               <div className="flex flex-wrap gap-1">
                 {COLORS.map((c, i) => c.multiplier !== null && (
                   <button
                     key={i}
                     onClick={() => setMultiplier(i)}
                     className={cn(
-                      'w-8 h-8 rounded border cursor-pointer transition-all',
-                      multiplier === i ? 'border-[var(--color-accent)] scale-110' : 'border-transparent'
+                      'w-8 h-8 rounded border-2 cursor-pointer transition-all',
+                      multiplier === i ? 'border-[var(--color-accent)] scale-110' : 'border-[var(--color-border)]'
                     )}
                     style={{ backgroundColor: c.hex }}
-                    title={`${c.name} (×${c.multiplier})`}
+                    title={`${c.name} (\u00D7${c.multiplier})`}
                   />
                 ))}
                 <button
                   onClick={() => setMultiplier(10)}
                   className={cn(
-                    'w-8 h-8 rounded border cursor-pointer transition-all flex items-center justify-center text-xs font-bold',
-                    multiplier === 10 ? 'border-[var(--color-accent)] scale-110' : 'border-transparent',
+                    'w-8 h-8 rounded border-2 cursor-pointer transition-all flex items-center justify-center text-xs font-bold',
+                    multiplier === 10 ? 'border-[var(--color-accent)] scale-110' : 'border-[var(--color-border)]',
                     'bg-[#DAA520] text-white'
                   )}
-                  title="Gold (×0.1)"
+                  title="Gold (\u00D70.1)"
                 >Au</button>
                 <button
                   onClick={() => setMultiplier(11)}
                   className={cn(
-                    'w-8 h-8 rounded border cursor-pointer transition-all flex items-center justify-center text-xs font-bold',
-                    multiplier === 11 ? 'border-[var(--color-accent)] scale-110' : 'border-transparent',
+                    'w-8 h-8 rounded border-2 cursor-pointer transition-all flex items-center justify-center text-xs font-bold',
+                    multiplier === 11 ? 'border-[var(--color-accent)] scale-110' : 'border-[var(--color-border)]',
                     'bg-[#C0C0C0] text-black'
                   )}
-                  title="Silver (×0.01)"
+                  title="Silver (\u00D70.01)"
                 >Ag</button>
               </div>
             </div>
             <div>
-              <label className="text-xs font-medium mb-1 block">Tolerance</label>
+              <label className="text-xs font-medium mb-1.5 block text-[var(--color-text)]">Tolerance</label>
               <div className="flex flex-wrap gap-1">
                 {TOLERANCE_COLORS.map((c, i) => (
                   <button
                     key={i}
                     onClick={() => setTolerance(i)}
                     className={cn(
-                      'w-8 h-8 rounded border cursor-pointer transition-all',
-                      tolerance === i ? 'border-[var(--color-accent)] scale-110' : 'border-transparent'
+                      'w-8 h-8 rounded border-2 cursor-pointer transition-all',
+                      tolerance === i ? 'border-[var(--color-accent)] scale-110' : 'border-[var(--color-border)]'
                     )}
                     style={{ backgroundColor: c.hex }}
-                    title={`${c.name} (±${c.tolerance}%)`}
+                    title={`${c.name} (\u00B1${c.tolerance}%)`}
                   />
                 ))}
               </div>

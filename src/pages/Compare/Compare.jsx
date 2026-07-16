@@ -1,8 +1,8 @@
 import { useParams, Link } from 'react-router-dom'
 import { useState, useMemo } from 'react'
+import { ChevronRight } from 'lucide-react'
 import SEOHead from '../../shared/seo/SEOHead'
 import { Card, Badge } from '../../shared/components/common'
-import Button from '../../shared/components/buttons/Button'
 import componentsIndex from '../../shared/constants/components'
 
 export default function Compare() {
@@ -25,16 +25,21 @@ export default function Compare() {
     <>
       <SEOHead title="Compare Components" path="/compare" />
       <div className="min-h-screen pt-24 pb-24 px-4 max-w-6xl mx-auto">
-        <h1 className="text-3xl font-bold mb-2">Compare Components</h1>
+        <nav className="flex items-center gap-1.5 text-sm text-[var(--color-text-secondary)] mb-6" aria-label="Breadcrumb">
+          <Link to="/" className="hover:text-[var(--color-text)] transition-colors">Home</Link>
+          <ChevronRight size={12} className="text-[var(--color-text-muted)]" />
+          <span className="text-[var(--color-text)] font-medium">Compare</span>
+        </nav>
+        <h1 className="text-2xl md:text-3xl font-bold mb-2">Compare Components</h1>
         <p className="text-[var(--color-text-secondary)] mb-8">Side-by-side comparison of electronic components</p>
 
         <div className="grid grid-cols-2 gap-4 mb-8">
           <div>
-            <label className="text-sm font-medium mb-1 block">Component 1</label>
+            <label className="text-sm font-medium mb-1.5 block text-[var(--color-text)]">Component 1</label>
             <select
               value={comp1}
               onChange={(e) => setComp1(e.target.value)}
-              className="w-full p-2.5 rounded-lg bg-[var(--color-surface)] border border-[var(--color-border)] text-sm text-[var(--color-text)]"
+              className="w-full p-2.5 rounded-[var(--radius-md)] bg-[var(--color-surface)] border border-[var(--color-border)] text-sm text-[var(--color-text)] focus:outline-none focus:border-[var(--color-text)]"
             >
               <option value="">Select...</option>
               {componentList.map((c) => (
@@ -43,11 +48,11 @@ export default function Compare() {
             </select>
           </div>
           <div>
-            <label className="text-sm font-medium mb-1 block">Component 2</label>
+            <label className="text-sm font-medium mb-1.5 block text-[var(--color-text)]">Component 2</label>
             <select
               value={comp2}
               onChange={(e) => setComp2(e.target.value)}
-              className="w-full p-2.5 rounded-lg bg-[var(--color-surface)] border border-[var(--color-border)] text-sm text-[var(--color-text)]"
+              className="w-full p-2.5 rounded-[var(--radius-md)] bg-[var(--color-surface)] border border-[var(--color-border)] text-sm text-[var(--color-text)] focus:outline-none focus:border-[var(--color-text)]"
             >
               <option value="">Select...</option>
               {componentList.map((c) => (
@@ -59,20 +64,20 @@ export default function Compare() {
 
         {c1 && c2 && (
           <div className="grid grid-cols-2 gap-4">
-            <Card variant="elevated">
+            <Card variant="flat">
               <h2 className="text-xl font-bold mb-2">{c1.name}</h2>
               <Badge variant="default">{c1.category}</Badge>
-              <p className="text-sm text-[var(--color-text-secondary)] mt-3">{c1.description}</p>
+              <p className="text-sm text-[var(--color-text-secondary)] mt-3 leading-relaxed">{c1.description}</p>
               <div className="flex flex-wrap gap-1.5 mt-3">
-                {c1.tags?.map((t) => <Badge key={t} variant="info">{t}</Badge>)}
+                {c1.tags?.map((t) => <Badge key={t} variant="default">{t}</Badge>)}
               </div>
             </Card>
-            <Card variant="elevated">
+            <Card variant="flat">
               <h2 className="text-xl font-bold mb-2">{c2.name}</h2>
               <Badge variant="default">{c2.category}</Badge>
-              <p className="text-sm text-[var(--color-text-secondary)] mt-3">{c2.description}</p>
+              <p className="text-sm text-[var(--color-text-secondary)] mt-3 leading-relaxed">{c2.description}</p>
               <div className="flex flex-wrap gap-1.5 mt-3">
-                {c2.tags?.map((t) => <Badge key={t} variant="info">{t}</Badge>)}
+                {c2.tags?.map((t) => <Badge key={t} variant="default">{t}</Badge>)}
               </div>
             </Card>
           </div>

@@ -11,8 +11,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon/*.svg', 'icons/*.svg'],
       manifest: {
-        name: 'Electronics Hub',
-        short_name: 'ElectronicsHub',
+        name: 'ElectronicsInfo',
+        short_name: 'ElectronicsInfo',
         description: 'Interactive Electronics Learning Platform',
         theme_color: '#0a0a1a',
         background_color: '#0a0a1a',

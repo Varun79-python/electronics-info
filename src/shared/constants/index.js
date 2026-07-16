@@ -24,9 +24,9 @@ export const COLOR_CODES = {
 }
 
 export const APP_INFO = {
-  name: 'Electronics Hub',
+  name: 'ElectronicsInfo',
   tagline: 'Understand Electronics One Component at a Time',
   version: '1.0.0',
-  author: 'Electronics Hub Team',
+  author: 'ElectronicsInfo Team',
   github: 'https://github.com/anomalyco/electronics-hub',
 }

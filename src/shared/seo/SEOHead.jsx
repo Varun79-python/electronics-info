@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet-async'
 
 export default function SEOHead({ title, description, path, image }) {
-  const siteName = 'Electronics Hub'
+  const siteName = 'ElectronicsInfo'
   const fullTitle = title ? `${title} | ${siteName}` : siteName
   const defaultDesc = 'Interactive Electronics Learning Platform — Understand Electronics One Component at a Time'
   const url = path ? `https://electronics-hub.app${path}` : 'https://electronics-hub.app'

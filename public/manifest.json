@@ -1,6 +1,6 @@
 {
-  "name": "Electronics Hub",
-  "short_name": "ElectronicsHub",
+  "name": "ElectronicsInfo",
+  "short_name": "ElectronicsInfo",
   "description": "Interactive Electronics Learning Platform",
   "start_url": "/",
   "display": "standalone",

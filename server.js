@@ -52,5 +52,5 @@ const server = http.createServer((req, res) => {
 })
 
 server.listen(PORT, () => {
-  console.log(`Electronics Hub running on http://localhost:${PORT}`)
+  console.log(`ElectronicsInfo running on http://localhost:${PORT}`)
 })

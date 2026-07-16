@@ -22,7 +22,7 @@ export default function About() {
             </div>
           </div>
           <p className="text-sm text-[var(--color-text-secondary)]">
-            Electronics Hub is an interactive learning platform designed for engineering students and electronics enthusiasts.
+            ElectronicsInfo is an interactive learning platform designed for engineering students and electronics enthusiasts.
             Explore 86+ electronic components with detailed explanations, interactive visualizations, formulas, quizzes, and real-world applications.
             Built with a 100% JSON-based architecture — no backend, no database — ensuring fast loading and offline-capable learning.
           </p>

@@ -16,7 +16,7 @@ export default function Header() {
     )}>
       <Link to="/" className="flex items-center gap-2 text-lg font-bold no-underline text-[var(--color-text)]">
         <span className="text-[var(--color-accent)]">⚡</span>
-        <span>Electronics Hub</span>
+        <span>ElectronicsInfo</span>
       </Link>
 
       <nav className="hidden md:flex items-center gap-4">

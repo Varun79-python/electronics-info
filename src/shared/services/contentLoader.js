@@ -1,3 +1,8 @@
+// @ts-expect-error — import.meta.glob is a Vite build-time transform
+const componentModules = import.meta.glob('../../content/components/**/*.json', {
+  import: 'default',
+})
+
 export async function loadComponentData(componentId) {
   const data = {}
 
@@ -9,28 +14,18 @@ export async function loadComponentData(componentId) {
   ]
 
   for (const file of files) {
-    try {
-      const module = await import(
-        `../content/components/${componentId}/${file}.json`
-      )
-      data[file] = module.default
-    } catch {
+    const key = `../../content/components/${componentId}/${file}.json`
+    const loader = componentModules[key]
+    if (loader) {
+      try {
+        data[file] = await loader()
+      } catch {
+        data[file] = null
+      }
+    } else {
       data[file] = null
     }
   }
 
   return data
-}
-
-export function getComponentPath(componentId) {
-  const segments = [
-    'metadata', 'overview', 'working', 'construction', 'types',
-    'specifications', 'formulas', 'applications', 'advantages',
-    'disadvantages', 'selection', 'troubleshooting', 'history',
-    'safety', 'glossary', 'interview', 'mcqs', 'references',
-    'related', 'experiments', 'projects', 'datasheets',
-    'manufacturers', 'simulation', 'animation', 'viewer',
-    'timeline',
-  ]
-  return segments.map((s) => `content/components/${componentId}/${s}.json`)
 }

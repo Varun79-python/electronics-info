@@ -1,0 +1,399 @@
+{
+  "component": "schottky-diode",
+  "name": "Schottky Diode",
+  "updated": "2026-07-17T04:26:07.333Z",
+  "totalImages": 50,
+  "primary": "front.webp",
+  "gallery": [
+    {
+      "type": "front",
+      "label": "Front View",
+      "priority": 1,
+      "alt": "schottky diode - Front View",
+      "primary": "front-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "front-320.webp",
+          "avif": "front-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "front-640.webp",
+          "avif": "front-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "front-960.webp",
+          "avif": "front-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "front-1280.webp",
+          "avif": "front-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "front-1920.webp",
+          "avif": "front-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "angle",
+      "label": "45 Degree Angle View",
+      "priority": 2,
+      "alt": "schottky diode - 45 Degree Angle View",
+      "primary": "angle-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "angle-320.webp",
+          "avif": "angle-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "angle-640.webp",
+          "avif": "angle-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "angle-960.webp",
+          "avif": "angle-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "angle-1280.webp",
+          "avif": "angle-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "angle-1920.webp",
+          "avif": "angle-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "pinout",
+      "label": "Pinout Diagram",
+      "priority": 3,
+      "alt": "schottky diode - Pinout Diagram",
+      "primary": "pinout-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "pinout-320.webp",
+          "avif": "pinout-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "pinout-640.webp",
+          "avif": "pinout-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "pinout-960.webp",
+          "avif": "pinout-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "pinout-1280.webp",
+          "avif": "pinout-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "pinout-1920.webp",
+          "avif": "pinout-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "symbol",
+      "label": "Circuit Symbol",
+      "priority": 4,
+      "alt": "schottky diode - Circuit Symbol",
+      "primary": "symbol-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "symbol-320.webp",
+          "avif": "symbol-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "symbol-640.webp",
+          "avif": "symbol-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "symbol-960.webp",
+          "avif": "symbol-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "symbol-1280.webp",
+          "avif": "symbol-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "symbol-1920.webp",
+          "avif": "symbol-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "application",
+      "label": "Application Circuit",
+      "priority": 5,
+      "alt": "schottky diode - Application Circuit",
+      "primary": "application-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "application-320.webp",
+          "avif": "application-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "application-640.webp",
+          "avif": "application-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "application-960.webp",
+          "avif": "application-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "application-1280.webp",
+          "avif": "application-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "application-1920.webp",
+          "avif": "application-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "breadboard",
+      "label": "Breadboard Setup",
+      "priority": 6,
+      "alt": "schottky diode - Breadboard Setup",
+      "primary": "breadboard-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "breadboard-320.webp",
+          "avif": "breadboard-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "breadboard-640.webp",
+          "avif": "breadboard-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "breadboard-960.webp",
+          "avif": "breadboard-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "breadboard-1280.webp",
+          "avif": "breadboard-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "breadboard-1920.webp",
+          "avif": "breadboard-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "pcb",
+      "label": "PCB Layout",
+      "priority": 7,
+      "alt": "schottky diode - PCB Layout",
+      "primary": "pcb-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "pcb-320.webp",
+          "avif": "pcb-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "pcb-640.webp",
+          "avif": "pcb-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "pcb-960.webp",
+          "avif": "pcb-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "pcb-1280.webp",
+          "avif": "pcb-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "pcb-1920.webp",
+          "avif": "pcb-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "internal",
+      "label": "Internal Construction",
+      "priority": 8,
+      "alt": "schottky diode - Internal Construction",
+      "primary": "internal-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "internal-320.webp",
+          "avif": "internal-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "internal-640.webp",
+          "avif": "internal-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "internal-960.webp",
+          "avif": "internal-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "internal-1280.webp",
+          "avif": "internal-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "internal-1920.webp",
+          "avif": "internal-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "package",
+      "label": "Package Variants",
+      "priority": 9,
+      "alt": "schottky diode - Package Variants",
+      "primary": "package-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "package-320.webp",
+          "avif": "package-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "package-640.webp",
+          "avif": "package-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "package-960.webp",
+          "avif": "package-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "package-1280.webp",
+          "avif": "package-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "package-1920.webp",
+          "avif": "package-1920.avif",
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "type": "dimensions",
+      "label": "Dimension Drawing",
+      "priority": 10,
+      "alt": "schottky diode - Dimension Drawing",
+      "primary": "dimensions-320.webp",
+      "sizes": [
+        {
+          "width": 320,
+          "webp": "dimensions-320.webp",
+          "avif": "dimensions-320.avif",
+          "size": 5566
+        },
+        {
+          "width": 640,
+          "webp": "dimensions-640.webp",
+          "avif": "dimensions-640.avif",
+          "size": 14644
+        },
+        {
+          "width": 960,
+          "webp": "dimensions-960.webp",
+          "avif": "dimensions-960.avif",
+          "size": 14644
+        },
+        {
+          "width": 1280,
+          "webp": "dimensions-1280.webp",
+          "avif": "dimensions-1280.avif",
+          "size": 14644
+        },
+        {
+          "width": 1920,
+          "webp": "dimensions-1920.webp",
+          "avif": "dimensions-1920.avif",
+          "size": 14644
+        }
+      ]
+    }
+  ]
+}

@@ -31,12 +31,50 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2,json}'],
+        globPatterns: ['**/*.{js,css,html,svg,png,webp,avif,woff2,json}'],
+        globIgnores: ['**/node_modules/**/*'],
         runtimeCaching: [
           {
             urlPattern: /^https?:\/\/.*\/api\/.*/i,
             handler: 'NetworkFirst',
             options: { cacheName: 'api-cache', expiration: { maxEntries: 50, maxAgeSeconds: 86400 } },
+          },
+          // Cache component images: CacheFirst for fast offline access
+          {
+            urlPattern: /\/images\/components\/.+\/.+\.(webp|avif)/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'component-images',
+              expiration: {
+                maxEntries: 2000,
+                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
+              },
+              rangeRequests: true,
+            },
+          },
+          // Cache image manifest files
+          {
+            urlPattern: /\/images\/components\/.+\/manifest\.json/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'component-manifests',
+              expiration: {
+                maxEntries: 200,
+                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
+              },
+            },
+          },
+          // Cache flat component images (legacy fallback)
+          {
+            urlPattern: /\/images\/components\/.+\.(webp|jpg)/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'component-images-legacy',
+              expiration: {
+                maxEntries: 200,
+                maxAgeSeconds: 60 * 60 * 24 * 30,
+              },
+            },
           },
         ],
       },

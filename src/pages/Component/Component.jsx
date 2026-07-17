@@ -4,6 +4,8 @@ import { Bookmark, Check, Copy, Share2, ChevronRight } from 'lucide-react'
 import SEOHead from '../../shared/seo/SEOHead'
 import { Card, Badge, Accordion } from '../../shared/components/common'
 import Button from '../../shared/components/buttons/Button'
+import ImageGallery, { useImageManifest } from '../../shared/components/images/ImageGallery'
+import EducationalVisuals from '../../shared/components/images/EducationalVisuals'
 import ComponentImage from '../../shared/components/images/ComponentImage'
 import useStore from '../../shared/store/useStore'
 import { loadComponentData } from '../../shared/services/contentLoader'
@@ -17,6 +19,7 @@ export default function Component() {
   const [loading, setLoading] = useState(true)
   const [copiedFormula, setCopiedFormula] = useState(null)
   const isBookmarked = bookmarks.includes(id)
+  const { manifest: imageManifest, loading: manifestLoading } = useImageManifest(id)
 
   useEffect(() => {
     setLoading(true)
@@ -40,7 +43,31 @@ export default function Component() {
 
   return (
     <>
-      <SEOHead title={name} description={overview?.shortDescription} path={`/component/${id}`} />
+      <SEOHead
+        title={name}
+        description={overview?.shortDescription}
+        path={`/component/${id}`}
+        image={imageManifest?.gallery?.[0]?.sizes?.[0] ? `/images/components/${id}/${imageManifest.gallery[0].sizes[0].webp}` : undefined}
+        structuredData={{
+          '@context': 'https://schema.org',
+          '@type': 'TechArticle',
+          headline: `${name} - Electronics Component Guide`,
+          description: overview?.shortDescription || '',
+          image: imageManifest?.gallery?.[0]?.sizes?.[0]
+            ? `https://electronicsinfo.vercel.app/images/components/${id}/${imageManifest.gallery[0].sizes[0].webp}`
+            : undefined,
+          author: { '@type': 'Organization', name: 'ElectronicsInfo' },
+          about: {
+            '@type': 'Thing',
+            name: name,
+            description: `${name} electronic component`,
+          },
+          category: overview?.category || 'electronics',
+          datePublished: '2026-01-01',
+          educationalUse: 'learning',
+          teaches: `${name} - how it works, types, specifications, applications, formulas, and safety`,
+        }}
+      />
       <div className="min-h-screen pt-16 pb-24">
         <div className="max-w-4xl mx-auto px-4">
           {/* Breadcrumbs */}
@@ -80,34 +107,37 @@ export default function Component() {
 
           {overview && (
             <div className="mb-10">
-              <div className="flex flex-col md:flex-row gap-8 mb-8">
-                <div className="md:w-1/3 shrink-0">
-                  <ComponentImage
-                    componentId={id}
-                    componentName={name}
-                    size="hero"
-                    aspectRatio="4/3"
-                    objectFit="contain"
-                    className="bg-[var(--color-surface)]"
-                  />
-                </div>
-                <div className="md:w-2/3 flex flex-col justify-center">
-                  <p className="text-base md:text-lg text-[var(--color-text-secondary)] leading-relaxed">{overview.shortDescription}</p>
-                </div>
+              {/* Premium Image Gallery */}
+              <div className="mb-10">
+                <ImageGallery
+                  manifest={imageManifest}
+                  componentId={id}
+                  componentName={name}
+                />
+                <EducationalVisuals
+                  manifest={imageManifest}
+                  componentId={id}
+                  componentName={name}
+                />
               </div>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <Card variant="flat">
-                  <h3 className="font-semibold text-sm mb-1">What is it?</h3>
-                  <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed">{overview.whatIsIt}</p>
-                </Card>
-                <Card variant="flat">
-                  <h3 className="font-semibold text-sm mb-1">Why it exists</h3>
-                  <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed">{overview.whyExists}</p>
-                </Card>
-                <Card variant="flat">
-                  <h3 className="font-semibold text-sm mb-1">Where it's used</h3>
-                  <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed">{overview.whereUsed}</p>
-                </Card>
+
+              {/* Description & Overview Cards */}
+              <div className="max-w-4xl mx-auto">
+                <p className="text-base md:text-lg text-[var(--color-text-secondary)] leading-relaxed mb-8">{overview.shortDescription}</p>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                  <Card variant="flat">
+                    <h3 className="font-semibold text-sm mb-1">What is it?</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed">{overview.whatIsIt}</p>
+                  </Card>
+                  <Card variant="flat">
+                    <h3 className="font-semibold text-sm mb-1">Why it exists</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed">{overview.whyExists}</p>
+                  </Card>
+                  <Card variant="flat">
+                    <h3 className="font-semibold text-sm mb-1">Where it's used</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed">{overview.whereUsed}</p>
+                  </Card>
+                </div>
               </div>
             </div>
           )}

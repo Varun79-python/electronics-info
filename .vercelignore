@@ -7,3 +7,5 @@ scripts
 .idea
 .DS_Store
 *.log
+info.txt
+info.html

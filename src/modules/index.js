@@ -1,6 +1,0 @@
-export { default as ComponentViewer2D } from '../../modules/component-viewer/ComponentViewer2D'
-export { default as AnimationCanvas } from '../../modules/animation/AnimationCanvas'
-export { default as QuizEngine } from '../../modules/quiz/QuizEngine'
-export { default as GlossaryList } from '../../modules/glossary/GlossaryList'
-export { default as InterviewSection } from '../../modules/interview/InterviewSection'
-export { default as ResistorCalc } from '../../modules/calculators/resistor/ResistorCalc'

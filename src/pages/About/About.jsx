@@ -11,7 +11,7 @@ export default function About() {
 
         <Card variant="flat" className="mb-6">
           <div className="flex items-center gap-3 mb-4">
-            <span className="text-3xl">⚡</span>
+            <img src="/logo/logo-192.png" alt="Logo" className="h-9 w-9" />
             <div>
               <h2 className="text-xl font-bold">{APP_INFO.name}</h2>
               <p className="text-sm text-[var(--color-text-secondary)]">{APP_INFO.tagline}</p>

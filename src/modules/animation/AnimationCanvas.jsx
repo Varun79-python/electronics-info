@@ -10,7 +10,7 @@ export default function AnimationCanvas({ componentId, animationId }) {
     <div className="rounded-[var(--radius-lg)] overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)]">
       <div className="flex items-center justify-center p-8 min-h-[200px]">
         <div className="text-center">
-          <div className="text-4xl mb-2">⚡</div>
+          <img src="/logo/logo-192.png" alt="Logo" className="h-10 w-10 mx-auto mb-2" />
           <p className="text-sm text-[var(--color-text-secondary)]">Animation Preview</p>
           <p className="text-xs text-[var(--color-text-secondary)] mt-1">
             {componentId} — {animationId || 'default'}

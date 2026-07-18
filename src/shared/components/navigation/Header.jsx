@@ -73,7 +73,7 @@ export default function Header() {
       'flex items-center justify-between px-4 md:px-6'
     )}>
       <Link to="/" className="flex items-center gap-2 text-lg font-bold tracking-tight no-underline text-[var(--color-text)] shrink-0">
-        <span className="text-lg">⚡</span>
+        <img src="/logo/logo-32.png" alt="Logo" className="h-6 w-6" />
         <span className="hidden sm:inline">ElectronicsInfo</span>
       </Link>
 

@@ -5,7 +5,6 @@ import { Card, Badge } from '../../shared/components/common'
 import ComponentImage from '../../shared/components/images/ComponentImage'
 import componentsIndex from '../../shared/constants/components'
 import categories from '../../shared/constants/categories'
-import { cn } from '../../shared/utils'
 
 export default function Categories() {
   const { category } = useParams()

@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <Link to="/" className="text-lg font-bold flex items-center gap-2 mb-3 no-underline text-[var(--color-text)]">
-              <span className="text-lg">⚡</span>
+              <img src="/logo/logo-32.png" alt="Logo" className="h-6 w-6" />
               <span>{APP_INFO.name}</span>
             </Link>
             <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed max-w-xs">

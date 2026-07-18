@@ -1,4 +1,4 @@
-export default function AITutor({ componentId, query }) {
+export default function AITutor({ componentId: _componentId, query }) {
   return (
     <div className="rounded-[var(--radius-lg)] p-6 bg-[var(--color-surface)] border border-[var(--color-border)]">
       <div className="flex items-center gap-2 mb-3">

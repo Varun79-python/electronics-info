@@ -6,6 +6,5 @@
   "whatIsIt": "A buzzer is an audible signaling device that produces a tone from an electrical signal, using electromagnetic or piezoelectric actuation.",
   "whyExists": "Buzzers provide simple, low-cost audible alerts and notifications.",
   "whereUsed": "They are used in alarms, timers, appliances, and user interfaces.",
-  "thumbnail": "/assets/images/components/buzzer/thumbnail.svg",
-  "schematic": "/assets/components/buzzer/schematic/symbol.svg"
+  "thumbnail": "/images/components/buzzer/buzzer-640.webp"
 }

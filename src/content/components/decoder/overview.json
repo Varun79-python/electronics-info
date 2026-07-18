@@ -6,6 +6,5 @@
   "whatIsIt": "A decoder converts a binary code on its inputs into one active output line among many.",
   "whyExists": "Decoders enable addressing, chip-select, and display driving from few control lines.",
   "whereUsed": "Used in memory selection, 7-segment display, and control logic.",
-  "thumbnail": "/assets/images/components/decoder/thumbnail.svg",
-  "schematic": "/assets/components/decoder/schematic/symbol.svg"
+  "thumbnail": "/images/components/decoder/decoder-640.webp"
 }

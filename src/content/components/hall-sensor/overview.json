@@ -6,6 +6,5 @@
   "whatIsIt": "A Hall-effect sensor detects magnetic fields and is used for proximity, position, and current sensing.",
   "whyExists": "Non-contact magnetic sensing is robust and immune to dust, light, and wear.",
   "whereUsed": "Used in speedometers, BLDC motors, and contactless current measurement.",
-  "thumbnail": "/assets/images/components/hall-sensor/thumbnail.svg",
-  "schematic": "/assets/components/hall-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/hall-sensor/hall-sensor-640.webp"
 }

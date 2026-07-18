@@ -6,6 +6,5 @@
   "whatIsIt": "A solenoid is a coil that produces a linear (or rotary) mechanical motion when energized, often pushing a plunger into a magnetic field.",
   "whyExists": "Solenoids convert electrical signals into linear actuation for valves, locks, and mechanisms.",
   "whereUsed": "They are used in door locks, fuel injectors, valves, and vending machines.",
-  "thumbnail": "/assets/images/components/solenoid/thumbnail.svg",
-  "schematic": "/assets/components/solenoid/schematic/symbol.svg"
+  "thumbnail": "/images/components/solenoid/solenoid-640.webp"
 }

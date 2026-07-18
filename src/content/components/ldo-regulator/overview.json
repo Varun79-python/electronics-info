@@ -6,6 +6,5 @@
   "whatIsIt": "A Low-Dropout (LDO) regulator provides a stable output voltage with very small difference between input and output.",
   "whyExists": "LDOs efficiently regulate from sources close to the output voltage with low noise.",
   "whereUsed": "Used in battery-powered and noise-sensitive analog circuits.",
-  "thumbnail": "/assets/images/components/ldo-regulator/thumbnail.svg",
-  "schematic": "/assets/components/ldo-regulator/schematic/symbol.svg"
+  "thumbnail": "/images/components/ldo-regulator/ldo-regulator-640.webp"
 }

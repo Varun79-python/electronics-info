@@ -6,6 +6,5 @@
   "whatIsIt": "A relay is an electrically operated switch that uses an electromagnet to mechanically open or close contacts, providing isolation between control and load circuits.",
   "whyExists": "Relays let a low-power signal switch high-power or high-voltage loads and isolate circuits galvanically.",
   "whereUsed": "They are used in automotive systems, industrial control, home appliances, and protection circuits.",
-  "thumbnail": "/assets/images/components/relay/thumbnail.svg",
-  "schematic": "/assets/components/relay/schematic/symbol.svg"
+  "thumbnail": "/images/components/relay/relay-640.webp"
 }

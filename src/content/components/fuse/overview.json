@@ -6,6 +6,5 @@
   "whatIsIt": "A fuse is a sacrificial overcurrent protection device: a metal link that melts and opens the circuit when current exceeds a rated value.",
   "whyExists": "Fuses protect wiring and devices from overcurrent and short circuits by breaking the fault quickly.",
   "whereUsed": "Found in every power supply, appliance, and distribution board.",
-  "thumbnail": "/assets/images/components/fuse/thumbnail.svg",
-  "schematic": "/assets/components/fuse/schematic/symbol.svg"
+  "thumbnail": "/images/components/fuse/fuse-640.webp"
 }

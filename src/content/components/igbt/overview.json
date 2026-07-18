@@ -6,6 +6,5 @@
   "whatIsIt": "An IGBT (insulated-gate bipolar transistor) combines a MOSFET input with a bipolar output, giving high-voltage, high-current switching with low on-state loss.",
   "whyExists": "IGBTs bridge the gap between MOSFETs (fast, low voltage) and BJTs (high voltage, high conduction loss), ideal for power conversion.",
   "whereUsed": "They are used in motor drives, inverters, welding, trains, and renewable energy systems.",
-  "thumbnail": "/assets/images/components/igbt/thumbnail.svg",
-  "schematic": "/assets/components/igbt/schematic/symbol.svg"
+  "thumbnail": "/images/components/igbt/igbt-640.webp"
 }

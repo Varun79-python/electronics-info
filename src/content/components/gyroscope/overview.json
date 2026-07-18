@@ -6,6 +6,5 @@
   "whatIsIt": "A gyroscope measures angular velocity (rotation rate) about one or more axes.",
   "whyExists": "Rotation sensing enables stabilization, navigation, and gesture control.",
   "whereUsed": "Used in drones, phones, gaming, and inertial navigation.",
-  "thumbnail": "/assets/images/components/gyroscope/thumbnail.svg",
-  "schematic": "/assets/components/gyroscope/schematic/symbol.svg"
+  "thumbnail": "/images/components/gyroscope/gyroscope-640.webp"
 }

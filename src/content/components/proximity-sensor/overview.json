@@ -6,6 +6,5 @@
   "whatIsIt": "A proximity sensor detects the presence of an object without physical contact.",
   "whyExists": "Non-contact detection improves reliability and enables automation.",
   "whereUsed": "Used in phones, industrial automation, and touchless switches.",
-  "thumbnail": "/assets/images/components/proximity-sensor/thumbnail.svg",
-  "schematic": "/assets/components/proximity-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/proximity-sensor/proximity-sensor-640.webp"
 }

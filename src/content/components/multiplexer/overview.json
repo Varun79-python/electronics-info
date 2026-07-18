@@ -6,6 +6,5 @@
   "whatIsIt": "A multiplexer (MUX) selects one of many inputs and routes it to a single output based on a select code.",
   "whyExists": "MUXes save pins and wires by sharing one line among many signals.",
   "whereUsed": "Used in data selection, Analog-to-Digital Converter (ADC) input switching, and buses.",
-  "thumbnail": "/assets/images/components/multiplexer/thumbnail.svg",
-  "schematic": "/assets/components/multiplexer/schematic/symbol.svg"
+  "thumbnail": "/images/components/multiplexer/multiplexer-640.webp"
 }

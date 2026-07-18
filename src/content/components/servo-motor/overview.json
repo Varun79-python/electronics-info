@@ -6,6 +6,5 @@
   "whatIsIt": "A servo motor is a motor with integrated feedback (encoder/resolver) and control, providing precise position, speed, or torque.",
   "whyExists": "Servos deliver closed-loop accuracy for dynamic motion control in automation and robotics.",
   "whereUsed": "They are used in robotics, CNC, cameras, drones, and industrial automation.",
-  "thumbnail": "/assets/images/components/servo-motor/thumbnail.svg",
-  "schematic": "/assets/components/servo-motor/schematic/symbol.svg"
+  "thumbnail": "/images/components/servo-motor/servo-motor-640.webp"
 }

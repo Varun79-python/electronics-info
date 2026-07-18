@@ -6,6 +6,5 @@
   "whatIsIt": "A battery stores chemical energy and converts it to electrical energy, providing portable power.",
   "whyExists": "Batteries enable cordless, mobile, and backup power.",
   "whereUsed": "Used in phones, cars, laptops, and grid storage.",
-  "thumbnail": "/assets/images/components/battery/thumbnail.svg",
-  "schematic": "/assets/components/battery/schematic/symbol.svg"
+  "thumbnail": "/images/components/battery/battery-640.webp"
 }

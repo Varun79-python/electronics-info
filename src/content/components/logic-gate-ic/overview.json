@@ -6,6 +6,5 @@
   "whatIsIt": "A logic-gate IC integrates several basic logic gates (AND, OR, NOT, etc.) in one package.",
   "whyExists": "Logic ICs implement combinational and sequential digital functions compactly.",
   "whereUsed": "Used in control, interfacing, and glue logic everywhere digital.",
-  "thumbnail": "/assets/images/components/logic-gate-ic/thumbnail.svg",
-  "schematic": "/assets/components/logic-gate-ic/schematic/symbol.svg"
+  "thumbnail": "/images/components/logic-gate-ic/logic-gate-ic-640.webp"
 }

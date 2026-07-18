@@ -6,6 +6,5 @@
   "whatIsIt": "A stepper motor rotates in discrete steps, positioning precisely by energizing stator coils in sequence under electronic control.",
   "whyExists": "Steppers give open-loop precise positioning without encoders, ideal for automation.",
   "whereUsed": "They are used in 3D printers, CNC machines, cameras, and robotics.",
-  "thumbnail": "/assets/images/components/stepper-motor/thumbnail.svg",
-  "schematic": "/assets/components/stepper-motor/schematic/symbol.svg"
+  "thumbnail": "/images/components/stepper-motor/stepper-motor-640.webp"
 }

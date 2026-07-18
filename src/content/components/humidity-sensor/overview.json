@@ -6,6 +6,5 @@
   "whatIsIt": "A humidity sensor measures the amount of water vapor in air (relative or absolute humidity).",
   "whyExists": "Humidity control is important for comfort, storage, and industrial processes.",
   "whereUsed": "Used in HVAC, weather stations, and agriculture.",
-  "thumbnail": "/assets/images/components/humidity-sensor/thumbnail.svg",
-  "schematic": "/assets/components/humidity-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/humidity-sensor/humidity-sensor-640.webp"
 }

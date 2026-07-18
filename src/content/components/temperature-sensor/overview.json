@@ -6,6 +6,5 @@
   "whatIsIt": "A temperature sensor converts temperature into an electrical signal (resistance, voltage, or digital value).",
   "whyExists": "Temperature monitoring is essential for safety, control, and process automation.",
   "whereUsed": "Used in thermostats, HVAC, medical devices, and industrial control.",
-  "thumbnail": "/assets/images/components/temperature-sensor/thumbnail.svg",
-  "schematic": "/assets/components/temperature-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/temperature-sensor/temperature-sensor-640.webp"
 }

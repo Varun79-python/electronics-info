@@ -6,6 +6,5 @@
   "whatIsIt": "A JFET (junction field-effect transistor) is a voltage-controlled device where a reverse-biased p-n junction gate depletes a channel to control current.",
   "whyExists": "JFETs offer very high input impedance and low noise, useful for analog front-ends and switches.",
   "whereUsed": "They are used in low-noise amplifiers, buffers, and analog switches.",
-  "thumbnail": "/assets/images/components/jfet/thumbnail.svg",
-  "schematic": "/assets/components/jfet/schematic/symbol.svg"
+  "thumbnail": "/images/components/jfet/jfet-640.webp"
 }

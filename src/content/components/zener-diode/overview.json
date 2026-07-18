@@ -6,6 +6,5 @@
   "whatIsIt": "A Zener diode is a silicon diode designed to operate in reverse breakdown, maintaining a stable reference voltage across a wide current range.",
   "whyExists": "Zeners provide simple, low-cost voltage regulation and reference without active circuitry.",
   "whereUsed": "They are used in shunt regulators, reference sources, and overvoltage protection.",
-  "thumbnail": "/assets/images/components/zener-diode/thumbnail.svg",
-  "schematic": "/assets/components/zener-diode/schematic/symbol.svg"
+  "thumbnail": "/images/components/zener-diode/zener-diode-640.webp"
 }

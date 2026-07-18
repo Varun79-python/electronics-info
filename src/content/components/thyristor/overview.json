@@ -6,6 +6,5 @@
   "whatIsIt": "A thyristor (SCR) is a four-layer p-n-p-n semiconductor device that acts as a latching switch, conducting only after a gate trigger and continuing until current falls below hold.",
   "whyExists": "Thyristors provide robust, high-power Alternating Current (AC)/Direct Current (DC) control with simple gate triggering.",
   "whereUsed": "They are used in phase-controlled rectifiers, lamp dimmers, motor speed control, and HVDC transmission.",
-  "thumbnail": "/assets/images/components/thyristor/thumbnail.svg",
-  "schematic": "/assets/components/thyristor/schematic/symbol.svg"
+  "thumbnail": "/images/components/thyristor/thyristor-640.webp"
 }

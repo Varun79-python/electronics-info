@@ -6,6 +6,5 @@
   "whatIsIt": "An encoder converts one active input (or a position) into a binary code on its outputs.",
   "whyExists": "Encoders compress many input lines into a few coded outputs.",
   "whereUsed": "Used in keyboards, position sensing, and priority logic.",
-  "thumbnail": "/assets/images/components/encoder/thumbnail.svg",
-  "schematic": "/assets/components/encoder/schematic/symbol.svg"
+  "thumbnail": "/images/components/encoder/encoder-640.webp"
 }

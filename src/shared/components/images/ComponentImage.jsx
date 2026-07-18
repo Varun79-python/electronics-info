@@ -35,8 +35,8 @@ export default function ComponentImage({
 
   const containerClass = sizeClasses[size] || sizeClasses.md
 
-  // Derive the image path
-  const src = `/images/components/${componentId}.webp`
+  // Derive the image path — thumbnail stored inside component subfolder
+  const src = `/images/components/${componentId}/thumbnail.png`
 
   // Derive alt text from component name
   const altText = componentName

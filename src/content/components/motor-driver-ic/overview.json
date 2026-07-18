@@ -6,6 +6,5 @@
   "whatIsIt": "A motor driver IC controls the direction and speed of a motor, typically using an H-bridge.",
   "whyExists": "MCUs can't directly drive motor currents; drivers provide the power interface.",
   "whereUsed": "Used in robots, drones, and toys with Direct Current (DC)/stepper motors.",
-  "thumbnail": "/assets/images/components/motor-driver-ic/thumbnail.svg",
-  "schematic": "/assets/components/motor-driver-ic/schematic/symbol.svg"
+  "thumbnail": "/images/components/motor-driver-ic/motor-driver-ic-640.webp"
 }

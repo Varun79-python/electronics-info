@@ -6,6 +6,5 @@
   "whatIsIt": "A loudspeaker converts electrical audio signals into sound by driving a diaphragm with a voice coil in a magnetic field.",
   "whyExists": "Speakers are the primary transducers that let us hear electronic audio.",
   "whereUsed": "They are used in phones, TVs, headphones, PA systems, and musical instruments.",
-  "thumbnail": "/assets/images/components/speaker/thumbnail.svg",
-  "schematic": "/assets/components/speaker/schematic/symbol.svg"
+  "thumbnail": "/images/components/speaker/speaker-640.webp"
 }

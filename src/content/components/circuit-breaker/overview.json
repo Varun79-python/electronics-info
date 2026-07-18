@@ -6,6 +6,5 @@
   "whatIsIt": "A circuit breaker is an automatically operated electrical switch that protects a circuit from overcurrent and can be reset.",
   "whyExists": "Breakers protect wiring and allow reset without replacement, unlike fuses.",
   "whereUsed": "Used in homes, industry, and vehicles for distribution protection.",
-  "thumbnail": "/assets/images/components/circuit-breaker/thumbnail.svg",
-  "schematic": "/assets/components/circuit-breaker/schematic/symbol.svg"
+  "thumbnail": "/images/components/circuit-breaker/circuit-breaker-640.webp"
 }

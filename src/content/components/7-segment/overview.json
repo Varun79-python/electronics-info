@@ -6,6 +6,5 @@
   "whatIsIt": "A seven-segment display shows decimal digits using seven LED (or LCD) segments arranged as an '8'.",
   "whyExists": "It provides a simple, cheap way to display numbers.",
   "whereUsed": "Used in clocks, meters, and counters.",
-  "thumbnail": "/assets/images/components/7-segment/thumbnail.svg",
-  "schematic": "/assets/components/7-segment/schematic/symbol.svg"
+  "thumbnail": "/images/components/7-segment/7-segment-640.webp"
 }

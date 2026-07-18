@@ -13,7 +13,7 @@
  */
 
 import sharp from 'sharp'
-import { existsSync, mkdirSync, readFileSync, writeFileSync, copyFileSync, readdirSync, statSync } from 'fs'
+import { existsSync, mkdirSync, readFileSync, writeFileSync, readdirSync, statSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -152,19 +152,6 @@ async function buildComponentImageSystem() {
 
     log(`Processing: ${id} (${(sizeBefore / 1024).toFixed(1)} KB)`)
 
-    // Copy primary image as "front"
-    const primaryExt = inputPath.endsWith('.jpg') ? '.jpg' : '.webp'
-    const primaryDest = join(componentDir, `front${primaryExt}`)
-    if (!existsSync(primaryDest)) {
-      copyFileSync(inputPath, primaryDest)
-    }
-
-    // Copy original to folder for reference
-    const origDest = join(componentDir, `original${primaryExt}`)
-    if (!existsSync(origDest)) {
-      copyFileSync(inputPath, origDest)
-    }
-
     // Generate variants
     const gallery = await generateVariants(inputPath, componentDir, id)
 
@@ -182,7 +169,7 @@ async function buildComponentImageSystem() {
       name: id.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
       updated: new Date().toISOString(),
       totalImages: gallery.reduce((sum, g) => sum + g.sizes.length, 0),
-      primary: `front${primaryExt}`,
+      // (primary field intentionally omitted — no code reads it)
       gallery,
     }
 

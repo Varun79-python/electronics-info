@@ -6,6 +6,5 @@
   "whatIsIt": "A breadboard is a reusable solderless board with spring clips for quickly prototyping circuits.",
   "whyExists": "Breadboards let you build and modify circuits without soldering.",
   "whereUsed": "Used by students, hobbyists, and for quick prototypes.",
-  "thumbnail": "/assets/images/components/breadboard/thumbnail.svg",
-  "schematic": "/assets/components/breadboard/schematic/symbol.svg"
+  "thumbnail": "/images/components/breadboard/breadboard-640.webp"
 }

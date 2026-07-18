@@ -27,6 +27,29 @@ const MAX_ZOOM = 5
 const MIN_ZOOM = 1
 const SWIPE_THRESHOLD = 50
 
+// ─── Default Gallery Views ───────────────────────────────────────────────────
+const GALLERY_VIEWS = [
+  { type: 'front', label: 'Front View', alt: 'Front view photograph' },
+  { type: 'angle', label: '45 Degree Angle View', alt: 'Angled view photograph' },
+  { type: 'package', label: 'Package Variants', alt: 'Package variant views' },
+  { type: 'internal', label: 'Internal Construction', alt: 'Internal construction view' },
+  { type: 'pinout', label: 'Pinout Diagram', alt: 'Pinout diagram' },
+  { type: 'symbol', label: 'Circuit Symbol', alt: 'Circuit symbol' },
+  { type: 'breadboard', label: 'Breadboard Setup', alt: 'Breadboard setup' },
+  { type: 'pcb', label: 'PCB Layout', alt: 'PCB layout' },
+  { type: 'application', label: 'Application Circuit', alt: 'Application circuit' },
+  { type: 'dimensions', label: 'Dimension Drawing', alt: 'Dimension drawing' },
+]
+
+export function getDefaultGallery(componentId) {
+  return {
+    gallery: GALLERY_VIEWS.map(view => ({
+      ...view,
+      sizes: [{ width: 320, webp: `${view.type}.png` }]
+    }))
+  }
+}
+
 // ─── Image Sizes ─────────────────────────────────────────────────────────────
 const BREAKPOINTS = [320, 640, 960, 1280, 1920]
 
@@ -34,24 +57,25 @@ const BREAKPOINTS = [320, 640, 960, 1280, 1920]
  * Build a <picture> element's source and img props from a gallery item.
  * Falls back gracefully if sizes are missing.
  */
-function buildPictureProps(item) {
+function buildPictureProps(item, componentId) {
   if (!item || !item.sizes || item.sizes.length === 0) {
     // Fallback: use the component's flat image path
     return { src: null, srcSet: null, fallback: null }
   }
 
+  const base = `/images/components/${componentId}/`
   const sorted = [...item.sizes].sort((a, b) => a.width - b.width)
 
   const webpSources = sorted.map(s =>
-    `/${s.webp} ${s.width}w`
+    `${base}${s.webp} ${s.width}w`
   ).join(', ')
 
-  const avifSources = sorted.length > 0
-    ? sorted.map(s => `/${s.avif} ${s.width}w`).join(', ')
+  const avifSources = sorted.some(s => s.avif)
+    ? sorted.map(s => `${base}${s.avif} ${s.width}w`).join(', ')
     : null
 
-  const fallbackSrc = `/${sorted[0].webp}`
-  const srcSet = sorted.map(s => `/${s.webp} ${s.width}w`).join(', ')
+  const fallbackSrc = `${base}${sorted[0].webp}`
+  const srcSet = sorted.map(s => `${base}${s.webp} ${s.width}w`).join(', ')
 
   return { webpSources, avifSources, fallbackSrc, srcSet, sorted }
 }
@@ -156,7 +180,7 @@ export default function ImageGallery({ manifest, componentId, componentName }) {
     )
   }
 
-  const pictureProps = buildPictureProps(activeItem)
+  const pictureProps = buildPictureProps(activeItem, componentId)
 
   return (
     <div className="w-full" role="region" aria-label={`${componentName || componentId} image gallery`}>
@@ -310,7 +334,8 @@ export default function ImageGallery({ manifest, componentId, componentName }) {
         >
           {gallery.map((item, index) => {
             const isActive = index === activeIndex
-            const thumbSrc = item.sizes?.[0] ? `/${item.sizes[0].webp}` : null
+            const base = `/images/components/${componentId}/`
+            const thumbSrc = item.sizes?.[0] ? `${base}${item.sizes[0].webp}` : null
             return (
               <button
                 key={item.type}
@@ -383,33 +408,16 @@ export default function ImageGallery({ manifest, componentId, componentName }) {
   )
 }
 
-// ─── Hook to load a component's image manifest ───────────────────────────────
+// ─── Hook to get a component's image manifest (no external fetch needed) ────
 export function useImageManifest(componentId) {
   const [manifest, setManifest] = useState(null)
   const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(false)
 
   useEffect(() => {
     if (!componentId) return
-    setLoading(true)
-    setError(false)
-
-    fetch(`/images/components/${componentId}/manifest.json`)
-      .then(res => {
-        if (!res.ok) throw new Error('Not found')
-        return res.json()
-      })
-      .then(data => {
-        setManifest(data)
-        setLoading(false)
-      })
-      .catch(() => {
-        // Fallback: try flat image
-        setManifest(null)
-        setLoading(false)
-        setError(true)
-      })
+    setManifest(getDefaultGallery(componentId))
+    setLoading(false)
   }, [componentId])
 
-  return { manifest, loading, error }
+  return { manifest, loading, error: false }
 }

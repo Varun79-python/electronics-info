@@ -57,7 +57,7 @@ export default function SEOHead({ title, description, path, image, structuredDat
       {/* Additional SEO */}
       <meta name="robots" content="index, follow" />
       <meta name="author" content={siteName} />
-      <link rel="apple-touch-icon" href="/icons/icon-192.svg" />
+      <link rel="apple-touch-icon" href="/icons/icon-192.png" />
     </Helmet>
   )
 }

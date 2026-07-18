@@ -6,6 +6,5 @@
   "whatIsIt": "A touch sensor detects physical contact or proximity of a finger, enabling intuitive input.",
   "whyExists": "Touch input replaces buttons for modern, seamless human interfaces.",
   "whereUsed": "Used in phones, kiosks, and appliances.",
-  "thumbnail": "/assets/images/components/touch-sensor/thumbnail.svg",
-  "schematic": "/assets/components/touch-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/touch-sensor/touch-sensor-640.webp"
 }

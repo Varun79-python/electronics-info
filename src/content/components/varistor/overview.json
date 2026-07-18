@@ -6,6 +6,5 @@
   "whatIsIt": "A varistor is a voltage-dependent resistor whose resistance drops sharply when the applied voltage exceeds a threshold, used primarily for surge and overvoltage protection.",
   "whyExists": "Varistors clamp dangerous voltage spikes, protecting sensitive electronics from lightning and switching transients.",
   "whereUsed": "They are found across power inputs, telephone lines, and industrial equipment for surge suppression.",
-  "thumbnail": "/assets/images/components/varistor/thumbnail.svg",
-  "schematic": "/assets/components/varistor/schematic/symbol.svg"
+  "thumbnail": "/images/components/varistor/varistor-640.webp"
 }

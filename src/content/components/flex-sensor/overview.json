@@ -6,6 +6,5 @@
   "whatIsIt": "A flex (bend) sensor changes resistance as it is bent, measuring the degree of deflection.",
   "whyExists": "Flex sensing enables low-cost gesture and bend-angle measurement.",
   "whereUsed": "Used in gloves, robotics, and wearable interfaces.",
-  "thumbnail": "/assets/images/components/flex-sensor/thumbnail.svg",
-  "schematic": "/assets/components/flex-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/flex-sensor/flex-sensor-640.webp"
 }

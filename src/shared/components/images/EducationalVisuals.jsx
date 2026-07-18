@@ -77,7 +77,8 @@ export default function EducationalVisuals({ manifest, componentId, componentNam
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             {section.items.map((item) => {
-              const thumbSrc = item.sizes?.[0] ? `/${item.sizes[0].webp}` : null
+              const base = `/images/components/${componentId}/`
+              const thumbSrc = item.sizes?.[0] ? `${base}${item.sizes[0].webp}` : null
               if (!thumbSrc) return null
 
               return (
@@ -91,16 +92,13 @@ export default function EducationalVisuals({ manifest, componentId, componentNam
                   className="group block rounded-[var(--radius-md)] overflow-hidden border border-[var(--color-border)] bg-[var(--color-surface)] hover:border-[var(--color-accent)] transition-colors"
                 >
                   <div className="aspect-[4/3] overflow-hidden bg-[var(--color-elevated)]">
-                    <picture>
-                      <source srcSet={thumbSrc} type="image/webp" />
-                      <img
-                        src={thumbSrc}
-                        alt={item.alt || `${componentName || componentId} — ${item.label}`}
-                        className="w-full h-full object-contain p-2 group-hover:scale-105 transition-transform duration-300"
-                        loading="lazy"
-                        decoding="async"
-                      />
-                    </picture>
+                    <img
+                      src={thumbSrc}
+                      alt={item.alt || `${componentName || componentId} — ${item.label}`}
+                      className="w-full h-full object-contain p-2 group-hover:scale-105 transition-transform duration-300"
+                      loading="lazy"
+                      decoding="async"
+                    />
                   </div>
                   <div className="px-2.5 py-2">
                     <p className="text-xs font-medium text-[var(--color-text)] truncate">{item.label}</p>

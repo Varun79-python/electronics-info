@@ -6,6 +6,5 @@
   "whatIsIt": "A diode is a two-terminal electronic component that conducts electric current primarily in one direction (asymmetric conductance). It has low resistance in one direction and high resistance in the other.",
   "whyExists": "Diodes allow current to pass in one direction while blocking it in the opposite direction. This enables rectification (Alternating Current (AC) to Direct Current (DC) conversion), signal demodulation, and circuit protection.",
   "whereUsed": "Diodes are used in power supplies (rectifiers), radio demodulation, voltage regulation (Zener), light emission (LED), and protection circuits.",
-  "thumbnail": "/assets/images/components/diode/thumbnail.svg",
-  "schematic": "/assets/components/diode/schematic/symbol.svg"
+  "thumbnail": "/images/components/diode/diode-640.webp"
 }

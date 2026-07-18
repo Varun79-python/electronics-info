@@ -6,6 +6,5 @@
   "whatIsIt": "A trimmer (trimmer potentiometer) is a small, preset variable resistor adjusted occasionally with a screwdriver to calibrate a circuit.",
   "whyExists": "Trimmers let manufacturers and technicians fine-tune resistance without replacing parts, compensating for component tolerances.",
   "whereUsed": "They sit on PCBs for gain, offset, and frequency calibration in instruments and consumer electronics.",
-  "thumbnail": "/assets/images/components/trimmer/thumbnail.svg",
-  "schematic": "/assets/components/trimmer/schematic/symbol.svg"
+  "thumbnail": "/images/components/trimmer/trimmer-640.webp"
 }

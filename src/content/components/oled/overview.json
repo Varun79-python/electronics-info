@@ -6,6 +6,5 @@
   "whatIsIt": "An OLED (Organic LED) display uses organic compounds that emit light when current flows, pixel by pixel.",
   "whyExists": "OLEDs give true black, thin, flexible, high-contrast displays without a backlight.",
   "whereUsed": "Used in premium phones, wearables, and TVs.",
-  "thumbnail": "/assets/images/components/oled/thumbnail.svg",
-  "schematic": "/assets/components/oled/schematic/symbol.svg"
+  "thumbnail": "/images/components/oled/oled-640.webp"
 }

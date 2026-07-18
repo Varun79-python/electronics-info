@@ -6,6 +6,5 @@
   "whatIsIt": "A counter is a sequential circuit that counts clock pulses, producing a binary (or other) sequence.",
   "whyExists": "Counting is needed for timing, addressing, and frequency division.",
   "whereUsed": "Used in timers, frequency dividers, and digital clocks.",
-  "thumbnail": "/assets/images/components/counter/thumbnail.svg",
-  "schematic": "/assets/components/counter/schematic/symbol.svg"
+  "thumbnail": "/images/components/counter/counter-640.webp"
 }

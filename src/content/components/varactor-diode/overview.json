@@ -6,6 +6,5 @@
   "whatIsIt": "A varactor (varicap) diode is a reverse-biased p-n junction whose depletion capacitance varies with applied voltage, acting as a voltage-controlled capacitor.",
   "whyExists": "Varactors provide electronic tuning without mechanical parts, essential for Radio Frequency (RF) and PLL circuits.",
   "whereUsed": "They are used in voltage-controlled oscillators, tuners, and frequency synthesizers.",
-  "thumbnail": "/assets/images/components/varactor-diode/thumbnail.svg",
-  "schematic": "/assets/components/varactor-diode/schematic/symbol.svg"
+  "thumbnail": "/images/components/varactor-diode/varactor-diode-640.webp"
 }

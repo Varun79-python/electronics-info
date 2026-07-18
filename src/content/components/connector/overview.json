@@ -6,6 +6,5 @@
   "whatIsIt": "A connector is a detachable interface that joins circuits, cables, or boards electrically and mechanically.",
   "whyExists": "Connectors allow modular, serviceable connections without soldering each time.",
   "whereUsed": "Used everywhere signals or power must plug in/out.",
-  "thumbnail": "/assets/images/components/connector/thumbnail.svg",
-  "schematic": "/assets/components/connector/schematic/symbol.svg"
+  "thumbnail": "/images/components/connector/connector-640.webp"
 }

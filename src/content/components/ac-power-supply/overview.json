@@ -6,6 +6,5 @@
   "whatIsIt": "An AC power supply provides a controllable alternating-voltage output, either from the mains (via transformer) or synthesized by an inverter/function generator.",
   "whyExists": "Many devices and tests require adjustable AC voltage or frequency, such as motors, lamps, and compliance testing.",
   "whereUsed": "They are used in labs, motor test benches, and variable-speed drives.",
-  "thumbnail": "/assets/images/components/ac-power-supply/thumbnail.svg",
-  "schematic": "/assets/components/ac-power-supply/schematic/symbol.svg"
+  "thumbnail": "/images/components/ac-power-supply/ac-power-supply-640.webp"
 }

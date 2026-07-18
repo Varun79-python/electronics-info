@@ -6,6 +6,5 @@
   "whatIsIt": "A voltage regulator maintains a constant output voltage despite variations in input voltage and load current, using linear or switching techniques.",
   "whyExists": "Regulators protect circuits from supply fluctuations and provide stable reference voltages for reliable operation.",
   "whereUsed": "They are used in virtually every powered electronic device, from phones to industrial systems.",
-  "thumbnail": "/assets/images/components/voltage-regulator/thumbnail.svg",
-  "schematic": "/assets/components/voltage-regulator/schematic/symbol.svg"
+  "thumbnail": "/images/components/voltage-regulator/voltage-regulator-640.webp"
 }

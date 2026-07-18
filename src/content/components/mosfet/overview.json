@@ -6,6 +6,5 @@
   "whatIsIt": "A MOSFET (metal-oxide-semiconductor field-effect transistor) is a voltage-controlled switch/amplifier where the gate voltage creates a conductive channel between source and drain.",
   "whyExists": "MOSFETs offer very high input impedance, fast switching, and low on-resistance, ideal for digital logic and power conversion.",
   "whereUsed": "They are the backbone of microprocessors, power supplies, motor drivers, and switching regulators.",
-  "thumbnail": "/assets/images/components/mosfet/thumbnail.svg",
-  "schematic": "/assets/components/mosfet/schematic/symbol.svg"
+  "thumbnail": "/images/components/mosfet/mosfet-640.webp"
 }

@@ -6,6 +6,5 @@
   "whatIsIt": "An accelerometer measures proper acceleration (including gravity) along one or more axes.",
   "whyExists": "Motion, tilt, and vibration sensing enable phones, stability, and safety systems.",
   "whereUsed": "Used in smartphones, airbags, drones, and game controllers.",
-  "thumbnail": "/assets/images/components/accelerometer/thumbnail.svg",
-  "schematic": "/assets/components/accelerometer/schematic/symbol.svg"
+  "thumbnail": "/images/components/accelerometer/accelerometer-640.webp"
 }

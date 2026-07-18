@@ -6,6 +6,5 @@
   "whatIsIt": "A gas sensor detects the presence and concentration of gases (e.g., CO, methane, VOC).",
   "whyExists": "Gas detection protects life and equipment from toxic or explosive atmospheres.",
   "whereUsed": "Used in alarms, air quality monitors, and industrial safety.",
-  "thumbnail": "/assets/images/components/gas-sensor/thumbnail.svg",
-  "schematic": "/assets/components/gas-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/gas-sensor/gas-sensor-640.webp"
 }

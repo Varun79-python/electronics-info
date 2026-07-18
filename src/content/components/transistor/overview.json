@@ -6,6 +6,5 @@
   "whatIsIt": "A bipolar junction transistor (BJT) is a three-terminal semiconductor device (collector, base, emitter) that amplifies or switches current using a small base current to control a larger collector current.",
   "whyExists": "Transistors enable amplification and electronic switching, the foundation of all modern electronics.",
   "whereUsed": "They are used in amplifiers, switches, audio equipment, power control, and virtually every circuit.",
-  "thumbnail": "/assets/images/components/transistor/thumbnail.svg",
-  "schematic": "/assets/components/transistor/schematic/symbol.svg"
+  "thumbnail": "/images/components/transistor/transistor-640.webp"
 }

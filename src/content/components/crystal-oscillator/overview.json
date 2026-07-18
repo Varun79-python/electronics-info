@@ -6,6 +6,5 @@
   "whatIsIt": "A crystal oscillator uses the mechanical resonance of a piezoelectric quartz crystal to generate a highly stable electrical frequency.",
   "whyExists": "Quartz crystals provide exceptional frequency stability and accuracy, essential for clocks, radios, and digital communication.",
   "whereUsed": "They are the timing heart of microcontrollers, watches, radios, Global Positioning System (GPS), and network equipment.",
-  "thumbnail": "/assets/images/components/crystal-oscillator/thumbnail.svg",
-  "schematic": "/assets/components/crystal-oscillator/schematic/symbol.svg"
+  "thumbnail": "/images/components/crystal-oscillator/crystal-oscillator-640.webp"
 }

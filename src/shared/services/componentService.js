@@ -5,11 +5,7 @@ export function searchComponents(query) {
   if (!q) return []
 
   return Object.values(componentsIndex).filter((c) => {
-    const nameMatch = c.name.toLowerCase().includes(q)
-    const descMatch = c.description.toLowerCase().includes(q)
-    const tagMatch = c.tags.some((t) => t.toLowerCase().includes(q))
-    const idMatch = c.id.toLowerCase().includes(q)
-    return nameMatch || descMatch || tagMatch || idMatch
+    return c.name.toLowerCase().includes(q)
   }).slice(0, 20)
 }
 

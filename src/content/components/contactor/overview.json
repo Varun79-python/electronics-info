@@ -6,6 +6,5 @@
   "whatIsIt": "A contactor is a heavy-duty relay designed to switch large electrical loads, especially high-current AC motors and power circuits.",
   "whyExists": "Contactors safely control high-power equipment from a low-power control signal with isolation.",
   "whereUsed": "They are used in motor starters, HVAC, elevators, and industrial power distribution.",
-  "thumbnail": "/assets/images/components/contactor/thumbnail.svg",
-  "schematic": "/assets/components/contactor/schematic/symbol.svg"
+  "thumbnail": "/images/components/contactor/contactor-640.webp"
 }

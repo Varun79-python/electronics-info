@@ -6,6 +6,5 @@
   "whatIsIt": "A switch is a mechanical device that opens or closes an electrical circuit, interrupting or diverting current flow.",
   "whyExists": "Switches provide manual, reliable control to energize or de-energize circuits safely.",
   "whereUsed": "Used everywhere in lighting, appliances, power tools, and control panels.",
-  "thumbnail": "/assets/images/components/switch/thumbnail.svg",
-  "schematic": "/assets/components/switch/schematic/symbol.svg"
+  "thumbnail": "/images/components/switch/switch-640.webp"
 }

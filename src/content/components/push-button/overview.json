@@ -6,6 +6,5 @@
   "whatIsIt": "A push-button is a momentary switch actuated by pressing a button, returning to rest when released (or latching).",
   "whyExists": "Push-buttons give ergonomic, reliable human input for control and signaling.",
   "whereUsed": "Found on keyboards, doorbells, panels, and industrial controls.",
-  "thumbnail": "/assets/images/components/push-button/thumbnail.svg",
-  "schematic": "/assets/components/push-button/schematic/symbol.svg"
+  "thumbnail": "/images/components/push-button/push-button-640.webp"
 }

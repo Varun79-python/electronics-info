@@ -6,6 +6,5 @@
   "whatIsIt": "A pressure sensor measures pressure (force per area) and converts it to an electrical signal.",
   "whyExists": "Pressure monitoring is vital in industry, automotive, and medical systems.",
   "whereUsed": "Used in tire pressure, industrial tanks, and blood pressure monitors.",
-  "thumbnail": "/assets/images/components/pressure-sensor/thumbnail.svg",
-  "schematic": "/assets/components/pressure-sensor/schematic/symbol.svg"
+  "thumbnail": "/images/components/pressure-sensor/pressure-sensor-640.webp"
 }

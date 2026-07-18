@@ -6,6 +6,5 @@
   "whatIsIt": "A rheostat is a two-terminal variable resistor used to control current by inserting a adjustable resistance in series with a load.",
   "whyExists": "Rheostats provide manual, continuous current control for lamps, motors, and heaters without complex electronics.",
   "whereUsed": "They are used in dimmers, motor speed controls, and laboratory test equipment.",
-  "thumbnail": "/assets/images/components/rheostat/thumbnail.svg",
-  "schematic": "/assets/components/rheostat/schematic/symbol.svg"
+  "thumbnail": "/images/components/rheostat/rheostat-640.webp"
 }

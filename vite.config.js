@@ -9,7 +9,7 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon/*.svg', 'icons/*.svg'],
+      includeAssets: ['favicon/*.png', 'icons/*.png'],
       manifest: {
         name: 'ElectronicsInfo',
         short_name: 'ElectronicsInfo',
@@ -21,17 +21,18 @@ export default defineConfig({
         categories: ['education', 'science', 'technology'],
         start_url: '/',
         icons: [
-          { src: '/icons/icon-192.svg', sizes: '192x192', type: 'image/svg+xml' },
-          { src: '/icons/icon-512.svg', sizes: '512x512', type: 'image/svg+xml' },
+          { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+          { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
         ],
         shortcuts: [
-          { name: 'Browse Components', url: '/categories', icons: [{ src: '/icons/icon-192.svg', sizes: '192x192' }] },
-          { name: 'Bookmarks', url: '/bookmarks', icons: [{ src: '/icons/icon-192.svg', sizes: '192x192' }] },
-          { name: 'Calculator', url: '/calculator', icons: [{ src: '/icons/icon-192.svg', sizes: '192x192' }] },
+          { name: 'Browse Components', url: '/categories', icons: [{ src: '/icons/icon-192.png', sizes: '192x192' }] },
+          { name: 'Bookmarks', url: '/bookmarks', icons: [{ src: '/icons/icon-192.png', sizes: '192x192' }] },
+          { name: 'Calculator', url: '/calculator', icons: [{ src: '/icons/icon-192.png', sizes: '192x192' }] },
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,webp,avif,woff2,json}'],
+        maximumFileSizeToCacheInBytes: 5 * 1024 * 1024, // 5 MB
+        globPatterns: ['**/*.{js,css,html,png,webp,avif,woff2,json}'],
         globIgnores: ['**/node_modules/**/*'],
         runtimeCaching: [
           {
@@ -41,7 +42,7 @@ export default defineConfig({
           },
           // Cache component images: CacheFirst for fast offline access
           {
-            urlPattern: /\/images\/components\/.+\/.+\.(webp|avif)/i,
+            urlPattern: /\/images\/components\/.+\/.+\.(png|webp|avif)/i,
             handler: 'CacheFirst',
             options: {
               cacheName: 'component-images',
@@ -52,24 +53,12 @@ export default defineConfig({
               rangeRequests: true,
             },
           },
-          // Cache image manifest files
+          // Cache flat component images (thumbnail)
           {
-            urlPattern: /\/images\/components\/.+\/manifest\.json/i,
+            urlPattern: /\/images\/components\/.+\.(png|webp|jpg)/i,
             handler: 'CacheFirst',
             options: {
-              cacheName: 'component-manifests',
-              expiration: {
-                maxEntries: 200,
-                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
-              },
-            },
-          },
-          // Cache flat component images (legacy fallback)
-          {
-            urlPattern: /\/images\/components\/.+\.(webp|jpg)/i,
-            handler: 'CacheFirst',
-            options: {
-              cacheName: 'component-images-legacy',
+              cacheName: 'component-images-thumbnails',
               expiration: {
                 maxEntries: 200,
                 maxAgeSeconds: 60 * 60 * 24 * 30,

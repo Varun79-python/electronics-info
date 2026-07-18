@@ -6,6 +6,5 @@
   "whatIsIt": "The 555 timer is a versatile IC for generating pulses, delays, and oscillations.",
   "whyExists": "It provides simple, reliable timing and waveform generation without a microcontroller.",
   "whereUsed": "Used in blinking LEDs, buzzers, and pulse generators.",
-  "thumbnail": "/assets/images/components/555-timer/thumbnail.svg",
-  "schematic": "/assets/components/555-timer/schematic/symbol.svg"
+  "thumbnail": "/images/components/555-timer/555-timer-640.webp"
 }

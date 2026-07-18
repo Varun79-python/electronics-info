@@ -6,6 +6,5 @@
   "whatIsIt": "A thermistor is a temperature-sensitive resistor whose resistance changes significantly with temperature. Most are made from ceramic semiconductors.",
   "whyExists": "Thermistors provide a simple, low-cost way to measure temperature or provide thermal protection and compensation.",
   "whereUsed": "They are used in thermostats, battery chargers, medical devices, and over-temperature cutoffs.",
-  "thumbnail": "/assets/images/components/thermistor/thumbnail.svg",
-  "schematic": "/assets/components/thermistor/schematic/symbol.svg"
+  "thumbnail": "/images/components/thermistor/thermistor-640.webp"
 }

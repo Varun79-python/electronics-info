@@ -6,6 +6,5 @@
   "whatIsIt": "An LDR (light-dependent resistor or photoresistor) changes resistance with incident light intensity.",
   "whyExists": "LDRs give a simple, cheap way to sense ambient light.",
   "whereUsed": "Used in street lights, camera exposure, and night lamps.",
-  "thumbnail": "/assets/images/components/ldr/thumbnail.svg",
-  "schematic": "/assets/components/ldr/schematic/symbol.svg"
+  "thumbnail": "/images/components/ldr/ldr-640.webp"
 }

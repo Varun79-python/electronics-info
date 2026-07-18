@@ -2,6 +2,9 @@ import { Link, useNavigate, useLocation } from 'react-router-dom'
 import { Search, Bookmark, Sun, Moon, Menu, X } from 'lucide-react'
 import { useState, useRef, useEffect } from 'react'
 import useStore from '../../store/useStore'
+import componentsIndex from '../../constants/components'
+import { useDebounce } from '../../hooks'
+import ComponentImage from '../images/ComponentImage'
 import { cn } from '../../utils'
 
 export default function Header() {
@@ -12,12 +15,38 @@ export default function Header() {
   const [searchOpen, setSearchOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState('')
   const searchRef = useRef(null)
+  const dropdownRef = useRef(null)
+  const mobileDropdownRef = useRef(null)
+
+  const debouncedQuery = useDebounce(searchQuery, 200)
+
+  const results = debouncedQuery.trim()
+    ? Object.values(componentsIndex)
+        .filter((c) => c.name.toLowerCase().includes(debouncedQuery.toLowerCase()))
+        .slice(0, 10)
+    : []
+
+  const showDropdown = searchQuery.trim().length > 0 && results.length > 0
 
   useEffect(() => {
     if (searchOpen && searchRef.current) {
       searchRef.current.focus()
     }
   }, [searchOpen])
+
+  // Close dropdown on outside click
+  useEffect(() => {
+    function handleClick(e) {
+      if (
+        dropdownRef.current && !dropdownRef.current.contains(e.target) &&
+        mobileDropdownRef.current && !mobileDropdownRef.current.contains(e.target)
+      ) {
+        // Only close if both are not the target
+      }
+    }
+    document.addEventListener('mousedown', handleClick)
+    return () => document.removeEventListener('mousedown', handleClick)
+  }, [])
 
   const handleSearch = (e) => {
     e.preventDefault()
@@ -26,6 +55,12 @@ export default function Header() {
       setSearchOpen(false)
       setSearchQuery('')
     }
+  }
+
+  const handleSelect = (id) => {
+    navigate(`/component/${id}`)
+    setSearchQuery('')
+    setSearchOpen(false)
   }
 
   const isActive = (path) => location.pathname === path
@@ -82,19 +117,45 @@ export default function Header() {
       {/* Right actions */}
       <div className="flex items-center gap-1">
         {/* Desktop search bar */}
-        <form onSubmit={handleSearch} className="hidden md:flex items-center">
-          <div className="relative">
-            <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-[var(--color-text-muted)]" />
-            <input
-              ref={searchRef}
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search by name..."
-              className="w-40 lg:w-56 pl-9 pr-3 py-1.5 text-sm rounded-[var(--radius-md)] bg-[var(--color-surface)] border border-[var(--color-border)] text-[var(--color-text)] placeholder:text-[var(--color-text-muted)] focus:outline-none focus:border-[var(--color-accent)] transition-colors"
-            />
-          </div>
-        </form>
+        <div ref={dropdownRef} className="hidden md:flex items-center relative">
+          <form onSubmit={handleSearch} className="flex items-center">
+            <div className="relative">
+              <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-[var(--color-text-muted)]" />
+              <input
+                ref={searchRef}
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Search by name..."
+                className="w-40 lg:w-56 pl-9 pr-3 py-1.5 text-sm rounded-[var(--radius-md)] bg-[var(--color-surface)] border border-[var(--color-border)] text-[var(--color-text)] placeholder:text-[var(--color-text-muted)] focus:outline-none focus:border-[var(--color-accent)] transition-colors"
+              />
+            </div>
+          </form>
+          {/* Desktop dropdown */}
+          {showDropdown && (
+            <div className="absolute top-full mt-1 left-0 right-0 bg-[var(--color-surface)] border border-[var(--color-border)] rounded-[var(--radius-md)] shadow-lg overflow-hidden z-50">
+              {results.map((c) => (
+                <button
+                  key={c.id}
+                  onClick={() => handleSelect(c.id)}
+                  className="w-full flex items-center gap-2 px-3 py-2 text-sm text-left hover:bg-[var(--color-elevated)] transition-colors cursor-pointer border-b border-[var(--color-border)] last:border-b-0"
+                >
+                  <div className="w-7 h-7 shrink-0 rounded-[var(--radius-sm)] overflow-hidden border border-[var(--color-border)]">
+                    <ComponentImage
+                      componentId={c.id}
+                      componentName={c.name}
+                      size="sm"
+                      aspectRatio="1/1"
+                      objectFit="cover"
+                    />
+                  </div>
+                  <span className="font-medium truncate">{c.name}</span>
+                  <span className="ml-auto text-[10px] text-[var(--color-text-muted)] capitalize shrink-0">{c.category}</span>
+                </button>
+              ))}
+            </div>
+          )}
+        </div>
 
         {/* Mobile search toggle */}
         <button
@@ -137,20 +198,48 @@ export default function Header() {
 
       {/* Mobile search bar */}
       {searchOpen && (
-        <div className="absolute top-16 left-0 right-0 p-3 bg-[var(--color-bg)] border-b border-[var(--color-border)] md:hidden animate-slide-down">
-          <form onSubmit={handleSearch} className="flex gap-2">
-            <input
-              ref={searchRef}
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search components..."
-              className="flex-1 px-3 py-2 text-sm rounded-[var(--radius-md)] bg-[var(--color-surface)] border border-[var(--color-border)] text-[var(--color-text)] placeholder:text-[var(--color-text-muted)] focus:outline-none focus:border-[var(--color-accent)]"
-            />
-            <button type="submit" className="px-3 py-2 rounded-[var(--radius-md)] bg-[var(--color-accent)] text-white text-sm cursor-pointer font-medium">
-              Go
-            </button>
-          </form>
+        <div ref={mobileDropdownRef} className="absolute top-16 left-0 right-0 bg-[var(--color-bg)] border-b border-[var(--color-border)] md:hidden animate-slide-down">
+          <div className="p-3">
+            <form onSubmit={handleSearch} className="flex gap-2">
+              <div className="relative flex-1">
+                <input
+                  ref={searchRef}
+                  type="text"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder="Search by name..."
+                  className="w-full px-3 py-2 text-sm rounded-[var(--radius-md)] bg-[var(--color-surface)] border border-[var(--color-border)] text-[var(--color-text)] placeholder:text-[var(--color-text-muted)] focus:outline-none focus:border-[var(--color-accent)]"
+                />
+              </div>
+              <button type="submit" className="px-3 py-2 rounded-[var(--radius-md)] bg-[var(--color-accent)] text-white text-sm cursor-pointer font-medium">
+                Go
+              </button>
+            </form>
+            {/* Mobile dropdown */}
+            {showDropdown && (
+              <div className="mt-1 bg-[var(--color-surface)] border border-[var(--color-border)] rounded-[var(--radius-md)] shadow-lg overflow-hidden">
+                {results.map((c) => (
+                  <button
+                    key={c.id}
+                    onClick={() => handleSelect(c.id)}
+                    className="w-full flex items-center gap-2 px-3 py-2 text-sm text-left hover:bg-[var(--color-elevated)] transition-colors cursor-pointer border-b border-[var(--color-border)] last:border-b-0"
+                  >
+                    <div className="w-7 h-7 shrink-0 rounded-[var(--radius-sm)] overflow-hidden border border-[var(--color-border)]">
+                      <ComponentImage
+                        componentId={c.id}
+                        componentName={c.name}
+                        size="sm"
+                        aspectRatio="1/1"
+                        objectFit="cover"
+                      />
+                    </div>
+                    <span className="font-medium truncate">{c.name}</span>
+                    <span className="ml-auto text-[10px] text-[var(--color-text-muted)] capitalize shrink-0">{c.category}</span>
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
         </div>
       )}
     </header>
